@@ -1,0 +1,597 @@
+Hawaii-Aleutian-sommertid: America/Atka
+Surinam-tid: America/Paramaribo
+Turkmensk normaltid: Asia/Ashkhabad
+Nepalesisk tid: Asia/Katmandu
+GMT+12:00: Etc/GMT-12
+Atlantic-normaltid: America/St_Barthelemy
+Krasnojarsk-normaltid: Asia/Krasnoyarsk
+Centraleuropæisk sommertid: Europe/Brussels
+Volgograd-normaltid: Europe/Volgograd
+Mountain-sommertid: America/Denver
+Brasiliansk normaltid: America/Fortaleza
+Centraleuropæisk sommertid: Europe/Podgorica
+South Georgia-tid: Atlantic/South_Georgia
+Vestafrikansk normaltid: Africa/Ndjamena
+Eastern-sommertid: America/Nassau
+Bangladesh-normaltid: Asia/Dhaka
+Paraguayansk normaltid: America/Asuncion
+Atlantic-normaltid: America/Blanc-Sablon
+Central-sommertid: America/Indiana/Knox
+Bangladesh-normaltid: Asia/Dacca
+Østaustralsk normaltid: Antarctica/Macquarie
+Moskva-normaltid: Europe/Moscow
+Koordineret universaltid: UTC
+Koreansk normaltid: Asia/Seoul
+Østeuropæisk sommertid: Europe/Riga
+Centralafrikansk tid: Africa/Blantyre
+Argentinsk normaltid: America/Argentina/Salta
+Argentinsk normaltid: America/Argentina/Buenos_Aires
+Centraleuropæisk normaltid: Africa/Algiers
+Østaustralsk normaltid: Australia/Tasmania
+Central-sommertid: US/Indiana-Starke
+Samoansk normaltid: Pacific/Midway
+Mountain-sommertid: America/Ciudad_Juarez
+GMT-10:00: HST
+GMT+11:00: Asia/Srednekolymsk
+Østaustralsk normaltid: Australia/Hobart
+Atlantic-sommertid: Atlantic/Bermuda
+Koordineret universaltid: Etc/UCT
+Franske Sydlige og Antarktiske Territorier-tid: Indian/Kerguelen
+Vesteuropæisk sommertid: Atlantic/Faroe
+Amazonas-normaltid: America/Campo_Grande
+Lord Howe-normaltid: Australia/LHI
+Mauritius-normaltid: Indian/Mauritius
+GMT+02:00: CET
+Østeuropæisk normaltid: Libya
+GMT-07:00: Etc/GMT+7
+GMT+08:00: Etc/GMT-8
+GMT: Atlantic/St_Helena
+Ponape-tid: Pacific/Pohnpei
+GMT-01:00: Etc/GMT+1
+Østeuropæisk sommertid: Europe/Kyiv
+GMT+05:00: Etc/GMT-5
+Reunion-tid: Indian/Reunion
+GMT-03:00: Antarctica/Palmer
+Central-normaltid: America/Bahia_Banderas
+Argentinsk normaltid: America/Jujuy
+Jakutsk-normaltid: Asia/Chita
+Mountain-sommertid: US/Mountain
+Krasnojarsk-normaltid: Asia/Novokuznetsk
+GMT+06:00: Etc/GMT-6
+Østaustralsk normaltid: Australia/Currie
+Nepalesisk tid: Asia/Kathmandu
+Newfoundlandsk sommertid: America/St_Johns
+Vestkasakhstansk tid: Asia/Aqtobe
+GMT: GMT+0
+GMT+04:00: Europe/Astrakhan
+GMT+01:00: Europe/Guernsey
+Atlantic-normaltid: America/Martinique
+Eastern-sommertid: US/East-Indiana
+Centraleuropæisk sommertid: Arctic/Longyearbyen
+Central-normaltid: America/Mexico_City
+Argentinsk normaltid: America/Argentina/ComodRivadavia
+Pacific-sommertid: Canada/Pacific
+GMT+08:00: Antarctica/Casey
+Centralafrikansk tid: Africa/Bujumbura
+Acre-normaltid: America/Eirunepe
+Japansk normaltid: Asia/Tokyo
+Centraleuropæisk sommertid: Europe/Bratislava
+Østaustralsk normaltid: Australia/Melbourne
+Eastern-normaltid: America/Panama
+Østeuropæisk sommertid: Asia/Beirut
+Østafrikansk tid: Indian/Antananarivo
+Usbekisk normaltid: Asia/Samarkand
+Peruviansk normaltid: America/Lima
+Atlantic-normaltid: America/St_Thomas
+Vestindonesisk tid: Asia/Pontianak
+Mexicansk Pacific-normaltid: Mexico/BajaSur
+GMT: Etc/GMT
+Vestafrikansk normaltid: Africa/Luanda
+Atlantic-normaltid: America/St_Lucia
+Atlantic-normaltid: America/Barbados
+Sydafrikansk tid: Africa/Maseru
+Mexicansk Pacific-normaltid: America/Mazatlan
+Marquesas-tid: Pacific/Marquesas
+Eastern-sommertid: America/Thunder_Bay
+Amazonas-normaltid: America/Cuiaba
+Marshalløerne-tid: Pacific/Majuro
+Østafrikansk tid: Africa/Addis_Ababa
+Newzealandsk normaltid: Antarctica/McMurdo
+Centraleuropæisk sommertid: Europe/Warsaw
+Central-sommertid: America/Knox_IN
+Marshalløerne-tid: Pacific/Kwajalein
+Amazonas-normaltid: Brazil/West
+GMT+03:00: Etc/GMT-3
+Atlantic-normaltid: America/St_Vincent
+Atlantic-normaltid: America/Marigot
+Taipei-normaltid: Asia/Taipei
+Eastern-sommertid: US/Eastern
+Marshalløerne-tid: Kwajalein
+Argentinsk normaltid: America/Argentina/Jujuy
+GMT-05:00: Etc/GMT+5
+Centraleuropæisk sommertid: Europe/Zagreb
+Eastern-sommertid: America/Port-au-Prince
+Centralaustralsk normaltid: Australia/North
+GMT: GMT
+Centraleuropæisk normaltid: Africa/Tunis
+Afghansk tid: Asia/Kabul
+Alaska-sommertid: America/Juneau
+GMT+07:00: Asia/Tomsk
+Sydafrikansk tid: Africa/Mbabane
+Vestafrikansk normaltid: Africa/Porto-Novo
+Golflandene-normaltid: Asia/Muscat
+Argentinsk normaltid: America/Argentina/San_Luis
+Vestlig centralaustralsk normaltid: Australia/Eucla
+Atlantic-normaltid: America/Anguilla
+Centraleuropæisk sommertid: Europe/Gibraltar
+Centraleuropæisk sommertid: Europe/Prague
+Østeuropæisk sommertid: Europe/Zaporozhye
+Koreansk normaltid: Asia/Pyongyang
+Centraleuropæisk sommertid: Europe/Zurich
+Vestkasakhstansk tid: Asia/Atyrau
+Eastern-sommertid: America/Indiana/Vincennes
+Argentinsk normaltid: America/Argentina/Catamarca
+Centraleuropæisk sommertid: Europe/Stockholm
+Koordineret universaltid: Etc/UTC
+Vestafrikansk normaltid: Africa/Lagos
+Argentinsk normaltid: America/Argentina/La_Rioja
+Golflandene-normaltid: Asia/Dubai
+Ulan Bator-normaltid: Asia/Ulaanbaatar
+Fernando de Noronha-normaltid: Brazil/DeNoronha
+GMT: Africa/Bissau
+Georgisk normaltid: Asia/Tbilisi
+Atlantic-normaltid: America/St_Kitts
+Vestafrikansk normaltid: Africa/Douala
+Atlantic-sommertid: America/Goose_Bay
+Eastern-sommertid: America/Indianapolis
+Centraleuropæisk sommertid: Europe/Rome
+Hawaii-Aleutian-normaltid: Pacific/Johnston
+Østeuropæisk sommertid: Asia/Hebron
+Østaustralsk normaltid: Australia/Victoria
+Central-sommertid: CST6CDT
+Eastern-sommertid: US/Michigan
+Vladivostok-normaltid: Asia/Vladivostok
+Sydafrikansk tid: Africa/Johannesburg
+GMT+03:00: Asia/Famagusta
+Israelsk sommertid: Israel
+Chuuk-tid: Pacific/Yap
+GMT-09:00: Etc/GMT+9
+Centralafrikansk tid: Africa/Khartoum
+Samara-normaltid: Europe/Samara
+Wallis og Futuna-tid: Pacific/Wallis
+Vostok-tid: Antarctica/Vostok
+Galapagos-tid: Pacific/Galapagos
+Boliviansk tid: America/La_Paz
+Atlantic-normaltid: America/Port_of_Spain
+Eastern-normaltid: America/Coral_Harbour
+Central-sommertid: America/North_Dakota/Center
+Mountain-normaltid: America/Creston
+Atlantic-normaltid: America/Grenada
+GMT+01:00: Europe/Jersey
+Chamorro-tid: Pacific/Saipan
+Eastern-normaltid: Jamaica
+Atlantic-normaltid: America/Lower_Princes
+Koordineret universaltid: Etc/Zulu
+Ponape-tid: Pacific/Ponape
+Samoansk normaltid: Pacific/Pago_Pago
+Østeuropæisk sommertid: Africa/Cairo
+Centraleuropæisk sommertid: Europe/Budapest
+GMT-10:00: Etc/GMT+10
+Centraleuropæisk sommertid: Europe/Tirane
+Centraleuropæisk sommertid: Europe/Belgrade
+Central-normaltid: America/El_Salvador
+Central-sommertid: America/Menominee
+Britisk sommertid: GB-Eire
+Hawaii-Aleutian-normaltid: US/Hawaii
+Aserbajdsjansk normaltid: Asia/Baku
+Vestafrikansk normaltid: Africa/Brazzaville
+Juleøen-normaltid: Indian/Christmas
+GMT+02:00: Antarctica/Troll
+Vestgrønlandsk sommertid: America/Nuuk
+Vesteuropæisk sommertid: Atlantic/Madeira
+Turkmensk normaltid: Asia/Ashgabat
+GMT: Etc/GMT-0
+GMT: Africa/Timbuktu
+GMT+07:00: Etc/GMT-7
+GMT+06:00: Asia/Urumqi
+Østaustralsk normaltid: Australia/Brisbane
+Hongkong-normaltid: Hongkong
+Mountain-normaltid: America/Phoenix
+GMT: Africa/Bamako
+Taipei-normaltid: ROC
+Central-normaltid: America/Costa_Rica
+Tadsjikisk tid: Asia/Dushanbe
+Hawaii-Aleutian-sommertid: America/Adak
+Niue-tid: Pacific/Niue
+GMT+03:00: Europe/Istanbul
+Kinesisk normaltid: Asia/Macau
+Brasiliansk normaltid: America/Belem
+Central-sommertid: America/North_Dakota/New_Salem
+Central-normaltid: America/Monterrey
+Atlantic-normaltid: America/Montserrat
+Japansk normaltid: Japan
+Østeuropæisk normaltid: Europe/Kaliningrad
+Argentinsk normaltid: America/Argentina/Rio_Gallegos
+Central-normaltid: America/Regina
+GMT: Africa/Freetown
+Armensk normaltid: Asia/Yerevan
+Britisk sommertid: Europe/Belfast
+Østeuropæisk normaltid: Africa/Tripoli
+Ulan Bator-normaltid: Asia/Ulan_Bator
+Syowa-tid: Antarctica/Syowa
+Argentinsk normaltid: America/Catamarca
+Østaustralsk normaltid: Australia/Lindeman
+Central-sommertid: US/Central
+Argentinsk normaltid: America/Argentina/San_Juan
+Yukon-tid: America/Whitehorse
+GMT: Africa/Banjul
+GMT+01:00: Africa/El_Aaiun
+Mountain-sommertid: America/Cambridge_Bay
+Atlantic-normaltid: America/Antigua
+Linjeøerne-tid: Pacific/Kiritimati
+Arabisk normaltid: Asia/Aden
+Eastern-sommertid: America/Louisville
+Alaska-sommertid: America/Sitka
+Østeuropæisk sommertid: Europe/Uzhgorod
+Ny Kaledonien-normaltid: Pacific/Noumea
+Østeuropæisk sommertid: Europe/Kiev
+Østaustralsk normaltid: Australia/NSW
+Central-sommertid: America/Resolute
+GMT: GMT0
+Vestaustralsk normaltid: Australia/Perth
+Moskva-normaltid: Europe/Simferopol
+Centralaustralsk normaltid: Australia/Broken_Hill
+Vanuatu-normaltid: Pacific/Efate
+Vesteuropæisk sommertid: Atlantic/Canary
+Tahiti-tid: Pacific/Tahiti
+Centraleuropæisk sommertid: Europe/Copenhagen
+Alaska-sommertid: America/Metlakatla
+Britisk sommertid: Europe/London
+GMT-12:00: Etc/GMT+12
+Centralindonesisk tid: Asia/Makassar
+Mexicansk Pacific-normaltid: America/Hermosillo
+Atlantic-sommertid: America/Moncton
+Indiske Ocean-normaltid: Indian/Chagos
+Vesteuropæisk sommertid: Portugal
+Centraleuropæisk sommertid: Europe/Monaco
+Hawaii-Aleutian-normaltid: Pacific/Honolulu
+GMT+02:00: Etc/GMT-2
+Indokina-tid: Asia/Ho_Chi_Minh
+Cookøerne-normaltid: Pacific/Rarotonga
+Eastern-sommertid: America/Pangnirtung
+Acre-normaltid: America/Porto_Acre
+GMT: Africa/Monrovia
+GMT: Etc/Greenwich
+Norfolk Island-normaltid: Pacific/Norfolk
+Chuuk-tid: Pacific/Truk
+GMT-07:00: MST
+Central-sommertid: America/Ojinaga
+Kinesisk normaltid: Asia/Chungking
+Vesteuropæisk sommertid: Europe/Lisbon
+Østeuropæisk sommertid: Europe/Vilnius
+Alaska-sommertid: America/Yakutat
+Pacific-sommertid: America/Ensenada
+Nauru-tid: Pacific/Nauru
+Østeuropæisk sommertid: Europe/Chisinau
+GMT+03:00: Europe/Kirov
+Centraleuropæisk sommertid: Europe/Oslo
+Brasiliansk normaltid: America/Bahia
+Indisk normaltid: Asia/Kolkata
+GMT+04:00: Europe/Ulyanovsk
+Mountain-sommertid: Canada/Mountain
+Centraleuropæisk sommertid: Europe/Luxembourg
+GMT: Africa/Conakry
+Argentinsk normaltid: America/Argentina/Tucuman
+Kirgisisk tid: Asia/Bishkek
+Anadyr-normaltid: Asia/Anadyr
+Moskva-normaltid: Europe/Minsk
+Østgrønlandsk sommertid: America/Scoresbysund
+Centraleuropæisk sommertid: Europe/Paris
+Central-normaltid: America/Chihuahua
+Fijiansk normaltid: Pacific/Fiji
+Myanmar-tid: Asia/Yangon
+Chilensk normaltid: America/Santiago
+Indokina-tid: Asia/Vientiane
+Atlantic-normaltid: America/Kralendijk
+Centralafrikansk tid: Africa/Juba
+Tongansk normaltid: Pacific/Tongatapu
+Irkutsk-normaltid: Asia/Irkutsk
+GMT+06:00: Asia/Kashgar
+Chatham-normaltid: NZ-CHAT
+Kinesisk normaltid: PRC
+Arabisk normaltid: Asia/Kuwait
+Bhutan-tid: Asia/Thimbu
+Centraleuropæisk sommertid: Europe/Busingen
+Atlantic-sommertid: America/Glace_Bay
+Central-normaltid: America/Belize
+Indisk normaltid: Asia/Calcutta
+Singapore-tid: Asia/Singapore
+Arabisk normaltid: Asia/Baghdad
+Singapore-tid: Singapore
+Østeuropæisk sommertid: Asia/Nicosia
+GMT: Atlantic/Reykjavik
+Argentinsk normaltid: America/Buenos_Aires
+Mountain-sommertid: America/Boise
+Israelsk sommertid: Asia/Jerusalem
+GMT: Africa/Ouagadougou
+Påskeøen-normaltid: Pacific/Easter
+Hongkong-normaltid: Asia/Hong_Kong
+GMT-03:00: Etc/GMT+3
+Uruguayansk normaltid: America/Montevideo
+Wake Island-tid: Pacific/Wake
+Ecuadoriansk tid: America/Guayaquil
+Central-sommertid: America/Winnipeg
+Mountain-normaltid: US/Arizona
+Atlantic-normaltid: America/Virgin
+Central-normaltid: Canada/Saskatchewan
+GMT+04:00: Etc/GMT-4
+GMT+03:00: Turkey
+Atlantic-normaltid: America/Guadeloupe
+Centralafrikansk tid: Africa/Windhoek
+Brasiliansk normaltid: Brazil/East
+Mountain-sommertid: Navajo
+Indisk normaltid: Asia/Colombo
+GMT-05:00: EST
+Central-sommertid: America/North_Dakota/Beulah
+Tokelau-tid: Pacific/Fakaofo
+Myanmar-tid: Asia/Rangoon
+Østeuropæisk sommertid: Europe/Mariehamn
+Atlantic-normaltid: America/Santo_Domingo
+Newzealandsk normaltid: NZ
+GMT: Etc/GMT+0
+Brasiliansk normaltid: America/Araguaina
+Atlantic-normaltid: America/Aruba
+Østeuropæisk sommertid: Europe/Helsinki
+Tuvalu-tid: Pacific/Funafuti
+Eastern-normaltid: America/Jamaica
+Eastern-sommertid: America/Indiana/Vevay
+Central-normaltid: America/Swift_Current
+Argentinsk normaltid: America/Argentina/Mendoza
+Indokina-tid: Asia/Saigon
+Alaska-sommertid: America/Nome
+Østafrikansk tid: Africa/Dar_es_Salaam
+GMT+13:00: Etc/GMT-13
+Eastern-sommertid: America/Nipigon
+Mountain-sommertid: America/Yellowknife
+Vestafrikansk normaltid: Africa/Malabo
+Gilbertøerne-tid: Pacific/Tarawa
+Brasiliansk normaltid: America/Maceio
+Koordineret universaltid: Zulu
+Vestkasakhstansk tid: Asia/Oral
+Centraleuropæisk sommertid: Europe/Vatican
+Argentinsk normaltid: America/Mendoza
+Central-sommertid: America/Rankin_Inlet
+Britisk sommertid: GB
+Centraleuropæisk sommertid: Poland
+Centraleuropæisk sommertid: Europe/Amsterdam
+Østeuropæisk sommertid: Asia/Gaza
+Bhutan-tid: Asia/Thimphu
+Pacific-sommertid: US/Pacific
+Vesteuropæisk sommertid: Atlantic/Faeroe
+Saint Pierre- og Miquelon-sommertid: America/Miquelon
+Centralaustralsk normaltid: Australia/Darwin
+Vladivostok-normaltid: Asia/Ust-Nera
+Vestgrønlandsk sommertid: America/Godthab
+Arabisk normaltid: Asia/Riyadh
+Amazonas-normaltid: America/Boa_Vista
+Cubansk sommertid: Cuba
+GMT: GMT-0
+Mountain-normaltid: America/Fort_Nelson
+Filippinsk normaltid: Asia/Manila
+Acre-normaltid: America/Rio_Branco
+Central-sommertid: America/Indiana/Tell_City
+Vestkasakhstansk tid: Asia/Qyzylorda
+Centraleuropæisk sommertid: Europe/Sarajevo
+GMT+03:00: EET
+Moskva-normaltid: W-SU
+Østkasakhstansk tid: Asia/Almaty
+Østafrikansk tid: Indian/Comoro
+Østindonesisk tid: Asia/Jayapura
+Eastern-sommertid: America/Grand_Turk
+Apia-normaltid: Pacific/Apia
+Guyana-tid: America/Guyana
+GMT+01:00: Etc/GMT-1
+Seychellisk tid: Indian/Mahe
+Fransk Guyana-tid: America/Cayenne
+GMT+14:00: Etc/GMT-14
+Magadan-normaltid: Asia/Magadan
+Østaustralsk normaltid: Australia/Queensland
+Pacific-sommertid: America/Los_Angeles
+Iransk normaltid: Iran
+GMT+09:00: Etc/GMT-9
+GMT+01:00: WET
+Centraleuropæisk sommertid: Atlantic/Jan_Mayen
+Vestkasakhstansk tid: Asia/Aqtau
+Central-sommertid: Canada/Central
+Cocosøerne-normaltid: Indian/Cocos
+Mountain-sommertid: America/Shiprock
+Centraleuropæisk sommertid: Africa/Ceuta
+Østkasakhstansk tid: Asia/Qostanay
+Arabisk normaltid: Asia/Bahrain
+Vestafrikansk normaltid: Africa/Niamey
+GMT-03:00: America/Punta_Arenas
+Arabisk normaltid: Asia/Qatar
+Newzealandsk normaltid: Pacific/Auckland
+Påskeøen-normaltid: Chile/EasterIsland
+Pakistansk normaltid: Asia/Karachi
+Israelsk sommertid: Asia/Tel_Aviv
+Kosrae-tid: Pacific/Kosrae
+GMT: Africa/Accra
+Kinesisk normaltid: Asia/Chongqing
+Centralaustralsk normaltid: Australia/Adelaide
+Eastern-sommertid: America/Detroit
+Østeuropæisk sommertid: Europe/Sofia
+Vestindonesisk tid: Asia/Jakarta
+Atlantic-normaltid: America/Tortola
+Central-normaltid: America/Merida
+Centralafrikansk tid: Africa/Lubumbashi
+Phoenixøen-tid: Pacific/Enderbury
+Central-normaltid: Mexico/General
+Brunei Darussalam-tid: Asia/Brunei
+Central-sommertid: America/Matamoros
+Yukon-tid: America/Dawson
+Samoansk normaltid: Pacific/Samoa
+Cubansk sommertid: America/Havana
+Mawson-tid: Antarctica/Mawson
+Central-sommertid: America/Chicago
+Kinesisk normaltid: Asia/Macao
+Pacific-sommertid: America/Santa_Isabel
+Alaska-sommertid: America/Anchorage
+Østaustralsk normaltid: Australia/Canberra
+GMT: Africa/Sao_Tome
+Azorerne-sommertid: Atlantic/Azores
+GMT-08:00: Etc/GMT+8
+Colombiansk normaltid: America/Bogota
+GMT: Etc/GMT0
+Østeuropæisk sommertid: Europe/Bucharest
+Argentinsk normaltid: America/Rosario
+Centralaustralsk normaltid: Australia/South
+Østafrikansk tid: Africa/Djibouti
+Iransk normaltid: Asia/Tehran
+Østafrikansk tid: Africa/Asmera
+Østafrikansk tid: Africa/Mogadishu
+Amazonas-normaltid: America/Porto_Velho
+Mountain-sommertid: America/Inuvik
+Yukon-tid: Canada/Yukon
+Centraleuropæisk sommertid: Europe/Madrid
+GMT+03:00: Asia/Amman
+Chilensk normaltid: Chile/Continental
+Eastern-sommertid: America/Fort_Wayne
+Palau-tid: Pacific/Palau
+GMT: Africa/Lome
+Novosibirsk-normaltid: Asia/Novosibirsk
+Centralafrikansk tid: Africa/Gaborone
+Vestafrikansk normaltid: Africa/Bangui
+Koordineret universaltid: Etc/Universal
+Vestaustralsk normaltid: Australia/West
+Centralafrikansk tid: Africa/Maputo
+Central-sommertid: America/Rainy_River
+Usbekisk normaltid: Asia/Tashkent
+Eastern-sommertid: Canada/Eastern
+Koordineret universaltid: Universal
+GMT+00:00: Factory
+Østafrikansk tid: Africa/Nairobi
+Samoansk normaltid: US/Samoa
+Argentinsk normaltid: America/Argentina/Ushuaia
+Newfoundlandsk sommertid: Canada/Newfoundland
+GMT: Iceland
+Dumont-d’Urville-tid: Antarctica/DumontDUrville
+Centraleuropæisk sommertid: Europe/Vienna
+Mountain-sommertid: America/Edmonton
+Eastern-sommertid: America/Iqaluit
+Malaysia-tid: Asia/Kuching
+GMT: America/Danmarkshavn
+Newzealandsk normaltid: Antarctica/South_Pole
+Pitcairn-tid: Pacific/Pitcairn
+Vestafrikansk normaltid: Africa/Kinshasa
+Ulan Bator-normaltid: Asia/Choibalsan
+Fernando de Noronha-normaltid: America/Noronha
+Centraleuropæisk sommertid: Europe/Andorra
+Acre-normaltid: Brazil/Acre
+GMT+02:00: MET
+Eastern-normaltid: America/Cancun
+Sakhalin-normaltid: Asia/Sakhalin
+Central-normaltid: America/Guatemala
+Kinesisk normaltid: Asia/Harbin
+Argentinsk normaltid: America/Argentina/Cordoba
+GMT: Greenwich
+Koordineret universaltid: UCT
+Gambier-tid: Pacific/Gambier
+Mountain-normaltid: America/Dawson_Creek
+Eastern-sommertid: America/Indiana/Marengo
+Østaustralsk normaltid: Australia/Sydney
+GMT+10:00: Etc/GMT-10
+Vestafrikansk normaltid: Africa/Libreville
+Jekaterinburg-normaltid: Asia/Yekaterinburg
+GMT+03:00: Asia/Damascus
+Østaustralsk normaltid: Australia/ACT
+Central-normaltid: America/Managua
+Koreansk normaltid: ROK
+GMT: Africa/Abidjan
+GMT: Africa/Nouakchott
+Østtimor-tid: Asia/Dili
+Kap Verde-normaltid: Atlantic/Cape_Verde
+GMT+04:00: Europe/Saratov
+Chatham-normaltid: Pacific/Chatham
+Atlantic-sommertid: America/Thule
+Centralafrikansk tid: Africa/Kigali
+Eastern-sommertid: America/Indiana/Petersburg
+Eastern-normaltid: America/Atikokan
+Central-normaltid: America/Tegucigalpa
+GMT: Eire
+Phoenixøen-tid: Pacific/Kanton
+Atlantic-sommertid: America/Halifax
+Alaska-sommertid: US/Alaska
+Indokina-tid: Asia/Bangkok
+Østafrikansk tid: Indian/Mayotte
+Eastern-normaltid: America/Cayman
+Atlantic-normaltid: America/Dominica
+Eastern-sommertid: America/Indiana/Indianapolis
+GMT+11:00: Etc/GMT-11
+Rothera-tid: Antarctica/Rothera
+Maldiverne-tid: Indian/Maldives
+Østafrikansk tid: Africa/Asmara
+GMT+01:00: Africa/Casablanca
+Eastern-sommertid: America/New_York
+Eastern-sommertid: America/Toronto
+Østeuropæisk sommertid: Europe/Tiraspol
+GMT+11:00: Pacific/Bougainville
+Eastern-sommertid: America/Kentucky/Monticello
+GMT-02:00: Etc/GMT+2
+Lord Howe-normaltid: Australia/Lord_Howe
+Østeuropæisk sommertid: Europe/Athens
+Centralaustralsk normaltid: Australia/Yancowinna
+Falklandsøerne-normaltid: Atlantic/Stanley
+Pacific-sommertid: America/Tijuana
+Jakutsk-normaltid: Asia/Khandyga
+Brasiliansk normaltid: America/Santarem
+Chuuk-tid: Pacific/Chuuk
+Indokina-tid: Asia/Phnom_Penh
+GMT+01:00: Europe/Isle_of_Man
+Centraleuropæisk sommertid: Europe/Skopje
+Amazonas-normaltid: America/Manaus
+Mountain-sommertid: MST7MDT
+Salomonøerne-tid: Pacific/Guadalcanal
+Malaysia-tid: Asia/Kuala_Lumpur
+Centralafrikansk tid: Africa/Harare
+Pacific-sommertid: Mexico/BajaNorte
+GMT-04:00: Etc/GMT+4
+Davis-tid: Antarctica/Davis
+Østeuropæisk sommertid: Egypt
+Venezuelansk tid: America/Caracas
+Brasiliansk normaltid: America/Sao_Paulo
+Brasiliansk normaltid: America/Recife
+Centraleuropæisk sommertid: Europe/Berlin
+Petropavlovsk-Kamchatski normaltid: Asia/Kamchatka
+Hawaii-Aleutian-sommertid: US/Aleutian
+GMT: Africa/Dakar
+Jakutsk-normaltid: Asia/Yakutsk
+Centralafrikansk tid: Africa/Lusaka
+GMT: Europe/Dublin
+Centraleuropæisk sommertid: Europe/Vaduz
+Hovd-normaltid: Asia/Hovd
+Centraleuropæisk sommertid: Europe/Ljubljana
+Centraleuropæisk sommertid: Europe/San_Marino
+Eastern-sommertid: America/Kentucky/Louisville
+Kinesisk normaltid: Asia/Shanghai
+Eastern-sommertid: America/Montreal
+GMT+07:00: Asia/Barnaul
+Chamorro-tid: Pacific/Guam
+Pacific-sommertid: PST8PDT
+Papua Ny Guinea-tid: Pacific/Port_Moresby
+Østafrikansk tid: Africa/Kampala
+Østeuropæisk sommertid: Europe/Nicosia
+Pacific-sommertid: America/Vancouver
+Centraleuropæisk sommertid: Europe/Malta
+Atlantic-normaltid: America/Puerto_Rico
+Atlantic-sommertid: Canada/Atlantic
+GMT-06:00: Etc/GMT+6
+Eastern-sommertid: EST5EDT
+Atlantic-normaltid: America/Curacao
+GMT+03:00: Asia/Istanbul
+Centralindonesisk tid: Asia/Ujung_Pandang
+Eastern-sommertid: America/Indiana/Winamac
+Omsk-normaltid: Asia/Omsk
+Østeuropæisk sommertid: Europe/Tallinn
+Argentinsk normaltid: America/Cordoba
+GMT-11:00: Etc/GMT+11

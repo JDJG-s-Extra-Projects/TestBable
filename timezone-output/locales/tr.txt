@@ -1,0 +1,597 @@
+Hawaii-Aleut Yaz Saati: America/Atka
+Surinam Saati: America/Paramaribo
+Türkmenistan Standart Saati: Asia/Ashkhabad
+Nepal Saati: Asia/Katmandu
+GMT+12:00: Etc/GMT-12
+Atlantik Standart Saati: America/St_Barthelemy
+Krasnoyarsk Standart Saati: Asia/Krasnoyarsk
+Orta Avrupa Yaz Saati: Europe/Brussels
+Volgograd Standart Saati: Europe/Volgograd
+Kuzey Amerika Dağ Yaz Saati: America/Denver
+Brasilia Standart Saati: America/Fortaleza
+Orta Avrupa Yaz Saati: Europe/Podgorica
+Güney Georgia Saati: Atlantic/South_Georgia
+Batı Afrika Standart Saati: Africa/Ndjamena
+Kuzey Amerika Doğu Yaz Saati: America/Nassau
+Bangladeş Standart Saati: Asia/Dhaka
+Paraguay Standart Saati: America/Asuncion
+Atlantik Standart Saati: America/Blanc-Sablon
+Kuzey Amerika Merkezi Yaz Saati: America/Indiana/Knox
+Bangladeş Standart Saati: Asia/Dacca
+Doğu Avustralya Standart Saati: Antarctica/Macquarie
+Moskova Standart Saati: Europe/Moscow
+Eş Güdümlü Evrensel Zaman: UTC
+Kore Standart Saati: Asia/Seoul
+Doğu Avrupa Yaz Saati: Europe/Riga
+Orta Afrika Saati: Africa/Blantyre
+Arjantin Standart Saati: America/Argentina/Salta
+Arjantin Standart Saati: America/Argentina/Buenos_Aires
+Orta Avrupa Standart Saati: Africa/Algiers
+Doğu Avustralya Standart Saati: Australia/Tasmania
+Kuzey Amerika Merkezi Yaz Saati: US/Indiana-Starke
+Samoa Standart Saati: Pacific/Midway
+Kuzey Amerika Dağ Yaz Saati: America/Ciudad_Juarez
+GMT-10:00: HST
+GMT+11:00: Asia/Srednekolymsk
+Doğu Avustralya Standart Saati: Australia/Hobart
+Atlantik Yaz Saati: Atlantic/Bermuda
+Eş Güdümlü Evrensel Zaman: Etc/UCT
+Fransız Güney ve Antarktika Saati: Indian/Kerguelen
+Batı Avrupa Yaz Saati: Atlantic/Faroe
+Amazon Standart Saati: America/Campo_Grande
+Lord Howe Standart Saati: Australia/LHI
+Mauritius Standart Saati: Indian/Mauritius
+GMT+02:00: CET
+Doğu Avrupa Standart Saati: Libya
+GMT-07:00: Etc/GMT+7
+GMT+08:00: Etc/GMT-8
+Greenwich Ortalama Saati: Atlantic/St_Helena
+Ponape Saati: Pacific/Pohnpei
+GMT-01:00: Etc/GMT+1
+Doğu Avrupa Yaz Saati: Europe/Kyiv
+GMT+05:00: Etc/GMT-5
+Reunion Saati: Indian/Reunion
+GMT-03:00: Antarctica/Palmer
+Kuzey Amerika Merkezi Standart Saati: America/Bahia_Banderas
+Arjantin Standart Saati: America/Jujuy
+Yakutsk Standart Saati: Asia/Chita
+Kuzey Amerika Dağ Yaz Saati: US/Mountain
+Krasnoyarsk Standart Saati: Asia/Novokuznetsk
+GMT+06:00: Etc/GMT-6
+Doğu Avustralya Standart Saati: Australia/Currie
+Nepal Saati: Asia/Kathmandu
+Newfoundland Yaz Saati: America/St_Johns
+Batı Kazakistan Saati: Asia/Aqtobe
+Greenwich Ortalama Saati: GMT+0
+GMT+04:00: Europe/Astrakhan
+GMT+01:00: Europe/Guernsey
+Atlantik Standart Saati: America/Martinique
+Kuzey Amerika Doğu Yaz Saati: US/East-Indiana
+Orta Avrupa Yaz Saati: Arctic/Longyearbyen
+Kuzey Amerika Merkezi Standart Saati: America/Mexico_City
+Arjantin Standart Saati: America/Argentina/ComodRivadavia
+Kuzey Amerika Pasifik Yaz Saati: Canada/Pacific
+Casey Saati: Antarctica/Casey
+Orta Afrika Saati: Africa/Bujumbura
+Acre Standart Saati: America/Eirunepe
+Japonya Standart Saati: Asia/Tokyo
+Orta Avrupa Yaz Saati: Europe/Bratislava
+Doğu Avustralya Standart Saati: Australia/Melbourne
+Kuzey Amerika Doğu Standart Saati: America/Panama
+Doğu Avrupa Yaz Saati: Asia/Beirut
+Doğu Afrika Saati: Indian/Antananarivo
+Özbekistan Standart Saati: Asia/Samarkand
+Peru Standart Saati: America/Lima
+Atlantik Standart Saati: America/St_Thomas
+Batı Endonezya Saati: Asia/Pontianak
+Meksika Pasifik Kıyısı Standart Saati: Mexico/BajaSur
+Greenwich Ortalama Saati: Etc/GMT
+Batı Afrika Standart Saati: Africa/Luanda
+Atlantik Standart Saati: America/St_Lucia
+Atlantik Standart Saati: America/Barbados
+Güney Afrika Standart Saati: Africa/Maseru
+Meksika Pasifik Kıyısı Standart Saati: America/Mazatlan
+Markiz Adaları Saati: Pacific/Marquesas
+Kuzey Amerika Doğu Yaz Saati: America/Thunder_Bay
+Amazon Standart Saati: America/Cuiaba
+Marshall Adaları Saati: Pacific/Majuro
+Doğu Afrika Saati: Africa/Addis_Ababa
+Yeni Zelanda Standart Saati: Antarctica/McMurdo
+Orta Avrupa Yaz Saati: Europe/Warsaw
+Kuzey Amerika Merkezi Yaz Saati: America/Knox_IN
+Marshall Adaları Saati: Pacific/Kwajalein
+Amazon Standart Saati: Brazil/West
+GMT+03:00: Etc/GMT-3
+Atlantik Standart Saati: America/St_Vincent
+Atlantik Standart Saati: America/Marigot
+Taipei Standart Saati: Asia/Taipei
+Kuzey Amerika Doğu Yaz Saati: US/Eastern
+Marshall Adaları Saati: Kwajalein
+Arjantin Standart Saati: America/Argentina/Jujuy
+GMT-05:00: Etc/GMT+5
+Orta Avrupa Yaz Saati: Europe/Zagreb
+Kuzey Amerika Doğu Yaz Saati: America/Port-au-Prince
+Orta Avustralya Standart Saati: Australia/North
+Greenwich Ortalama Saati: GMT
+Orta Avrupa Standart Saati: Africa/Tunis
+Afganistan Saati: Asia/Kabul
+Alaska Yaz Saati: America/Juneau
+GMT+07:00: Asia/Tomsk
+Güney Afrika Standart Saati: Africa/Mbabane
+Batı Afrika Standart Saati: Africa/Porto-Novo
+Körfez Saati: Asia/Muscat
+Arjantin Standart Saati: America/Argentina/San_Luis
+İç Batı Avustralya Standart Saati: Australia/Eucla
+Atlantik Standart Saati: America/Anguilla
+Orta Avrupa Yaz Saati: Europe/Gibraltar
+Orta Avrupa Yaz Saati: Europe/Prague
+Doğu Avrupa Yaz Saati: Europe/Zaporozhye
+Kore Standart Saati: Asia/Pyongyang
+Orta Avrupa Yaz Saati: Europe/Zurich
+Batı Kazakistan Saati: Asia/Atyrau
+Kuzey Amerika Doğu Yaz Saati: America/Indiana/Vincennes
+Arjantin Standart Saati: America/Argentina/Catamarca
+Orta Avrupa Yaz Saati: Europe/Stockholm
+Eş Güdümlü Evrensel Zaman: Etc/UTC
+Batı Afrika Standart Saati: Africa/Lagos
+Arjantin Standart Saati: America/Argentina/La_Rioja
+Körfez Saati: Asia/Dubai
+Ulan Batur Standart Saati: Asia/Ulaanbaatar
+Fernando de Noronha Standart Saati: Brazil/DeNoronha
+Greenwich Ortalama Saati: Africa/Bissau
+Gürcistan Standart Saati: Asia/Tbilisi
+Atlantik Standart Saati: America/St_Kitts
+Batı Afrika Standart Saati: Africa/Douala
+Atlantik Yaz Saati: America/Goose_Bay
+Kuzey Amerika Doğu Yaz Saati: America/Indianapolis
+Orta Avrupa Yaz Saati: Europe/Rome
+Hawaii-Aleut Standart Saati: Pacific/Johnston
+Doğu Avrupa Yaz Saati: Asia/Hebron
+Doğu Avustralya Standart Saati: Australia/Victoria
+Kuzey Amerika Merkezi Yaz Saati: CST6CDT
+Kuzey Amerika Doğu Yaz Saati: US/Michigan
+Vladivostok Standart Saati: Asia/Vladivostok
+Güney Afrika Standart Saati: Africa/Johannesburg
+GMT+03:00: Asia/Famagusta
+İsrail Yaz Saati: Israel
+Chuuk Saati: Pacific/Yap
+GMT-09:00: Etc/GMT+9
+Orta Afrika Saati: Africa/Khartoum
+Samara Standart Saati: Europe/Samara
+Wallis ve Futuna Saati: Pacific/Wallis
+Vostok Saati: Antarctica/Vostok
+Galapagos Saati: Pacific/Galapagos
+Bolivya Saati: America/La_Paz
+Atlantik Standart Saati: America/Port_of_Spain
+Kuzey Amerika Doğu Standart Saati: America/Coral_Harbour
+Kuzey Amerika Merkezi Yaz Saati: America/North_Dakota/Center
+Kuzey Amerika Dağ Standart Saati: America/Creston
+Atlantik Standart Saati: America/Grenada
+GMT+01:00: Europe/Jersey
+Chamorro Saati: Pacific/Saipan
+Kuzey Amerika Doğu Standart Saati: Jamaica
+Atlantik Standart Saati: America/Lower_Princes
+Eş Güdümlü Evrensel Zaman: Etc/Zulu
+Ponape Saati: Pacific/Ponape
+Samoa Standart Saati: Pacific/Pago_Pago
+Doğu Avrupa Yaz Saati: Africa/Cairo
+Orta Avrupa Yaz Saati: Europe/Budapest
+GMT-10:00: Etc/GMT+10
+Orta Avrupa Yaz Saati: Europe/Tirane
+Orta Avrupa Yaz Saati: Europe/Belgrade
+Kuzey Amerika Merkezi Standart Saati: America/El_Salvador
+Kuzey Amerika Merkezi Yaz Saati: America/Menominee
+İngiltere Yaz Saati: GB-Eire
+Hawaii-Aleut Standart Saati: US/Hawaii
+Azerbaycan Standart Saati: Asia/Baku
+Batı Afrika Standart Saati: Africa/Brazzaville
+Christmas Adası Saati: Indian/Christmas
+GMT+02:00: Antarctica/Troll
+Batı Grönland Yaz Saati: America/Nuuk
+Batı Avrupa Yaz Saati: Atlantic/Madeira
+Türkmenistan Standart Saati: Asia/Ashgabat
+Greenwich Ortalama Saati: Etc/GMT-0
+Greenwich Ortalama Saati: Africa/Timbuktu
+GMT+07:00: Etc/GMT-7
+GMT+06:00: Asia/Urumqi
+Doğu Avustralya Standart Saati: Australia/Brisbane
+Hong Kong Standart Saati: Hongkong
+Kuzey Amerika Dağ Standart Saati: America/Phoenix
+Greenwich Ortalama Saati: Africa/Bamako
+Taipei Standart Saati: ROC
+Kuzey Amerika Merkezi Standart Saati: America/Costa_Rica
+Tacikistan Saati: Asia/Dushanbe
+Hawaii-Aleut Yaz Saati: America/Adak
+Niue Saati: Pacific/Niue
+GMT+03:00: Europe/Istanbul
+Çin Standart Saati: Asia/Macau
+Brasilia Standart Saati: America/Belem
+Kuzey Amerika Merkezi Yaz Saati: America/North_Dakota/New_Salem
+Kuzey Amerika Merkezi Standart Saati: America/Monterrey
+Atlantik Standart Saati: America/Montserrat
+Japonya Standart Saati: Japan
+Doğu Avrupa Standart Saati: Europe/Kaliningrad
+Arjantin Standart Saati: America/Argentina/Rio_Gallegos
+Kuzey Amerika Merkezi Standart Saati: America/Regina
+Greenwich Ortalama Saati: Africa/Freetown
+Ermenistan Standart Saati: Asia/Yerevan
+İngiltere Yaz Saati: Europe/Belfast
+Doğu Avrupa Standart Saati: Africa/Tripoli
+Ulan Batur Standart Saati: Asia/Ulan_Bator
+Showa Saati: Antarctica/Syowa
+Arjantin Standart Saati: America/Catamarca
+Doğu Avustralya Standart Saati: Australia/Lindeman
+Kuzey Amerika Merkezi Yaz Saati: US/Central
+Arjantin Standart Saati: America/Argentina/San_Juan
+Yukon Saati: America/Whitehorse
+Greenwich Ortalama Saati: Africa/Banjul
+GMT+01:00: Africa/El_Aaiun
+Kuzey Amerika Dağ Yaz Saati: America/Cambridge_Bay
+Atlantik Standart Saati: America/Antigua
+Line Adaları Saati: Pacific/Kiritimati
+Arabistan Standart Saati: Asia/Aden
+Kuzey Amerika Doğu Yaz Saati: America/Louisville
+Alaska Yaz Saati: America/Sitka
+Doğu Avrupa Yaz Saati: Europe/Uzhgorod
+Yeni Kaledonya Standart Saati: Pacific/Noumea
+Doğu Avrupa Yaz Saati: Europe/Kiev
+Doğu Avustralya Standart Saati: Australia/NSW
+Kuzey Amerika Merkezi Yaz Saati: America/Resolute
+Greenwich Ortalama Saati: GMT0
+Batı Avustralya Standart Saati: Australia/Perth
+Moskova Standart Saati: Europe/Simferopol
+Orta Avustralya Standart Saati: Australia/Broken_Hill
+Vanuatu Standart Saati: Pacific/Efate
+Batı Avrupa Yaz Saati: Atlantic/Canary
+Tahiti Saati: Pacific/Tahiti
+Orta Avrupa Yaz Saati: Europe/Copenhagen
+Alaska Yaz Saati: America/Metlakatla
+İngiltere Yaz Saati: Europe/London
+GMT-12:00: Etc/GMT+12
+Orta Endonezya Saati: Asia/Makassar
+Meksika Pasifik Kıyısı Standart Saati: America/Hermosillo
+Atlantik Yaz Saati: America/Moncton
+Hint Okyanusu Saati: Indian/Chagos
+Batı Avrupa Yaz Saati: Portugal
+Orta Avrupa Yaz Saati: Europe/Monaco
+Hawaii-Aleut Standart Saati: Pacific/Honolulu
+GMT+02:00: Etc/GMT-2
+Hindiçin Saati: Asia/Ho_Chi_Minh
+Cook Adaları Standart Saati: Pacific/Rarotonga
+Kuzey Amerika Doğu Yaz Saati: America/Pangnirtung
+Acre Standart Saati: America/Porto_Acre
+Greenwich Ortalama Saati: Africa/Monrovia
+Greenwich Ortalama Saati: Etc/Greenwich
+Norfolk Adası Standart Saati: Pacific/Norfolk
+Chuuk Saati: Pacific/Truk
+GMT-07:00: MST
+Kuzey Amerika Merkezi Yaz Saati: America/Ojinaga
+Çin Standart Saati: Asia/Chungking
+Batı Avrupa Yaz Saati: Europe/Lisbon
+Doğu Avrupa Yaz Saati: Europe/Vilnius
+Alaska Yaz Saati: America/Yakutat
+Kuzey Amerika Pasifik Yaz Saati: America/Ensenada
+Nauru Saati: Pacific/Nauru
+Doğu Avrupa Yaz Saati: Europe/Chisinau
+GMT+03:00: Europe/Kirov
+Orta Avrupa Yaz Saati: Europe/Oslo
+Brasilia Standart Saati: America/Bahia
+Hindistan Standart Saati: Asia/Kolkata
+GMT+04:00: Europe/Ulyanovsk
+Kuzey Amerika Dağ Yaz Saati: Canada/Mountain
+Orta Avrupa Yaz Saati: Europe/Luxembourg
+Greenwich Ortalama Saati: Africa/Conakry
+Arjantin Standart Saati: America/Argentina/Tucuman
+Kırgızistan Saati: Asia/Bishkek
+Anadır Standart Saati: Asia/Anadyr
+Moskova Standart Saati: Europe/Minsk
+Doğu Grönland Yaz Saati: America/Scoresbysund
+Orta Avrupa Yaz Saati: Europe/Paris
+Kuzey Amerika Merkezi Standart Saati: America/Chihuahua
+Fiji Standart Saati: Pacific/Fiji
+Myanmar Saati: Asia/Yangon
+Şili Standart Saati: America/Santiago
+Hindiçin Saati: Asia/Vientiane
+Atlantik Standart Saati: America/Kralendijk
+Orta Afrika Saati: Africa/Juba
+Tonga Standart Saati: Pacific/Tongatapu
+İrkutsk Standart Saati: Asia/Irkutsk
+GMT+06:00: Asia/Kashgar
+Chatham Standart Saati: NZ-CHAT
+Çin Standart Saati: PRC
+Arabistan Standart Saati: Asia/Kuwait
+Butan Saati: Asia/Thimbu
+Orta Avrupa Yaz Saati: Europe/Busingen
+Atlantik Yaz Saati: America/Glace_Bay
+Kuzey Amerika Merkezi Standart Saati: America/Belize
+Hindistan Standart Saati: Asia/Calcutta
+Singapur Standart Saati: Asia/Singapore
+Arabistan Standart Saati: Asia/Baghdad
+Singapur Standart Saati: Singapore
+Doğu Avrupa Yaz Saati: Asia/Nicosia
+Greenwich Ortalama Saati: Atlantic/Reykjavik
+Arjantin Standart Saati: America/Buenos_Aires
+Kuzey Amerika Dağ Yaz Saati: America/Boise
+İsrail Yaz Saati: Asia/Jerusalem
+Greenwich Ortalama Saati: Africa/Ouagadougou
+Paskalya Adası Standart Saati: Pacific/Easter
+Hong Kong Standart Saati: Asia/Hong_Kong
+GMT-03:00: Etc/GMT+3
+Uruguay Standart Saati: America/Montevideo
+Wake Adası Saati: Pacific/Wake
+Ekvador Saati: America/Guayaquil
+Kuzey Amerika Merkezi Yaz Saati: America/Winnipeg
+Kuzey Amerika Dağ Standart Saati: US/Arizona
+Atlantik Standart Saati: America/Virgin
+Kuzey Amerika Merkezi Standart Saati: Canada/Saskatchewan
+GMT+04:00: Etc/GMT-4
+GMT+03:00: Turkey
+Atlantik Standart Saati: America/Guadeloupe
+Orta Afrika Saati: Africa/Windhoek
+Brasilia Standart Saati: Brazil/East
+Kuzey Amerika Dağ Yaz Saati: Navajo
+Hindistan Standart Saati: Asia/Colombo
+GMT-05:00: EST
+Kuzey Amerika Merkezi Yaz Saati: America/North_Dakota/Beulah
+Tokelau Saati: Pacific/Fakaofo
+Myanmar Saati: Asia/Rangoon
+Doğu Avrupa Yaz Saati: Europe/Mariehamn
+Atlantik Standart Saati: America/Santo_Domingo
+Yeni Zelanda Standart Saati: NZ
+Greenwich Ortalama Saati: Etc/GMT+0
+Brasilia Standart Saati: America/Araguaina
+Atlantik Standart Saati: America/Aruba
+Doğu Avrupa Yaz Saati: Europe/Helsinki
+Tuvalu Saati: Pacific/Funafuti
+Kuzey Amerika Doğu Standart Saati: America/Jamaica
+Kuzey Amerika Doğu Yaz Saati: America/Indiana/Vevay
+Kuzey Amerika Merkezi Standart Saati: America/Swift_Current
+Arjantin Standart Saati: America/Argentina/Mendoza
+Hindiçin Saati: Asia/Saigon
+Alaska Yaz Saati: America/Nome
+Doğu Afrika Saati: Africa/Dar_es_Salaam
+GMT+13:00: Etc/GMT-13
+Kuzey Amerika Doğu Yaz Saati: America/Nipigon
+Kuzey Amerika Dağ Yaz Saati: America/Yellowknife
+Batı Afrika Standart Saati: Africa/Malabo
+Gilbert Adaları Saati: Pacific/Tarawa
+Brasilia Standart Saati: America/Maceio
+Eş Güdümlü Evrensel Zaman: Zulu
+Batı Kazakistan Saati: Asia/Oral
+Orta Avrupa Yaz Saati: Europe/Vatican
+Arjantin Standart Saati: America/Mendoza
+Kuzey Amerika Merkezi Yaz Saati: America/Rankin_Inlet
+İngiltere Yaz Saati: GB
+Orta Avrupa Yaz Saati: Poland
+Orta Avrupa Yaz Saati: Europe/Amsterdam
+Doğu Avrupa Yaz Saati: Asia/Gaza
+Butan Saati: Asia/Thimphu
+Kuzey Amerika Pasifik Yaz Saati: US/Pacific
+Batı Avrupa Yaz Saati: Atlantic/Faeroe
+Saint Pierre ve Miquelon Yaz Saati: America/Miquelon
+Orta Avustralya Standart Saati: Australia/Darwin
+Vladivostok Standart Saati: Asia/Ust-Nera
+Batı Grönland Yaz Saati: America/Godthab
+Arabistan Standart Saati: Asia/Riyadh
+Amazon Standart Saati: America/Boa_Vista
+Küba Yaz Saati: Cuba
+Greenwich Ortalama Saati: GMT-0
+Kuzey Amerika Dağ Standart Saati: America/Fort_Nelson
+Filipinler Standart Saati: Asia/Manila
+Acre Standart Saati: America/Rio_Branco
+Kuzey Amerika Merkezi Yaz Saati: America/Indiana/Tell_City
+Batı Kazakistan Saati: Asia/Qyzylorda
+Orta Avrupa Yaz Saati: Europe/Sarajevo
+GMT+03:00: EET
+Moskova Standart Saati: W-SU
+Doğu Kazakistan Saati: Asia/Almaty
+Doğu Afrika Saati: Indian/Comoro
+Doğu Endonezya Saati: Asia/Jayapura
+Kuzey Amerika Doğu Yaz Saati: America/Grand_Turk
+Apia Standart Saati: Pacific/Apia
+Guyana Saati: America/Guyana
+GMT+01:00: Etc/GMT-1
+Seyşeller Saati: Indian/Mahe
+Fransız Guyanası Saati: America/Cayenne
+GMT+14:00: Etc/GMT-14
+Magadan Standart Saati: Asia/Magadan
+Doğu Avustralya Standart Saati: Australia/Queensland
+Kuzey Amerika Pasifik Yaz Saati: America/Los_Angeles
+İran Standart Saati: Iran
+GMT+09:00: Etc/GMT-9
+GMT+01:00: WET
+Orta Avrupa Yaz Saati: Atlantic/Jan_Mayen
+Batı Kazakistan Saati: Asia/Aqtau
+Kuzey Amerika Merkezi Yaz Saati: Canada/Central
+Cocos Adaları Saati: Indian/Cocos
+Kuzey Amerika Dağ Yaz Saati: America/Shiprock
+Orta Avrupa Yaz Saati: Africa/Ceuta
+Doğu Kazakistan Saati: Asia/Qostanay
+Arabistan Standart Saati: Asia/Bahrain
+Batı Afrika Standart Saati: Africa/Niamey
+GMT-03:00: America/Punta_Arenas
+Arabistan Standart Saati: Asia/Qatar
+Yeni Zelanda Standart Saati: Pacific/Auckland
+Paskalya Adası Standart Saati: Chile/EasterIsland
+Pakistan Standart Saati: Asia/Karachi
+İsrail Yaz Saati: Asia/Tel_Aviv
+Kosrae Saati: Pacific/Kosrae
+Greenwich Ortalama Saati: Africa/Accra
+Çin Standart Saati: Asia/Chongqing
+Orta Avustralya Standart Saati: Australia/Adelaide
+Kuzey Amerika Doğu Yaz Saati: America/Detroit
+Doğu Avrupa Yaz Saati: Europe/Sofia
+Batı Endonezya Saati: Asia/Jakarta
+Atlantik Standart Saati: America/Tortola
+Kuzey Amerika Merkezi Standart Saati: America/Merida
+Orta Afrika Saati: Africa/Lubumbashi
+Phoenix Adaları Saati: Pacific/Enderbury
+Kuzey Amerika Merkezi Standart Saati: Mexico/General
+Brunei Darü’s-Selam Saati: Asia/Brunei
+Kuzey Amerika Merkezi Yaz Saati: America/Matamoros
+Yukon Saati: America/Dawson
+Samoa Standart Saati: Pacific/Samoa
+Küba Yaz Saati: America/Havana
+Mawson Saati: Antarctica/Mawson
+Kuzey Amerika Merkezi Yaz Saati: America/Chicago
+Çin Standart Saati: Asia/Macao
+Kuzey Amerika Pasifik Yaz Saati: America/Santa_Isabel
+Alaska Yaz Saati: America/Anchorage
+Doğu Avustralya Standart Saati: Australia/Canberra
+Greenwich Ortalama Saati: Africa/Sao_Tome
+Azorlar Yaz Saati: Atlantic/Azores
+GMT-08:00: Etc/GMT+8
+Kolombiya Standart Saati: America/Bogota
+Greenwich Ortalama Saati: Etc/GMT0
+Doğu Avrupa Yaz Saati: Europe/Bucharest
+Arjantin Standart Saati: America/Rosario
+Orta Avustralya Standart Saati: Australia/South
+Doğu Afrika Saati: Africa/Djibouti
+İran Standart Saati: Asia/Tehran
+Doğu Afrika Saati: Africa/Asmera
+Doğu Afrika Saati: Africa/Mogadishu
+Amazon Standart Saati: America/Porto_Velho
+Kuzey Amerika Dağ Yaz Saati: America/Inuvik
+Yukon Saati: Canada/Yukon
+Orta Avrupa Yaz Saati: Europe/Madrid
+GMT+03:00: Asia/Amman
+Şili Standart Saati: Chile/Continental
+Kuzey Amerika Doğu Yaz Saati: America/Fort_Wayne
+Palau Saati: Pacific/Palau
+Greenwich Ortalama Saati: Africa/Lome
+Novosibirsk Standart Saati: Asia/Novosibirsk
+Orta Afrika Saati: Africa/Gaborone
+Batı Afrika Standart Saati: Africa/Bangui
+Eş Güdümlü Evrensel Zaman: Etc/Universal
+Batı Avustralya Standart Saati: Australia/West
+Orta Afrika Saati: Africa/Maputo
+Kuzey Amerika Merkezi Yaz Saati: America/Rainy_River
+Özbekistan Standart Saati: Asia/Tashkent
+Kuzey Amerika Doğu Yaz Saati: Canada/Eastern
+Eş Güdümlü Evrensel Zaman: Universal
+GMT+00:00: Factory
+Doğu Afrika Saati: Africa/Nairobi
+Samoa Standart Saati: US/Samoa
+Arjantin Standart Saati: America/Argentina/Ushuaia
+Newfoundland Yaz Saati: Canada/Newfoundland
+Greenwich Ortalama Saati: Iceland
+Dumont-d’Urville Saati: Antarctica/DumontDUrville
+Orta Avrupa Yaz Saati: Europe/Vienna
+Kuzey Amerika Dağ Yaz Saati: America/Edmonton
+Kuzey Amerika Doğu Yaz Saati: America/Iqaluit
+Malezya Saati: Asia/Kuching
+Greenwich Ortalama Saati: America/Danmarkshavn
+Yeni Zelanda Standart Saati: Antarctica/South_Pole
+Pitcairn Saati: Pacific/Pitcairn
+Batı Afrika Standart Saati: Africa/Kinshasa
+Ulan Batur Standart Saati: Asia/Choibalsan
+Fernando de Noronha Standart Saati: America/Noronha
+Orta Avrupa Yaz Saati: Europe/Andorra
+Acre Standart Saati: Brazil/Acre
+GMT+02:00: MET
+Kuzey Amerika Doğu Standart Saati: America/Cancun
+Sahalin Standart Saati: Asia/Sakhalin
+Kuzey Amerika Merkezi Standart Saati: America/Guatemala
+Çin Standart Saati: Asia/Harbin
+Arjantin Standart Saati: America/Argentina/Cordoba
+Greenwich Ortalama Saati: Greenwich
+Eş Güdümlü Evrensel Zaman: UCT
+Gambier Saati: Pacific/Gambier
+Kuzey Amerika Dağ Standart Saati: America/Dawson_Creek
+Kuzey Amerika Doğu Yaz Saati: America/Indiana/Marengo
+Doğu Avustralya Standart Saati: Australia/Sydney
+GMT+10:00: Etc/GMT-10
+Batı Afrika Standart Saati: Africa/Libreville
+Yekaterinburg Standart Saati: Asia/Yekaterinburg
+GMT+03:00: Asia/Damascus
+Doğu Avustralya Standart Saati: Australia/ACT
+Kuzey Amerika Merkezi Standart Saati: America/Managua
+Kore Standart Saati: ROK
+Greenwich Ortalama Saati: Africa/Abidjan
+Greenwich Ortalama Saati: Africa/Nouakchott
+Doğu Timor Saati: Asia/Dili
+Cape Verde Standart Saati: Atlantic/Cape_Verde
+GMT+04:00: Europe/Saratov
+Chatham Standart Saati: Pacific/Chatham
+Atlantik Yaz Saati: America/Thule
+Orta Afrika Saati: Africa/Kigali
+Kuzey Amerika Doğu Yaz Saati: America/Indiana/Petersburg
+Kuzey Amerika Doğu Standart Saati: America/Atikokan
+Kuzey Amerika Merkezi Standart Saati: America/Tegucigalpa
+Greenwich Ortalama Saati: Eire
+Phoenix Adaları Saati: Pacific/Kanton
+Atlantik Yaz Saati: America/Halifax
+Alaska Yaz Saati: US/Alaska
+Hindiçin Saati: Asia/Bangkok
+Doğu Afrika Saati: Indian/Mayotte
+Kuzey Amerika Doğu Standart Saati: America/Cayman
+Atlantik Standart Saati: America/Dominica
+Kuzey Amerika Doğu Yaz Saati: America/Indiana/Indianapolis
+GMT+11:00: Etc/GMT-11
+Rothera Saati: Antarctica/Rothera
+Maldivler Saati: Indian/Maldives
+Doğu Afrika Saati: Africa/Asmara
+GMT+01:00: Africa/Casablanca
+Kuzey Amerika Doğu Yaz Saati: America/New_York
+Kuzey Amerika Doğu Yaz Saati: America/Toronto
+Doğu Avrupa Yaz Saati: Europe/Tiraspol
+GMT+11:00: Pacific/Bougainville
+Kuzey Amerika Doğu Yaz Saati: America/Kentucky/Monticello
+GMT-02:00: Etc/GMT+2
+Lord Howe Standart Saati: Australia/Lord_Howe
+Doğu Avrupa Yaz Saati: Europe/Athens
+Orta Avustralya Standart Saati: Australia/Yancowinna
+Falkland Adaları Standart Saati: Atlantic/Stanley
+Kuzey Amerika Pasifik Yaz Saati: America/Tijuana
+Yakutsk Standart Saati: Asia/Khandyga
+Brasilia Standart Saati: America/Santarem
+Chuuk Saati: Pacific/Chuuk
+Hindiçin Saati: Asia/Phnom_Penh
+GMT+01:00: Europe/Isle_of_Man
+Orta Avrupa Yaz Saati: Europe/Skopje
+Amazon Standart Saati: America/Manaus
+Kuzey Amerika Dağ Yaz Saati: MST7MDT
+Solomon Adaları Saati: Pacific/Guadalcanal
+Malezya Saati: Asia/Kuala_Lumpur
+Orta Afrika Saati: Africa/Harare
+Kuzey Amerika Pasifik Yaz Saati: Mexico/BajaNorte
+GMT-04:00: Etc/GMT+4
+Davis Saati: Antarctica/Davis
+Doğu Avrupa Yaz Saati: Egypt
+Venezuela Saati: America/Caracas
+Brasilia Standart Saati: America/Sao_Paulo
+Brasilia Standart Saati: America/Recife
+Orta Avrupa Yaz Saati: Europe/Berlin
+Petropavlovsk-Kamçatski Standart Saati: Asia/Kamchatka
+Hawaii-Aleut Yaz Saati: US/Aleutian
+Greenwich Ortalama Saati: Africa/Dakar
+Yakutsk Standart Saati: Asia/Yakutsk
+Orta Afrika Saati: Africa/Lusaka
+Greenwich Ortalama Saati: Europe/Dublin
+Orta Avrupa Yaz Saati: Europe/Vaduz
+Hovd Standart Saati: Asia/Hovd
+Orta Avrupa Yaz Saati: Europe/Ljubljana
+Orta Avrupa Yaz Saati: Europe/San_Marino
+Kuzey Amerika Doğu Yaz Saati: America/Kentucky/Louisville
+Çin Standart Saati: Asia/Shanghai
+Kuzey Amerika Doğu Yaz Saati: America/Montreal
+GMT+07:00: Asia/Barnaul
+Chamorro Saati: Pacific/Guam
+Kuzey Amerika Pasifik Yaz Saati: PST8PDT
+Papua Yeni Gine Saati: Pacific/Port_Moresby
+Doğu Afrika Saati: Africa/Kampala
+Doğu Avrupa Yaz Saati: Europe/Nicosia
+Kuzey Amerika Pasifik Yaz Saati: America/Vancouver
+Orta Avrupa Yaz Saati: Europe/Malta
+Atlantik Standart Saati: America/Puerto_Rico
+Atlantik Yaz Saati: Canada/Atlantic
+GMT-06:00: Etc/GMT+6
+Kuzey Amerika Doğu Yaz Saati: EST5EDT
+Atlantik Standart Saati: America/Curacao
+GMT+03:00: Asia/Istanbul
+Orta Endonezya Saati: Asia/Ujung_Pandang
+Kuzey Amerika Doğu Yaz Saati: America/Indiana/Winamac
+Omsk Standart Saati: Asia/Omsk
+Doğu Avrupa Yaz Saati: Europe/Tallinn
+Arjantin Standart Saati: America/Cordoba
+GMT-11:00: Etc/GMT+11

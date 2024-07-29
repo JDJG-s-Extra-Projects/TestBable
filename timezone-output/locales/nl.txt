@@ -1,0 +1,597 @@
+Hawaii-Aleutian Daylight Time: America/Atka
+Surinaamse tijd: America/Paramaribo
+Turkmeense standaardtijd: Asia/Ashkhabad
+Nepalese tijd: Asia/Katmandu
+GMT+12:00: Etc/GMT-12
+Atlantic Standard Time: America/St_Barthelemy
+Krasnojarsk-standaardtijd: Asia/Krasnoyarsk
+Midden-Europese zomertijd: Europe/Brussels
+Wolgograd-standaardtijd: Europe/Volgograd
+Mountain Daylight Time: America/Denver
+Brasilia Standard Time: America/Fortaleza
+Midden-Europese zomertijd: Europe/Podgorica
+Zuid-Georgische tijd: Atlantic/South_Georgia
+West-Afrikaanse standaardtijd: Africa/Ndjamena
+Eastern Daylight Time: America/Nassau
+Bengalese standaardtijd: Asia/Dhaka
+Paraguay Standard Time: America/Asuncion
+Atlantic Standard Time: America/Blanc-Sablon
+Central Daylight Time: America/Indiana/Knox
+Bengalese standaardtijd: Asia/Dacca
+Oost-Australische standaardtijd: Antarctica/Macquarie
+Moskou-standaardtijd: Europe/Moscow
+gecoördineerde wereldtijd: UTC
+Koreaanse standaardtijd: Asia/Seoul
+Oost-Europese zomertijd: Europe/Riga
+Centraal-Afrikaanse tijd: Africa/Blantyre
+Argentina Standard Time: America/Argentina/Salta
+Argentina Standard Time: America/Argentina/Buenos_Aires
+Midden-Europese standaardtijd: Africa/Algiers
+Oost-Australische standaardtijd: Australia/Tasmania
+Central Daylight Time: US/Indiana-Starke
+Samoaanse standaardtijd: Pacific/Midway
+Mountain Daylight Time: America/Ciudad_Juarez
+GMT-10:00: HST
+GMT+11:00: Asia/Srednekolymsk
+Oost-Australische standaardtijd: Australia/Hobart
+Atlantic Daylight Time: Atlantic/Bermuda
+gecoördineerde wereldtijd: Etc/UCT
+Franse zuidelijke en Antarctische tijd: Indian/Kerguelen
+West-Europese zomertijd: Atlantic/Faroe
+Amazon Standard Time: America/Campo_Grande
+Lord Howe-eilandse standaardtijd: Australia/LHI
+Mauritiaanse standaardtijd: Indian/Mauritius
+GMT+02:00: CET
+Oost-Europese standaardtijd: Libya
+GMT-07:00: Etc/GMT+7
+GMT+08:00: Etc/GMT-8
+Greenwich Mean Time: Atlantic/St_Helena
+Pohnpei-tijd: Pacific/Pohnpei
+GMT-01:00: Etc/GMT+1
+Oost-Europese zomertijd: Europe/Kyiv
+GMT+05:00: Etc/GMT-5
+Réunionse tijd: Indian/Reunion
+GMT-03:00: Antarctica/Palmer
+Central Standard Time: America/Bahia_Banderas
+Argentina Standard Time: America/Jujuy
+Jakoetsk-standaardtijd: Asia/Chita
+Mountain Daylight Time: US/Mountain
+Krasnojarsk-standaardtijd: Asia/Novokuznetsk
+GMT+06:00: Etc/GMT-6
+Oost-Australische standaardtijd: Australia/Currie
+Nepalese tijd: Asia/Kathmandu
+Newfoundland Daylight Time: America/St_Johns
+West-Kazachse tijd: Asia/Aqtobe
+Greenwich Mean Time: GMT+0
+GMT+04:00: Europe/Astrakhan
+GMT+01:00: Europe/Guernsey
+Atlantic Standard Time: America/Martinique
+Eastern Daylight Time: US/East-Indiana
+Midden-Europese zomertijd: Arctic/Longyearbyen
+Central Standard Time: America/Mexico_City
+Argentina Standard Time: America/Argentina/ComodRivadavia
+Pacific Daylight Time: Canada/Pacific
+Casey tijd: Antarctica/Casey
+Centraal-Afrikaanse tijd: Africa/Bujumbura
+Acre-standaardtijd: America/Eirunepe
+Japanse standaardtijd: Asia/Tokyo
+Midden-Europese zomertijd: Europe/Bratislava
+Oost-Australische standaardtijd: Australia/Melbourne
+Eastern Standard Time: America/Panama
+Oost-Europese zomertijd: Asia/Beirut
+Oost-Afrikaanse tijd: Indian/Antananarivo
+Oezbeekse standaardtijd: Asia/Samarkand
+Peru Standard Time: America/Lima
+Atlantic Standard Time: America/St_Thomas
+West-Indonesische tijd: Asia/Pontianak
+Mexican Pacific Standard Time: Mexico/BajaSur
+Greenwich Mean Time: Etc/GMT
+West-Afrikaanse standaardtijd: Africa/Luanda
+Atlantic Standard Time: America/St_Lucia
+Atlantic Standard Time: America/Barbados
+Zuid-Afrikaanse tijd: Africa/Maseru
+Mexican Pacific Standard Time: America/Mazatlan
+Marquesaseilandse tijd: Pacific/Marquesas
+Eastern Daylight Time: America/Thunder_Bay
+Amazon Standard Time: America/Cuiaba
+Marshalleilandse tijd: Pacific/Majuro
+Oost-Afrikaanse tijd: Africa/Addis_Ababa
+Nieuw-Zeelandse standaardtijd: Antarctica/McMurdo
+Midden-Europese zomertijd: Europe/Warsaw
+Central Daylight Time: America/Knox_IN
+Marshalleilandse tijd: Pacific/Kwajalein
+Amazon Standard Time: Brazil/West
+GMT+03:00: Etc/GMT-3
+Atlantic Standard Time: America/St_Vincent
+Atlantic Standard Time: America/Marigot
+Taipei-standaardtijd: Asia/Taipei
+Eastern Daylight Time: US/Eastern
+Marshalleilandse tijd: Kwajalein
+Argentina Standard Time: America/Argentina/Jujuy
+GMT-05:00: Etc/GMT+5
+Midden-Europese zomertijd: Europe/Zagreb
+Eastern Daylight Time: America/Port-au-Prince
+Midden-Australische standaardtijd: Australia/North
+Greenwich Mean Time: GMT
+Midden-Europese standaardtijd: Africa/Tunis
+Afghaanse tijd: Asia/Kabul
+Alaska Daylight Time: America/Juneau
+GMT+07:00: Asia/Tomsk
+Zuid-Afrikaanse tijd: Africa/Mbabane
+West-Afrikaanse standaardtijd: Africa/Porto-Novo
+Golf-standaardtijd: Asia/Muscat
+Argentina Standard Time: America/Argentina/San_Luis
+Midden-Australische westelijke standaardtijd: Australia/Eucla
+Atlantic Standard Time: America/Anguilla
+Midden-Europese zomertijd: Europe/Gibraltar
+Midden-Europese zomertijd: Europe/Prague
+Oost-Europese zomertijd: Europe/Zaporozhye
+Koreaanse standaardtijd: Asia/Pyongyang
+Midden-Europese zomertijd: Europe/Zurich
+West-Kazachse tijd: Asia/Atyrau
+Eastern Daylight Time: America/Indiana/Vincennes
+Argentina Standard Time: America/Argentina/Catamarca
+Midden-Europese zomertijd: Europe/Stockholm
+gecoördineerde wereldtijd: Etc/UTC
+West-Afrikaanse standaardtijd: Africa/Lagos
+Argentina Standard Time: America/Argentina/La_Rioja
+Golf-standaardtijd: Asia/Dubai
+Ulaanbaatar-standaardtijd: Asia/Ulaanbaatar
+Fernando de Noronha Standard Time: Brazil/DeNoronha
+Greenwich Mean Time: Africa/Bissau
+Georgische standaardtijd: Asia/Tbilisi
+Atlantic Standard Time: America/St_Kitts
+West-Afrikaanse standaardtijd: Africa/Douala
+Atlantic Daylight Time: America/Goose_Bay
+Eastern Daylight Time: America/Indianapolis
+Midden-Europese zomertijd: Europe/Rome
+Hawaii-Aleutian Standard Time: Pacific/Johnston
+Oost-Europese zomertijd: Asia/Hebron
+Oost-Australische standaardtijd: Australia/Victoria
+Central Daylight Time: CST6CDT
+Eastern Daylight Time: US/Michigan
+Vladivostok-standaardtijd: Asia/Vladivostok
+Zuid-Afrikaanse tijd: Africa/Johannesburg
+GMT+03:00: Asia/Famagusta
+Israëlische zomertijd: Israel
+Chuukse tijd: Pacific/Yap
+GMT-09:00: Etc/GMT+9
+Centraal-Afrikaanse tijd: Africa/Khartoum
+Samara-standaardtijd: Europe/Samara
+Wallis en Futunase tijd: Pacific/Wallis
+Vostok-tijd: Antarctica/Vostok
+Galapagos Time: Pacific/Galapagos
+Bolivia Time: America/La_Paz
+Atlantic Standard Time: America/Port_of_Spain
+Eastern Standard Time: America/Coral_Harbour
+Central Daylight Time: America/North_Dakota/Center
+Mountain Standard Time: America/Creston
+Atlantic Standard Time: America/Grenada
+GMT+01:00: Europe/Jersey
+Chamorro-tijd: Pacific/Saipan
+Eastern Standard Time: Jamaica
+Atlantic Standard Time: America/Lower_Princes
+gecoördineerde wereldtijd: Etc/Zulu
+Pohnpei-tijd: Pacific/Ponape
+Samoaanse standaardtijd: Pacific/Pago_Pago
+Oost-Europese zomertijd: Africa/Cairo
+Midden-Europese zomertijd: Europe/Budapest
+GMT-10:00: Etc/GMT+10
+Midden-Europese zomertijd: Europe/Tirane
+Midden-Europese zomertijd: Europe/Belgrade
+Central Standard Time: America/El_Salvador
+Central Daylight Time: America/Menominee
+Britse zomertijd: GB-Eire
+Hawaii-Aleutian Standard Time: US/Hawaii
+Azerbeidzjaanse standaardtijd: Asia/Baku
+West-Afrikaanse standaardtijd: Africa/Brazzaville
+Christmaseilandse tijd: Indian/Christmas
+GMT+02:00: Antarctica/Troll
+West Greenland Summer Time: America/Nuuk
+West-Europese zomertijd: Atlantic/Madeira
+Turkmeense standaardtijd: Asia/Ashgabat
+Greenwich Mean Time: Etc/GMT-0
+Greenwich Mean Time: Africa/Timbuktu
+GMT+07:00: Etc/GMT-7
+GMT+06:00: Asia/Urumqi
+Oost-Australische standaardtijd: Australia/Brisbane
+Hongkongse standaardtijd: Hongkong
+Mountain Standard Time: America/Phoenix
+Greenwich Mean Time: Africa/Bamako
+Taipei-standaardtijd: ROC
+Central Standard Time: America/Costa_Rica
+Tadzjiekse tijd: Asia/Dushanbe
+Hawaii-Aleutian Daylight Time: America/Adak
+Niuese tijd: Pacific/Niue
+GMT+03:00: Europe/Istanbul
+Chinese standaardtijd: Asia/Macau
+Brasilia Standard Time: America/Belem
+Central Daylight Time: America/North_Dakota/New_Salem
+Central Standard Time: America/Monterrey
+Atlantic Standard Time: America/Montserrat
+Japanse standaardtijd: Japan
+Oost-Europese standaardtijd: Europe/Kaliningrad
+Argentina Standard Time: America/Argentina/Rio_Gallegos
+Central Standard Time: America/Regina
+Greenwich Mean Time: Africa/Freetown
+Armeense standaardtijd: Asia/Yerevan
+Britse zomertijd: Europe/Belfast
+Oost-Europese standaardtijd: Africa/Tripoli
+Ulaanbaatar-standaardtijd: Asia/Ulan_Bator
+Syowa-tijd: Antarctica/Syowa
+Argentina Standard Time: America/Catamarca
+Oost-Australische standaardtijd: Australia/Lindeman
+Central Daylight Time: US/Central
+Argentina Standard Time: America/Argentina/San_Juan
+Yukon Time: America/Whitehorse
+Greenwich Mean Time: Africa/Banjul
+GMT+01:00: Africa/El_Aaiun
+Mountain Daylight Time: America/Cambridge_Bay
+Atlantic Standard Time: America/Antigua
+Line-eilandse tijd: Pacific/Kiritimati
+Arabische standaardtijd: Asia/Aden
+Eastern Daylight Time: America/Louisville
+Alaska Daylight Time: America/Sitka
+Oost-Europese zomertijd: Europe/Uzhgorod
+Nieuw-Caledonische standaardtijd: Pacific/Noumea
+Oost-Europese zomertijd: Europe/Kiev
+Oost-Australische standaardtijd: Australia/NSW
+Central Daylight Time: America/Resolute
+Greenwich Mean Time: GMT0
+West-Australische standaardtijd: Australia/Perth
+Moskou-standaardtijd: Europe/Simferopol
+Midden-Australische standaardtijd: Australia/Broken_Hill
+Vanuatuaanse standaardtijd: Pacific/Efate
+West-Europese zomertijd: Atlantic/Canary
+Tahitiaanse tijd: Pacific/Tahiti
+Midden-Europese zomertijd: Europe/Copenhagen
+Alaska Daylight Time: America/Metlakatla
+Britse zomertijd: Europe/London
+GMT-12:00: Etc/GMT+12
+Centraal-Indonesische tijd: Asia/Makassar
+Mexican Pacific Standard Time: America/Hermosillo
+Atlantic Daylight Time: America/Moncton
+Indische Oceaan-tijd: Indian/Chagos
+West-Europese zomertijd: Portugal
+Midden-Europese zomertijd: Europe/Monaco
+Hawaii-Aleutian Standard Time: Pacific/Honolulu
+GMT+02:00: Etc/GMT-2
+Indochinese tijd: Asia/Ho_Chi_Minh
+Cookeilandse standaardtijd: Pacific/Rarotonga
+Eastern Daylight Time: America/Pangnirtung
+Acre-standaardtijd: America/Porto_Acre
+Greenwich Mean Time: Africa/Monrovia
+Greenwich Mean Time: Etc/Greenwich
+Norfolkeilandse standaardtijd: Pacific/Norfolk
+Chuukse tijd: Pacific/Truk
+GMT-07:00: MST
+Central Daylight Time: America/Ojinaga
+Chinese standaardtijd: Asia/Chungking
+West-Europese zomertijd: Europe/Lisbon
+Oost-Europese zomertijd: Europe/Vilnius
+Alaska Daylight Time: America/Yakutat
+Pacific Daylight Time: America/Ensenada
+Nauruaanse tijd: Pacific/Nauru
+Oost-Europese zomertijd: Europe/Chisinau
+GMT+03:00: Europe/Kirov
+Midden-Europese zomertijd: Europe/Oslo
+Brasilia Standard Time: America/Bahia
+Indiase tijd: Asia/Kolkata
+GMT+04:00: Europe/Ulyanovsk
+Mountain Daylight Time: Canada/Mountain
+Midden-Europese zomertijd: Europe/Luxembourg
+Greenwich Mean Time: Africa/Conakry
+Argentina Standard Time: America/Argentina/Tucuman
+Kirgizische tijd: Asia/Bishkek
+Anadyr-standaardtijd: Asia/Anadyr
+Moskou-standaardtijd: Europe/Minsk
+East Greenland Summer Time: America/Scoresbysund
+Midden-Europese zomertijd: Europe/Paris
+Central Standard Time: America/Chihuahua
+Fijische standaardtijd: Pacific/Fiji
+Myanmarese tijd: Asia/Yangon
+Chile Standard Time: America/Santiago
+Indochinese tijd: Asia/Vientiane
+Atlantic Standard Time: America/Kralendijk
+Centraal-Afrikaanse tijd: Africa/Juba
+Tongaanse standaardtijd: Pacific/Tongatapu
+Irkoetsk-standaardtijd: Asia/Irkutsk
+GMT+06:00: Asia/Kashgar
+Chatham-standaardtijd: NZ-CHAT
+Chinese standaardtijd: PRC
+Arabische standaardtijd: Asia/Kuwait
+Bhutaanse tijd: Asia/Thimbu
+Midden-Europese zomertijd: Europe/Busingen
+Atlantic Daylight Time: America/Glace_Bay
+Central Standard Time: America/Belize
+Indiase tijd: Asia/Calcutta
+Singaporese standaardtijd: Asia/Singapore
+Arabische standaardtijd: Asia/Baghdad
+Singaporese standaardtijd: Singapore
+Oost-Europese zomertijd: Asia/Nicosia
+Greenwich Mean Time: Atlantic/Reykjavik
+Argentina Standard Time: America/Buenos_Aires
+Mountain Daylight Time: America/Boise
+Israëlische zomertijd: Asia/Jerusalem
+Greenwich Mean Time: Africa/Ouagadougou
+Easter Island Standard Time: Pacific/Easter
+Hongkongse standaardtijd: Asia/Hong_Kong
+GMT-03:00: Etc/GMT+3
+Uruguay Standard Time: America/Montevideo
+Wake-eilandse tijd: Pacific/Wake
+Ecuador Time: America/Guayaquil
+Central Daylight Time: America/Winnipeg
+Mountain Standard Time: US/Arizona
+Atlantic Standard Time: America/Virgin
+Central Standard Time: Canada/Saskatchewan
+GMT+04:00: Etc/GMT-4
+GMT+03:00: Turkey
+Atlantic Standard Time: America/Guadeloupe
+Centraal-Afrikaanse tijd: Africa/Windhoek
+Brasilia Standard Time: Brazil/East
+Mountain Daylight Time: Navajo
+Indiase tijd: Asia/Colombo
+GMT-05:00: EST
+Central Daylight Time: America/North_Dakota/Beulah
+Tokelau-eilandse tijd: Pacific/Fakaofo
+Myanmarese tijd: Asia/Rangoon
+Oost-Europese zomertijd: Europe/Mariehamn
+Atlantic Standard Time: America/Santo_Domingo
+Nieuw-Zeelandse standaardtijd: NZ
+Greenwich Mean Time: Etc/GMT+0
+Brasilia Standard Time: America/Araguaina
+Atlantic Standard Time: America/Aruba
+Oost-Europese zomertijd: Europe/Helsinki
+Tuvaluaanse tijd: Pacific/Funafuti
+Eastern Standard Time: America/Jamaica
+Eastern Daylight Time: America/Indiana/Vevay
+Central Standard Time: America/Swift_Current
+Argentina Standard Time: America/Argentina/Mendoza
+Indochinese tijd: Asia/Saigon
+Alaska Daylight Time: America/Nome
+Oost-Afrikaanse tijd: Africa/Dar_es_Salaam
+GMT+13:00: Etc/GMT-13
+Eastern Daylight Time: America/Nipigon
+Mountain Daylight Time: America/Yellowknife
+West-Afrikaanse standaardtijd: Africa/Malabo
+Gilberteilandse tijd: Pacific/Tarawa
+Brasilia Standard Time: America/Maceio
+gecoördineerde wereldtijd: Zulu
+West-Kazachse tijd: Asia/Oral
+Midden-Europese zomertijd: Europe/Vatican
+Argentina Standard Time: America/Mendoza
+Central Daylight Time: America/Rankin_Inlet
+Britse zomertijd: GB
+Midden-Europese zomertijd: Poland
+Midden-Europese zomertijd: Europe/Amsterdam
+Oost-Europese zomertijd: Asia/Gaza
+Bhutaanse tijd: Asia/Thimphu
+Pacific Daylight Time: US/Pacific
+West-Europese zomertijd: Atlantic/Faeroe
+St. Pierre & Miquelon Daylight Time: America/Miquelon
+Midden-Australische standaardtijd: Australia/Darwin
+Vladivostok-standaardtijd: Asia/Ust-Nera
+West Greenland Summer Time: America/Godthab
+Arabische standaardtijd: Asia/Riyadh
+Amazon Standard Time: America/Boa_Vista
+Cuba Daylight Time: Cuba
+Greenwich Mean Time: GMT-0
+Mountain Standard Time: America/Fort_Nelson
+Filipijnse standaardtijd: Asia/Manila
+Acre-standaardtijd: America/Rio_Branco
+Central Daylight Time: America/Indiana/Tell_City
+West-Kazachse tijd: Asia/Qyzylorda
+Midden-Europese zomertijd: Europe/Sarajevo
+GMT+03:00: EET
+Moskou-standaardtijd: W-SU
+Oost-Kazachse tijd: Asia/Almaty
+Oost-Afrikaanse tijd: Indian/Comoro
+Oost-Indonesische tijd: Asia/Jayapura
+Eastern Daylight Time: America/Grand_Turk
+Apia-standaardtijd: Pacific/Apia
+Guyana Time: America/Guyana
+GMT+01:00: Etc/GMT-1
+Seychelse tijd: Indian/Mahe
+French Guiana Time: America/Cayenne
+GMT+14:00: Etc/GMT-14
+Magadan-standaardtijd: Asia/Magadan
+Oost-Australische standaardtijd: Australia/Queensland
+Pacific Daylight Time: America/Los_Angeles
+Iraanse standaardtijd: Iran
+GMT+09:00: Etc/GMT-9
+GMT+01:00: WET
+Midden-Europese zomertijd: Atlantic/Jan_Mayen
+West-Kazachse tijd: Asia/Aqtau
+Central Daylight Time: Canada/Central
+Cocoseilandse tijd: Indian/Cocos
+Mountain Daylight Time: America/Shiprock
+Midden-Europese zomertijd: Africa/Ceuta
+Oost-Kazachse tijd: Asia/Qostanay
+Arabische standaardtijd: Asia/Bahrain
+West-Afrikaanse standaardtijd: Africa/Niamey
+GMT-03:00: America/Punta_Arenas
+Arabische standaardtijd: Asia/Qatar
+Nieuw-Zeelandse standaardtijd: Pacific/Auckland
+Easter Island Standard Time: Chile/EasterIsland
+Pakistaanse standaardtijd: Asia/Karachi
+Israëlische zomertijd: Asia/Tel_Aviv
+Kosraese tijd: Pacific/Kosrae
+Greenwich Mean Time: Africa/Accra
+Chinese standaardtijd: Asia/Chongqing
+Midden-Australische standaardtijd: Australia/Adelaide
+Eastern Daylight Time: America/Detroit
+Oost-Europese zomertijd: Europe/Sofia
+West-Indonesische tijd: Asia/Jakarta
+Atlantic Standard Time: America/Tortola
+Central Standard Time: America/Merida
+Centraal-Afrikaanse tijd: Africa/Lubumbashi
+Phoenixeilandse tijd: Pacific/Enderbury
+Central Standard Time: Mexico/General
+Bruneise tijd: Asia/Brunei
+Central Daylight Time: America/Matamoros
+Yukon Time: America/Dawson
+Samoaanse standaardtijd: Pacific/Samoa
+Cuba Daylight Time: America/Havana
+Mawson-tijd: Antarctica/Mawson
+Central Daylight Time: America/Chicago
+Chinese standaardtijd: Asia/Macao
+Pacific Daylight Time: America/Santa_Isabel
+Alaska Daylight Time: America/Anchorage
+Oost-Australische standaardtijd: Australia/Canberra
+Greenwich Mean Time: Africa/Sao_Tome
+Azoren-zomertijd: Atlantic/Azores
+GMT-08:00: Etc/GMT+8
+Colombia Standard Time: America/Bogota
+Greenwich Mean Time: Etc/GMT0
+Oost-Europese zomertijd: Europe/Bucharest
+Argentina Standard Time: America/Rosario
+Midden-Australische standaardtijd: Australia/South
+Oost-Afrikaanse tijd: Africa/Djibouti
+Iraanse standaardtijd: Asia/Tehran
+Oost-Afrikaanse tijd: Africa/Asmera
+Oost-Afrikaanse tijd: Africa/Mogadishu
+Amazon Standard Time: America/Porto_Velho
+Mountain Daylight Time: America/Inuvik
+Yukon Time: Canada/Yukon
+Midden-Europese zomertijd: Europe/Madrid
+GMT+03:00: Asia/Amman
+Chile Standard Time: Chile/Continental
+Eastern Daylight Time: America/Fort_Wayne
+Belause tijd: Pacific/Palau
+Greenwich Mean Time: Africa/Lome
+Novosibirsk-standaardtijd: Asia/Novosibirsk
+Centraal-Afrikaanse tijd: Africa/Gaborone
+West-Afrikaanse standaardtijd: Africa/Bangui
+gecoördineerde wereldtijd: Etc/Universal
+West-Australische standaardtijd: Australia/West
+Centraal-Afrikaanse tijd: Africa/Maputo
+Central Daylight Time: America/Rainy_River
+Oezbeekse standaardtijd: Asia/Tashkent
+Eastern Daylight Time: Canada/Eastern
+gecoördineerde wereldtijd: Universal
+GMT+00:00: Factory
+Oost-Afrikaanse tijd: Africa/Nairobi
+Samoaanse standaardtijd: US/Samoa
+Argentina Standard Time: America/Argentina/Ushuaia
+Newfoundland Daylight Time: Canada/Newfoundland
+Greenwich Mean Time: Iceland
+Dumont-d’Urville-tijd: Antarctica/DumontDUrville
+Midden-Europese zomertijd: Europe/Vienna
+Mountain Daylight Time: America/Edmonton
+Eastern Daylight Time: America/Iqaluit
+Maleisische tijd: Asia/Kuching
+Greenwich Mean Time: America/Danmarkshavn
+Nieuw-Zeelandse standaardtijd: Antarctica/South_Pole
+Pitcairneilandse tijd: Pacific/Pitcairn
+West-Afrikaanse standaardtijd: Africa/Kinshasa
+Ulaanbaatar-standaardtijd: Asia/Choibalsan
+Fernando de Noronha Standard Time: America/Noronha
+Midden-Europese zomertijd: Europe/Andorra
+Acre-standaardtijd: Brazil/Acre
+GMT+02:00: MET
+Eastern Standard Time: America/Cancun
+Sachalin-standaardtijd: Asia/Sakhalin
+Central Standard Time: America/Guatemala
+Chinese standaardtijd: Asia/Harbin
+Argentina Standard Time: America/Argentina/Cordoba
+Greenwich Mean Time: Greenwich
+gecoördineerde wereldtijd: UCT
+Gambiereilandse tijd: Pacific/Gambier
+Mountain Standard Time: America/Dawson_Creek
+Eastern Daylight Time: America/Indiana/Marengo
+Oost-Australische standaardtijd: Australia/Sydney
+GMT+10:00: Etc/GMT-10
+West-Afrikaanse standaardtijd: Africa/Libreville
+Jekaterinenburg-standaardtijd: Asia/Yekaterinburg
+GMT+03:00: Asia/Damascus
+Oost-Australische standaardtijd: Australia/ACT
+Central Standard Time: America/Managua
+Koreaanse standaardtijd: ROK
+Greenwich Mean Time: Africa/Abidjan
+Greenwich Mean Time: Africa/Nouakchott
+Oost-Timorese tijd: Asia/Dili
+Kaapverdische standaardtijd: Atlantic/Cape_Verde
+GMT+04:00: Europe/Saratov
+Chatham-standaardtijd: Pacific/Chatham
+Atlantic Daylight Time: America/Thule
+Centraal-Afrikaanse tijd: Africa/Kigali
+Eastern Daylight Time: America/Indiana/Petersburg
+Eastern Standard Time: America/Atikokan
+Central Standard Time: America/Tegucigalpa
+Greenwich Mean Time: Eire
+Phoenixeilandse tijd: Pacific/Kanton
+Atlantic Daylight Time: America/Halifax
+Alaska Daylight Time: US/Alaska
+Indochinese tijd: Asia/Bangkok
+Oost-Afrikaanse tijd: Indian/Mayotte
+Eastern Standard Time: America/Cayman
+Atlantic Standard Time: America/Dominica
+Eastern Daylight Time: America/Indiana/Indianapolis
+GMT+11:00: Etc/GMT-11
+Rothera-tijd: Antarctica/Rothera
+Maldivische tijd: Indian/Maldives
+Oost-Afrikaanse tijd: Africa/Asmara
+GMT+01:00: Africa/Casablanca
+Eastern Daylight Time: America/New_York
+Eastern Daylight Time: America/Toronto
+Oost-Europese zomertijd: Europe/Tiraspol
+GMT+11:00: Pacific/Bougainville
+Eastern Daylight Time: America/Kentucky/Monticello
+GMT-02:00: Etc/GMT+2
+Lord Howe-eilandse standaardtijd: Australia/Lord_Howe
+Oost-Europese zomertijd: Europe/Athens
+Midden-Australische standaardtijd: Australia/Yancowinna
+Falkland Islands Standard Time: Atlantic/Stanley
+Pacific Daylight Time: America/Tijuana
+Jakoetsk-standaardtijd: Asia/Khandyga
+Brasilia Standard Time: America/Santarem
+Chuukse tijd: Pacific/Chuuk
+Indochinese tijd: Asia/Phnom_Penh
+GMT+01:00: Europe/Isle_of_Man
+Midden-Europese zomertijd: Europe/Skopje
+Amazon Standard Time: America/Manaus
+Mountain Daylight Time: MST7MDT
+Salomonseilandse tijd: Pacific/Guadalcanal
+Maleisische tijd: Asia/Kuala_Lumpur
+Centraal-Afrikaanse tijd: Africa/Harare
+Pacific Daylight Time: Mexico/BajaNorte
+GMT-04:00: Etc/GMT+4
+Davis-tijd: Antarctica/Davis
+Oost-Europese zomertijd: Egypt
+Venezolaanse tijd: America/Caracas
+Brasilia Standard Time: America/Sao_Paulo
+Brasilia Standard Time: America/Recife
+Midden-Europese zomertijd: Europe/Berlin
+Petropavlovsk-Kamtsjatski-standaardtijd: Asia/Kamchatka
+Hawaii-Aleutian Daylight Time: US/Aleutian
+Greenwich Mean Time: Africa/Dakar
+Jakoetsk-standaardtijd: Asia/Yakutsk
+Centraal-Afrikaanse tijd: Africa/Lusaka
+Greenwich Mean Time: Europe/Dublin
+Midden-Europese zomertijd: Europe/Vaduz
+Hovd-standaardtijd: Asia/Hovd
+Midden-Europese zomertijd: Europe/Ljubljana
+Midden-Europese zomertijd: Europe/San_Marino
+Eastern Daylight Time: America/Kentucky/Louisville
+Chinese standaardtijd: Asia/Shanghai
+Eastern Daylight Time: America/Montreal
+GMT+07:00: Asia/Barnaul
+Chamorro-tijd: Pacific/Guam
+Pacific Daylight Time: PST8PDT
+Papoea-Nieuw-Guineese tijd: Pacific/Port_Moresby
+Oost-Afrikaanse tijd: Africa/Kampala
+Oost-Europese zomertijd: Europe/Nicosia
+Pacific Daylight Time: America/Vancouver
+Midden-Europese zomertijd: Europe/Malta
+Atlantic Standard Time: America/Puerto_Rico
+Atlantic Daylight Time: Canada/Atlantic
+GMT-06:00: Etc/GMT+6
+Eastern Daylight Time: EST5EDT
+Atlantic Standard Time: America/Curacao
+GMT+03:00: Asia/Istanbul
+Centraal-Indonesische tijd: Asia/Ujung_Pandang
+Eastern Daylight Time: America/Indiana/Winamac
+Omsk-standaardtijd: Asia/Omsk
+Oost-Europese zomertijd: Europe/Tallinn
+Argentina Standard Time: America/Cordoba
+GMT-11:00: Etc/GMT+11

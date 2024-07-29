@@ -1,0 +1,597 @@
+Гавайско-алеутское летнее время: America/Atka
+Суринам: America/Paramaribo
+Туркменистан, стандартное время: Asia/Ashkhabad
+Непал: Asia/Katmandu
+GMT+12:00: Etc/GMT-12
+Атлантическое стандартное время: America/St_Barthelemy
+Красноярск, стандартное время: Asia/Krasnoyarsk
+Центральная Европа, летнее время: Europe/Brussels
+Волгоград, стандартное время: Europe/Volgograd
+Летнее горное время (Северная Америка): America/Denver
+Бразилия, стандартное время: America/Fortaleza
+Центральная Европа, летнее время: Europe/Podgorica
+Южная Георгия: Atlantic/South_Georgia
+Западная Африка, стандартное время: Africa/Ndjamena
+Восточная Америка, летнее время: America/Nassau
+Бангладеш, стандартное время: Asia/Dhaka
+Парагвай, стандартное время: America/Asuncion
+Атлантическое стандартное время: America/Blanc-Sablon
+Центральная Америка, летнее время: America/Indiana/Knox
+Бангладеш, стандартное время: Asia/Dacca
+Восточная Австралия, стандартное время: Antarctica/Macquarie
+Москва, стандартное время: Europe/Moscow
+Всемирное координированное время: UTC
+Корея, стандартное время: Asia/Seoul
+Восточная Европа, летнее время: Europe/Riga
+Центральная Африка: Africa/Blantyre
+Аргентина, стандартное время: America/Argentina/Salta
+Аргентина, стандартное время: America/Argentina/Buenos_Aires
+Центральная Европа, стандартное время: Africa/Algiers
+Восточная Австралия, стандартное время: Australia/Tasmania
+Центральная Америка, летнее время: US/Indiana-Starke
+Самоа, стандартное время: Pacific/Midway
+Летнее горное время (Северная Америка): America/Ciudad_Juarez
+GMT-10:00: HST
+GMT+11:00: Asia/Srednekolymsk
+Восточная Австралия, стандартное время: Australia/Hobart
+Атлантическое летнее время: Atlantic/Bermuda
+Всемирное координированное время: Etc/UCT
+Французские Южные и Антарктические территории: Indian/Kerguelen
+Западная Европа, летнее время: Atlantic/Faroe
+Амазонка, стандартное время: America/Campo_Grande
+Лорд-Хау, стандартное время: Australia/LHI
+Маврикий, стандартное время: Indian/Mauritius
+GMT+02:00: CET
+Восточная Европа, стандартное время: Libya
+GMT-07:00: Etc/GMT+7
+GMT+08:00: Etc/GMT-8
+Среднее время по Гринвичу: Atlantic/St_Helena
+Понпеи: Pacific/Pohnpei
+GMT-01:00: Etc/GMT+1
+Восточная Европа, летнее время: Europe/Kyiv
+GMT+05:00: Etc/GMT-5
+Реюньон: Indian/Reunion
+GMT-03:00: Antarctica/Palmer
+Центральная Америка, стандартное время: America/Bahia_Banderas
+Аргентина, стандартное время: America/Jujuy
+Якутск, стандартное время: Asia/Chita
+Летнее горное время (Северная Америка): US/Mountain
+Красноярск, стандартное время: Asia/Novokuznetsk
+GMT+06:00: Etc/GMT-6
+Восточная Австралия, стандартное время: Australia/Currie
+Непал: Asia/Kathmandu
+Ньюфаундленд, летнее время: America/St_Johns
+Западный Казахстан: Asia/Aqtobe
+Среднее время по Гринвичу: GMT+0
+GMT+04:00: Europe/Astrakhan
+GMT+01:00: Europe/Guernsey
+Атлантическое стандартное время: America/Martinique
+Восточная Америка, летнее время: US/East-Indiana
+Центральная Европа, летнее время: Arctic/Longyearbyen
+Центральная Америка, стандартное время: America/Mexico_City
+Аргентина, стандартное время: America/Argentina/ComodRivadavia
+Тихоокеанское летнее время: Canada/Pacific
+Кейси: Antarctica/Casey
+Центральная Африка: Africa/Bujumbura
+Акри стандартное время: America/Eirunepe
+Япония, стандартное время: Asia/Tokyo
+Центральная Европа, летнее время: Europe/Bratislava
+Восточная Австралия, стандартное время: Australia/Melbourne
+Восточная Америка, стандартное время: America/Panama
+Восточная Европа, летнее время: Asia/Beirut
+Восточная Африка: Indian/Antananarivo
+Узбекистан, стандартное время: Asia/Samarkand
+Перу, стандартное время: America/Lima
+Атлантическое стандартное время: America/St_Thomas
+Западная Индонезия: Asia/Pontianak
+Тихоокеанское мексиканское стандартное время: Mexico/BajaSur
+Среднее время по Гринвичу: Etc/GMT
+Западная Африка, стандартное время: Africa/Luanda
+Атлантическое стандартное время: America/St_Lucia
+Атлантическое стандартное время: America/Barbados
+Южная Африка: Africa/Maseru
+Тихоокеанское мексиканское стандартное время: America/Mazatlan
+Маркизские о-ва: Pacific/Marquesas
+Восточная Америка, летнее время: America/Thunder_Bay
+Амазонка, стандартное время: America/Cuiaba
+Маршалловы Острова: Pacific/Majuro
+Восточная Африка: Africa/Addis_Ababa
+Новая Зеландия, стандартное время: Antarctica/McMurdo
+Центральная Европа, летнее время: Europe/Warsaw
+Центральная Америка, летнее время: America/Knox_IN
+Маршалловы Острова: Pacific/Kwajalein
+Амазонка, стандартное время: Brazil/West
+GMT+03:00: Etc/GMT-3
+Атлантическое стандартное время: America/St_Vincent
+Атлантическое стандартное время: America/Marigot
+Тайвань, стандартное время: Asia/Taipei
+Восточная Америка, летнее время: US/Eastern
+Маршалловы Острова: Kwajalein
+Аргентина, стандартное время: America/Argentina/Jujuy
+GMT-05:00: Etc/GMT+5
+Центральная Европа, летнее время: Europe/Zagreb
+Восточная Америка, летнее время: America/Port-au-Prince
+Центральная Австралия, стандартное время: Australia/North
+Среднее время по Гринвичу: GMT
+Центральная Европа, стандартное время: Africa/Tunis
+Афганистан: Asia/Kabul
+Аляска, летнее время: America/Juneau
+GMT+07:00: Asia/Tomsk
+Южная Африка: Africa/Mbabane
+Западная Африка, стандартное время: Africa/Porto-Novo
+Персидский залив: Asia/Muscat
+Аргентина, стандартное время: America/Argentina/San_Luis
+Центральная Австралия, западное стандартное время: Australia/Eucla
+Атлантическое стандартное время: America/Anguilla
+Центральная Европа, летнее время: Europe/Gibraltar
+Центральная Европа, летнее время: Europe/Prague
+Восточная Европа, летнее время: Europe/Zaporozhye
+Корея, стандартное время: Asia/Pyongyang
+Центральная Европа, летнее время: Europe/Zurich
+Западный Казахстан: Asia/Atyrau
+Восточная Америка, летнее время: America/Indiana/Vincennes
+Аргентина, стандартное время: America/Argentina/Catamarca
+Центральная Европа, летнее время: Europe/Stockholm
+Всемирное координированное время: Etc/UTC
+Западная Африка, стандартное время: Africa/Lagos
+Аргентина, стандартное время: America/Argentina/La_Rioja
+Персидский залив: Asia/Dubai
+Улан-Батор, стандартное время: Asia/Ulaanbaatar
+Фернанду-ди-Норонья, стандартное время: Brazil/DeNoronha
+Среднее время по Гринвичу: Africa/Bissau
+Грузия, стандартное время: Asia/Tbilisi
+Атлантическое стандартное время: America/St_Kitts
+Западная Африка, стандартное время: Africa/Douala
+Атлантическое летнее время: America/Goose_Bay
+Восточная Америка, летнее время: America/Indianapolis
+Центральная Европа, летнее время: Europe/Rome
+Гавайско-алеутское стандартное время: Pacific/Johnston
+Восточная Европа, летнее время: Asia/Hebron
+Восточная Австралия, стандартное время: Australia/Victoria
+Центральная Америка, летнее время: CST6CDT
+Восточная Америка, летнее время: US/Michigan
+Владивосток, стандартное время: Asia/Vladivostok
+Южная Африка: Africa/Johannesburg
+GMT+03:00: Asia/Famagusta
+Израиль, летнее время: Israel
+Трук: Pacific/Yap
+GMT-09:00: Etc/GMT+9
+Центральная Африка: Africa/Khartoum
+Самарское стандартное время: Europe/Samara
+Уоллис и Футуна: Pacific/Wallis
+Восток: Antarctica/Vostok
+Галапагосские о-ва: Pacific/Galapagos
+Боливия: America/La_Paz
+Атлантическое стандартное время: America/Port_of_Spain
+Восточная Америка, стандартное время: America/Coral_Harbour
+Центральная Америка, летнее время: America/North_Dakota/Center
+Стандартное горное время (Северная Америка): America/Creston
+Атлантическое стандартное время: America/Grenada
+GMT+01:00: Europe/Jersey
+Чаморро: Pacific/Saipan
+Восточная Америка, стандартное время: Jamaica
+Атлантическое стандартное время: America/Lower_Princes
+Всемирное координированное время: Etc/Zulu
+Понпеи: Pacific/Ponape
+Самоа, стандартное время: Pacific/Pago_Pago
+Восточная Европа, летнее время: Africa/Cairo
+Центральная Европа, летнее время: Europe/Budapest
+GMT-10:00: Etc/GMT+10
+Центральная Европа, летнее время: Europe/Tirane
+Центральная Европа, летнее время: Europe/Belgrade
+Центральная Америка, стандартное время: America/El_Salvador
+Центральная Америка, летнее время: America/Menominee
+Великобритания, летнее время: GB-Eire
+Гавайско-алеутское стандартное время: US/Hawaii
+Азербайджан, стандартное время: Asia/Baku
+Западная Африка, стандартное время: Africa/Brazzaville
+о-в Рождества: Indian/Christmas
+GMT+02:00: Antarctica/Troll
+Западная Гренландия, летнее время: America/Nuuk
+Западная Европа, летнее время: Atlantic/Madeira
+Туркменистан, стандартное время: Asia/Ashgabat
+Среднее время по Гринвичу: Etc/GMT-0
+Среднее время по Гринвичу: Africa/Timbuktu
+GMT+07:00: Etc/GMT-7
+GMT+06:00: Asia/Urumqi
+Восточная Австралия, стандартное время: Australia/Brisbane
+Гонконг, стандартное время: Hongkong
+Стандартное горное время (Северная Америка): America/Phoenix
+Среднее время по Гринвичу: Africa/Bamako
+Тайвань, стандартное время: ROC
+Центральная Америка, стандартное время: America/Costa_Rica
+Таджикистан: Asia/Dushanbe
+Гавайско-алеутское летнее время: America/Adak
+Ниуэ: Pacific/Niue
+GMT+03:00: Europe/Istanbul
+Китай, стандартное время: Asia/Macau
+Бразилия, стандартное время: America/Belem
+Центральная Америка, летнее время: America/North_Dakota/New_Salem
+Центральная Америка, стандартное время: America/Monterrey
+Атлантическое стандартное время: America/Montserrat
+Япония, стандартное время: Japan
+Восточная Европа, стандартное время: Europe/Kaliningrad
+Аргентина, стандартное время: America/Argentina/Rio_Gallegos
+Центральная Америка, стандартное время: America/Regina
+Среднее время по Гринвичу: Africa/Freetown
+Армения, стандартное время: Asia/Yerevan
+Великобритания, летнее время: Europe/Belfast
+Восточная Европа, стандартное время: Africa/Tripoli
+Улан-Батор, стандартное время: Asia/Ulan_Bator
+Сёва: Antarctica/Syowa
+Аргентина, стандартное время: America/Catamarca
+Восточная Австралия, стандартное время: Australia/Lindeman
+Центральная Америка, летнее время: US/Central
+Аргентина, стандартное время: America/Argentina/San_Juan
+Юкон: America/Whitehorse
+Среднее время по Гринвичу: Africa/Banjul
+GMT+01:00: Africa/El_Aaiun
+Летнее горное время (Северная Америка): America/Cambridge_Bay
+Атлантическое стандартное время: America/Antigua
+о-ва Лайн: Pacific/Kiritimati
+Саудовская Аравия, стандартное время: Asia/Aden
+Восточная Америка, летнее время: America/Louisville
+Аляска, летнее время: America/Sitka
+Восточная Европа, летнее время: Europe/Uzhgorod
+Новая Каледония, стандартное время: Pacific/Noumea
+Восточная Европа, летнее время: Europe/Kiev
+Восточная Австралия, стандартное время: Australia/NSW
+Центральная Америка, летнее время: America/Resolute
+Среднее время по Гринвичу: GMT0
+Западная Австралия, стандартное время: Australia/Perth
+Москва, стандартное время: Europe/Simferopol
+Центральная Австралия, стандартное время: Australia/Broken_Hill
+Вануату, стандартное время: Pacific/Efate
+Западная Европа, летнее время: Atlantic/Canary
+Таити: Pacific/Tahiti
+Центральная Европа, летнее время: Europe/Copenhagen
+Аляска, летнее время: America/Metlakatla
+Великобритания, летнее время: Europe/London
+GMT-12:00: Etc/GMT+12
+Центральная Индонезия: Asia/Makassar
+Тихоокеанское мексиканское стандартное время: America/Hermosillo
+Атлантическое летнее время: America/Moncton
+Индийский океан: Indian/Chagos
+Западная Европа, летнее время: Portugal
+Центральная Европа, летнее время: Europe/Monaco
+Гавайско-алеутское стандартное время: Pacific/Honolulu
+GMT+02:00: Etc/GMT-2
+Индокитай: Asia/Ho_Chi_Minh
+Острова Кука, стандартное время: Pacific/Rarotonga
+Восточная Америка, летнее время: America/Pangnirtung
+Акри стандартное время: America/Porto_Acre
+Среднее время по Гринвичу: Africa/Monrovia
+Среднее время по Гринвичу: Etc/Greenwich
+Норфолк, стандартное время: Pacific/Norfolk
+Трук: Pacific/Truk
+GMT-07:00: MST
+Центральная Америка, летнее время: America/Ojinaga
+Китай, стандартное время: Asia/Chungking
+Западная Европа, летнее время: Europe/Lisbon
+Восточная Европа, летнее время: Europe/Vilnius
+Аляска, летнее время: America/Yakutat
+Тихоокеанское летнее время: America/Ensenada
+Науру: Pacific/Nauru
+Восточная Европа, летнее время: Europe/Chisinau
+GMT+03:00: Europe/Kirov
+Центральная Европа, летнее время: Europe/Oslo
+Бразилия, стандартное время: America/Bahia
+Индия: Asia/Kolkata
+GMT+04:00: Europe/Ulyanovsk
+Летнее горное время (Северная Америка): Canada/Mountain
+Центральная Европа, летнее время: Europe/Luxembourg
+Среднее время по Гринвичу: Africa/Conakry
+Аргентина, стандартное время: America/Argentina/Tucuman
+Киргизия: Asia/Bishkek
+Анадырь стандартное время: Asia/Anadyr
+Москва, стандартное время: Europe/Minsk
+Восточная Гренландия, летнее время: America/Scoresbysund
+Центральная Европа, летнее время: Europe/Paris
+Центральная Америка, стандартное время: America/Chihuahua
+Фиджи, стандартное время: Pacific/Fiji
+Мьянма: Asia/Yangon
+Чили, стандартное время: America/Santiago
+Индокитай: Asia/Vientiane
+Атлантическое стандартное время: America/Kralendijk
+Центральная Африка: Africa/Juba
+Тонга, стандартное время: Pacific/Tongatapu
+Иркутск, стандартное время: Asia/Irkutsk
+GMT+06:00: Asia/Kashgar
+Чатем, стандартное время: NZ-CHAT
+Китай, стандартное время: PRC
+Саудовская Аравия, стандартное время: Asia/Kuwait
+Бутан: Asia/Thimbu
+Центральная Европа, летнее время: Europe/Busingen
+Атлантическое летнее время: America/Glace_Bay
+Центральная Америка, стандартное время: America/Belize
+Индия: Asia/Calcutta
+Сингапур: Asia/Singapore
+Саудовская Аравия, стандартное время: Asia/Baghdad
+Сингапур: Singapore
+Восточная Европа, летнее время: Asia/Nicosia
+Среднее время по Гринвичу: Atlantic/Reykjavik
+Аргентина, стандартное время: America/Buenos_Aires
+Летнее горное время (Северная Америка): America/Boise
+Израиль, летнее время: Asia/Jerusalem
+Среднее время по Гринвичу: Africa/Ouagadougou
+О-в Пасхи, стандартное время: Pacific/Easter
+Гонконг, стандартное время: Asia/Hong_Kong
+GMT-03:00: Etc/GMT+3
+Уругвай, стандартное время: America/Montevideo
+Уэйк: Pacific/Wake
+Эквадор: America/Guayaquil
+Центральная Америка, летнее время: America/Winnipeg
+Стандартное горное время (Северная Америка): US/Arizona
+Атлантическое стандартное время: America/Virgin
+Центральная Америка, стандартное время: Canada/Saskatchewan
+GMT+04:00: Etc/GMT-4
+GMT+03:00: Turkey
+Атлантическое стандартное время: America/Guadeloupe
+Центральная Африка: Africa/Windhoek
+Бразилия, стандартное время: Brazil/East
+Летнее горное время (Северная Америка): Navajo
+Индия: Asia/Colombo
+GMT-05:00: EST
+Центральная Америка, летнее время: America/North_Dakota/Beulah
+Токелау: Pacific/Fakaofo
+Мьянма: Asia/Rangoon
+Восточная Европа, летнее время: Europe/Mariehamn
+Атлантическое стандартное время: America/Santo_Domingo
+Новая Зеландия, стандартное время: NZ
+Среднее время по Гринвичу: Etc/GMT+0
+Бразилия, стандартное время: America/Araguaina
+Атлантическое стандартное время: America/Aruba
+Восточная Европа, летнее время: Europe/Helsinki
+Тувалу: Pacific/Funafuti
+Восточная Америка, стандартное время: America/Jamaica
+Восточная Америка, летнее время: America/Indiana/Vevay
+Центральная Америка, стандартное время: America/Swift_Current
+Аргентина, стандартное время: America/Argentina/Mendoza
+Индокитай: Asia/Saigon
+Аляска, летнее время: America/Nome
+Восточная Африка: Africa/Dar_es_Salaam
+GMT+13:00: Etc/GMT-13
+Восточная Америка, летнее время: America/Nipigon
+Летнее горное время (Северная Америка): America/Yellowknife
+Западная Африка, стандартное время: Africa/Malabo
+о-ва Гилберта: Pacific/Tarawa
+Бразилия, стандартное время: America/Maceio
+Всемирное координированное время: Zulu
+Западный Казахстан: Asia/Oral
+Центральная Европа, летнее время: Europe/Vatican
+Аргентина, стандартное время: America/Mendoza
+Центральная Америка, летнее время: America/Rankin_Inlet
+Великобритания, летнее время: GB
+Центральная Европа, летнее время: Poland
+Центральная Европа, летнее время: Europe/Amsterdam
+Восточная Европа, летнее время: Asia/Gaza
+Бутан: Asia/Thimphu
+Тихоокеанское летнее время: US/Pacific
+Западная Европа, летнее время: Atlantic/Faeroe
+Сен-Пьер и Микелон, летнее время: America/Miquelon
+Центральная Австралия, стандартное время: Australia/Darwin
+Владивосток, стандартное время: Asia/Ust-Nera
+Западная Гренландия, летнее время: America/Godthab
+Саудовская Аравия, стандартное время: Asia/Riyadh
+Амазонка, стандартное время: America/Boa_Vista
+Куба, летнее время: Cuba
+Среднее время по Гринвичу: GMT-0
+Стандартное горное время (Северная Америка): America/Fort_Nelson
+Филиппины, стандартное время: Asia/Manila
+Акри стандартное время: America/Rio_Branco
+Центральная Америка, летнее время: America/Indiana/Tell_City
+Западный Казахстан: Asia/Qyzylorda
+Центральная Европа, летнее время: Europe/Sarajevo
+GMT+03:00: EET
+Москва, стандартное время: W-SU
+Восточный Казахстан: Asia/Almaty
+Восточная Африка: Indian/Comoro
+Восточная Индонезия: Asia/Jayapura
+Восточная Америка, летнее время: America/Grand_Turk
+Апиа, стандартное время: Pacific/Apia
+Гайана: America/Guyana
+GMT+01:00: Etc/GMT-1
+Сейшельские Острова: Indian/Mahe
+Французская Гвиана: America/Cayenne
+GMT+14:00: Etc/GMT-14
+Магадан, стандартное время: Asia/Magadan
+Восточная Австралия, стандартное время: Australia/Queensland
+Тихоокеанское летнее время: America/Los_Angeles
+Иран, стандартное время: Iran
+GMT+09:00: Etc/GMT-9
+GMT+01:00: WET
+Центральная Европа, летнее время: Atlantic/Jan_Mayen
+Западный Казахстан: Asia/Aqtau
+Центральная Америка, летнее время: Canada/Central
+Кокосовые о-ва: Indian/Cocos
+Летнее горное время (Северная Америка): America/Shiprock
+Центральная Европа, летнее время: Africa/Ceuta
+Восточный Казахстан: Asia/Qostanay
+Саудовская Аравия, стандартное время: Asia/Bahrain
+Западная Африка, стандартное время: Africa/Niamey
+GMT-03:00: America/Punta_Arenas
+Саудовская Аравия, стандартное время: Asia/Qatar
+Новая Зеландия, стандартное время: Pacific/Auckland
+О-в Пасхи, стандартное время: Chile/EasterIsland
+Пакистан, стандартное время: Asia/Karachi
+Израиль, летнее время: Asia/Tel_Aviv
+Косрае: Pacific/Kosrae
+Среднее время по Гринвичу: Africa/Accra
+Китай, стандартное время: Asia/Chongqing
+Центральная Австралия, стандартное время: Australia/Adelaide
+Восточная Америка, летнее время: America/Detroit
+Восточная Европа, летнее время: Europe/Sofia
+Западная Индонезия: Asia/Jakarta
+Атлантическое стандартное время: America/Tortola
+Центральная Америка, стандартное время: America/Merida
+Центральная Африка: Africa/Lubumbashi
+о-ва Феникс: Pacific/Enderbury
+Центральная Америка, стандартное время: Mexico/General
+Бруней-Даруссалам: Asia/Brunei
+Центральная Америка, летнее время: America/Matamoros
+Юкон: America/Dawson
+Самоа, стандартное время: Pacific/Samoa
+Куба, летнее время: America/Havana
+Моусон: Antarctica/Mawson
+Центральная Америка, летнее время: America/Chicago
+Китай, стандартное время: Asia/Macao
+Тихоокеанское летнее время: America/Santa_Isabel
+Аляска, летнее время: America/Anchorage
+Восточная Австралия, стандартное время: Australia/Canberra
+Среднее время по Гринвичу: Africa/Sao_Tome
+Азорские о-ва, летнее время: Atlantic/Azores
+GMT-08:00: Etc/GMT+8
+Колумбия, стандартное время: America/Bogota
+Среднее время по Гринвичу: Etc/GMT0
+Восточная Европа, летнее время: Europe/Bucharest
+Аргентина, стандартное время: America/Rosario
+Центральная Австралия, стандартное время: Australia/South
+Восточная Африка: Africa/Djibouti
+Иран, стандартное время: Asia/Tehran
+Восточная Африка: Africa/Asmera
+Восточная Африка: Africa/Mogadishu
+Амазонка, стандартное время: America/Porto_Velho
+Летнее горное время (Северная Америка): America/Inuvik
+Юкон: Canada/Yukon
+Центральная Европа, летнее время: Europe/Madrid
+GMT+03:00: Asia/Amman
+Чили, стандартное время: Chile/Continental
+Восточная Америка, летнее время: America/Fort_Wayne
+Палау: Pacific/Palau
+Среднее время по Гринвичу: Africa/Lome
+Новосибирск, стандартное время: Asia/Novosibirsk
+Центральная Африка: Africa/Gaborone
+Западная Африка, стандартное время: Africa/Bangui
+Всемирное координированное время: Etc/Universal
+Западная Австралия, стандартное время: Australia/West
+Центральная Африка: Africa/Maputo
+Центральная Америка, летнее время: America/Rainy_River
+Узбекистан, стандартное время: Asia/Tashkent
+Восточная Америка, летнее время: Canada/Eastern
+Всемирное координированное время: Universal
+GMT+00:00: Factory
+Восточная Африка: Africa/Nairobi
+Самоа, стандартное время: US/Samoa
+Аргентина, стандартное время: America/Argentina/Ushuaia
+Ньюфаундленд, летнее время: Canada/Newfoundland
+Среднее время по Гринвичу: Iceland
+Дюмон-д’Юрвиль: Antarctica/DumontDUrville
+Центральная Европа, летнее время: Europe/Vienna
+Летнее горное время (Северная Америка): America/Edmonton
+Восточная Америка, летнее время: America/Iqaluit
+Малайзия: Asia/Kuching
+Среднее время по Гринвичу: America/Danmarkshavn
+Новая Зеландия, стандартное время: Antarctica/South_Pole
+Питкэрн: Pacific/Pitcairn
+Западная Африка, стандартное время: Africa/Kinshasa
+Улан-Батор, стандартное время: Asia/Choibalsan
+Фернанду-ди-Норонья, стандартное время: America/Noronha
+Центральная Европа, летнее время: Europe/Andorra
+Акри стандартное время: Brazil/Acre
+GMT+02:00: MET
+Восточная Америка, стандартное время: America/Cancun
+Сахалин, стандартное время: Asia/Sakhalin
+Центральная Америка, стандартное время: America/Guatemala
+Китай, стандартное время: Asia/Harbin
+Аргентина, стандартное время: America/Argentina/Cordoba
+Среднее время по Гринвичу: Greenwich
+Всемирное координированное время: UCT
+Гамбье: Pacific/Gambier
+Стандартное горное время (Северная Америка): America/Dawson_Creek
+Восточная Америка, летнее время: America/Indiana/Marengo
+Восточная Австралия, стандартное время: Australia/Sydney
+GMT+10:00: Etc/GMT-10
+Западная Африка, стандартное время: Africa/Libreville
+Екатеринбург, стандартное время: Asia/Yekaterinburg
+GMT+03:00: Asia/Damascus
+Восточная Австралия, стандартное время: Australia/ACT
+Центральная Америка, стандартное время: America/Managua
+Корея, стандартное время: ROK
+Среднее время по Гринвичу: Africa/Abidjan
+Среднее время по Гринвичу: Africa/Nouakchott
+Восточный Тимор: Asia/Dili
+Кабо-Верде, стандартное время: Atlantic/Cape_Verde
+GMT+04:00: Europe/Saratov
+Чатем, стандартное время: Pacific/Chatham
+Атлантическое летнее время: America/Thule
+Центральная Африка: Africa/Kigali
+Восточная Америка, летнее время: America/Indiana/Petersburg
+Восточная Америка, стандартное время: America/Atikokan
+Центральная Америка, стандартное время: America/Tegucigalpa
+Среднее время по Гринвичу: Eire
+о-ва Феникс: Pacific/Kanton
+Атлантическое летнее время: America/Halifax
+Аляска, летнее время: US/Alaska
+Индокитай: Asia/Bangkok
+Восточная Африка: Indian/Mayotte
+Восточная Америка, стандартное время: America/Cayman
+Атлантическое стандартное время: America/Dominica
+Восточная Америка, летнее время: America/Indiana/Indianapolis
+GMT+11:00: Etc/GMT-11
+Ротера: Antarctica/Rothera
+Мальдивы: Indian/Maldives
+Восточная Африка: Africa/Asmara
+GMT+01:00: Africa/Casablanca
+Восточная Америка, летнее время: America/New_York
+Восточная Америка, летнее время: America/Toronto
+Восточная Европа, летнее время: Europe/Tiraspol
+GMT+11:00: Pacific/Bougainville
+Восточная Америка, летнее время: America/Kentucky/Monticello
+GMT-02:00: Etc/GMT+2
+Лорд-Хау, стандартное время: Australia/Lord_Howe
+Восточная Европа, летнее время: Europe/Athens
+Центральная Австралия, стандартное время: Australia/Yancowinna
+Фолклендские о-ва, стандартное время: Atlantic/Stanley
+Тихоокеанское летнее время: America/Tijuana
+Якутск, стандартное время: Asia/Khandyga
+Бразилия, стандартное время: America/Santarem
+Трук: Pacific/Chuuk
+Индокитай: Asia/Phnom_Penh
+GMT+01:00: Europe/Isle_of_Man
+Центральная Европа, летнее время: Europe/Skopje
+Амазонка, стандартное время: America/Manaus
+Летнее горное время (Северная Америка): MST7MDT
+Соломоновы Острова: Pacific/Guadalcanal
+Малайзия: Asia/Kuala_Lumpur
+Центральная Африка: Africa/Harare
+Тихоокеанское летнее время: Mexico/BajaNorte
+GMT-04:00: Etc/GMT+4
+Дейвис: Antarctica/Davis
+Восточная Европа, летнее время: Egypt
+Венесуэла: America/Caracas
+Бразилия, стандартное время: America/Sao_Paulo
+Бразилия, стандартное время: America/Recife
+Центральная Европа, летнее время: Europe/Berlin
+Петропавловск-Камчатский, стандартное время: Asia/Kamchatka
+Гавайско-алеутское летнее время: US/Aleutian
+Среднее время по Гринвичу: Africa/Dakar
+Якутск, стандартное время: Asia/Yakutsk
+Центральная Африка: Africa/Lusaka
+Среднее время по Гринвичу: Europe/Dublin
+Центральная Европа, летнее время: Europe/Vaduz
+Ховд, стандартное время: Asia/Hovd
+Центральная Европа, летнее время: Europe/Ljubljana
+Центральная Европа, летнее время: Europe/San_Marino
+Восточная Америка, летнее время: America/Kentucky/Louisville
+Китай, стандартное время: Asia/Shanghai
+Восточная Америка, летнее время: America/Montreal
+GMT+07:00: Asia/Barnaul
+Чаморро: Pacific/Guam
+Тихоокеанское летнее время: PST8PDT
+Папуа – Новая Гвинея: Pacific/Port_Moresby
+Восточная Африка: Africa/Kampala
+Восточная Европа, летнее время: Europe/Nicosia
+Тихоокеанское летнее время: America/Vancouver
+Центральная Европа, летнее время: Europe/Malta
+Атлантическое стандартное время: America/Puerto_Rico
+Атлантическое летнее время: Canada/Atlantic
+GMT-06:00: Etc/GMT+6
+Восточная Америка, летнее время: EST5EDT
+Атлантическое стандартное время: America/Curacao
+GMT+03:00: Asia/Istanbul
+Центральная Индонезия: Asia/Ujung_Pandang
+Восточная Америка, летнее время: America/Indiana/Winamac
+Омск, стандартное время: Asia/Omsk
+Восточная Европа, летнее время: Europe/Tallinn
+Аргентина, стандартное время: America/Cordoba
+GMT-11:00: Etc/GMT+11

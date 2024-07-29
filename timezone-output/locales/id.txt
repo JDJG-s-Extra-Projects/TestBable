@@ -1,0 +1,597 @@
+Waktu Musim Panas Hawaii-Aleutian: America/Atka
+Waktu Suriname: America/Paramaribo
+Waktu Standar Turkmenistan: Asia/Ashkhabad
+Waktu Nepal: Asia/Katmandu
+GMT+12:00: Etc/GMT-12
+Waktu Standar Atlantik: America/St_Barthelemy
+Waktu Standar Krasnoyarsk: Asia/Krasnoyarsk
+Waktu Musim Panas Eropa Tengah: Europe/Brussels
+Waktu Standar Volgograd: Europe/Volgograd
+Waktu Musim Panas Pegunungan: America/Denver
+Waktu Standar Brasil: America/Fortaleza
+Waktu Musim Panas Eropa Tengah: Europe/Podgorica
+Waktu Georgia Selatan: Atlantic/South_Georgia
+Waktu Standar Afrika Barat: Africa/Ndjamena
+Waktu Musim Panas Timur: America/Nassau
+Waktu Standar Bangladesh: Asia/Dhaka
+Waktu Standar Paraguay: America/Asuncion
+Waktu Standar Atlantik: America/Blanc-Sablon
+Waktu Musim Panas Tengah: America/Indiana/Knox
+Waktu Standar Bangladesh: Asia/Dacca
+Waktu Standar Timur Australia: Antarctica/Macquarie
+Waktu Standar Moskow: Europe/Moscow
+Waktu Universal Terkoordinasi: UTC
+Waktu Standar Korea: Asia/Seoul
+Waktu Musim Panas Eropa Timur: Europe/Riga
+Waktu Afrika Tengah: Africa/Blantyre
+Waktu Standar Argentina: America/Argentina/Salta
+Waktu Standar Argentina: America/Argentina/Buenos_Aires
+Waktu Standar Eropa Tengah: Africa/Algiers
+Waktu Standar Timur Australia: Australia/Tasmania
+Waktu Musim Panas Tengah: US/Indiana-Starke
+Waktu Standar Samoa: Pacific/Midway
+Waktu Musim Panas Pegunungan: America/Ciudad_Juarez
+GMT-10:00: HST
+GMT+11:00: Asia/Srednekolymsk
+Waktu Standar Timur Australia: Australia/Hobart
+Waktu Musim Panas Atlantik: Atlantic/Bermuda
+Waktu Universal Terkoordinasi: Etc/UCT
+Waktu Wilayah Selatan dan Antarktika Prancis: Indian/Kerguelen
+Waktu Musim Panas Eropa Barat: Atlantic/Faroe
+Waktu Standar Amazon: America/Campo_Grande
+Waktu Standar Lord Howe: Australia/LHI
+Waktu Standar Mauritius: Indian/Mauritius
+GMT+02:00: CET
+Waktu Standar Eropa Timur: Libya
+GMT-07:00: Etc/GMT+7
+GMT+08:00: Etc/GMT-8
+Greenwich Mean Time: Atlantic/St_Helena
+Waktu Ponape: Pacific/Pohnpei
+GMT-01:00: Etc/GMT+1
+Waktu Musim Panas Eropa Timur: Europe/Kyiv
+GMT+05:00: Etc/GMT-5
+Waktu Reunion: Indian/Reunion
+GMT-03:00: Antarctica/Palmer
+Waktu Standar Tengah: America/Bahia_Banderas
+Waktu Standar Argentina: America/Jujuy
+Waktu Standar Yakutsk: Asia/Chita
+Waktu Musim Panas Pegunungan: US/Mountain
+Waktu Standar Krasnoyarsk: Asia/Novokuznetsk
+GMT+06:00: Etc/GMT-6
+Waktu Standar Timur Australia: Australia/Currie
+Waktu Nepal: Asia/Kathmandu
+Waktu Musim Panas Newfoundland: America/St_Johns
+Waktu Kazakhstan Barat: Asia/Aqtobe
+Greenwich Mean Time: GMT+0
+GMT+04:00: Europe/Astrakhan
+GMT+01:00: Europe/Guernsey
+Waktu Standar Atlantik: America/Martinique
+Waktu Musim Panas Timur: US/East-Indiana
+Waktu Musim Panas Eropa Tengah: Arctic/Longyearbyen
+Waktu Standar Tengah: America/Mexico_City
+Waktu Standar Argentina: America/Argentina/ComodRivadavia
+Waktu Musim Panas Pasifik: Canada/Pacific
+Waktu Casey: Antarctica/Casey
+Waktu Afrika Tengah: Africa/Bujumbura
+Waktu Standar Acre: America/Eirunepe
+Waktu Standar Jepang: Asia/Tokyo
+Waktu Musim Panas Eropa Tengah: Europe/Bratislava
+Waktu Standar Timur Australia: Australia/Melbourne
+Waktu Standar Timur: America/Panama
+Waktu Musim Panas Eropa Timur: Asia/Beirut
+Waktu Afrika Timur: Indian/Antananarivo
+Waktu Standar Uzbekistan: Asia/Samarkand
+Waktu Standar Peru: America/Lima
+Waktu Standar Atlantik: America/St_Thomas
+Waktu Indonesia Barat: Asia/Pontianak
+Waktu Standar Pasifik Meksiko: Mexico/BajaSur
+Greenwich Mean Time: Etc/GMT
+Waktu Standar Afrika Barat: Africa/Luanda
+Waktu Standar Atlantik: America/St_Lucia
+Waktu Standar Atlantik: America/Barbados
+Waktu Standar Afrika Selatan: Africa/Maseru
+Waktu Standar Pasifik Meksiko: America/Mazatlan
+Waktu Marquesas: Pacific/Marquesas
+Waktu Musim Panas Timur: America/Thunder_Bay
+Waktu Standar Amazon: America/Cuiaba
+Waktu Kep. Marshall: Pacific/Majuro
+Waktu Afrika Timur: Africa/Addis_Ababa
+Waktu Standar Selandia Baru: Antarctica/McMurdo
+Waktu Musim Panas Eropa Tengah: Europe/Warsaw
+Waktu Musim Panas Tengah: America/Knox_IN
+Waktu Kep. Marshall: Pacific/Kwajalein
+Waktu Standar Amazon: Brazil/West
+GMT+03:00: Etc/GMT-3
+Waktu Standar Atlantik: America/St_Vincent
+Waktu Standar Atlantik: America/Marigot
+Waktu Standar Taipei: Asia/Taipei
+Waktu Musim Panas Timur: US/Eastern
+Waktu Kep. Marshall: Kwajalein
+Waktu Standar Argentina: America/Argentina/Jujuy
+GMT-05:00: Etc/GMT+5
+Waktu Musim Panas Eropa Tengah: Europe/Zagreb
+Waktu Musim Panas Timur: America/Port-au-Prince
+Waktu Standar Tengah Australia: Australia/North
+Greenwich Mean Time: GMT
+Waktu Standar Eropa Tengah: Africa/Tunis
+Waktu Afganistan: Asia/Kabul
+Waktu Musim Panas Alaska: America/Juneau
+GMT+07:00: Asia/Tomsk
+Waktu Standar Afrika Selatan: Africa/Mbabane
+Waktu Standar Afrika Barat: Africa/Porto-Novo
+Waktu Standar Teluk: Asia/Muscat
+Waktu Standar Argentina: America/Argentina/San_Luis
+Waktu Standar Barat Tengah Australia: Australia/Eucla
+Waktu Standar Atlantik: America/Anguilla
+Waktu Musim Panas Eropa Tengah: Europe/Gibraltar
+Waktu Musim Panas Eropa Tengah: Europe/Prague
+Waktu Musim Panas Eropa Timur: Europe/Zaporozhye
+Waktu Standar Korea: Asia/Pyongyang
+Waktu Musim Panas Eropa Tengah: Europe/Zurich
+Waktu Kazakhstan Barat: Asia/Atyrau
+Waktu Musim Panas Timur: America/Indiana/Vincennes
+Waktu Standar Argentina: America/Argentina/Catamarca
+Waktu Musim Panas Eropa Tengah: Europe/Stockholm
+Waktu Universal Terkoordinasi: Etc/UTC
+Waktu Standar Afrika Barat: Africa/Lagos
+Waktu Standar Argentina: America/Argentina/La_Rioja
+Waktu Standar Teluk: Asia/Dubai
+Waktu Standar Ulan Bator: Asia/Ulaanbaatar
+Waktu Standar Fernando de Noronha: Brazil/DeNoronha
+Greenwich Mean Time: Africa/Bissau
+Waktu Standar Georgia: Asia/Tbilisi
+Waktu Standar Atlantik: America/St_Kitts
+Waktu Standar Afrika Barat: Africa/Douala
+Waktu Musim Panas Atlantik: America/Goose_Bay
+Waktu Musim Panas Timur: America/Indianapolis
+Waktu Musim Panas Eropa Tengah: Europe/Rome
+Waktu Standar Hawaii-Aleutian: Pacific/Johnston
+Waktu Musim Panas Eropa Timur: Asia/Hebron
+Waktu Standar Timur Australia: Australia/Victoria
+Waktu Musim Panas Tengah: CST6CDT
+Waktu Musim Panas Timur: US/Michigan
+Waktu Standar Vladivostok: Asia/Vladivostok
+Waktu Standar Afrika Selatan: Africa/Johannesburg
+GMT+03:00: Asia/Famagusta
+Waktu Musim Panas Israel: Israel
+Waktu Chuuk: Pacific/Yap
+GMT-09:00: Etc/GMT+9
+Waktu Afrika Tengah: Africa/Khartoum
+Waktu Standar Samara: Europe/Samara
+Waktu Wallis dan Futuna: Pacific/Wallis
+Waktu Vostok: Antarctica/Vostok
+Waktu Galapagos: Pacific/Galapagos
+Waktu Bolivia: America/La_Paz
+Waktu Standar Atlantik: America/Port_of_Spain
+Waktu Standar Timur: America/Coral_Harbour
+Waktu Musim Panas Tengah: America/North_Dakota/Center
+Waktu Standar Pegunungan: America/Creston
+Waktu Standar Atlantik: America/Grenada
+GMT+01:00: Europe/Jersey
+Waktu Standar Chamorro: Pacific/Saipan
+Waktu Standar Timur: Jamaica
+Waktu Standar Atlantik: America/Lower_Princes
+Waktu Universal Terkoordinasi: Etc/Zulu
+Waktu Ponape: Pacific/Ponape
+Waktu Standar Samoa: Pacific/Pago_Pago
+Waktu Musim Panas Eropa Timur: Africa/Cairo
+Waktu Musim Panas Eropa Tengah: Europe/Budapest
+GMT-10:00: Etc/GMT+10
+Waktu Musim Panas Eropa Tengah: Europe/Tirane
+Waktu Musim Panas Eropa Tengah: Europe/Belgrade
+Waktu Standar Tengah: America/El_Salvador
+Waktu Musim Panas Tengah: America/Menominee
+Waktu Musim Panas Inggris: GB-Eire
+Waktu Standar Hawaii-Aleutian: US/Hawaii
+Waktu Standar Azerbaijan: Asia/Baku
+Waktu Standar Afrika Barat: Africa/Brazzaville
+Waktu Pulau Natal: Indian/Christmas
+GMT+02:00: Antarctica/Troll
+Waktu Musim Panas Greenland Barat: America/Nuuk
+Waktu Musim Panas Eropa Barat: Atlantic/Madeira
+Waktu Standar Turkmenistan: Asia/Ashgabat
+Greenwich Mean Time: Etc/GMT-0
+Greenwich Mean Time: Africa/Timbuktu
+GMT+07:00: Etc/GMT-7
+GMT+06:00: Asia/Urumqi
+Waktu Standar Timur Australia: Australia/Brisbane
+Waktu Standar Hong Kong: Hongkong
+Waktu Standar Pegunungan: America/Phoenix
+Greenwich Mean Time: Africa/Bamako
+Waktu Standar Taipei: ROC
+Waktu Standar Tengah: America/Costa_Rica
+Waktu Tajikistan: Asia/Dushanbe
+Waktu Musim Panas Hawaii-Aleutian: America/Adak
+Waktu Niue: Pacific/Niue
+GMT+03:00: Europe/Istanbul
+Waktu Standar Tiongkok: Asia/Macau
+Waktu Standar Brasil: America/Belem
+Waktu Musim Panas Tengah: America/North_Dakota/New_Salem
+Waktu Standar Tengah: America/Monterrey
+Waktu Standar Atlantik: America/Montserrat
+Waktu Standar Jepang: Japan
+Waktu Standar Eropa Timur: Europe/Kaliningrad
+Waktu Standar Argentina: America/Argentina/Rio_Gallegos
+Waktu Standar Tengah: America/Regina
+Greenwich Mean Time: Africa/Freetown
+Waktu Standar Armenia: Asia/Yerevan
+Waktu Musim Panas Inggris: Europe/Belfast
+Waktu Standar Eropa Timur: Africa/Tripoli
+Waktu Standar Ulan Bator: Asia/Ulan_Bator
+Waktu Syowa: Antarctica/Syowa
+Waktu Standar Argentina: America/Catamarca
+Waktu Standar Timur Australia: Australia/Lindeman
+Waktu Musim Panas Tengah: US/Central
+Waktu Standar Argentina: America/Argentina/San_Juan
+Waktu Yukon: America/Whitehorse
+Greenwich Mean Time: Africa/Banjul
+GMT+01:00: Africa/El_Aaiun
+Waktu Musim Panas Pegunungan: America/Cambridge_Bay
+Waktu Standar Atlantik: America/Antigua
+Waktu Kep. Line: Pacific/Kiritimati
+Waktu Standar Arab: Asia/Aden
+Waktu Musim Panas Timur: America/Louisville
+Waktu Musim Panas Alaska: America/Sitka
+Waktu Musim Panas Eropa Timur: Europe/Uzhgorod
+Waktu Standar Kaledonia Baru: Pacific/Noumea
+Waktu Musim Panas Eropa Timur: Europe/Kiev
+Waktu Standar Timur Australia: Australia/NSW
+Waktu Musim Panas Tengah: America/Resolute
+Greenwich Mean Time: GMT0
+Waktu Standar Barat Australia: Australia/Perth
+Waktu Standar Moskow: Europe/Simferopol
+Waktu Standar Tengah Australia: Australia/Broken_Hill
+Waktu Standar Vanuatu: Pacific/Efate
+Waktu Musim Panas Eropa Barat: Atlantic/Canary
+Waktu Tahiti: Pacific/Tahiti
+Waktu Musim Panas Eropa Tengah: Europe/Copenhagen
+Waktu Musim Panas Alaska: America/Metlakatla
+Waktu Musim Panas Inggris: Europe/London
+GMT-12:00: Etc/GMT+12
+Waktu Indonesia Tengah: Asia/Makassar
+Waktu Standar Pasifik Meksiko: America/Hermosillo
+Waktu Musim Panas Atlantik: America/Moncton
+Waktu Samudera Hindia: Indian/Chagos
+Waktu Musim Panas Eropa Barat: Portugal
+Waktu Musim Panas Eropa Tengah: Europe/Monaco
+Waktu Standar Hawaii-Aleutian: Pacific/Honolulu
+GMT+02:00: Etc/GMT-2
+Waktu Indochina: Asia/Ho_Chi_Minh
+Waktu Standar Kep. Cook: Pacific/Rarotonga
+Waktu Musim Panas Timur: America/Pangnirtung
+Waktu Standar Acre: America/Porto_Acre
+Greenwich Mean Time: Africa/Monrovia
+Greenwich Mean Time: Etc/Greenwich
+Waktu Standar Pulau Norfolk: Pacific/Norfolk
+Waktu Chuuk: Pacific/Truk
+GMT-07:00: MST
+Waktu Musim Panas Tengah: America/Ojinaga
+Waktu Standar Tiongkok: Asia/Chungking
+Waktu Musim Panas Eropa Barat: Europe/Lisbon
+Waktu Musim Panas Eropa Timur: Europe/Vilnius
+Waktu Musim Panas Alaska: America/Yakutat
+Waktu Musim Panas Pasifik: America/Ensenada
+Waktu Nauru: Pacific/Nauru
+Waktu Musim Panas Eropa Timur: Europe/Chisinau
+GMT+03:00: Europe/Kirov
+Waktu Musim Panas Eropa Tengah: Europe/Oslo
+Waktu Standar Brasil: America/Bahia
+Waktu India: Asia/Kolkata
+GMT+04:00: Europe/Ulyanovsk
+Waktu Musim Panas Pegunungan: Canada/Mountain
+Waktu Musim Panas Eropa Tengah: Europe/Luxembourg
+Greenwich Mean Time: Africa/Conakry
+Waktu Standar Argentina: America/Argentina/Tucuman
+Waktu Kirgizstan: Asia/Bishkek
+Waktu Standar Anadyr: Asia/Anadyr
+Waktu Standar Moskow: Europe/Minsk
+Waktu Musim Panas Greenland Timur: America/Scoresbysund
+Waktu Musim Panas Eropa Tengah: Europe/Paris
+Waktu Standar Tengah: America/Chihuahua
+Waktu Standar Fiji: Pacific/Fiji
+Waktu Myanmar: Asia/Yangon
+Waktu Standar Cile: America/Santiago
+Waktu Indochina: Asia/Vientiane
+Waktu Standar Atlantik: America/Kralendijk
+Waktu Afrika Tengah: Africa/Juba
+Waktu Standar Tonga: Pacific/Tongatapu
+Waktu Standar Irkutsk: Asia/Irkutsk
+GMT+06:00: Asia/Kashgar
+Waktu Standar Chatham: NZ-CHAT
+Waktu Standar Tiongkok: PRC
+Waktu Standar Arab: Asia/Kuwait
+Waktu Bhutan: Asia/Thimbu
+Waktu Musim Panas Eropa Tengah: Europe/Busingen
+Waktu Musim Panas Atlantik: America/Glace_Bay
+Waktu Standar Tengah: America/Belize
+Waktu India: Asia/Calcutta
+Waktu Standar Singapura: Asia/Singapore
+Waktu Standar Arab: Asia/Baghdad
+Waktu Standar Singapura: Singapore
+Waktu Musim Panas Eropa Timur: Asia/Nicosia
+Greenwich Mean Time: Atlantic/Reykjavik
+Waktu Standar Argentina: America/Buenos_Aires
+Waktu Musim Panas Pegunungan: America/Boise
+Waktu Musim Panas Israel: Asia/Jerusalem
+Greenwich Mean Time: Africa/Ouagadougou
+Waktu Standar Pulau Paskah: Pacific/Easter
+Waktu Standar Hong Kong: Asia/Hong_Kong
+GMT-03:00: Etc/GMT+3
+Waktu Standar Uruguay: America/Montevideo
+Waktu Kepulauan Wake: Pacific/Wake
+Waktu Ekuador: America/Guayaquil
+Waktu Musim Panas Tengah: America/Winnipeg
+Waktu Standar Pegunungan: US/Arizona
+Waktu Standar Atlantik: America/Virgin
+Waktu Standar Tengah: Canada/Saskatchewan
+GMT+04:00: Etc/GMT-4
+GMT+03:00: Turkey
+Waktu Standar Atlantik: America/Guadeloupe
+Waktu Afrika Tengah: Africa/Windhoek
+Waktu Standar Brasil: Brazil/East
+Waktu Musim Panas Pegunungan: Navajo
+Waktu India: Asia/Colombo
+GMT-05:00: EST
+Waktu Musim Panas Tengah: America/North_Dakota/Beulah
+Waktu Tokelau: Pacific/Fakaofo
+Waktu Myanmar: Asia/Rangoon
+Waktu Musim Panas Eropa Timur: Europe/Mariehamn
+Waktu Standar Atlantik: America/Santo_Domingo
+Waktu Standar Selandia Baru: NZ
+Greenwich Mean Time: Etc/GMT+0
+Waktu Standar Brasil: America/Araguaina
+Waktu Standar Atlantik: America/Aruba
+Waktu Musim Panas Eropa Timur: Europe/Helsinki
+Waktu Tuvalu: Pacific/Funafuti
+Waktu Standar Timur: America/Jamaica
+Waktu Musim Panas Timur: America/Indiana/Vevay
+Waktu Standar Tengah: America/Swift_Current
+Waktu Standar Argentina: America/Argentina/Mendoza
+Waktu Indochina: Asia/Saigon
+Waktu Musim Panas Alaska: America/Nome
+Waktu Afrika Timur: Africa/Dar_es_Salaam
+GMT+13:00: Etc/GMT-13
+Waktu Musim Panas Timur: America/Nipigon
+Waktu Musim Panas Pegunungan: America/Yellowknife
+Waktu Standar Afrika Barat: Africa/Malabo
+Waktu Kep. Gilbert: Pacific/Tarawa
+Waktu Standar Brasil: America/Maceio
+Waktu Universal Terkoordinasi: Zulu
+Waktu Kazakhstan Barat: Asia/Oral
+Waktu Musim Panas Eropa Tengah: Europe/Vatican
+Waktu Standar Argentina: America/Mendoza
+Waktu Musim Panas Tengah: America/Rankin_Inlet
+Waktu Musim Panas Inggris: GB
+Waktu Musim Panas Eropa Tengah: Poland
+Waktu Musim Panas Eropa Tengah: Europe/Amsterdam
+Waktu Musim Panas Eropa Timur: Asia/Gaza
+Waktu Bhutan: Asia/Thimphu
+Waktu Musim Panas Pasifik: US/Pacific
+Waktu Musim Panas Eropa Barat: Atlantic/Faeroe
+Waktu Musim Panas Saint Pierre dan Miquelon: America/Miquelon
+Waktu Standar Tengah Australia: Australia/Darwin
+Waktu Standar Vladivostok: Asia/Ust-Nera
+Waktu Musim Panas Greenland Barat: America/Godthab
+Waktu Standar Arab: Asia/Riyadh
+Waktu Standar Amazon: America/Boa_Vista
+Waktu Musim Panas Kuba: Cuba
+Greenwich Mean Time: GMT-0
+Waktu Standar Pegunungan: America/Fort_Nelson
+Waktu Standar Filipina: Asia/Manila
+Waktu Standar Acre: America/Rio_Branco
+Waktu Musim Panas Tengah: America/Indiana/Tell_City
+Waktu Kazakhstan Barat: Asia/Qyzylorda
+Waktu Musim Panas Eropa Tengah: Europe/Sarajevo
+GMT+03:00: EET
+Waktu Standar Moskow: W-SU
+Waktu Kazakhstan Timur: Asia/Almaty
+Waktu Afrika Timur: Indian/Comoro
+Waktu Indonesia Timur: Asia/Jayapura
+Waktu Musim Panas Timur: America/Grand_Turk
+Waktu Standar Apia: Pacific/Apia
+Waktu Guyana: America/Guyana
+GMT+01:00: Etc/GMT-1
+Waktu Seychelles: Indian/Mahe
+Waktu Guyana Prancis: America/Cayenne
+GMT+14:00: Etc/GMT-14
+Waktu Standar Magadan: Asia/Magadan
+Waktu Standar Timur Australia: Australia/Queensland
+Waktu Musim Panas Pasifik: America/Los_Angeles
+Waktu Standar Iran: Iran
+GMT+09:00: Etc/GMT-9
+GMT+01:00: WET
+Waktu Musim Panas Eropa Tengah: Atlantic/Jan_Mayen
+Waktu Kazakhstan Barat: Asia/Aqtau
+Waktu Musim Panas Tengah: Canada/Central
+Waktu Kepulauan Cocos: Indian/Cocos
+Waktu Musim Panas Pegunungan: America/Shiprock
+Waktu Musim Panas Eropa Tengah: Africa/Ceuta
+Waktu Kazakhstan Timur: Asia/Qostanay
+Waktu Standar Arab: Asia/Bahrain
+Waktu Standar Afrika Barat: Africa/Niamey
+GMT-03:00: America/Punta_Arenas
+Waktu Standar Arab: Asia/Qatar
+Waktu Standar Selandia Baru: Pacific/Auckland
+Waktu Standar Pulau Paskah: Chile/EasterIsland
+Waktu Standar Pakistan: Asia/Karachi
+Waktu Musim Panas Israel: Asia/Tel_Aviv
+Waktu Kosrae: Pacific/Kosrae
+Greenwich Mean Time: Africa/Accra
+Waktu Standar Tiongkok: Asia/Chongqing
+Waktu Standar Tengah Australia: Australia/Adelaide
+Waktu Musim Panas Timur: America/Detroit
+Waktu Musim Panas Eropa Timur: Europe/Sofia
+Waktu Indonesia Barat: Asia/Jakarta
+Waktu Standar Atlantik: America/Tortola
+Waktu Standar Tengah: America/Merida
+Waktu Afrika Tengah: Africa/Lubumbashi
+Waktu Kepulauan Phoenix: Pacific/Enderbury
+Waktu Standar Tengah: Mexico/General
+Waktu Brunei Darussalam: Asia/Brunei
+Waktu Musim Panas Tengah: America/Matamoros
+Waktu Yukon: America/Dawson
+Waktu Standar Samoa: Pacific/Samoa
+Waktu Musim Panas Kuba: America/Havana
+Waktu Mawson: Antarctica/Mawson
+Waktu Musim Panas Tengah: America/Chicago
+Waktu Standar Tiongkok: Asia/Macao
+Waktu Musim Panas Pasifik: America/Santa_Isabel
+Waktu Musim Panas Alaska: America/Anchorage
+Waktu Standar Timur Australia: Australia/Canberra
+Greenwich Mean Time: Africa/Sao_Tome
+Waktu Musim Panas Azores: Atlantic/Azores
+GMT-08:00: Etc/GMT+8
+Waktu Standar Kolombia: America/Bogota
+Greenwich Mean Time: Etc/GMT0
+Waktu Musim Panas Eropa Timur: Europe/Bucharest
+Waktu Standar Argentina: America/Rosario
+Waktu Standar Tengah Australia: Australia/South
+Waktu Afrika Timur: Africa/Djibouti
+Waktu Standar Iran: Asia/Tehran
+Waktu Afrika Timur: Africa/Asmera
+Waktu Afrika Timur: Africa/Mogadishu
+Waktu Standar Amazon: America/Porto_Velho
+Waktu Musim Panas Pegunungan: America/Inuvik
+Waktu Yukon: Canada/Yukon
+Waktu Musim Panas Eropa Tengah: Europe/Madrid
+GMT+03:00: Asia/Amman
+Waktu Standar Cile: Chile/Continental
+Waktu Musim Panas Timur: America/Fort_Wayne
+Waktu Palau: Pacific/Palau
+Greenwich Mean Time: Africa/Lome
+Waktu Standar Novosibirsk: Asia/Novosibirsk
+Waktu Afrika Tengah: Africa/Gaborone
+Waktu Standar Afrika Barat: Africa/Bangui
+Waktu Universal Terkoordinasi: Etc/Universal
+Waktu Standar Barat Australia: Australia/West
+Waktu Afrika Tengah: Africa/Maputo
+Waktu Musim Panas Tengah: America/Rainy_River
+Waktu Standar Uzbekistan: Asia/Tashkent
+Waktu Musim Panas Timur: Canada/Eastern
+Waktu Universal Terkoordinasi: Universal
+GMT+00:00: Factory
+Waktu Afrika Timur: Africa/Nairobi
+Waktu Standar Samoa: US/Samoa
+Waktu Standar Argentina: America/Argentina/Ushuaia
+Waktu Musim Panas Newfoundland: Canada/Newfoundland
+Greenwich Mean Time: Iceland
+Waktu Dumont-d’Urville: Antarctica/DumontDUrville
+Waktu Musim Panas Eropa Tengah: Europe/Vienna
+Waktu Musim Panas Pegunungan: America/Edmonton
+Waktu Musim Panas Timur: America/Iqaluit
+Waktu Malaysia: Asia/Kuching
+Greenwich Mean Time: America/Danmarkshavn
+Waktu Standar Selandia Baru: Antarctica/South_Pole
+Waktu Pitcairn: Pacific/Pitcairn
+Waktu Standar Afrika Barat: Africa/Kinshasa
+Waktu Standar Ulan Bator: Asia/Choibalsan
+Waktu Standar Fernando de Noronha: America/Noronha
+Waktu Musim Panas Eropa Tengah: Europe/Andorra
+Waktu Standar Acre: Brazil/Acre
+GMT+02:00: MET
+Waktu Standar Timur: America/Cancun
+Waktu Standar Sakhalin: Asia/Sakhalin
+Waktu Standar Tengah: America/Guatemala
+Waktu Standar Tiongkok: Asia/Harbin
+Waktu Standar Argentina: America/Argentina/Cordoba
+Greenwich Mean Time: Greenwich
+Waktu Universal Terkoordinasi: UCT
+Waktu Gambier: Pacific/Gambier
+Waktu Standar Pegunungan: America/Dawson_Creek
+Waktu Musim Panas Timur: America/Indiana/Marengo
+Waktu Standar Timur Australia: Australia/Sydney
+GMT+10:00: Etc/GMT-10
+Waktu Standar Afrika Barat: Africa/Libreville
+Waktu Standar Yekaterinburg: Asia/Yekaterinburg
+GMT+03:00: Asia/Damascus
+Waktu Standar Timur Australia: Australia/ACT
+Waktu Standar Tengah: America/Managua
+Waktu Standar Korea: ROK
+Greenwich Mean Time: Africa/Abidjan
+Greenwich Mean Time: Africa/Nouakchott
+Waktu Timor Leste: Asia/Dili
+Waktu Standar Tanjung Verde: Atlantic/Cape_Verde
+GMT+04:00: Europe/Saratov
+Waktu Standar Chatham: Pacific/Chatham
+Waktu Musim Panas Atlantik: America/Thule
+Waktu Afrika Tengah: Africa/Kigali
+Waktu Musim Panas Timur: America/Indiana/Petersburg
+Waktu Standar Timur: America/Atikokan
+Waktu Standar Tengah: America/Tegucigalpa
+Greenwich Mean Time: Eire
+Waktu Kepulauan Phoenix: Pacific/Kanton
+Waktu Musim Panas Atlantik: America/Halifax
+Waktu Musim Panas Alaska: US/Alaska
+Waktu Indochina: Asia/Bangkok
+Waktu Afrika Timur: Indian/Mayotte
+Waktu Standar Timur: America/Cayman
+Waktu Standar Atlantik: America/Dominica
+Waktu Musim Panas Timur: America/Indiana/Indianapolis
+GMT+11:00: Etc/GMT-11
+Waktu Rothera: Antarctica/Rothera
+Waktu Maladewa: Indian/Maldives
+Waktu Afrika Timur: Africa/Asmara
+GMT+01:00: Africa/Casablanca
+Waktu Musim Panas Timur: America/New_York
+Waktu Musim Panas Timur: America/Toronto
+Waktu Musim Panas Eropa Timur: Europe/Tiraspol
+GMT+11:00: Pacific/Bougainville
+Waktu Musim Panas Timur: America/Kentucky/Monticello
+GMT-02:00: Etc/GMT+2
+Waktu Standar Lord Howe: Australia/Lord_Howe
+Waktu Musim Panas Eropa Timur: Europe/Athens
+Waktu Standar Tengah Australia: Australia/Yancowinna
+Waktu Standar Kepulauan Falkland: Atlantic/Stanley
+Waktu Musim Panas Pasifik: America/Tijuana
+Waktu Standar Yakutsk: Asia/Khandyga
+Waktu Standar Brasil: America/Santarem
+Waktu Chuuk: Pacific/Chuuk
+Waktu Indochina: Asia/Phnom_Penh
+GMT+01:00: Europe/Isle_of_Man
+Waktu Musim Panas Eropa Tengah: Europe/Skopje
+Waktu Standar Amazon: America/Manaus
+Waktu Musim Panas Pegunungan: MST7MDT
+Waktu Kepulauan Solomon: Pacific/Guadalcanal
+Waktu Malaysia: Asia/Kuala_Lumpur
+Waktu Afrika Tengah: Africa/Harare
+Waktu Musim Panas Pasifik: Mexico/BajaNorte
+GMT-04:00: Etc/GMT+4
+Waktu Davis: Antarctica/Davis
+Waktu Musim Panas Eropa Timur: Egypt
+Waktu Venezuela: America/Caracas
+Waktu Standar Brasil: America/Sao_Paulo
+Waktu Standar Brasil: America/Recife
+Waktu Musim Panas Eropa Tengah: Europe/Berlin
+Waktu Standar Petropavlovsk-Kamchatsky: Asia/Kamchatka
+Waktu Musim Panas Hawaii-Aleutian: US/Aleutian
+Greenwich Mean Time: Africa/Dakar
+Waktu Standar Yakutsk: Asia/Yakutsk
+Waktu Afrika Tengah: Africa/Lusaka
+Greenwich Mean Time: Europe/Dublin
+Waktu Musim Panas Eropa Tengah: Europe/Vaduz
+Waktu Standar Hovd: Asia/Hovd
+Waktu Musim Panas Eropa Tengah: Europe/Ljubljana
+Waktu Musim Panas Eropa Tengah: Europe/San_Marino
+Waktu Musim Panas Timur: America/Kentucky/Louisville
+Waktu Standar Tiongkok: Asia/Shanghai
+Waktu Musim Panas Timur: America/Montreal
+GMT+07:00: Asia/Barnaul
+Waktu Standar Chamorro: Pacific/Guam
+Waktu Musim Panas Pasifik: PST8PDT
+Waktu Papua Nugini: Pacific/Port_Moresby
+Waktu Afrika Timur: Africa/Kampala
+Waktu Musim Panas Eropa Timur: Europe/Nicosia
+Waktu Musim Panas Pasifik: America/Vancouver
+Waktu Musim Panas Eropa Tengah: Europe/Malta
+Waktu Standar Atlantik: America/Puerto_Rico
+Waktu Musim Panas Atlantik: Canada/Atlantic
+GMT-06:00: Etc/GMT+6
+Waktu Musim Panas Timur: EST5EDT
+Waktu Standar Atlantik: America/Curacao
+GMT+03:00: Asia/Istanbul
+Waktu Indonesia Tengah: Asia/Ujung_Pandang
+Waktu Musim Panas Timur: America/Indiana/Winamac
+Waktu Standar Omsk: Asia/Omsk
+Waktu Musim Panas Eropa Timur: Europe/Tallinn
+Waktu Standar Argentina: America/Cordoba
+GMT-11:00: Etc/GMT+11

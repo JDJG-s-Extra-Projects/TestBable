@@ -1,0 +1,597 @@
+Horário de Verão do Havaí e Ilhas Aleutas: America/Atka
+Horário do Suriname: America/Paramaribo
+Horário Padrão do Turcomenistão: Asia/Ashkhabad
+Horário do Nepal: Asia/Katmandu
+GMT+12:00: Etc/GMT-12
+Horário Padrão do Atlântico: America/St_Barthelemy
+Horário Padrão de Krasnoyarsk: Asia/Krasnoyarsk
+Horário de Verão da Europa Central: Europe/Brussels
+Horário Padrão de Volgogrado: Europe/Volgograd
+Horário de Verão das Montanhas: America/Denver
+Horário Padrão de Brasília: America/Fortaleza
+Horário de Verão da Europa Central: Europe/Podgorica
+Horário da Geórgia do Sul: Atlantic/South_Georgia
+Horário Padrão da África Ocidental: Africa/Ndjamena
+Horário de Verão do Leste: America/Nassau
+Horário Padrão de Bangladesh: Asia/Dhaka
+Horário Padrão do Paraguai: America/Asuncion
+Horário Padrão do Atlântico: America/Blanc-Sablon
+Horário de Verão Central: America/Indiana/Knox
+Horário Padrão de Bangladesh: Asia/Dacca
+Horário Padrão da Austrália Oriental: Antarctica/Macquarie
+Horário Padrão de Moscou: Europe/Moscow
+Horário Universal Coordenado: UTC
+Horário Padrão da Coreia: Asia/Seoul
+Horário de Verão da Europa Oriental: Europe/Riga
+Horário da África Central: Africa/Blantyre
+Horário Padrão da Argentina: America/Argentina/Salta
+Horário Padrão da Argentina: America/Argentina/Buenos_Aires
+Horário Padrão da Europa Central: Africa/Algiers
+Horário Padrão da Austrália Oriental: Australia/Tasmania
+Horário de Verão Central: US/Indiana-Starke
+Horário Padrão de Samoa: Pacific/Midway
+Horário de Verão das Montanhas: America/Ciudad_Juarez
+GMT-10:00: HST
+GMT+11:00: Asia/Srednekolymsk
+Horário Padrão da Austrália Oriental: Australia/Hobart
+Horário de Verão do Atlântico: Atlantic/Bermuda
+Horário Universal Coordenado: Etc/UCT
+Horário dos Territórios Franceses do Sul e Antártida: Indian/Kerguelen
+Horário de Verão da Europa Ocidental: Atlantic/Faroe
+Horário Padrão do Amazonas: America/Campo_Grande
+Horário Padrão de Lord Howe: Australia/LHI
+Horário Padrão de Maurício: Indian/Mauritius
+GMT+02:00: CET
+Horário Padrão da Europa Oriental: Libya
+GMT-07:00: Etc/GMT+7
+GMT+08:00: Etc/GMT-8
+Horário do Meridiano de Greenwich: Atlantic/St_Helena
+Horário de Ponape: Pacific/Pohnpei
+GMT-01:00: Etc/GMT+1
+Horário de Verão da Europa Oriental: Europe/Kyiv
+GMT+05:00: Etc/GMT-5
+Horário de Reunião: Indian/Reunion
+GMT-03:00: Antarctica/Palmer
+Horário Padrão Central: America/Bahia_Banderas
+Horário Padrão da Argentina: America/Jujuy
+Horário Padrão de Yakutsk: Asia/Chita
+Horário de Verão das Montanhas: US/Mountain
+Horário Padrão de Krasnoyarsk: Asia/Novokuznetsk
+GMT+06:00: Etc/GMT-6
+Horário Padrão da Austrália Oriental: Australia/Currie
+Horário do Nepal: Asia/Kathmandu
+Horário de Verão da Terra Nova: America/St_Johns
+Horário do Casaquistão Ocidental: Asia/Aqtobe
+Horário do Meridiano de Greenwich: GMT+0
+GMT+04:00: Europe/Astrakhan
+GMT+01:00: Europe/Guernsey
+Horário Padrão do Atlântico: America/Martinique
+Horário de Verão do Leste: US/East-Indiana
+Horário de Verão da Europa Central: Arctic/Longyearbyen
+Horário Padrão Central: America/Mexico_City
+Horário Padrão da Argentina: America/Argentina/ComodRivadavia
+Horário de Verão do Pacífico: Canada/Pacific
+GMT+08:00: Antarctica/Casey
+Horário da África Central: Africa/Bujumbura
+Horário Padrão do Acre: America/Eirunepe
+Horário Padrão do Japão: Asia/Tokyo
+Horário de Verão da Europa Central: Europe/Bratislava
+Horário Padrão da Austrália Oriental: Australia/Melbourne
+Horário Padrão do Leste: America/Panama
+Horário de Verão da Europa Oriental: Asia/Beirut
+Horário da África Oriental: Indian/Antananarivo
+Horário Padrão do Uzbequistão: Asia/Samarkand
+Horário Padrão do Peru: America/Lima
+Horário Padrão do Atlântico: America/St_Thomas
+Horário da Indonésia Ocidental: Asia/Pontianak
+Horário Padrão do Pacífico Mexicano: Mexico/BajaSur
+Horário do Meridiano de Greenwich: Etc/GMT
+Horário Padrão da África Ocidental: Africa/Luanda
+Horário Padrão do Atlântico: America/St_Lucia
+Horário Padrão do Atlântico: America/Barbados
+Horário da África do Sul: Africa/Maseru
+Horário Padrão do Pacífico Mexicano: America/Mazatlan
+Horário das Marquesas: Pacific/Marquesas
+Horário de Verão do Leste: America/Thunder_Bay
+Horário Padrão do Amazonas: America/Cuiaba
+Horário das Ilhas Marshall: Pacific/Majuro
+Horário da África Oriental: Africa/Addis_Ababa
+Horário Padrão da Nova Zelândia: Antarctica/McMurdo
+Horário de Verão da Europa Central: Europe/Warsaw
+Horário de Verão Central: America/Knox_IN
+Horário das Ilhas Marshall: Pacific/Kwajalein
+Horário Padrão do Amazonas: Brazil/West
+GMT+03:00: Etc/GMT-3
+Horário Padrão do Atlântico: America/St_Vincent
+Horário Padrão do Atlântico: America/Marigot
+Horário Padrão de Taipei: Asia/Taipei
+Horário de Verão do Leste: US/Eastern
+Horário das Ilhas Marshall: Kwajalein
+Horário Padrão da Argentina: America/Argentina/Jujuy
+GMT-05:00: Etc/GMT+5
+Horário de Verão da Europa Central: Europe/Zagreb
+Horário de Verão do Leste: America/Port-au-Prince
+Horário Padrão da Austrália Central: Australia/North
+Horário do Meridiano de Greenwich: GMT
+Horário Padrão da Europa Central: Africa/Tunis
+Horário do Afeganistão: Asia/Kabul
+Horário de Verão do Alasca: America/Juneau
+GMT+07:00: Asia/Tomsk
+Horário da África do Sul: Africa/Mbabane
+Horário Padrão da África Ocidental: Africa/Porto-Novo
+Horário do Golfo: Asia/Muscat
+Horário Padrão da Argentina: America/Argentina/San_Luis
+Horário Padrão da Austrália Centro-Ocidental: Australia/Eucla
+Horário Padrão do Atlântico: America/Anguilla
+Horário de Verão da Europa Central: Europe/Gibraltar
+Horário de Verão da Europa Central: Europe/Prague
+Horário de Verão da Europa Oriental: Europe/Zaporozhye
+Horário Padrão da Coreia: Asia/Pyongyang
+Horário de Verão da Europa Central: Europe/Zurich
+Horário do Casaquistão Ocidental: Asia/Atyrau
+Horário de Verão do Leste: America/Indiana/Vincennes
+Horário Padrão da Argentina: America/Argentina/Catamarca
+Horário de Verão da Europa Central: Europe/Stockholm
+Horário Universal Coordenado: Etc/UTC
+Horário Padrão da África Ocidental: Africa/Lagos
+Horário Padrão da Argentina: America/Argentina/La_Rioja
+Horário do Golfo: Asia/Dubai
+Horário Padrão de Ulan Bator: Asia/Ulaanbaatar
+Horário Padrão de Fernando de Noronha: Brazil/DeNoronha
+Horário do Meridiano de Greenwich: Africa/Bissau
+Horário Padrão da Geórgia: Asia/Tbilisi
+Horário Padrão do Atlântico: America/St_Kitts
+Horário Padrão da África Ocidental: Africa/Douala
+Horário de Verão do Atlântico: America/Goose_Bay
+Horário de Verão do Leste: America/Indianapolis
+Horário de Verão da Europa Central: Europe/Rome
+Horário Padrão do Havaí e Ilhas Aleutas: Pacific/Johnston
+Horário de Verão da Europa Oriental: Asia/Hebron
+Horário Padrão da Austrália Oriental: Australia/Victoria
+Horário de Verão Central: CST6CDT
+Horário de Verão do Leste: US/Michigan
+Horário Padrão de Vladivostok: Asia/Vladivostok
+Horário da África do Sul: Africa/Johannesburg
+GMT+03:00: Asia/Famagusta
+Horário de Verão de Israel: Israel
+Horário de Chuuk: Pacific/Yap
+GMT-09:00: Etc/GMT+9
+Horário da África Central: Africa/Khartoum
+Horário Padrão de Samara: Europe/Samara
+Horário de Wallis e Futuna: Pacific/Wallis
+Horário de Vostok: Antarctica/Vostok
+Horário de Galápagos: Pacific/Galapagos
+Horário da Bolívia: America/La_Paz
+Horário Padrão do Atlântico: America/Port_of_Spain
+Horário Padrão do Leste: America/Coral_Harbour
+Horário de Verão Central: America/North_Dakota/Center
+Horário Padrão das Montanhas: America/Creston
+Horário Padrão do Atlântico: America/Grenada
+GMT+01:00: Europe/Jersey
+Horário de Chamorro: Pacific/Saipan
+Horário Padrão do Leste: Jamaica
+Horário Padrão do Atlântico: America/Lower_Princes
+Horário Universal Coordenado: Etc/Zulu
+Horário de Ponape: Pacific/Ponape
+Horário Padrão de Samoa: Pacific/Pago_Pago
+Horário de Verão da Europa Oriental: Africa/Cairo
+Horário de Verão da Europa Central: Europe/Budapest
+GMT-10:00: Etc/GMT+10
+Horário de Verão da Europa Central: Europe/Tirane
+Horário de Verão da Europa Central: Europe/Belgrade
+Horário Padrão Central: America/El_Salvador
+Horário de Verão Central: America/Menominee
+Horário de Verão Britânico: GB-Eire
+Horário Padrão do Havaí e Ilhas Aleutas: US/Hawaii
+Horário Padrão do Arzeibaijão: Asia/Baku
+Horário Padrão da África Ocidental: Africa/Brazzaville
+Horário da Ilha Christmas: Indian/Christmas
+GMT+02:00: Antarctica/Troll
+Horário de Verão da Groenlândia Ocidental: America/Nuuk
+Horário de Verão da Europa Ocidental: Atlantic/Madeira
+Horário Padrão do Turcomenistão: Asia/Ashgabat
+Horário do Meridiano de Greenwich: Etc/GMT-0
+Horário do Meridiano de Greenwich: Africa/Timbuktu
+GMT+07:00: Etc/GMT-7
+GMT+06:00: Asia/Urumqi
+Horário Padrão da Austrália Oriental: Australia/Brisbane
+Horário Padrão de Hong Kong: Hongkong
+Horário Padrão das Montanhas: America/Phoenix
+Horário do Meridiano de Greenwich: Africa/Bamako
+Horário Padrão de Taipei: ROC
+Horário Padrão Central: America/Costa_Rica
+Horário do Tajiquistão: Asia/Dushanbe
+Horário de Verão do Havaí e Ilhas Aleutas: America/Adak
+Horário de Niue: Pacific/Niue
+GMT+03:00: Europe/Istanbul
+Horário Padrão da China: Asia/Macau
+Horário Padrão de Brasília: America/Belem
+Horário de Verão Central: America/North_Dakota/New_Salem
+Horário Padrão Central: America/Monterrey
+Horário Padrão do Atlântico: America/Montserrat
+Horário Padrão do Japão: Japan
+Horário Padrão da Europa Oriental: Europe/Kaliningrad
+Horário Padrão da Argentina: America/Argentina/Rio_Gallegos
+Horário Padrão Central: America/Regina
+Horário do Meridiano de Greenwich: Africa/Freetown
+Horário Padrão da Armênia: Asia/Yerevan
+Horário de Verão Britânico: Europe/Belfast
+Horário Padrão da Europa Oriental: Africa/Tripoli
+Horário Padrão de Ulan Bator: Asia/Ulan_Bator
+Horário de Syowa: Antarctica/Syowa
+Horário Padrão da Argentina: America/Catamarca
+Horário Padrão da Austrália Oriental: Australia/Lindeman
+Horário de Verão Central: US/Central
+Horário Padrão da Argentina: America/Argentina/San_Juan
+Horário do Yukon: America/Whitehorse
+Horário do Meridiano de Greenwich: Africa/Banjul
+GMT+01:00: Africa/El_Aaiun
+Horário de Verão das Montanhas: America/Cambridge_Bay
+Horário Padrão do Atlântico: America/Antigua
+Horário das Ilhas da Linha: Pacific/Kiritimati
+Horário Padrão da Arábia: Asia/Aden
+Horário de Verão do Leste: America/Louisville
+Horário de Verão do Alasca: America/Sitka
+Horário de Verão da Europa Oriental: Europe/Uzhgorod
+Horário Padrão da Nova Caledônia: Pacific/Noumea
+Horário de Verão da Europa Oriental: Europe/Kiev
+Horário Padrão da Austrália Oriental: Australia/NSW
+Horário de Verão Central: America/Resolute
+Horário do Meridiano de Greenwich: GMT0
+Horário Padrão da Austrália Ocidental: Australia/Perth
+Horário Padrão de Moscou: Europe/Simferopol
+Horário Padrão da Austrália Central: Australia/Broken_Hill
+Horário Padrão de Vanuatu: Pacific/Efate
+Horário de Verão da Europa Ocidental: Atlantic/Canary
+Horário do Taiti: Pacific/Tahiti
+Horário de Verão da Europa Central: Europe/Copenhagen
+Horário de Verão do Alasca: America/Metlakatla
+Horário de Verão Britânico: Europe/London
+GMT-12:00: Etc/GMT+12
+Horário da Indonésia Central: Asia/Makassar
+Horário Padrão do Pacífico Mexicano: America/Hermosillo
+Horário de Verão do Atlântico: America/Moncton
+Horário do Oceano Índico: Indian/Chagos
+Horário de Verão da Europa Ocidental: Portugal
+Horário de Verão da Europa Central: Europe/Monaco
+Horário Padrão do Havaí e Ilhas Aleutas: Pacific/Honolulu
+GMT+02:00: Etc/GMT-2
+Horário da Indochina: Asia/Ho_Chi_Minh
+Horário Padrão das Ilhas Cook: Pacific/Rarotonga
+Horário de Verão do Leste: America/Pangnirtung
+Horário Padrão do Acre: America/Porto_Acre
+Horário do Meridiano de Greenwich: Africa/Monrovia
+Horário do Meridiano de Greenwich: Etc/Greenwich
+Horário Padrão da Ilha Norfolk: Pacific/Norfolk
+Horário de Chuuk: Pacific/Truk
+GMT-07:00: MST
+Horário de Verão Central: America/Ojinaga
+Horário Padrão da China: Asia/Chungking
+Horário de Verão da Europa Ocidental: Europe/Lisbon
+Horário de Verão da Europa Oriental: Europe/Vilnius
+Horário de Verão do Alasca: America/Yakutat
+Horário de Verão do Pacífico: America/Ensenada
+Horário de Nauru: Pacific/Nauru
+Horário de Verão da Europa Oriental: Europe/Chisinau
+GMT+03:00: Europe/Kirov
+Horário de Verão da Europa Central: Europe/Oslo
+Horário Padrão de Brasília: America/Bahia
+Horário Padrão da Índia: Asia/Kolkata
+GMT+04:00: Europe/Ulyanovsk
+Horário de Verão das Montanhas: Canada/Mountain
+Horário de Verão da Europa Central: Europe/Luxembourg
+Horário do Meridiano de Greenwich: Africa/Conakry
+Horário Padrão da Argentina: America/Argentina/Tucuman
+Horário do Quirguistão: Asia/Bishkek
+Horário Padrão do Anadyr: Asia/Anadyr
+Horário Padrão de Moscou: Europe/Minsk
+Horário de Verão da Groelândia Oriental: America/Scoresbysund
+Horário de Verão da Europa Central: Europe/Paris
+Horário Padrão Central: America/Chihuahua
+Horário Padrão de Fiji: Pacific/Fiji
+Horário de Mianmar: Asia/Yangon
+Horário Padrão do Chile: America/Santiago
+Horário da Indochina: Asia/Vientiane
+Horário Padrão do Atlântico: America/Kralendijk
+Horário da África Central: Africa/Juba
+Horário Padrão de Tonga: Pacific/Tongatapu
+Horário Padrão de Irkutsk: Asia/Irkutsk
+GMT+06:00: Asia/Kashgar
+Horário Padrão de Chatham: NZ-CHAT
+Horário Padrão da China: PRC
+Horário Padrão da Arábia: Asia/Kuwait
+Horário do Butão: Asia/Thimbu
+Horário de Verão da Europa Central: Europe/Busingen
+Horário de Verão do Atlântico: America/Glace_Bay
+Horário Padrão Central: America/Belize
+Horário Padrão da Índia: Asia/Calcutta
+Horário Padrão de Singapura: Asia/Singapore
+Horário Padrão da Arábia: Asia/Baghdad
+Horário Padrão de Singapura: Singapore
+Horário de Verão da Europa Oriental: Asia/Nicosia
+Horário do Meridiano de Greenwich: Atlantic/Reykjavik
+Horário Padrão da Argentina: America/Buenos_Aires
+Horário de Verão das Montanhas: America/Boise
+Horário de Verão de Israel: Asia/Jerusalem
+Horário do Meridiano de Greenwich: Africa/Ouagadougou
+Horário Padrão da Ilha de Páscoa: Pacific/Easter
+Horário Padrão de Hong Kong: Asia/Hong_Kong
+GMT-03:00: Etc/GMT+3
+Horário Padrão do Uruguai: America/Montevideo
+Horário das Ilhas Wake: Pacific/Wake
+Horário do Equador: America/Guayaquil
+Horário de Verão Central: America/Winnipeg
+Horário Padrão das Montanhas: US/Arizona
+Horário Padrão do Atlântico: America/Virgin
+Horário Padrão Central: Canada/Saskatchewan
+GMT+04:00: Etc/GMT-4
+GMT+03:00: Turkey
+Horário Padrão do Atlântico: America/Guadeloupe
+Horário da África Central: Africa/Windhoek
+Horário Padrão de Brasília: Brazil/East
+Horário de Verão das Montanhas: Navajo
+Horário Padrão da Índia: Asia/Colombo
+GMT-05:00: EST
+Horário de Verão Central: America/North_Dakota/Beulah
+Horário de Tokelau: Pacific/Fakaofo
+Horário de Mianmar: Asia/Rangoon
+Horário de Verão da Europa Oriental: Europe/Mariehamn
+Horário Padrão do Atlântico: America/Santo_Domingo
+Horário Padrão da Nova Zelândia: NZ
+Horário do Meridiano de Greenwich: Etc/GMT+0
+Horário Padrão de Brasília: America/Araguaina
+Horário Padrão do Atlântico: America/Aruba
+Horário de Verão da Europa Oriental: Europe/Helsinki
+Horário de Tuvalu: Pacific/Funafuti
+Horário Padrão do Leste: America/Jamaica
+Horário de Verão do Leste: America/Indiana/Vevay
+Horário Padrão Central: America/Swift_Current
+Horário Padrão da Argentina: America/Argentina/Mendoza
+Horário da Indochina: Asia/Saigon
+Horário de Verão do Alasca: America/Nome
+Horário da África Oriental: Africa/Dar_es_Salaam
+GMT+13:00: Etc/GMT-13
+Horário de Verão do Leste: America/Nipigon
+Horário de Verão das Montanhas: America/Yellowknife
+Horário Padrão da África Ocidental: Africa/Malabo
+Horário das Ilhas Gilberto: Pacific/Tarawa
+Horário Padrão de Brasília: America/Maceio
+Horário Universal Coordenado: Zulu
+Horário do Casaquistão Ocidental: Asia/Oral
+Horário de Verão da Europa Central: Europe/Vatican
+Horário Padrão da Argentina: America/Mendoza
+Horário de Verão Central: America/Rankin_Inlet
+Horário de Verão Britânico: GB
+Horário de Verão da Europa Central: Poland
+Horário de Verão da Europa Central: Europe/Amsterdam
+Horário de Verão da Europa Oriental: Asia/Gaza
+Horário do Butão: Asia/Thimphu
+Horário de Verão do Pacífico: US/Pacific
+Horário de Verão da Europa Ocidental: Atlantic/Faeroe
+Horário Verão de São Pedro e Miquelão: America/Miquelon
+Horário Padrão da Austrália Central: Australia/Darwin
+Horário Padrão de Vladivostok: Asia/Ust-Nera
+Horário de Verão da Groenlândia Ocidental: America/Godthab
+Horário Padrão da Arábia: Asia/Riyadh
+Horário Padrão do Amazonas: America/Boa_Vista
+Horário de Verão de Cuba: Cuba
+Horário do Meridiano de Greenwich: GMT-0
+Horário Padrão das Montanhas: America/Fort_Nelson
+Horário Padrão das Filipinas: Asia/Manila
+Horário Padrão do Acre: America/Rio_Branco
+Horário de Verão Central: America/Indiana/Tell_City
+Horário do Casaquistão Ocidental: Asia/Qyzylorda
+Horário de Verão da Europa Central: Europe/Sarajevo
+GMT+03:00: EET
+Horário Padrão de Moscou: W-SU
+Horário do Casaquistão Oriental: Asia/Almaty
+Horário da África Oriental: Indian/Comoro
+Horário da Indonésia Oriental: Asia/Jayapura
+Horário de Verão do Leste: America/Grand_Turk
+Horário Padrão de Apia: Pacific/Apia
+Horário da Guiana: America/Guyana
+GMT+01:00: Etc/GMT-1
+Horário de Seicheles: Indian/Mahe
+Horário da Guiana Francesa: America/Cayenne
+GMT+14:00: Etc/GMT-14
+Horário Padrão de Magadan: Asia/Magadan
+Horário Padrão da Austrália Oriental: Australia/Queensland
+Horário de Verão do Pacífico: America/Los_Angeles
+Horário Padrão do Irã: Iran
+GMT+09:00: Etc/GMT-9
+GMT+01:00: WET
+Horário de Verão da Europa Central: Atlantic/Jan_Mayen
+Horário do Casaquistão Ocidental: Asia/Aqtau
+Horário de Verão Central: Canada/Central
+Horário das Ilhas Coco: Indian/Cocos
+Horário de Verão das Montanhas: America/Shiprock
+Horário de Verão da Europa Central: Africa/Ceuta
+Horário do Casaquistão Oriental: Asia/Qostanay
+Horário Padrão da Arábia: Asia/Bahrain
+Horário Padrão da África Ocidental: Africa/Niamey
+GMT-03:00: America/Punta_Arenas
+Horário Padrão da Arábia: Asia/Qatar
+Horário Padrão da Nova Zelândia: Pacific/Auckland
+Horário Padrão da Ilha de Páscoa: Chile/EasterIsland
+Horário Padrão do Paquistão: Asia/Karachi
+Horário de Verão de Israel: Asia/Tel_Aviv
+Horário de Kosrae: Pacific/Kosrae
+Horário do Meridiano de Greenwich: Africa/Accra
+Horário Padrão da China: Asia/Chongqing
+Horário Padrão da Austrália Central: Australia/Adelaide
+Horário de Verão do Leste: America/Detroit
+Horário de Verão da Europa Oriental: Europe/Sofia
+Horário da Indonésia Ocidental: Asia/Jakarta
+Horário Padrão do Atlântico: America/Tortola
+Horário Padrão Central: America/Merida
+Horário da África Central: Africa/Lubumbashi
+Horário das Ilhas Fênix: Pacific/Enderbury
+Horário Padrão Central: Mexico/General
+Horário de Brunei Darussalam: Asia/Brunei
+Horário de Verão Central: America/Matamoros
+Horário do Yukon: America/Dawson
+Horário Padrão de Samoa: Pacific/Samoa
+Horário de Verão de Cuba: America/Havana
+Horário de Mawson: Antarctica/Mawson
+Horário de Verão Central: America/Chicago
+Horário Padrão da China: Asia/Macao
+Horário de Verão do Pacífico: America/Santa_Isabel
+Horário de Verão do Alasca: America/Anchorage
+Horário Padrão da Austrália Oriental: Australia/Canberra
+Horário do Meridiano de Greenwich: Africa/Sao_Tome
+Horário de Verão dos Açores: Atlantic/Azores
+GMT-08:00: Etc/GMT+8
+Horário Padrão da Colômbia: America/Bogota
+Horário do Meridiano de Greenwich: Etc/GMT0
+Horário de Verão da Europa Oriental: Europe/Bucharest
+Horário Padrão da Argentina: America/Rosario
+Horário Padrão da Austrália Central: Australia/South
+Horário da África Oriental: Africa/Djibouti
+Horário Padrão do Irã: Asia/Tehran
+Horário da África Oriental: Africa/Asmera
+Horário da África Oriental: Africa/Mogadishu
+Horário Padrão do Amazonas: America/Porto_Velho
+Horário de Verão das Montanhas: America/Inuvik
+Horário do Yukon: Canada/Yukon
+Horário de Verão da Europa Central: Europe/Madrid
+GMT+03:00: Asia/Amman
+Horário Padrão do Chile: Chile/Continental
+Horário de Verão do Leste: America/Fort_Wayne
+Horário de Palau: Pacific/Palau
+Horário do Meridiano de Greenwich: Africa/Lome
+Horário Padrão de Novosibirsk: Asia/Novosibirsk
+Horário da África Central: Africa/Gaborone
+Horário Padrão da África Ocidental: Africa/Bangui
+Horário Universal Coordenado: Etc/Universal
+Horário Padrão da Austrália Ocidental: Australia/West
+Horário da África Central: Africa/Maputo
+Horário de Verão Central: America/Rainy_River
+Horário Padrão do Uzbequistão: Asia/Tashkent
+Horário de Verão do Leste: Canada/Eastern
+Horário Universal Coordenado: Universal
+GMT+00:00: Factory
+Horário da África Oriental: Africa/Nairobi
+Horário Padrão de Samoa: US/Samoa
+Horário Padrão da Argentina: America/Argentina/Ushuaia
+Horário de Verão da Terra Nova: Canada/Newfoundland
+Horário do Meridiano de Greenwich: Iceland
+Horário de Dumont-d’Urville: Antarctica/DumontDUrville
+Horário de Verão da Europa Central: Europe/Vienna
+Horário de Verão das Montanhas: America/Edmonton
+Horário de Verão do Leste: America/Iqaluit
+Horário da Malásia: Asia/Kuching
+Horário do Meridiano de Greenwich: America/Danmarkshavn
+Horário Padrão da Nova Zelândia: Antarctica/South_Pole
+Horário de Pitcairn: Pacific/Pitcairn
+Horário Padrão da África Ocidental: Africa/Kinshasa
+Horário Padrão de Ulan Bator: Asia/Choibalsan
+Horário Padrão de Fernando de Noronha: America/Noronha
+Horário de Verão da Europa Central: Europe/Andorra
+Horário Padrão do Acre: Brazil/Acre
+GMT+02:00: MET
+Horário Padrão do Leste: America/Cancun
+Horário Padrão de Sacalina: Asia/Sakhalin
+Horário Padrão Central: America/Guatemala
+Horário Padrão da China: Asia/Harbin
+Horário Padrão da Argentina: America/Argentina/Cordoba
+Horário do Meridiano de Greenwich: Greenwich
+Horário Universal Coordenado: UCT
+Horário de Gambier: Pacific/Gambier
+Horário Padrão das Montanhas: America/Dawson_Creek
+Horário de Verão do Leste: America/Indiana/Marengo
+Horário Padrão da Austrália Oriental: Australia/Sydney
+GMT+10:00: Etc/GMT-10
+Horário Padrão da África Ocidental: Africa/Libreville
+Horário Padrão de Ecaterimburgo: Asia/Yekaterinburg
+GMT+03:00: Asia/Damascus
+Horário Padrão da Austrália Oriental: Australia/ACT
+Horário Padrão Central: America/Managua
+Horário Padrão da Coreia: ROK
+Horário do Meridiano de Greenwich: Africa/Abidjan
+Horário do Meridiano de Greenwich: Africa/Nouakchott
+Horário do Timor-Leste: Asia/Dili
+Horário Padrão de Cabo Verde: Atlantic/Cape_Verde
+GMT+04:00: Europe/Saratov
+Horário Padrão de Chatham: Pacific/Chatham
+Horário de Verão do Atlântico: America/Thule
+Horário da África Central: Africa/Kigali
+Horário de Verão do Leste: America/Indiana/Petersburg
+Horário Padrão do Leste: America/Atikokan
+Horário Padrão Central: America/Tegucigalpa
+Horário do Meridiano de Greenwich: Eire
+Horário das Ilhas Fênix: Pacific/Kanton
+Horário de Verão do Atlântico: America/Halifax
+Horário de Verão do Alasca: US/Alaska
+Horário da Indochina: Asia/Bangkok
+Horário da África Oriental: Indian/Mayotte
+Horário Padrão do Leste: America/Cayman
+Horário Padrão do Atlântico: America/Dominica
+Horário de Verão do Leste: America/Indiana/Indianapolis
+GMT+11:00: Etc/GMT-11
+Horário de Rothera: Antarctica/Rothera
+Horário das Ilhas Maldivas: Indian/Maldives
+Horário da África Oriental: Africa/Asmara
+GMT+01:00: Africa/Casablanca
+Horário de Verão do Leste: America/New_York
+Horário de Verão do Leste: America/Toronto
+Horário de Verão da Europa Oriental: Europe/Tiraspol
+GMT+11:00: Pacific/Bougainville
+Horário de Verão do Leste: America/Kentucky/Monticello
+GMT-02:00: Etc/GMT+2
+Horário Padrão de Lord Howe: Australia/Lord_Howe
+Horário de Verão da Europa Oriental: Europe/Athens
+Horário Padrão da Austrália Central: Australia/Yancowinna
+Horário Padrão das Ilhas Malvinas: Atlantic/Stanley
+Horário de Verão do Pacífico: America/Tijuana
+Horário Padrão de Yakutsk: Asia/Khandyga
+Horário Padrão de Brasília: America/Santarem
+Horário de Chuuk: Pacific/Chuuk
+Horário da Indochina: Asia/Phnom_Penh
+GMT+01:00: Europe/Isle_of_Man
+Horário de Verão da Europa Central: Europe/Skopje
+Horário Padrão do Amazonas: America/Manaus
+Horário de Verão das Montanhas: MST7MDT
+Horário das Ilhas Salomão: Pacific/Guadalcanal
+Horário da Malásia: Asia/Kuala_Lumpur
+Horário da África Central: Africa/Harare
+Horário de Verão do Pacífico: Mexico/BajaNorte
+GMT-04:00: Etc/GMT+4
+Horário de Davis: Antarctica/Davis
+Horário de Verão da Europa Oriental: Egypt
+Horário da Venezuela: America/Caracas
+Horário Padrão de Brasília: America/Sao_Paulo
+Horário Padrão de Brasília: America/Recife
+Horário de Verão da Europa Central: Europe/Berlin
+Horário Padrão de Petropavlovsk-Kamchatski: Asia/Kamchatka
+Horário de Verão do Havaí e Ilhas Aleutas: US/Aleutian
+Horário do Meridiano de Greenwich: Africa/Dakar
+Horário Padrão de Yakutsk: Asia/Yakutsk
+Horário da África Central: Africa/Lusaka
+Horário do Meridiano de Greenwich: Europe/Dublin
+Horário de Verão da Europa Central: Europe/Vaduz
+Horário Padrão de Hovd: Asia/Hovd
+Horário de Verão da Europa Central: Europe/Ljubljana
+Horário de Verão da Europa Central: Europe/San_Marino
+Horário de Verão do Leste: America/Kentucky/Louisville
+Horário Padrão da China: Asia/Shanghai
+Horário de Verão do Leste: America/Montreal
+GMT+07:00: Asia/Barnaul
+Horário de Chamorro: Pacific/Guam
+Horário de Verão do Pacífico: PST8PDT
+Horário de Papua-Nova Guiné: Pacific/Port_Moresby
+Horário da África Oriental: Africa/Kampala
+Horário de Verão da Europa Oriental: Europe/Nicosia
+Horário de Verão do Pacífico: America/Vancouver
+Horário de Verão da Europa Central: Europe/Malta
+Horário Padrão do Atlântico: America/Puerto_Rico
+Horário de Verão do Atlântico: Canada/Atlantic
+GMT-06:00: Etc/GMT+6
+Horário de Verão do Leste: EST5EDT
+Horário Padrão do Atlântico: America/Curacao
+GMT+03:00: Asia/Istanbul
+Horário da Indonésia Central: Asia/Ujung_Pandang
+Horário de Verão do Leste: America/Indiana/Winamac
+Horário Padrão de Omsk: Asia/Omsk
+Horário de Verão da Europa Oriental: Europe/Tallinn
+Horário Padrão da Argentina: America/Cordoba
+GMT-11:00: Etc/GMT+11

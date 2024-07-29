@@ -1,0 +1,597 @@
+하와이 알류샨 하계 표준시: America/Atka
+수리남 시간: America/Paramaribo
+투르크메니스탄 표준시: Asia/Ashkhabad
+네팔 시간: Asia/Katmandu
+GMT+12:00: Etc/GMT-12
+대서양 표준시: America/St_Barthelemy
+크라스노야르스크 표준시: Asia/Krasnoyarsk
+중부유럽 하계 표준시: Europe/Brussels
+볼고그라드 표준시: Europe/Volgograd
+미 산지 하계 표준시: America/Denver
+브라질리아 표준시: America/Fortaleza
+중부유럽 하계 표준시: Europe/Podgorica
+사우스 조지아 시간: Atlantic/South_Georgia
+서아프리카 표준시: Africa/Ndjamena
+미 동부 하계 표준시: America/Nassau
+방글라데시 표준시: Asia/Dhaka
+파라과이 표준시: America/Asuncion
+대서양 표준시: America/Blanc-Sablon
+미 중부 하계 표준시: America/Indiana/Knox
+방글라데시 표준시: Asia/Dacca
+오스트레일리아 동부 표준시: Antarctica/Macquarie
+모스크바 표준시: Europe/Moscow
+협정 세계시: UTC
+대한민국 표준시: Asia/Seoul
+동유럽 하계 표준시: Europe/Riga
+중앙아프리카 시간: Africa/Blantyre
+아르헨티나 표준시: America/Argentina/Salta
+아르헨티나 표준시: America/Argentina/Buenos_Aires
+중부유럽 표준시: Africa/Algiers
+오스트레일리아 동부 표준시: Australia/Tasmania
+미 중부 하계 표준시: US/Indiana-Starke
+사모아 표준시: Pacific/Midway
+미 산지 하계 표준시: America/Ciudad_Juarez
+GMT-10:00: HST
+GMT+11:00: Asia/Srednekolymsk
+오스트레일리아 동부 표준시: Australia/Hobart
+대서양 하계 표준시: Atlantic/Bermuda
+협정 세계시: Etc/UCT
+프랑스령 남부 식민지 및 남극 시간: Indian/Kerguelen
+서유럽 하계 표준시: Atlantic/Faroe
+아마존 표준시: America/Campo_Grande
+로드 하우 표준시: Australia/LHI
+모리셔스 표준시: Indian/Mauritius
+GMT+02:00: CET
+동유럽 표준시: Libya
+GMT-07:00: Etc/GMT+7
+GMT+08:00: Etc/GMT-8
+그리니치 표준시: Atlantic/St_Helena
+포나페 시간: Pacific/Pohnpei
+GMT-01:00: Etc/GMT+1
+동유럽 하계 표준시: Europe/Kyiv
+GMT+05:00: Etc/GMT-5
+레위니옹 시간: Indian/Reunion
+GMT-03:00: Antarctica/Palmer
+미 중부 표준시: America/Bahia_Banderas
+아르헨티나 표준시: America/Jujuy
+야쿠츠크 표준시: Asia/Chita
+미 산지 하계 표준시: US/Mountain
+크라스노야르스크 표준시: Asia/Novokuznetsk
+GMT+06:00: Etc/GMT-6
+오스트레일리아 동부 표준시: Australia/Currie
+네팔 시간: Asia/Kathmandu
+뉴펀들랜드 하계 표준시: America/St_Johns
+서부 카자흐스탄 시간: Asia/Aqtobe
+그리니치 표준시: GMT+0
+GMT+04:00: Europe/Astrakhan
+GMT+01:00: Europe/Guernsey
+대서양 표준시: America/Martinique
+미 동부 하계 표준시: US/East-Indiana
+중부유럽 하계 표준시: Arctic/Longyearbyen
+미 중부 표준시: America/Mexico_City
+아르헨티나 표준시: America/Argentina/ComodRivadavia
+미 태평양 하계 표준시: Canada/Pacific
+케이시 시간: Antarctica/Casey
+중앙아프리카 시간: Africa/Bujumbura
+아크레 표준시: America/Eirunepe
+일본 표준시: Asia/Tokyo
+중부유럽 하계 표준시: Europe/Bratislava
+오스트레일리아 동부 표준시: Australia/Melbourne
+미 동부 표준시: America/Panama
+동유럽 하계 표준시: Asia/Beirut
+동아프리카 시간: Indian/Antananarivo
+우즈베키스탄 표준시: Asia/Samarkand
+페루 표준시: America/Lima
+대서양 표준시: America/St_Thomas
+서부 인도네시아 시간: Asia/Pontianak
+멕시코 태평양 표준시: Mexico/BajaSur
+그리니치 표준시: Etc/GMT
+서아프리카 표준시: Africa/Luanda
+대서양 표준시: America/St_Lucia
+대서양 표준시: America/Barbados
+남아프리카 시간: Africa/Maseru
+멕시코 태평양 표준시: America/Mazatlan
+마르키즈 제도 시간: Pacific/Marquesas
+미 동부 하계 표준시: America/Thunder_Bay
+아마존 표준시: America/Cuiaba
+마셜 제도 시간: Pacific/Majuro
+동아프리카 시간: Africa/Addis_Ababa
+뉴질랜드 표준시: Antarctica/McMurdo
+중부유럽 하계 표준시: Europe/Warsaw
+미 중부 하계 표준시: America/Knox_IN
+마셜 제도 시간: Pacific/Kwajalein
+아마존 표준시: Brazil/West
+GMT+03:00: Etc/GMT-3
+대서양 표준시: America/St_Vincent
+대서양 표준시: America/Marigot
+대만 표준시: Asia/Taipei
+미 동부 하계 표준시: US/Eastern
+마셜 제도 시간: Kwajalein
+아르헨티나 표준시: America/Argentina/Jujuy
+GMT-05:00: Etc/GMT+5
+중부유럽 하계 표준시: Europe/Zagreb
+미 동부 하계 표준시: America/Port-au-Prince
+오스트레일리아 중부 표준시: Australia/North
+그리니치 표준시: GMT
+중부유럽 표준시: Africa/Tunis
+아프가니스탄 시간: Asia/Kabul
+알래스카 하계 표준시: America/Juneau
+GMT+07:00: Asia/Tomsk
+남아프리카 시간: Africa/Mbabane
+서아프리카 표준시: Africa/Porto-Novo
+걸프만 표준시: Asia/Muscat
+아르헨티나 표준시: America/Argentina/San_Luis
+오스트레일리아 중서부 표준시: Australia/Eucla
+대서양 표준시: America/Anguilla
+중부유럽 하계 표준시: Europe/Gibraltar
+중부유럽 하계 표준시: Europe/Prague
+동유럽 하계 표준시: Europe/Zaporozhye
+대한민국 표준시: Asia/Pyongyang
+중부유럽 하계 표준시: Europe/Zurich
+서부 카자흐스탄 시간: Asia/Atyrau
+미 동부 하계 표준시: America/Indiana/Vincennes
+아르헨티나 표준시: America/Argentina/Catamarca
+중부유럽 하계 표준시: Europe/Stockholm
+협정 세계시: Etc/UTC
+서아프리카 표준시: Africa/Lagos
+아르헨티나 표준시: America/Argentina/La_Rioja
+걸프만 표준시: Asia/Dubai
+울란바토르 표준시: Asia/Ulaanbaatar
+페르난도 데 노로냐 표준시: Brazil/DeNoronha
+그리니치 표준시: Africa/Bissau
+조지아 표준시: Asia/Tbilisi
+대서양 표준시: America/St_Kitts
+서아프리카 표준시: Africa/Douala
+대서양 하계 표준시: America/Goose_Bay
+미 동부 하계 표준시: America/Indianapolis
+중부유럽 하계 표준시: Europe/Rome
+하와이 알류샨 표준시: Pacific/Johnston
+동유럽 하계 표준시: Asia/Hebron
+오스트레일리아 동부 표준시: Australia/Victoria
+미 중부 하계 표준시: CST6CDT
+미 동부 하계 표준시: US/Michigan
+블라디보스토크 표준시: Asia/Vladivostok
+남아프리카 시간: Africa/Johannesburg
+GMT+03:00: Asia/Famagusta
+이스라엘 하계 표준시: Israel
+추크 시간: Pacific/Yap
+GMT-09:00: Etc/GMT+9
+중앙아프리카 시간: Africa/Khartoum
+사마라 표준시: Europe/Samara
+월리스푸투나 제도 시간: Pacific/Wallis
+보스톡 시간: Antarctica/Vostok
+갈라파고스 시간: Pacific/Galapagos
+볼리비아 시간: America/La_Paz
+대서양 표준시: America/Port_of_Spain
+미 동부 표준시: America/Coral_Harbour
+미 중부 하계 표준시: America/North_Dakota/Center
+미 산악 표준시: America/Creston
+대서양 표준시: America/Grenada
+GMT+01:00: Europe/Jersey
+차모로 시간: Pacific/Saipan
+미 동부 표준시: Jamaica
+대서양 표준시: America/Lower_Princes
+협정 세계시: Etc/Zulu
+포나페 시간: Pacific/Ponape
+사모아 표준시: Pacific/Pago_Pago
+동유럽 하계 표준시: Africa/Cairo
+중부유럽 하계 표준시: Europe/Budapest
+GMT-10:00: Etc/GMT+10
+중부유럽 하계 표준시: Europe/Tirane
+중부유럽 하계 표준시: Europe/Belgrade
+미 중부 표준시: America/El_Salvador
+미 중부 하계 표준시: America/Menominee
+영국 하계 표준시: GB-Eire
+하와이 알류샨 표준시: US/Hawaii
+아제르바이잔 표준시: Asia/Baku
+서아프리카 표준시: Africa/Brazzaville
+크리스마스섬 시간: Indian/Christmas
+GMT+02:00: Antarctica/Troll
+그린란드 서부 하계 표준시: America/Nuuk
+서유럽 하계 표준시: Atlantic/Madeira
+투르크메니스탄 표준시: Asia/Ashgabat
+그리니치 표준시: Etc/GMT-0
+그리니치 표준시: Africa/Timbuktu
+GMT+07:00: Etc/GMT-7
+GMT+06:00: Asia/Urumqi
+오스트레일리아 동부 표준시: Australia/Brisbane
+홍콩 표준시: Hongkong
+미 산악 표준시: America/Phoenix
+그리니치 표준시: Africa/Bamako
+대만 표준시: ROC
+미 중부 표준시: America/Costa_Rica
+타지키스탄 시간: Asia/Dushanbe
+하와이 알류샨 하계 표준시: America/Adak
+니우에 시간: Pacific/Niue
+GMT+03:00: Europe/Istanbul
+중국 표준시: Asia/Macau
+브라질리아 표준시: America/Belem
+미 중부 하계 표준시: America/North_Dakota/New_Salem
+미 중부 표준시: America/Monterrey
+대서양 표준시: America/Montserrat
+일본 표준시: Japan
+동유럽 표준시: Europe/Kaliningrad
+아르헨티나 표준시: America/Argentina/Rio_Gallegos
+미 중부 표준시: America/Regina
+그리니치 표준시: Africa/Freetown
+아르메니아 표준시: Asia/Yerevan
+영국 하계 표준시: Europe/Belfast
+동유럽 표준시: Africa/Tripoli
+울란바토르 표준시: Asia/Ulan_Bator
+쇼와 시간: Antarctica/Syowa
+아르헨티나 표준시: America/Catamarca
+오스트레일리아 동부 표준시: Australia/Lindeman
+미 중부 하계 표준시: US/Central
+아르헨티나 표준시: America/Argentina/San_Juan
+유콘 시간: America/Whitehorse
+그리니치 표준시: Africa/Banjul
+GMT+01:00: Africa/El_Aaiun
+미 산지 하계 표준시: America/Cambridge_Bay
+대서양 표준시: America/Antigua
+라인 제도 시간: Pacific/Kiritimati
+아라비아 표준시: Asia/Aden
+미 동부 하계 표준시: America/Louisville
+알래스카 하계 표준시: America/Sitka
+동유럽 하계 표준시: Europe/Uzhgorod
+뉴칼레도니아 표준시: Pacific/Noumea
+동유럽 하계 표준시: Europe/Kiev
+오스트레일리아 동부 표준시: Australia/NSW
+미 중부 하계 표준시: America/Resolute
+그리니치 표준시: GMT0
+오스트레일리아 서부 표준시: Australia/Perth
+모스크바 표준시: Europe/Simferopol
+오스트레일리아 중부 표준시: Australia/Broken_Hill
+바누아투 표준시: Pacific/Efate
+서유럽 하계 표준시: Atlantic/Canary
+타히티 시간: Pacific/Tahiti
+중부유럽 하계 표준시: Europe/Copenhagen
+알래스카 하계 표준시: America/Metlakatla
+영국 하계 표준시: Europe/London
+GMT-12:00: Etc/GMT+12
+중부 인도네시아 시간: Asia/Makassar
+멕시코 태평양 표준시: America/Hermosillo
+대서양 하계 표준시: America/Moncton
+인도양 시간: Indian/Chagos
+서유럽 하계 표준시: Portugal
+중부유럽 하계 표준시: Europe/Monaco
+하와이 알류샨 표준시: Pacific/Honolulu
+GMT+02:00: Etc/GMT-2
+인도차이나 시간: Asia/Ho_Chi_Minh
+쿡 제도 표준시: Pacific/Rarotonga
+미 동부 하계 표준시: America/Pangnirtung
+아크레 표준시: America/Porto_Acre
+그리니치 표준시: Africa/Monrovia
+그리니치 표준시: Etc/Greenwich
+노퍽섬 표준시: Pacific/Norfolk
+추크 시간: Pacific/Truk
+GMT-07:00: MST
+미 중부 하계 표준시: America/Ojinaga
+중국 표준시: Asia/Chungking
+서유럽 하계 표준시: Europe/Lisbon
+동유럽 하계 표준시: Europe/Vilnius
+알래스카 하계 표준시: America/Yakutat
+미 태평양 하계 표준시: America/Ensenada
+나우루 시간: Pacific/Nauru
+동유럽 하계 표준시: Europe/Chisinau
+GMT+03:00: Europe/Kirov
+중부유럽 하계 표준시: Europe/Oslo
+브라질리아 표준시: America/Bahia
+인도 표준시: Asia/Kolkata
+GMT+04:00: Europe/Ulyanovsk
+미 산지 하계 표준시: Canada/Mountain
+중부유럽 하계 표준시: Europe/Luxembourg
+그리니치 표준시: Africa/Conakry
+아르헨티나 표준시: America/Argentina/Tucuman
+키르기스스탄 시간: Asia/Bishkek
+아나디리 표준시: Asia/Anadyr
+모스크바 표준시: Europe/Minsk
+그린란드 동부 하계 표준시: America/Scoresbysund
+중부유럽 하계 표준시: Europe/Paris
+미 중부 표준시: America/Chihuahua
+피지 표준시: Pacific/Fiji
+미얀마 시간: Asia/Yangon
+칠레 표준시: America/Santiago
+인도차이나 시간: Asia/Vientiane
+대서양 표준시: America/Kralendijk
+중앙아프리카 시간: Africa/Juba
+통가 표준시: Pacific/Tongatapu
+이르쿠츠크 표준시: Asia/Irkutsk
+GMT+06:00: Asia/Kashgar
+채텀 표준시: NZ-CHAT
+중국 표준시: PRC
+아라비아 표준시: Asia/Kuwait
+부탄 시간: Asia/Thimbu
+중부유럽 하계 표준시: Europe/Busingen
+대서양 하계 표준시: America/Glace_Bay
+미 중부 표준시: America/Belize
+인도 표준시: Asia/Calcutta
+싱가포르 표준시: Asia/Singapore
+아라비아 표준시: Asia/Baghdad
+싱가포르 표준시: Singapore
+동유럽 하계 표준시: Asia/Nicosia
+그리니치 표준시: Atlantic/Reykjavik
+아르헨티나 표준시: America/Buenos_Aires
+미 산지 하계 표준시: America/Boise
+이스라엘 하계 표준시: Asia/Jerusalem
+그리니치 표준시: Africa/Ouagadougou
+이스터섬 표준시: Pacific/Easter
+홍콩 표준시: Asia/Hong_Kong
+GMT-03:00: Etc/GMT+3
+우루과이 표준시: America/Montevideo
+웨이크섬 시간: Pacific/Wake
+에콰도르 시간: America/Guayaquil
+미 중부 하계 표준시: America/Winnipeg
+미 산악 표준시: US/Arizona
+대서양 표준시: America/Virgin
+미 중부 표준시: Canada/Saskatchewan
+GMT+04:00: Etc/GMT-4
+GMT+03:00: Turkey
+대서양 표준시: America/Guadeloupe
+중앙아프리카 시간: Africa/Windhoek
+브라질리아 표준시: Brazil/East
+미 산지 하계 표준시: Navajo
+인도 표준시: Asia/Colombo
+GMT-05:00: EST
+미 중부 하계 표준시: America/North_Dakota/Beulah
+토켈라우 시간: Pacific/Fakaofo
+미얀마 시간: Asia/Rangoon
+동유럽 하계 표준시: Europe/Mariehamn
+대서양 표준시: America/Santo_Domingo
+뉴질랜드 표준시: NZ
+그리니치 표준시: Etc/GMT+0
+브라질리아 표준시: America/Araguaina
+대서양 표준시: America/Aruba
+동유럽 하계 표준시: Europe/Helsinki
+투발루 시간: Pacific/Funafuti
+미 동부 표준시: America/Jamaica
+미 동부 하계 표준시: America/Indiana/Vevay
+미 중부 표준시: America/Swift_Current
+아르헨티나 표준시: America/Argentina/Mendoza
+인도차이나 시간: Asia/Saigon
+알래스카 하계 표준시: America/Nome
+동아프리카 시간: Africa/Dar_es_Salaam
+GMT+13:00: Etc/GMT-13
+미 동부 하계 표준시: America/Nipigon
+미 산지 하계 표준시: America/Yellowknife
+서아프리카 표준시: Africa/Malabo
+길버트 제도 시간: Pacific/Tarawa
+브라질리아 표준시: America/Maceio
+협정 세계시: Zulu
+서부 카자흐스탄 시간: Asia/Oral
+중부유럽 하계 표준시: Europe/Vatican
+아르헨티나 표준시: America/Mendoza
+미 중부 하계 표준시: America/Rankin_Inlet
+영국 하계 표준시: GB
+중부유럽 하계 표준시: Poland
+중부유럽 하계 표준시: Europe/Amsterdam
+동유럽 하계 표준시: Asia/Gaza
+부탄 시간: Asia/Thimphu
+미 태평양 하계 표준시: US/Pacific
+서유럽 하계 표준시: Atlantic/Faeroe
+세인트피에르 미클롱 하계 표준시: America/Miquelon
+오스트레일리아 중부 표준시: Australia/Darwin
+블라디보스토크 표준시: Asia/Ust-Nera
+그린란드 서부 하계 표준시: America/Godthab
+아라비아 표준시: Asia/Riyadh
+아마존 표준시: America/Boa_Vista
+쿠바 하계 표준시: Cuba
+그리니치 표준시: GMT-0
+미 산악 표준시: America/Fort_Nelson
+필리핀 표준시: Asia/Manila
+아크레 표준시: America/Rio_Branco
+미 중부 하계 표준시: America/Indiana/Tell_City
+서부 카자흐스탄 시간: Asia/Qyzylorda
+중부유럽 하계 표준시: Europe/Sarajevo
+GMT+03:00: EET
+모스크바 표준시: W-SU
+동부 카자흐스탄 시간: Asia/Almaty
+동아프리카 시간: Indian/Comoro
+동부 인도네시아 시간: Asia/Jayapura
+미 동부 하계 표준시: America/Grand_Turk
+아피아 표준시: Pacific/Apia
+가이아나 시간: America/Guyana
+GMT+01:00: Etc/GMT-1
+세이셸 시간: Indian/Mahe
+프랑스령 가이아나 시간: America/Cayenne
+GMT+14:00: Etc/GMT-14
+마가단 표준시: Asia/Magadan
+오스트레일리아 동부 표준시: Australia/Queensland
+미 태평양 하계 표준시: America/Los_Angeles
+이란 표준시: Iran
+GMT+09:00: Etc/GMT-9
+GMT+01:00: WET
+중부유럽 하계 표준시: Atlantic/Jan_Mayen
+서부 카자흐스탄 시간: Asia/Aqtau
+미 중부 하계 표준시: Canada/Central
+코코스 제도 시간: Indian/Cocos
+미 산지 하계 표준시: America/Shiprock
+중부유럽 하계 표준시: Africa/Ceuta
+동부 카자흐스탄 시간: Asia/Qostanay
+아라비아 표준시: Asia/Bahrain
+서아프리카 표준시: Africa/Niamey
+GMT-03:00: America/Punta_Arenas
+아라비아 표준시: Asia/Qatar
+뉴질랜드 표준시: Pacific/Auckland
+이스터섬 표준시: Chile/EasterIsland
+파키스탄 표준시: Asia/Karachi
+이스라엘 하계 표준시: Asia/Tel_Aviv
+코스라에섬 시간: Pacific/Kosrae
+그리니치 표준시: Africa/Accra
+중국 표준시: Asia/Chongqing
+오스트레일리아 중부 표준시: Australia/Adelaide
+미 동부 하계 표준시: America/Detroit
+동유럽 하계 표준시: Europe/Sofia
+서부 인도네시아 시간: Asia/Jakarta
+대서양 표준시: America/Tortola
+미 중부 표준시: America/Merida
+중앙아프리카 시간: Africa/Lubumbashi
+피닉스 제도 시간: Pacific/Enderbury
+미 중부 표준시: Mexico/General
+브루나이 시간: Asia/Brunei
+미 중부 하계 표준시: America/Matamoros
+유콘 시간: America/Dawson
+사모아 표준시: Pacific/Samoa
+쿠바 하계 표준시: America/Havana
+모슨 시간: Antarctica/Mawson
+미 중부 하계 표준시: America/Chicago
+중국 표준시: Asia/Macao
+미 태평양 하계 표준시: America/Santa_Isabel
+알래스카 하계 표준시: America/Anchorage
+오스트레일리아 동부 표준시: Australia/Canberra
+그리니치 표준시: Africa/Sao_Tome
+아조레스 하계 표준시: Atlantic/Azores
+GMT-08:00: Etc/GMT+8
+콜롬비아 표준시: America/Bogota
+그리니치 표준시: Etc/GMT0
+동유럽 하계 표준시: Europe/Bucharest
+아르헨티나 표준시: America/Rosario
+오스트레일리아 중부 표준시: Australia/South
+동아프리카 시간: Africa/Djibouti
+이란 표준시: Asia/Tehran
+동아프리카 시간: Africa/Asmera
+동아프리카 시간: Africa/Mogadishu
+아마존 표준시: America/Porto_Velho
+미 산지 하계 표준시: America/Inuvik
+유콘 시간: Canada/Yukon
+중부유럽 하계 표준시: Europe/Madrid
+GMT+03:00: Asia/Amman
+칠레 표준시: Chile/Continental
+미 동부 하계 표준시: America/Fort_Wayne
+팔라우 시간: Pacific/Palau
+그리니치 표준시: Africa/Lome
+노보시비르스크 표준시: Asia/Novosibirsk
+중앙아프리카 시간: Africa/Gaborone
+서아프리카 표준시: Africa/Bangui
+협정 세계시: Etc/Universal
+오스트레일리아 서부 표준시: Australia/West
+중앙아프리카 시간: Africa/Maputo
+미 중부 하계 표준시: America/Rainy_River
+우즈베키스탄 표준시: Asia/Tashkent
+미 동부 하계 표준시: Canada/Eastern
+협정 세계시: Universal
+GMT+00:00: Factory
+동아프리카 시간: Africa/Nairobi
+사모아 표준시: US/Samoa
+아르헨티나 표준시: America/Argentina/Ushuaia
+뉴펀들랜드 하계 표준시: Canada/Newfoundland
+그리니치 표준시: Iceland
+뒤몽뒤르빌 시간: Antarctica/DumontDUrville
+중부유럽 하계 표준시: Europe/Vienna
+미 산지 하계 표준시: America/Edmonton
+미 동부 하계 표준시: America/Iqaluit
+말레이시아 시간: Asia/Kuching
+그리니치 표준시: America/Danmarkshavn
+뉴질랜드 표준시: Antarctica/South_Pole
+핏케언 시간: Pacific/Pitcairn
+서아프리카 표준시: Africa/Kinshasa
+울란바토르 표준시: Asia/Choibalsan
+페르난도 데 노로냐 표준시: America/Noronha
+중부유럽 하계 표준시: Europe/Andorra
+아크레 표준시: Brazil/Acre
+GMT+02:00: MET
+미 동부 표준시: America/Cancun
+사할린 표준시: Asia/Sakhalin
+미 중부 표준시: America/Guatemala
+중국 표준시: Asia/Harbin
+아르헨티나 표준시: America/Argentina/Cordoba
+그리니치 표준시: Greenwich
+협정 세계시: UCT
+감비에 시간: Pacific/Gambier
+미 산악 표준시: America/Dawson_Creek
+미 동부 하계 표준시: America/Indiana/Marengo
+오스트레일리아 동부 표준시: Australia/Sydney
+GMT+10:00: Etc/GMT-10
+서아프리카 표준시: Africa/Libreville
+예카테린부르크 표준시: Asia/Yekaterinburg
+GMT+03:00: Asia/Damascus
+오스트레일리아 동부 표준시: Australia/ACT
+미 중부 표준시: America/Managua
+대한민국 표준시: ROK
+그리니치 표준시: Africa/Abidjan
+그리니치 표준시: Africa/Nouakchott
+동티모르 시간: Asia/Dili
+카보 베르데 표준시: Atlantic/Cape_Verde
+GMT+04:00: Europe/Saratov
+채텀 표준시: Pacific/Chatham
+대서양 하계 표준시: America/Thule
+중앙아프리카 시간: Africa/Kigali
+미 동부 하계 표준시: America/Indiana/Petersburg
+미 동부 표준시: America/Atikokan
+미 중부 표준시: America/Tegucigalpa
+그리니치 표준시: Eire
+피닉스 제도 시간: Pacific/Kanton
+대서양 하계 표준시: America/Halifax
+알래스카 하계 표준시: US/Alaska
+인도차이나 시간: Asia/Bangkok
+동아프리카 시간: Indian/Mayotte
+미 동부 표준시: America/Cayman
+대서양 표준시: America/Dominica
+미 동부 하계 표준시: America/Indiana/Indianapolis
+GMT+11:00: Etc/GMT-11
+로데라 시간: Antarctica/Rothera
+몰디브 시간: Indian/Maldives
+동아프리카 시간: Africa/Asmara
+GMT+01:00: Africa/Casablanca
+미 동부 하계 표준시: America/New_York
+미 동부 하계 표준시: America/Toronto
+동유럽 하계 표준시: Europe/Tiraspol
+GMT+11:00: Pacific/Bougainville
+미 동부 하계 표준시: America/Kentucky/Monticello
+GMT-02:00: Etc/GMT+2
+로드 하우 표준시: Australia/Lord_Howe
+동유럽 하계 표준시: Europe/Athens
+오스트레일리아 중부 표준시: Australia/Yancowinna
+포클랜드 제도 표준시: Atlantic/Stanley
+미 태평양 하계 표준시: America/Tijuana
+야쿠츠크 표준시: Asia/Khandyga
+브라질리아 표준시: America/Santarem
+추크 시간: Pacific/Chuuk
+인도차이나 시간: Asia/Phnom_Penh
+GMT+01:00: Europe/Isle_of_Man
+중부유럽 하계 표준시: Europe/Skopje
+아마존 표준시: America/Manaus
+미 산지 하계 표준시: MST7MDT
+솔로몬 제도 시간: Pacific/Guadalcanal
+말레이시아 시간: Asia/Kuala_Lumpur
+중앙아프리카 시간: Africa/Harare
+미 태평양 하계 표준시: Mexico/BajaNorte
+GMT-04:00: Etc/GMT+4
+데이비스 시간: Antarctica/Davis
+동유럽 하계 표준시: Egypt
+베네수엘라 시간: America/Caracas
+브라질리아 표준시: America/Sao_Paulo
+브라질리아 표준시: America/Recife
+중부유럽 하계 표준시: Europe/Berlin
+페트로파블롭스크-캄차츠키 표준시: Asia/Kamchatka
+하와이 알류샨 하계 표준시: US/Aleutian
+그리니치 표준시: Africa/Dakar
+야쿠츠크 표준시: Asia/Yakutsk
+중앙아프리카 시간: Africa/Lusaka
+그리니치 표준시: Europe/Dublin
+중부유럽 하계 표준시: Europe/Vaduz
+호브드 표준시: Asia/Hovd
+중부유럽 하계 표준시: Europe/Ljubljana
+중부유럽 하계 표준시: Europe/San_Marino
+미 동부 하계 표준시: America/Kentucky/Louisville
+중국 표준시: Asia/Shanghai
+미 동부 하계 표준시: America/Montreal
+GMT+07:00: Asia/Barnaul
+차모로 시간: Pacific/Guam
+미 태평양 하계 표준시: PST8PDT
+파푸아뉴기니 시간: Pacific/Port_Moresby
+동아프리카 시간: Africa/Kampala
+동유럽 하계 표준시: Europe/Nicosia
+미 태평양 하계 표준시: America/Vancouver
+중부유럽 하계 표준시: Europe/Malta
+대서양 표준시: America/Puerto_Rico
+대서양 하계 표준시: Canada/Atlantic
+GMT-06:00: Etc/GMT+6
+미 동부 하계 표준시: EST5EDT
+대서양 표준시: America/Curacao
+GMT+03:00: Asia/Istanbul
+중부 인도네시아 시간: Asia/Ujung_Pandang
+미 동부 하계 표준시: America/Indiana/Winamac
+옴스크 표준시: Asia/Omsk
+동유럽 하계 표준시: Europe/Tallinn
+아르헨티나 표준시: America/Cordoba
+GMT-11:00: Etc/GMT+11

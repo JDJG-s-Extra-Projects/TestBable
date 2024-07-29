@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "TestBabble"
+version = "0.1.0"
+description = ""
+authors = ["JDJG <jdjgbot@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.10.0,<3.12"
+babel = ">=2.15.0"
+"discord.py" = {git = "https://github.com/Rapptz/discord.py.git", extras = ["voice", "speed"], branch="master"}
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.masonry.api"

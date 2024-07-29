@@ -1,0 +1,597 @@
+hawaii-aleuti nyári idő: America/Atka
+szurinámi idő: America/Paramaribo
+türkmenisztáni téli idő: Asia/Ashkhabad
+nepáli idő: Asia/Katmandu
+GMT+12:00: Etc/GMT-12
+atlanti-óceáni zónaidő: America/St_Barthelemy
+krasznojarszki téli idő: Asia/Krasnoyarsk
+közép-európai nyári idő: Europe/Brussels
+volgográdi téli idő: Europe/Volgograd
+hegyvidéki nyári idő: America/Denver
+brazíliai téli idő: America/Fortaleza
+közép-európai nyári idő: Europe/Podgorica
+déli-georgiai idő: Atlantic/South_Georgia
+nyugat-afrikai téli idő: Africa/Ndjamena
+keleti államokbeli nyári idő: America/Nassau
+bangladesi téli idő: Asia/Dhaka
+paraguayi téli idő: America/Asuncion
+atlanti-óceáni zónaidő: America/Blanc-Sablon
+középső államokbeli nyári idő: America/Indiana/Knox
+bangladesi téli idő: Asia/Dacca
+kelet-ausztráliai téli idő: Antarctica/Macquarie
+moszkvai téli idő: Europe/Moscow
+koordinált világidő: UTC
+koreai téli idő: Asia/Seoul
+kelet-európai nyári idő: Europe/Riga
+közép-afrikai téli idő: Africa/Blantyre
+argentínai téli idő: America/Argentina/Salta
+argentínai téli idő: America/Argentina/Buenos_Aires
+közép-európai téli idő: Africa/Algiers
+kelet-ausztráliai téli idő: Australia/Tasmania
+középső államokbeli nyári idő: US/Indiana-Starke
+szamoai téli idő: Pacific/Midway
+hegyvidéki nyári idő: America/Ciudad_Juarez
+GMT-10:00: HST
+GMT+11:00: Asia/Srednekolymsk
+kelet-ausztráliai téli idő: Australia/Hobart
+atlanti-óceáni nyári idő: Atlantic/Bermuda
+koordinált világidő: Etc/UCT
+francia déli és antarktiszi idő: Indian/Kerguelen
+nyugat-európai nyári idő: Atlantic/Faroe
+amazóniai téli idő: America/Campo_Grande
+Lord Howe-szigeti téli idő: Australia/LHI
+mauritiusi téli idő: Indian/Mauritius
+GMT+02:00: CET
+kelet-európai téli idő: Libya
+GMT-07:00: Etc/GMT+7
+GMT+08:00: Etc/GMT-8
+greenwichi középidő, téli idő: Atlantic/St_Helena
+ponape-szigeti idő: Pacific/Pohnpei
+GMT-01:00: Etc/GMT+1
+kelet-európai nyári idő: Europe/Kyiv
+GMT+05:00: Etc/GMT-5
+réunioni idő: Indian/Reunion
+GMT-03:00: Antarctica/Palmer
+középső államokbeli zónaidő: America/Bahia_Banderas
+argentínai téli idő: America/Jujuy
+jakutszki téli idő: Asia/Chita
+hegyvidéki nyári idő: US/Mountain
+krasznojarszki téli idő: Asia/Novokuznetsk
+GMT+06:00: Etc/GMT-6
+kelet-ausztráliai téli idő: Australia/Currie
+nepáli idő: Asia/Kathmandu
+új-fundlandi nyári idő: America/St_Johns
+nyugat-kazahsztáni idő: Asia/Aqtobe
+greenwichi középidő, téli idő: GMT+0
+GMT+04:00: Europe/Astrakhan
+GMT+01:00: Europe/Guernsey
+atlanti-óceáni zónaidő: America/Martinique
+keleti államokbeli nyári idő: US/East-Indiana
+közép-európai nyári idő: Arctic/Longyearbyen
+középső államokbeli zónaidő: America/Mexico_City
+argentínai téli idő: America/Argentina/ComodRivadavia
+csendes-óceáni nyári idő: Canada/Pacific
+casey-i idő: Antarctica/Casey
+közép-afrikai téli idő: Africa/Bujumbura
+Acre zónaidő: America/Eirunepe
+japán téli idő: Asia/Tokyo
+közép-európai nyári idő: Europe/Bratislava
+kelet-ausztráliai téli idő: Australia/Melbourne
+keleti államokbeli zónaidő: America/Panama
+kelet-európai nyári idő: Asia/Beirut
+kelet-afrikai téli idő: Indian/Antananarivo
+üzbegisztáni téli idő: Asia/Samarkand
+perui téli idő: America/Lima
+atlanti-óceáni zónaidő: America/St_Thomas
+nyugat-indonéziai téli idő: Asia/Pontianak
+mexikói csendes-óceáni zónaidő: Mexico/BajaSur
+greenwichi középidő, téli idő: Etc/GMT
+nyugat-afrikai téli idő: Africa/Luanda
+atlanti-óceáni zónaidő: America/St_Lucia
+atlanti-óceáni zónaidő: America/Barbados
+dél-afrikai téli idő: Africa/Maseru
+mexikói csendes-óceáni zónaidő: America/Mazatlan
+marquises-szigeteki idő: Pacific/Marquesas
+keleti államokbeli nyári idő: America/Thunder_Bay
+amazóniai téli idő: America/Cuiaba
+marshall-szigeteki idő: Pacific/Majuro
+kelet-afrikai téli idő: Africa/Addis_Ababa
+új-zélandi téli idő: Antarctica/McMurdo
+közép-európai nyári idő: Europe/Warsaw
+középső államokbeli nyári idő: America/Knox_IN
+marshall-szigeteki idő: Pacific/Kwajalein
+amazóniai téli idő: Brazil/West
+GMT+03:00: Etc/GMT-3
+atlanti-óceáni zónaidő: America/St_Vincent
+atlanti-óceáni zónaidő: America/Marigot
+taipei téli idő: Asia/Taipei
+keleti államokbeli nyári idő: US/Eastern
+marshall-szigeteki idő: Kwajalein
+argentínai téli idő: America/Argentina/Jujuy
+GMT-05:00: Etc/GMT+5
+közép-európai nyári idő: Europe/Zagreb
+keleti államokbeli nyári idő: America/Port-au-Prince
+közép-ausztráliai téli idő: Australia/North
+greenwichi középidő, téli idő: GMT
+közép-európai téli idő: Africa/Tunis
+afganisztáni idő: Asia/Kabul
+alaszkai nyári idő: America/Juneau
+GMT+07:00: Asia/Tomsk
+dél-afrikai téli idő: Africa/Mbabane
+nyugat-afrikai téli idő: Africa/Porto-Novo
+öbölbeli téli idő: Asia/Muscat
+argentínai téli idő: America/Argentina/San_Luis
+közép-nyugat-ausztráliai téli idő: Australia/Eucla
+atlanti-óceáni zónaidő: America/Anguilla
+közép-európai nyári idő: Europe/Gibraltar
+közép-európai nyári idő: Europe/Prague
+kelet-európai nyári idő: Europe/Zaporozhye
+koreai téli idő: Asia/Pyongyang
+közép-európai nyári idő: Europe/Zurich
+nyugat-kazahsztáni idő: Asia/Atyrau
+keleti államokbeli nyári idő: America/Indiana/Vincennes
+argentínai téli idő: America/Argentina/Catamarca
+közép-európai nyári idő: Europe/Stockholm
+koordinált világidő: Etc/UTC
+nyugat-afrikai téli idő: Africa/Lagos
+argentínai téli idő: America/Argentina/La_Rioja
+öbölbeli téli idő: Asia/Dubai
+ulánbátori téli idő: Asia/Ulaanbaatar
+Fernando de Noronha-i téli idő: Brazil/DeNoronha
+greenwichi középidő, téli idő: Africa/Bissau
+grúziai téli idő: Asia/Tbilisi
+atlanti-óceáni zónaidő: America/St_Kitts
+nyugat-afrikai téli idő: Africa/Douala
+atlanti-óceáni nyári idő: America/Goose_Bay
+keleti államokbeli nyári idő: America/Indianapolis
+közép-európai nyári idő: Europe/Rome
+hawaii-aleuti téli idő: Pacific/Johnston
+kelet-európai nyári idő: Asia/Hebron
+kelet-ausztráliai téli idő: Australia/Victoria
+középső államokbeli nyári idő: CST6CDT
+keleti államokbeli nyári idő: US/Michigan
+vlagyivosztoki téli idő: Asia/Vladivostok
+dél-afrikai téli idő: Africa/Johannesburg
+GMT+03:00: Asia/Famagusta
+izraeli nyári idő: Israel
+truki idő: Pacific/Yap
+GMT-09:00: Etc/GMT+9
+közép-afrikai téli idő: Africa/Khartoum
+Szamarai zónaidő: Europe/Samara
+Wallis és Futuna-i idő: Pacific/Wallis
+vosztoki idő: Antarctica/Vostok
+galápagosi téli idő: Pacific/Galapagos
+bolíviai téli idő: America/La_Paz
+atlanti-óceáni zónaidő: America/Port_of_Spain
+keleti államokbeli zónaidő: America/Coral_Harbour
+középső államokbeli nyári idő: America/North_Dakota/Center
+hegyvidéki zónaidő: America/Creston
+atlanti-óceáni zónaidő: America/Grenada
+GMT+01:00: Europe/Jersey
+chamorrói téli idő: Pacific/Saipan
+keleti államokbeli zónaidő: Jamaica
+atlanti-óceáni zónaidő: America/Lower_Princes
+koordinált világidő: Etc/Zulu
+ponape-szigeti idő: Pacific/Ponape
+szamoai téli idő: Pacific/Pago_Pago
+kelet-európai nyári idő: Africa/Cairo
+közép-európai nyári idő: Europe/Budapest
+GMT-10:00: Etc/GMT+10
+közép-európai nyári idő: Europe/Tirane
+közép-európai nyári idő: Europe/Belgrade
+középső államokbeli zónaidő: America/El_Salvador
+középső államokbeli nyári idő: America/Menominee
+brit nyári idő: GB-Eire
+hawaii-aleuti téli idő: US/Hawaii
+azerbajdzsáni téli idő: Asia/Baku
+nyugat-afrikai téli idő: Africa/Brazzaville
+karácsony-szigeti idő: Indian/Christmas
+GMT+02:00: Antarctica/Troll
+nyugat-grönlandi nyári idő: America/Nuuk
+nyugat-európai nyári idő: Atlantic/Madeira
+türkmenisztáni téli idő: Asia/Ashgabat
+greenwichi középidő, téli idő: Etc/GMT-0
+greenwichi középidő, téli idő: Africa/Timbuktu
+GMT+07:00: Etc/GMT-7
+GMT+06:00: Asia/Urumqi
+kelet-ausztráliai téli idő: Australia/Brisbane
+hongkongi téli idő: Hongkong
+hegyvidéki zónaidő: America/Phoenix
+greenwichi középidő, téli idő: Africa/Bamako
+taipei téli idő: ROC
+középső államokbeli zónaidő: America/Costa_Rica
+tádzsikisztáni idő: Asia/Dushanbe
+hawaii-aleuti nyári idő: America/Adak
+niuei idő: Pacific/Niue
+GMT+03:00: Europe/Istanbul
+kínai téli idő: Asia/Macau
+brazíliai téli idő: America/Belem
+középső államokbeli nyári idő: America/North_Dakota/New_Salem
+középső államokbeli zónaidő: America/Monterrey
+atlanti-óceáni zónaidő: America/Montserrat
+japán téli idő: Japan
+kelet-európai téli idő: Europe/Kaliningrad
+argentínai téli idő: America/Argentina/Rio_Gallegos
+középső államokbeli zónaidő: America/Regina
+greenwichi középidő, téli idő: Africa/Freetown
+örményországi téli idő: Asia/Yerevan
+brit nyári idő: Europe/Belfast
+kelet-európai téli idő: Africa/Tripoli
+ulánbátori téli idő: Asia/Ulan_Bator
+syowai idő: Antarctica/Syowa
+argentínai téli idő: America/Catamarca
+kelet-ausztráliai téli idő: Australia/Lindeman
+középső államokbeli nyári idő: US/Central
+argentínai téli idő: America/Argentina/San_Juan
+yukoni idő: America/Whitehorse
+greenwichi középidő, téli idő: Africa/Banjul
+GMT+01:00: Africa/El_Aaiun
+hegyvidéki nyári idő: America/Cambridge_Bay
+atlanti-óceáni zónaidő: America/Antigua
+sor-szigeteki idő: Pacific/Kiritimati
+arab téli idő: Asia/Aden
+keleti államokbeli nyári idő: America/Louisville
+alaszkai nyári idő: America/Sitka
+kelet-európai nyári idő: Europe/Uzhgorod
+új-kaledóniai téli idő: Pacific/Noumea
+kelet-európai nyári idő: Europe/Kiev
+kelet-ausztráliai téli idő: Australia/NSW
+középső államokbeli nyári idő: America/Resolute
+greenwichi középidő, téli idő: GMT0
+nyugat-ausztráliai téli idő: Australia/Perth
+moszkvai téli idő: Europe/Simferopol
+közép-ausztráliai téli idő: Australia/Broken_Hill
+vanuatui téli idő: Pacific/Efate
+nyugat-európai nyári idő: Atlantic/Canary
+tahiti idő: Pacific/Tahiti
+közép-európai nyári idő: Europe/Copenhagen
+alaszkai nyári idő: America/Metlakatla
+brit nyári idő: Europe/London
+GMT-12:00: Etc/GMT+12
+közép-indonéziai idő: Asia/Makassar
+mexikói csendes-óceáni zónaidő: America/Hermosillo
+atlanti-óceáni nyári idő: America/Moncton
+indiai-óceáni idő: Indian/Chagos
+nyugat-európai nyári idő: Portugal
+közép-európai nyári idő: Europe/Monaco
+hawaii-aleuti téli idő: Pacific/Honolulu
+GMT+02:00: Etc/GMT-2
+indokínai idő: Asia/Ho_Chi_Minh
+cook-szigeteki téli idő: Pacific/Rarotonga
+keleti államokbeli nyári idő: America/Pangnirtung
+Acre zónaidő: America/Porto_Acre
+greenwichi középidő, téli idő: Africa/Monrovia
+greenwichi középidő, téli idő: Etc/Greenwich
+norfolk-szigeteki téli idő: Pacific/Norfolk
+truki idő: Pacific/Truk
+GMT-07:00: MST
+középső államokbeli nyári idő: America/Ojinaga
+kínai téli idő: Asia/Chungking
+nyugat-európai nyári idő: Europe/Lisbon
+kelet-európai nyári idő: Europe/Vilnius
+alaszkai nyári idő: America/Yakutat
+csendes-óceáni nyári idő: America/Ensenada
+naurui idő: Pacific/Nauru
+kelet-európai nyári idő: Europe/Chisinau
+GMT+03:00: Europe/Kirov
+közép-európai nyári idő: Europe/Oslo
+brazíliai téli idő: America/Bahia
+indiai téli idő: Asia/Kolkata
+GMT+04:00: Europe/Ulyanovsk
+hegyvidéki nyári idő: Canada/Mountain
+közép-európai nyári idő: Europe/Luxembourg
+greenwichi középidő, téli idő: Africa/Conakry
+argentínai téli idő: America/Argentina/Tucuman
+kirgizisztáni idő: Asia/Bishkek
+Anadíri zónaidő: Asia/Anadyr
+moszkvai téli idő: Europe/Minsk
+kelet-grönlandi nyári idő: America/Scoresbysund
+közép-európai nyári idő: Europe/Paris
+középső államokbeli zónaidő: America/Chihuahua
+fidzsi téli idő: Pacific/Fiji
+mianmari idő: Asia/Yangon
+chilei téli idő: America/Santiago
+indokínai idő: Asia/Vientiane
+atlanti-óceáni zónaidő: America/Kralendijk
+közép-afrikai téli idő: Africa/Juba
+tongai téli idő: Pacific/Tongatapu
+irkutszki téli idő: Asia/Irkutsk
+GMT+06:00: Asia/Kashgar
+chathami téli idő: NZ-CHAT
+kínai téli idő: PRC
+arab téli idő: Asia/Kuwait
+butáni idő: Asia/Thimbu
+közép-európai nyári idő: Europe/Busingen
+atlanti-óceáni nyári idő: America/Glace_Bay
+középső államokbeli zónaidő: America/Belize
+indiai téli idő: Asia/Calcutta
+szingapúri téli idő: Asia/Singapore
+arab téli idő: Asia/Baghdad
+szingapúri téli idő: Singapore
+kelet-európai nyári idő: Asia/Nicosia
+greenwichi középidő, téli idő: Atlantic/Reykjavik
+argentínai téli idő: America/Buenos_Aires
+hegyvidéki nyári idő: America/Boise
+izraeli nyári idő: Asia/Jerusalem
+greenwichi középidő, téli idő: Africa/Ouagadougou
+húsvét-szigeti téli idő: Pacific/Easter
+hongkongi téli idő: Asia/Hong_Kong
+GMT-03:00: Etc/GMT+3
+uruguayi téli idő: America/Montevideo
+wake-szigeti idő: Pacific/Wake
+ecuadori téli idő: America/Guayaquil
+középső államokbeli nyári idő: America/Winnipeg
+hegyvidéki zónaidő: US/Arizona
+atlanti-óceáni zónaidő: America/Virgin
+középső államokbeli zónaidő: Canada/Saskatchewan
+GMT+04:00: Etc/GMT-4
+GMT+03:00: Turkey
+atlanti-óceáni zónaidő: America/Guadeloupe
+közép-afrikai téli idő: Africa/Windhoek
+brazíliai téli idő: Brazil/East
+hegyvidéki nyári idő: Navajo
+indiai téli idő: Asia/Colombo
+GMT-05:00: EST
+középső államokbeli nyári idő: America/North_Dakota/Beulah
+tokelaui idő: Pacific/Fakaofo
+mianmari idő: Asia/Rangoon
+kelet-európai nyári idő: Europe/Mariehamn
+atlanti-óceáni zónaidő: America/Santo_Domingo
+új-zélandi téli idő: NZ
+greenwichi középidő, téli idő: Etc/GMT+0
+brazíliai téli idő: America/Araguaina
+atlanti-óceáni zónaidő: America/Aruba
+kelet-európai nyári idő: Europe/Helsinki
+tuvalui idő: Pacific/Funafuti
+keleti államokbeli zónaidő: America/Jamaica
+keleti államokbeli nyári idő: America/Indiana/Vevay
+középső államokbeli zónaidő: America/Swift_Current
+argentínai téli idő: America/Argentina/Mendoza
+indokínai idő: Asia/Saigon
+alaszkai nyári idő: America/Nome
+kelet-afrikai téli idő: Africa/Dar_es_Salaam
+GMT+13:00: Etc/GMT-13
+keleti államokbeli nyári idő: America/Nipigon
+hegyvidéki nyári idő: America/Yellowknife
+nyugat-afrikai téli idő: Africa/Malabo
+gilbert-szigeteki idő: Pacific/Tarawa
+brazíliai téli idő: America/Maceio
+koordinált világidő: Zulu
+nyugat-kazahsztáni idő: Asia/Oral
+közép-európai nyári idő: Europe/Vatican
+argentínai téli idő: America/Mendoza
+középső államokbeli nyári idő: America/Rankin_Inlet
+brit nyári idő: GB
+közép-európai nyári idő: Poland
+közép-európai nyári idő: Europe/Amsterdam
+kelet-európai nyári idő: Asia/Gaza
+butáni idő: Asia/Thimphu
+csendes-óceáni nyári idő: US/Pacific
+nyugat-európai nyári idő: Atlantic/Faeroe
+Saint-Pierre és Miquelon-i nyári idő: America/Miquelon
+közép-ausztráliai téli idő: Australia/Darwin
+vlagyivosztoki téli idő: Asia/Ust-Nera
+nyugat-grönlandi nyári idő: America/Godthab
+arab téli idő: Asia/Riyadh
+amazóniai téli idő: America/Boa_Vista
+kubai nyári idő: Cuba
+greenwichi középidő, téli idő: GMT-0
+hegyvidéki zónaidő: America/Fort_Nelson
+fülöp-szigeteki téli idő: Asia/Manila
+Acre zónaidő: America/Rio_Branco
+középső államokbeli nyári idő: America/Indiana/Tell_City
+nyugat-kazahsztáni idő: Asia/Qyzylorda
+közép-európai nyári idő: Europe/Sarajevo
+GMT+03:00: EET
+moszkvai téli idő: W-SU
+kelet-kazahsztáni idő: Asia/Almaty
+kelet-afrikai téli idő: Indian/Comoro
+kelet-indonéziai idő: Asia/Jayapura
+keleti államokbeli nyári idő: America/Grand_Turk
+apiai téli idő: Pacific/Apia
+guyanai téli idő: America/Guyana
+GMT+01:00: Etc/GMT-1
+seychelle-szigeteki idő: Indian/Mahe
+francia-guyanai idő: America/Cayenne
+GMT+14:00: Etc/GMT-14
+magadani téli idő: Asia/Magadan
+kelet-ausztráliai téli idő: Australia/Queensland
+csendes-óceáni nyári idő: America/Los_Angeles
+iráni téli idő: Iran
+GMT+09:00: Etc/GMT-9
+GMT+01:00: WET
+közép-európai nyári idő: Atlantic/Jan_Mayen
+nyugat-kazahsztáni idő: Asia/Aqtau
+középső államokbeli nyári idő: Canada/Central
+kókusz-szigeteki téli idő: Indian/Cocos
+hegyvidéki nyári idő: America/Shiprock
+közép-európai nyári idő: Africa/Ceuta
+kelet-kazahsztáni idő: Asia/Qostanay
+arab téli idő: Asia/Bahrain
+nyugat-afrikai téli idő: Africa/Niamey
+GMT-03:00: America/Punta_Arenas
+arab téli idő: Asia/Qatar
+új-zélandi téli idő: Pacific/Auckland
+húsvét-szigeti téli idő: Chile/EasterIsland
+pakisztáni téli idő: Asia/Karachi
+izraeli nyári idő: Asia/Tel_Aviv
+kosraei idő: Pacific/Kosrae
+greenwichi középidő, téli idő: Africa/Accra
+kínai téli idő: Asia/Chongqing
+közép-ausztráliai téli idő: Australia/Adelaide
+keleti államokbeli nyári idő: America/Detroit
+kelet-európai nyári idő: Europe/Sofia
+nyugat-indonéziai téli idő: Asia/Jakarta
+atlanti-óceáni zónaidő: America/Tortola
+középső államokbeli zónaidő: America/Merida
+közép-afrikai téli idő: Africa/Lubumbashi
+phoenix-szigeteki téli idő: Pacific/Enderbury
+középső államokbeli zónaidő: Mexico/General
+Brunei Darussalam-i idő: Asia/Brunei
+középső államokbeli nyári idő: America/Matamoros
+yukoni idő: America/Dawson
+szamoai téli idő: Pacific/Samoa
+kubai nyári idő: America/Havana
+mawsoni idő: Antarctica/Mawson
+középső államokbeli nyári idő: America/Chicago
+kínai téli idő: Asia/Macao
+csendes-óceáni nyári idő: America/Santa_Isabel
+alaszkai nyári idő: America/Anchorage
+kelet-ausztráliai téli idő: Australia/Canberra
+greenwichi középidő, téli idő: Africa/Sao_Tome
+azori nyári idő: Atlantic/Azores
+GMT-08:00: Etc/GMT+8
+kolumbiai téli idő: America/Bogota
+greenwichi középidő, téli idő: Etc/GMT0
+kelet-európai nyári idő: Europe/Bucharest
+argentínai téli idő: America/Rosario
+közép-ausztráliai téli idő: Australia/South
+kelet-afrikai téli idő: Africa/Djibouti
+iráni téli idő: Asia/Tehran
+kelet-afrikai téli idő: Africa/Asmera
+kelet-afrikai téli idő: Africa/Mogadishu
+amazóniai téli idő: America/Porto_Velho
+hegyvidéki nyári idő: America/Inuvik
+yukoni idő: Canada/Yukon
+közép-európai nyári idő: Europe/Madrid
+GMT+03:00: Asia/Amman
+chilei téli idő: Chile/Continental
+keleti államokbeli nyári idő: America/Fort_Wayne
+palaui idő: Pacific/Palau
+greenwichi középidő, téli idő: Africa/Lome
+novoszibirszki téli idő: Asia/Novosibirsk
+közép-afrikai téli idő: Africa/Gaborone
+nyugat-afrikai téli idő: Africa/Bangui
+koordinált világidő: Etc/Universal
+nyugat-ausztráliai téli idő: Australia/West
+közép-afrikai téli idő: Africa/Maputo
+középső államokbeli nyári idő: America/Rainy_River
+üzbegisztáni téli idő: Asia/Tashkent
+keleti államokbeli nyári idő: Canada/Eastern
+koordinált világidő: Universal
+GMT+00:00: Factory
+kelet-afrikai téli idő: Africa/Nairobi
+szamoai téli idő: US/Samoa
+argentínai téli idő: America/Argentina/Ushuaia
+új-fundlandi nyári idő: Canada/Newfoundland
+greenwichi középidő, téli idő: Iceland
+dumont-d’Urville-i idő: Antarctica/DumontDUrville
+közép-európai nyári idő: Europe/Vienna
+hegyvidéki nyári idő: America/Edmonton
+keleti államokbeli nyári idő: America/Iqaluit
+malajziai idő: Asia/Kuching
+greenwichi középidő, téli idő: America/Danmarkshavn
+új-zélandi téli idő: Antarctica/South_Pole
+pitcairn-szigeteki idő: Pacific/Pitcairn
+nyugat-afrikai téli idő: Africa/Kinshasa
+ulánbátori téli idő: Asia/Choibalsan
+Fernando de Noronha-i téli idő: America/Noronha
+közép-európai nyári idő: Europe/Andorra
+Acre zónaidő: Brazil/Acre
+GMT+02:00: MET
+keleti államokbeli zónaidő: America/Cancun
+szahalini téli idő: Asia/Sakhalin
+középső államokbeli zónaidő: America/Guatemala
+kínai téli idő: Asia/Harbin
+argentínai téli idő: America/Argentina/Cordoba
+greenwichi középidő, téli idő: Greenwich
+koordinált világidő: UCT
+gambieri idő: Pacific/Gambier
+hegyvidéki zónaidő: America/Dawson_Creek
+keleti államokbeli nyári idő: America/Indiana/Marengo
+kelet-ausztráliai téli idő: Australia/Sydney
+GMT+10:00: Etc/GMT-10
+nyugat-afrikai téli idő: Africa/Libreville
+jekatyerinburgi téli idő: Asia/Yekaterinburg
+GMT+03:00: Asia/Damascus
+kelet-ausztráliai téli idő: Australia/ACT
+középső államokbeli zónaidő: America/Managua
+koreai téli idő: ROK
+greenwichi középidő, téli idő: Africa/Abidjan
+greenwichi középidő, téli idő: Africa/Nouakchott
+kelet-timori téli idő: Asia/Dili
+zöld-foki-szigeteki téli idő: Atlantic/Cape_Verde
+GMT+04:00: Europe/Saratov
+chathami téli idő: Pacific/Chatham
+atlanti-óceáni nyári idő: America/Thule
+közép-afrikai téli idő: Africa/Kigali
+keleti államokbeli nyári idő: America/Indiana/Petersburg
+keleti államokbeli zónaidő: America/Atikokan
+középső államokbeli zónaidő: America/Tegucigalpa
+greenwichi középidő, téli idő: Eire
+phoenix-szigeteki téli idő: Pacific/Kanton
+atlanti-óceáni nyári idő: America/Halifax
+alaszkai nyári idő: US/Alaska
+indokínai idő: Asia/Bangkok
+kelet-afrikai téli idő: Indian/Mayotte
+keleti államokbeli zónaidő: America/Cayman
+atlanti-óceáni zónaidő: America/Dominica
+keleti államokbeli nyári idő: America/Indiana/Indianapolis
+GMT+11:00: Etc/GMT-11
+rotherai idő: Antarctica/Rothera
+maldív-szigeteki idő: Indian/Maldives
+kelet-afrikai téli idő: Africa/Asmara
+GMT+01:00: Africa/Casablanca
+keleti államokbeli nyári idő: America/New_York
+keleti államokbeli nyári idő: America/Toronto
+kelet-európai nyári idő: Europe/Tiraspol
+GMT+11:00: Pacific/Bougainville
+keleti államokbeli nyári idő: America/Kentucky/Monticello
+GMT-02:00: Etc/GMT+2
+Lord Howe-szigeti téli idő: Australia/Lord_Howe
+kelet-európai nyári idő: Europe/Athens
+közép-ausztráliai téli idő: Australia/Yancowinna
+falkland-szigeteki téli idő: Atlantic/Stanley
+csendes-óceáni nyári idő: America/Tijuana
+jakutszki téli idő: Asia/Khandyga
+brazíliai téli idő: America/Santarem
+truki idő: Pacific/Chuuk
+indokínai idő: Asia/Phnom_Penh
+GMT+01:00: Europe/Isle_of_Man
+közép-európai nyári idő: Europe/Skopje
+amazóniai téli idő: America/Manaus
+hegyvidéki nyári idő: MST7MDT
+salamon-szigeteki idő: Pacific/Guadalcanal
+malajziai idő: Asia/Kuala_Lumpur
+közép-afrikai téli idő: Africa/Harare
+csendes-óceáni nyári idő: Mexico/BajaNorte
+GMT-04:00: Etc/GMT+4
+davisi idő: Antarctica/Davis
+kelet-európai nyári idő: Egypt
+venezuelai idő: America/Caracas
+brazíliai téli idő: America/Sao_Paulo
+brazíliai téli idő: America/Recife
+közép-európai nyári idő: Europe/Berlin
+Petropavlovszk-kamcsatkai zónaidő: Asia/Kamchatka
+hawaii-aleuti nyári idő: US/Aleutian
+greenwichi középidő, téli idő: Africa/Dakar
+jakutszki téli idő: Asia/Yakutsk
+közép-afrikai téli idő: Africa/Lusaka
+greenwichi középidő, téli idő: Europe/Dublin
+közép-európai nyári idő: Europe/Vaduz
+hovdi téli idő: Asia/Hovd
+közép-európai nyári idő: Europe/Ljubljana
+közép-európai nyári idő: Europe/San_Marino
+keleti államokbeli nyári idő: America/Kentucky/Louisville
+kínai téli idő: Asia/Shanghai
+keleti államokbeli nyári idő: America/Montreal
+GMT+07:00: Asia/Barnaul
+chamorrói téli idő: Pacific/Guam
+csendes-óceáni nyári idő: PST8PDT
+pápua új-guineai idő: Pacific/Port_Moresby
+kelet-afrikai téli idő: Africa/Kampala
+kelet-európai nyári idő: Europe/Nicosia
+csendes-óceáni nyári idő: America/Vancouver
+közép-európai nyári idő: Europe/Malta
+atlanti-óceáni zónaidő: America/Puerto_Rico
+atlanti-óceáni nyári idő: Canada/Atlantic
+GMT-06:00: Etc/GMT+6
+keleti államokbeli nyári idő: EST5EDT
+atlanti-óceáni zónaidő: America/Curacao
+GMT+03:00: Asia/Istanbul
+közép-indonéziai idő: Asia/Ujung_Pandang
+keleti államokbeli nyári idő: America/Indiana/Winamac
+omszki téli idő: Asia/Omsk
+kelet-európai nyári idő: Europe/Tallinn
+argentínai téli idő: America/Cordoba
+GMT-11:00: Etc/GMT+11

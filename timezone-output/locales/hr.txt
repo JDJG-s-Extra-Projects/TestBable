@@ -1,0 +1,597 @@
+havajsko-aleutsko ljetno vrijeme: America/Atka
+surinamsko vrijeme: America/Paramaribo
+turkmenistansko standardno vrijeme: Asia/Ashkhabad
+nepalsko vrijeme: Asia/Katmandu
+GMT+12:00: Etc/GMT-12
+atlantsko standardno vrijeme: America/St_Barthelemy
+krasnojarsko standardno vrijeme: Asia/Krasnoyarsk
+srednjoeuropsko ljetno vrijeme: Europe/Brussels
+volgogradsko standardno vrijeme: Europe/Volgograd
+planinsko ljetno vrijeme: America/Denver
+brazilsko standardno vrijeme: America/Fortaleza
+srednjoeuropsko ljetno vrijeme: Europe/Podgorica
+vrijeme Južne Georgije: Atlantic/South_Georgia
+zapadnoafričko standardno vrijeme: Africa/Ndjamena
+istočno ljetno vrijeme: America/Nassau
+bangladeško standardno vrijeme: Asia/Dhaka
+paragvajsko standardno vrijeme: America/Asuncion
+atlantsko standardno vrijeme: America/Blanc-Sablon
+središnje ljetno vrijeme: America/Indiana/Knox
+bangladeško standardno vrijeme: Asia/Dacca
+istočnoaustralsko standardno vrijeme: Antarctica/Macquarie
+moskovsko standardno vrijeme: Europe/Moscow
+koordinirano svjetsko vrijeme: UTC
+korejsko standardno vrijeme: Asia/Seoul
+istočnoeuropsko ljetno vrijeme: Europe/Riga
+srednjoafričko vrijeme: Africa/Blantyre
+argentinsko standardno vrijeme: America/Argentina/Salta
+argentinsko standardno vrijeme: America/Argentina/Buenos_Aires
+srednjoeuropsko standardno vrijeme: Africa/Algiers
+istočnoaustralsko standardno vrijeme: Australia/Tasmania
+središnje ljetno vrijeme: US/Indiana-Starke
+samoansko standardno vrijeme: Pacific/Midway
+planinsko ljetno vrijeme: America/Ciudad_Juarez
+GMT-10:00: HST
+GMT+11:00: Asia/Srednekolymsk
+istočnoaustralsko standardno vrijeme: Australia/Hobart
+atlantsko ljetno vrijeme: Atlantic/Bermuda
+koordinirano svjetsko vrijeme: Etc/UCT
+vrijeme Francuskih južnih i antarktičkih teritorija: Indian/Kerguelen
+zapadnoeuropsko ljetno vrijeme: Atlantic/Faroe
+amazonsko standardno vrijeme: America/Campo_Grande
+standardno vrijeme otoka Lord Howe: Australia/LHI
+standardno vrijeme Mauricijusa: Indian/Mauritius
+GMT+02:00: CET
+istočnoeuropsko standardno vrijeme: Libya
+GMT-07:00: Etc/GMT+7
+GMT+08:00: Etc/GMT-8
+univerzalno vrijeme: Atlantic/St_Helena
+ponapejsko vrijeme: Pacific/Pohnpei
+GMT-01:00: Etc/GMT+1
+istočnoeuropsko ljetno vrijeme: Europe/Kyiv
+GMT+05:00: Etc/GMT-5
+vrijeme Reuniona: Indian/Reunion
+GMT-03:00: Antarctica/Palmer
+središnje standardno vrijeme: America/Bahia_Banderas
+argentinsko standardno vrijeme: America/Jujuy
+jakutsko standardno vrijeme: Asia/Chita
+planinsko ljetno vrijeme: US/Mountain
+krasnojarsko standardno vrijeme: Asia/Novokuznetsk
+GMT+06:00: Etc/GMT-6
+istočnoaustralsko standardno vrijeme: Australia/Currie
+nepalsko vrijeme: Asia/Kathmandu
+newfoundlandsko ljetno vrijeme: America/St_Johns
+zapadnokazahstansko vrijeme: Asia/Aqtobe
+univerzalno vrijeme: GMT+0
+GMT+04:00: Europe/Astrakhan
+GMT+01:00: Europe/Guernsey
+atlantsko standardno vrijeme: America/Martinique
+istočno ljetno vrijeme: US/East-Indiana
+srednjoeuropsko ljetno vrijeme: Arctic/Longyearbyen
+središnje standardno vrijeme: America/Mexico_City
+argentinsko standardno vrijeme: America/Argentina/ComodRivadavia
+pacifičko ljetno vrijeme: Canada/Pacific
+vrijeme Caseyja: Antarctica/Casey
+srednjoafričko vrijeme: Africa/Bujumbura
+Acre standardno vrijeme: America/Eirunepe
+japansko standardno vrijeme: Asia/Tokyo
+srednjoeuropsko ljetno vrijeme: Europe/Bratislava
+istočnoaustralsko standardno vrijeme: Australia/Melbourne
+istočno standardno vrijeme: America/Panama
+istočnoeuropsko ljetno vrijeme: Asia/Beirut
+istočnoafričko vrijeme: Indian/Antananarivo
+uzbekistansko standardno vrijeme: Asia/Samarkand
+peruansko standardno vrijeme: America/Lima
+atlantsko standardno vrijeme: America/St_Thomas
+zapadnoindonezijsko vrijeme: Asia/Pontianak
+meksičko pacifičko standardno vrijeme: Mexico/BajaSur
+univerzalno vrijeme: Etc/GMT
+zapadnoafričko standardno vrijeme: Africa/Luanda
+atlantsko standardno vrijeme: America/St_Lucia
+atlantsko standardno vrijeme: America/Barbados
+južnoafričko vrijeme: Africa/Maseru
+meksičko pacifičko standardno vrijeme: America/Mazatlan
+markižansko vrijeme: Pacific/Marquesas
+istočno ljetno vrijeme: America/Thunder_Bay
+amazonsko standardno vrijeme: America/Cuiaba
+vrijeme Maršalovih Otoka: Pacific/Majuro
+istočnoafričko vrijeme: Africa/Addis_Ababa
+novozelandsko standardno vrijeme: Antarctica/McMurdo
+srednjoeuropsko ljetno vrijeme: Europe/Warsaw
+središnje ljetno vrijeme: America/Knox_IN
+vrijeme Maršalovih Otoka: Pacific/Kwajalein
+amazonsko standardno vrijeme: Brazil/West
+GMT+03:00: Etc/GMT-3
+atlantsko standardno vrijeme: America/St_Vincent
+atlantsko standardno vrijeme: America/Marigot
+tajpeško standardno vrijeme: Asia/Taipei
+istočno ljetno vrijeme: US/Eastern
+vrijeme Maršalovih Otoka: Kwajalein
+argentinsko standardno vrijeme: America/Argentina/Jujuy
+GMT-05:00: Etc/GMT+5
+srednjoeuropsko ljetno vrijeme: Europe/Zagreb
+istočno ljetno vrijeme: America/Port-au-Prince
+srednjoaustralsko standardno vrijeme: Australia/North
+univerzalno vrijeme: GMT
+srednjoeuropsko standardno vrijeme: Africa/Tunis
+afganistansko vrijeme: Asia/Kabul
+aljaško ljetno vrijeme: America/Juneau
+GMT+07:00: Asia/Tomsk
+južnoafričko vrijeme: Africa/Mbabane
+zapadnoafričko standardno vrijeme: Africa/Porto-Novo
+zaljevsko standardno vrijeme: Asia/Muscat
+argentinsko standardno vrijeme: America/Argentina/San_Luis
+australsko središnje zapadno standardno vrijeme: Australia/Eucla
+atlantsko standardno vrijeme: America/Anguilla
+srednjoeuropsko ljetno vrijeme: Europe/Gibraltar
+srednjoeuropsko ljetno vrijeme: Europe/Prague
+istočnoeuropsko ljetno vrijeme: Europe/Zaporozhye
+korejsko standardno vrijeme: Asia/Pyongyang
+srednjoeuropsko ljetno vrijeme: Europe/Zurich
+zapadnokazahstansko vrijeme: Asia/Atyrau
+istočno ljetno vrijeme: America/Indiana/Vincennes
+argentinsko standardno vrijeme: America/Argentina/Catamarca
+srednjoeuropsko ljetno vrijeme: Europe/Stockholm
+koordinirano svjetsko vrijeme: Etc/UTC
+zapadnoafričko standardno vrijeme: Africa/Lagos
+argentinsko standardno vrijeme: America/Argentina/La_Rioja
+zaljevsko standardno vrijeme: Asia/Dubai
+ulanbatorsko standardno vrijeme: Asia/Ulaanbaatar
+standardno vrijeme grada Fernando de Noronha: Brazil/DeNoronha
+univerzalno vrijeme: Africa/Bissau
+gruzijsko standardno vrijeme: Asia/Tbilisi
+atlantsko standardno vrijeme: America/St_Kitts
+zapadnoafričko standardno vrijeme: Africa/Douala
+atlantsko ljetno vrijeme: America/Goose_Bay
+istočno ljetno vrijeme: America/Indianapolis
+srednjoeuropsko ljetno vrijeme: Europe/Rome
+havajsko-aleutsko standardno vrijeme: Pacific/Johnston
+istočnoeuropsko ljetno vrijeme: Asia/Hebron
+istočnoaustralsko standardno vrijeme: Australia/Victoria
+središnje ljetno vrijeme: CST6CDT
+istočno ljetno vrijeme: US/Michigan
+vladivostočko standardno vrijeme: Asia/Vladivostok
+južnoafričko vrijeme: Africa/Johannesburg
+GMT+03:00: Asia/Famagusta
+izraelsko ljetno vrijeme: Israel
+vrijeme Chuuka: Pacific/Yap
+GMT-09:00: Etc/GMT+9
+srednjoafričko vrijeme: Africa/Khartoum
+samarsko standardno vrijeme: Europe/Samara
+vrijeme Otoka Wallis i Futuna: Pacific/Wallis
+vostočko vrijeme: Antarctica/Vostok
+vrijeme Galapagosa: Pacific/Galapagos
+bolivijsko vrijeme: America/La_Paz
+atlantsko standardno vrijeme: America/Port_of_Spain
+istočno standardno vrijeme: America/Coral_Harbour
+središnje ljetno vrijeme: America/North_Dakota/Center
+planinsko standardno vrijeme: America/Creston
+atlantsko standardno vrijeme: America/Grenada
+GMT+01:00: Europe/Jersey
+standardno vrijeme Chamorra: Pacific/Saipan
+istočno standardno vrijeme: Jamaica
+atlantsko standardno vrijeme: America/Lower_Princes
+koordinirano svjetsko vrijeme: Etc/Zulu
+ponapejsko vrijeme: Pacific/Ponape
+samoansko standardno vrijeme: Pacific/Pago_Pago
+istočnoeuropsko ljetno vrijeme: Africa/Cairo
+srednjoeuropsko ljetno vrijeme: Europe/Budapest
+GMT-10:00: Etc/GMT+10
+srednjoeuropsko ljetno vrijeme: Europe/Tirane
+srednjoeuropsko ljetno vrijeme: Europe/Belgrade
+središnje standardno vrijeme: America/El_Salvador
+središnje ljetno vrijeme: America/Menominee
+britansko ljetno vrijeme: GB-Eire
+havajsko-aleutsko standardno vrijeme: US/Hawaii
+azerbajdžansko standardno vrijeme: Asia/Baku
+zapadnoafričko standardno vrijeme: Africa/Brazzaville
+vrijeme Božićnog otoka: Indian/Christmas
+GMT+02:00: Antarctica/Troll
+zapadnogrenlandsko ljetno vrijeme: America/Nuuk
+zapadnoeuropsko ljetno vrijeme: Atlantic/Madeira
+turkmenistansko standardno vrijeme: Asia/Ashgabat
+univerzalno vrijeme: Etc/GMT-0
+univerzalno vrijeme: Africa/Timbuktu
+GMT+07:00: Etc/GMT-7
+GMT+06:00: Asia/Urumqi
+istočnoaustralsko standardno vrijeme: Australia/Brisbane
+hongkonško standardno vrijeme: Hongkong
+planinsko standardno vrijeme: America/Phoenix
+univerzalno vrijeme: Africa/Bamako
+tajpeško standardno vrijeme: ROC
+središnje standardno vrijeme: America/Costa_Rica
+tadžikistansko vrijeme: Asia/Dushanbe
+havajsko-aleutsko ljetno vrijeme: America/Adak
+vrijeme Niuea: Pacific/Niue
+GMT+03:00: Europe/Istanbul
+kinesko standardno vrijeme: Asia/Macau
+brazilsko standardno vrijeme: America/Belem
+središnje ljetno vrijeme: America/North_Dakota/New_Salem
+središnje standardno vrijeme: America/Monterrey
+atlantsko standardno vrijeme: America/Montserrat
+japansko standardno vrijeme: Japan
+istočnoeuropsko standardno vrijeme: Europe/Kaliningrad
+argentinsko standardno vrijeme: America/Argentina/Rio_Gallegos
+središnje standardno vrijeme: America/Regina
+univerzalno vrijeme: Africa/Freetown
+armensko standardno vrijeme: Asia/Yerevan
+britansko ljetno vrijeme: Europe/Belfast
+istočnoeuropsko standardno vrijeme: Africa/Tripoli
+ulanbatorsko standardno vrijeme: Asia/Ulan_Bator
+vrijeme Syowe: Antarctica/Syowa
+argentinsko standardno vrijeme: America/Catamarca
+istočnoaustralsko standardno vrijeme: Australia/Lindeman
+središnje ljetno vrijeme: US/Central
+argentinsko standardno vrijeme: America/Argentina/San_Juan
+jukonško vrijeme: America/Whitehorse
+univerzalno vrijeme: Africa/Banjul
+GMT+01:00: Africa/El_Aaiun
+planinsko ljetno vrijeme: America/Cambridge_Bay
+atlantsko standardno vrijeme: America/Antigua
+vrijeme Ekvatorskih otoka: Pacific/Kiritimati
+arapsko standardno vrijeme: Asia/Aden
+istočno ljetno vrijeme: America/Louisville
+aljaško ljetno vrijeme: America/Sitka
+istočnoeuropsko ljetno vrijeme: Europe/Uzhgorod
+standardno vrijeme Nove Kaledonije: Pacific/Noumea
+istočnoeuropsko ljetno vrijeme: Europe/Kiev
+istočnoaustralsko standardno vrijeme: Australia/NSW
+središnje ljetno vrijeme: America/Resolute
+univerzalno vrijeme: GMT0
+zapadnoaustralsko standardno vrijeme: Australia/Perth
+moskovsko standardno vrijeme: Europe/Simferopol
+srednjoaustralsko standardno vrijeme: Australia/Broken_Hill
+standardno vrijeme Vanuatua: Pacific/Efate
+zapadnoeuropsko ljetno vrijeme: Atlantic/Canary
+vrijeme Tahitija: Pacific/Tahiti
+srednjoeuropsko ljetno vrijeme: Europe/Copenhagen
+aljaško ljetno vrijeme: America/Metlakatla
+britansko ljetno vrijeme: Europe/London
+GMT-12:00: Etc/GMT+12
+srednjoindonezijsko vrijeme: Asia/Makassar
+meksičko pacifičko standardno vrijeme: America/Hermosillo
+atlantsko ljetno vrijeme: America/Moncton
+vrijeme Indijskog oceana: Indian/Chagos
+zapadnoeuropsko ljetno vrijeme: Portugal
+srednjoeuropsko ljetno vrijeme: Europe/Monaco
+havajsko-aleutsko standardno vrijeme: Pacific/Honolulu
+GMT+02:00: Etc/GMT-2
+indokinesko vrijeme: Asia/Ho_Chi_Minh
+standardno vrijeme Cookovih otoka: Pacific/Rarotonga
+istočno ljetno vrijeme: America/Pangnirtung
+Acre standardno vrijeme: America/Porto_Acre
+univerzalno vrijeme: Africa/Monrovia
+univerzalno vrijeme: Etc/Greenwich
+standardno vrijeme Otoka Norfolk: Pacific/Norfolk
+vrijeme Chuuka: Pacific/Truk
+GMT-07:00: MST
+središnje ljetno vrijeme: America/Ojinaga
+kinesko standardno vrijeme: Asia/Chungking
+zapadnoeuropsko ljetno vrijeme: Europe/Lisbon
+istočnoeuropsko ljetno vrijeme: Europe/Vilnius
+aljaško ljetno vrijeme: America/Yakutat
+pacifičko ljetno vrijeme: America/Ensenada
+vrijeme Naurua: Pacific/Nauru
+istočnoeuropsko ljetno vrijeme: Europe/Chisinau
+GMT+03:00: Europe/Kirov
+srednjoeuropsko ljetno vrijeme: Europe/Oslo
+brazilsko standardno vrijeme: America/Bahia
+indijsko vrijeme: Asia/Kolkata
+GMT+04:00: Europe/Ulyanovsk
+planinsko ljetno vrijeme: Canada/Mountain
+srednjoeuropsko ljetno vrijeme: Europe/Luxembourg
+univerzalno vrijeme: Africa/Conakry
+argentinsko standardno vrijeme: America/Argentina/Tucuman
+kirgistansko vrijeme: Asia/Bishkek
+anadirsko standardno vrijeme: Asia/Anadyr
+moskovsko standardno vrijeme: Europe/Minsk
+istočnogrenlandsko ljetno vrijeme: America/Scoresbysund
+srednjoeuropsko ljetno vrijeme: Europe/Paris
+središnje standardno vrijeme: America/Chihuahua
+standardno vrijeme Fidžija: Pacific/Fiji
+mjanmarsko vrijeme: Asia/Yangon
+čileansko standardno vrijeme: America/Santiago
+indokinesko vrijeme: Asia/Vientiane
+atlantsko standardno vrijeme: America/Kralendijk
+srednjoafričko vrijeme: Africa/Juba
+standardno vrijeme Tonge: Pacific/Tongatapu
+irkutsko standardno vrijeme: Asia/Irkutsk
+GMT+06:00: Asia/Kashgar
+standardno vrijeme Chathama: NZ-CHAT
+kinesko standardno vrijeme: PRC
+arapsko standardno vrijeme: Asia/Kuwait
+butansko vrijeme: Asia/Thimbu
+srednjoeuropsko ljetno vrijeme: Europe/Busingen
+atlantsko ljetno vrijeme: America/Glace_Bay
+središnje standardno vrijeme: America/Belize
+indijsko vrijeme: Asia/Calcutta
+singapursko vrijeme: Asia/Singapore
+arapsko standardno vrijeme: Asia/Baghdad
+singapursko vrijeme: Singapore
+istočnoeuropsko ljetno vrijeme: Asia/Nicosia
+univerzalno vrijeme: Atlantic/Reykjavik
+argentinsko standardno vrijeme: America/Buenos_Aires
+planinsko ljetno vrijeme: America/Boise
+izraelsko ljetno vrijeme: Asia/Jerusalem
+univerzalno vrijeme: Africa/Ouagadougou
+standardno vrijeme Uskršnjeg otoka: Pacific/Easter
+hongkonško standardno vrijeme: Asia/Hong_Kong
+GMT-03:00: Etc/GMT+3
+urugvajsko standardno vrijeme: America/Montevideo
+vrijeme Otoka Wake: Pacific/Wake
+ekvadorsko vrijeme: America/Guayaquil
+središnje ljetno vrijeme: America/Winnipeg
+planinsko standardno vrijeme: US/Arizona
+atlantsko standardno vrijeme: America/Virgin
+središnje standardno vrijeme: Canada/Saskatchewan
+GMT+04:00: Etc/GMT-4
+GMT+03:00: Turkey
+atlantsko standardno vrijeme: America/Guadeloupe
+srednjoafričko vrijeme: Africa/Windhoek
+brazilsko standardno vrijeme: Brazil/East
+planinsko ljetno vrijeme: Navajo
+indijsko vrijeme: Asia/Colombo
+GMT-05:00: EST
+središnje ljetno vrijeme: America/North_Dakota/Beulah
+vrijeme Tokelaua: Pacific/Fakaofo
+mjanmarsko vrijeme: Asia/Rangoon
+istočnoeuropsko ljetno vrijeme: Europe/Mariehamn
+atlantsko standardno vrijeme: America/Santo_Domingo
+novozelandsko standardno vrijeme: NZ
+univerzalno vrijeme: Etc/GMT+0
+brazilsko standardno vrijeme: America/Araguaina
+atlantsko standardno vrijeme: America/Aruba
+istočnoeuropsko ljetno vrijeme: Europe/Helsinki
+vrijeme Tuvalua: Pacific/Funafuti
+istočno standardno vrijeme: America/Jamaica
+istočno ljetno vrijeme: America/Indiana/Vevay
+središnje standardno vrijeme: America/Swift_Current
+argentinsko standardno vrijeme: America/Argentina/Mendoza
+indokinesko vrijeme: Asia/Saigon
+aljaško ljetno vrijeme: America/Nome
+istočnoafričko vrijeme: Africa/Dar_es_Salaam
+GMT+13:00: Etc/GMT-13
+istočno ljetno vrijeme: America/Nipigon
+planinsko ljetno vrijeme: America/Yellowknife
+zapadnoafričko standardno vrijeme: Africa/Malabo
+vrijeme Gilbertovih otoka: Pacific/Tarawa
+brazilsko standardno vrijeme: America/Maceio
+koordinirano svjetsko vrijeme: Zulu
+zapadnokazahstansko vrijeme: Asia/Oral
+srednjoeuropsko ljetno vrijeme: Europe/Vatican
+argentinsko standardno vrijeme: America/Mendoza
+središnje ljetno vrijeme: America/Rankin_Inlet
+britansko ljetno vrijeme: GB
+srednjoeuropsko ljetno vrijeme: Poland
+srednjoeuropsko ljetno vrijeme: Europe/Amsterdam
+istočnoeuropsko ljetno vrijeme: Asia/Gaza
+butansko vrijeme: Asia/Thimphu
+pacifičko ljetno vrijeme: US/Pacific
+zapadnoeuropsko ljetno vrijeme: Atlantic/Faeroe
+ljetno vrijeme za Sveti Petar i Mikelon: America/Miquelon
+srednjoaustralsko standardno vrijeme: Australia/Darwin
+vladivostočko standardno vrijeme: Asia/Ust-Nera
+zapadnogrenlandsko ljetno vrijeme: America/Godthab
+arapsko standardno vrijeme: Asia/Riyadh
+amazonsko standardno vrijeme: America/Boa_Vista
+kubansko ljetno vrijeme: Cuba
+univerzalno vrijeme: GMT-0
+planinsko standardno vrijeme: America/Fort_Nelson
+filipinsko standardno vrijeme: Asia/Manila
+Acre standardno vrijeme: America/Rio_Branco
+središnje ljetno vrijeme: America/Indiana/Tell_City
+zapadnokazahstansko vrijeme: Asia/Qyzylorda
+srednjoeuropsko ljetno vrijeme: Europe/Sarajevo
+GMT+03:00: EET
+moskovsko standardno vrijeme: W-SU
+istočnokazahstansko vrijeme: Asia/Almaty
+istočnoafričko vrijeme: Indian/Comoro
+istočnoindonezijsko vrijeme: Asia/Jayapura
+istočno ljetno vrijeme: America/Grand_Turk
+standardno vrijeme Apije: Pacific/Apia
+gvajansko vrijeme: America/Guyana
+GMT+01:00: Etc/GMT-1
+sejšelsko vrijeme: Indian/Mahe
+vrijeme Francuske Gijane: America/Cayenne
+GMT+14:00: Etc/GMT-14
+magadansko standardno vrijeme: Asia/Magadan
+istočnoaustralsko standardno vrijeme: Australia/Queensland
+pacifičko ljetno vrijeme: America/Los_Angeles
+iransko standardno vrijeme: Iran
+GMT+09:00: Etc/GMT-9
+GMT+01:00: WET
+srednjoeuropsko ljetno vrijeme: Atlantic/Jan_Mayen
+zapadnokazahstansko vrijeme: Asia/Aqtau
+središnje ljetno vrijeme: Canada/Central
+vrijeme Kokosovih otoka: Indian/Cocos
+planinsko ljetno vrijeme: America/Shiprock
+srednjoeuropsko ljetno vrijeme: Africa/Ceuta
+istočnokazahstansko vrijeme: Asia/Qostanay
+arapsko standardno vrijeme: Asia/Bahrain
+zapadnoafričko standardno vrijeme: Africa/Niamey
+GMT-03:00: America/Punta_Arenas
+arapsko standardno vrijeme: Asia/Qatar
+novozelandsko standardno vrijeme: Pacific/Auckland
+standardno vrijeme Uskršnjeg otoka: Chile/EasterIsland
+pakistansko standardno vrijeme: Asia/Karachi
+izraelsko ljetno vrijeme: Asia/Tel_Aviv
+vrijeme Kosrae: Pacific/Kosrae
+univerzalno vrijeme: Africa/Accra
+kinesko standardno vrijeme: Asia/Chongqing
+srednjoaustralsko standardno vrijeme: Australia/Adelaide
+istočno ljetno vrijeme: America/Detroit
+istočnoeuropsko ljetno vrijeme: Europe/Sofia
+zapadnoindonezijsko vrijeme: Asia/Jakarta
+atlantsko standardno vrijeme: America/Tortola
+središnje standardno vrijeme: America/Merida
+srednjoafričko vrijeme: Africa/Lubumbashi
+vrijeme Otoka Phoenix: Pacific/Enderbury
+središnje standardno vrijeme: Mexico/General
+vrijeme za Brunej Darussalam: Asia/Brunei
+središnje ljetno vrijeme: America/Matamoros
+jukonško vrijeme: America/Dawson
+samoansko standardno vrijeme: Pacific/Samoa
+kubansko ljetno vrijeme: America/Havana
+mawsonsko vrijeme: Antarctica/Mawson
+središnje ljetno vrijeme: America/Chicago
+kinesko standardno vrijeme: Asia/Macao
+pacifičko ljetno vrijeme: America/Santa_Isabel
+aljaško ljetno vrijeme: America/Anchorage
+istočnoaustralsko standardno vrijeme: Australia/Canberra
+univerzalno vrijeme: Africa/Sao_Tome
+azorsko ljetno vrijeme: Atlantic/Azores
+GMT-08:00: Etc/GMT+8
+kolumbijsko standardno vrijeme: America/Bogota
+univerzalno vrijeme: Etc/GMT0
+istočnoeuropsko ljetno vrijeme: Europe/Bucharest
+argentinsko standardno vrijeme: America/Rosario
+srednjoaustralsko standardno vrijeme: Australia/South
+istočnoafričko vrijeme: Africa/Djibouti
+iransko standardno vrijeme: Asia/Tehran
+istočnoafričko vrijeme: Africa/Asmera
+istočnoafričko vrijeme: Africa/Mogadishu
+amazonsko standardno vrijeme: America/Porto_Velho
+planinsko ljetno vrijeme: America/Inuvik
+jukonško vrijeme: Canada/Yukon
+srednjoeuropsko ljetno vrijeme: Europe/Madrid
+GMT+03:00: Asia/Amman
+čileansko standardno vrijeme: Chile/Continental
+istočno ljetno vrijeme: America/Fort_Wayne
+vrijeme Palaua: Pacific/Palau
+univerzalno vrijeme: Africa/Lome
+novosibirsko standardno vrijeme: Asia/Novosibirsk
+srednjoafričko vrijeme: Africa/Gaborone
+zapadnoafričko standardno vrijeme: Africa/Bangui
+koordinirano svjetsko vrijeme: Etc/Universal
+zapadnoaustralsko standardno vrijeme: Australia/West
+srednjoafričko vrijeme: Africa/Maputo
+središnje ljetno vrijeme: America/Rainy_River
+uzbekistansko standardno vrijeme: Asia/Tashkent
+istočno ljetno vrijeme: Canada/Eastern
+koordinirano svjetsko vrijeme: Universal
+GMT+00:00: Factory
+istočnoafričko vrijeme: Africa/Nairobi
+samoansko standardno vrijeme: US/Samoa
+argentinsko standardno vrijeme: America/Argentina/Ushuaia
+newfoundlandsko ljetno vrijeme: Canada/Newfoundland
+univerzalno vrijeme: Iceland
+vrijeme Dumont-d’Urvillea: Antarctica/DumontDUrville
+srednjoeuropsko ljetno vrijeme: Europe/Vienna
+planinsko ljetno vrijeme: America/Edmonton
+istočno ljetno vrijeme: America/Iqaluit
+malezijsko vrijeme: Asia/Kuching
+univerzalno vrijeme: America/Danmarkshavn
+novozelandsko standardno vrijeme: Antarctica/South_Pole
+pitcairnsko vrijeme: Pacific/Pitcairn
+zapadnoafričko standardno vrijeme: Africa/Kinshasa
+ulanbatorsko standardno vrijeme: Asia/Choibalsan
+standardno vrijeme grada Fernando de Noronha: America/Noronha
+srednjoeuropsko ljetno vrijeme: Europe/Andorra
+Acre standardno vrijeme: Brazil/Acre
+GMT+02:00: MET
+istočno standardno vrijeme: America/Cancun
+sahalinsko standardno vrijeme: Asia/Sakhalin
+središnje standardno vrijeme: America/Guatemala
+kinesko standardno vrijeme: Asia/Harbin
+argentinsko standardno vrijeme: America/Argentina/Cordoba
+univerzalno vrijeme: Greenwich
+koordinirano svjetsko vrijeme: UCT
+vrijeme Gambiera: Pacific/Gambier
+planinsko standardno vrijeme: America/Dawson_Creek
+istočno ljetno vrijeme: America/Indiana/Marengo
+istočnoaustralsko standardno vrijeme: Australia/Sydney
+GMT+10:00: Etc/GMT-10
+zapadnoafričko standardno vrijeme: Africa/Libreville
+jekaterinburško standardno vrijeme: Asia/Yekaterinburg
+GMT+03:00: Asia/Damascus
+istočnoaustralsko standardno vrijeme: Australia/ACT
+središnje standardno vrijeme: America/Managua
+korejsko standardno vrijeme: ROK
+univerzalno vrijeme: Africa/Abidjan
+univerzalno vrijeme: Africa/Nouakchott
+istočnotimorsko vrijeme: Asia/Dili
+standardno vrijeme Zelenortskog otočja: Atlantic/Cape_Verde
+GMT+04:00: Europe/Saratov
+standardno vrijeme Chathama: Pacific/Chatham
+atlantsko ljetno vrijeme: America/Thule
+srednjoafričko vrijeme: Africa/Kigali
+istočno ljetno vrijeme: America/Indiana/Petersburg
+istočno standardno vrijeme: America/Atikokan
+središnje standardno vrijeme: America/Tegucigalpa
+univerzalno vrijeme: Eire
+vrijeme Otoka Phoenix: Pacific/Kanton
+atlantsko ljetno vrijeme: America/Halifax
+aljaško ljetno vrijeme: US/Alaska
+indokinesko vrijeme: Asia/Bangkok
+istočnoafričko vrijeme: Indian/Mayotte
+istočno standardno vrijeme: America/Cayman
+atlantsko standardno vrijeme: America/Dominica
+istočno ljetno vrijeme: America/Indiana/Indianapolis
+GMT+11:00: Etc/GMT-11
+vrijeme Rothere: Antarctica/Rothera
+maldivsko vrijeme: Indian/Maldives
+istočnoafričko vrijeme: Africa/Asmara
+GMT+01:00: Africa/Casablanca
+istočno ljetno vrijeme: America/New_York
+istočno ljetno vrijeme: America/Toronto
+istočnoeuropsko ljetno vrijeme: Europe/Tiraspol
+GMT+11:00: Pacific/Bougainville
+istočno ljetno vrijeme: America/Kentucky/Monticello
+GMT-02:00: Etc/GMT+2
+standardno vrijeme otoka Lord Howe: Australia/Lord_Howe
+istočnoeuropsko ljetno vrijeme: Europe/Athens
+srednjoaustralsko standardno vrijeme: Australia/Yancowinna
+falklandsko standardno vrijeme: Atlantic/Stanley
+pacifičko ljetno vrijeme: America/Tijuana
+jakutsko standardno vrijeme: Asia/Khandyga
+brazilsko standardno vrijeme: America/Santarem
+vrijeme Chuuka: Pacific/Chuuk
+indokinesko vrijeme: Asia/Phnom_Penh
+GMT+01:00: Europe/Isle_of_Man
+srednjoeuropsko ljetno vrijeme: Europe/Skopje
+amazonsko standardno vrijeme: America/Manaus
+planinsko ljetno vrijeme: MST7MDT
+vrijeme Salomonskih Otoka: Pacific/Guadalcanal
+malezijsko vrijeme: Asia/Kuala_Lumpur
+srednjoafričko vrijeme: Africa/Harare
+pacifičko ljetno vrijeme: Mexico/BajaNorte
+GMT-04:00: Etc/GMT+4
+vrijeme Davisa: Antarctica/Davis
+istočnoeuropsko ljetno vrijeme: Egypt
+venezuelsko vrijeme: America/Caracas
+brazilsko standardno vrijeme: America/Sao_Paulo
+brazilsko standardno vrijeme: America/Recife
+srednjoeuropsko ljetno vrijeme: Europe/Berlin
+Petropavlovsk-kamčatsko standardno vrijeme: Asia/Kamchatka
+havajsko-aleutsko ljetno vrijeme: US/Aleutian
+univerzalno vrijeme: Africa/Dakar
+jakutsko standardno vrijeme: Asia/Yakutsk
+srednjoafričko vrijeme: Africa/Lusaka
+univerzalno vrijeme: Europe/Dublin
+srednjoeuropsko ljetno vrijeme: Europe/Vaduz
+hovdsko standardno vrijeme: Asia/Hovd
+srednjoeuropsko ljetno vrijeme: Europe/Ljubljana
+srednjoeuropsko ljetno vrijeme: Europe/San_Marino
+istočno ljetno vrijeme: America/Kentucky/Louisville
+kinesko standardno vrijeme: Asia/Shanghai
+istočno ljetno vrijeme: America/Montreal
+GMT+07:00: Asia/Barnaul
+standardno vrijeme Chamorra: Pacific/Guam
+pacifičko ljetno vrijeme: PST8PDT
+vrijeme Papue Nove Gvineje: Pacific/Port_Moresby
+istočnoafričko vrijeme: Africa/Kampala
+istočnoeuropsko ljetno vrijeme: Europe/Nicosia
+pacifičko ljetno vrijeme: America/Vancouver
+srednjoeuropsko ljetno vrijeme: Europe/Malta
+atlantsko standardno vrijeme: America/Puerto_Rico
+atlantsko ljetno vrijeme: Canada/Atlantic
+GMT-06:00: Etc/GMT+6
+istočno ljetno vrijeme: EST5EDT
+atlantsko standardno vrijeme: America/Curacao
+GMT+03:00: Asia/Istanbul
+srednjoindonezijsko vrijeme: Asia/Ujung_Pandang
+istočno ljetno vrijeme: America/Indiana/Winamac
+omsko standardno vrijeme: Asia/Omsk
+istočnoeuropsko ljetno vrijeme: Europe/Tallinn
+argentinsko standardno vrijeme: America/Cordoba
+GMT-11:00: Etc/GMT+11

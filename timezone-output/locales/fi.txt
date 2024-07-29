@@ -1,0 +1,597 @@
+Havaijin-Aleuttien kesäaika: America/Atka
+Surinamen aika: America/Paramaribo
+Turkmenistanin normaaliaika: Asia/Ashkhabad
+Nepalin aika: Asia/Katmandu
+UTC+12:00: Etc/GMT-12
+Kanadan Atlantin normaaliaika: America/St_Barthelemy
+Krasnojarskin normaaliaika: Asia/Krasnoyarsk
+Keski-Euroopan kesäaika: Europe/Brussels
+Volgogradin normaaliaika: Europe/Volgograd
+Kalliovuorten kesäaika: America/Denver
+Brasilian normaaliaika: America/Fortaleza
+Keski-Euroopan kesäaika: Europe/Podgorica
+Etelä-Georgian aika: Atlantic/South_Georgia
+Länsi-Afrikan normaaliaika: Africa/Ndjamena
+Yhdysvaltain itäinen kesäaika: America/Nassau
+Bangladeshin normaaliaika: Asia/Dhaka
+Paraguayn normaaliaika: America/Asuncion
+Kanadan Atlantin normaaliaika: America/Blanc-Sablon
+Yhdysvaltain keskinen kesäaika: America/Indiana/Knox
+Bangladeshin normaaliaika: Asia/Dacca
+Itä-Australian normaaliaika: Antarctica/Macquarie
+Moskovan normaaliaika: Europe/Moscow
+UTC-yleisaika: UTC
+Korean normaaliaika: Asia/Seoul
+Itä-Euroopan kesäaika: Europe/Riga
+Keski-Afrikan aika: Africa/Blantyre
+Argentiinan normaaliaika: America/Argentina/Salta
+Argentiinan normaaliaika: America/Argentina/Buenos_Aires
+Keski-Euroopan normaaliaika: Africa/Algiers
+Itä-Australian normaaliaika: Australia/Tasmania
+Yhdysvaltain keskinen kesäaika: US/Indiana-Starke
+Samoan normaaliaika: Pacific/Midway
+Kalliovuorten kesäaika: America/Ciudad_Juarez
+UTC-10:00: HST
+UTC+11:00: Asia/Srednekolymsk
+Itä-Australian normaaliaika: Australia/Hobart
+Kanadan Atlantin kesäaika: Atlantic/Bermuda
+UTC-yleisaika: Etc/UCT
+Ranskan eteläisten ja antarktisten alueiden aika: Indian/Kerguelen
+Länsi-Euroopan kesäaika: Atlantic/Faroe
+Amazonin normaaliaika: America/Campo_Grande
+Lord Howen normaaliaika: Australia/LHI
+Mauritiuksen normaaliaika: Indian/Mauritius
+UTC+02:00: CET
+Itä-Euroopan normaaliaika: Libya
+UTC-07:00: Etc/GMT+7
+UTC+08:00: Etc/GMT-8
+Greenwichin normaaliaika: Atlantic/St_Helena
+Pohnpein aika: Pacific/Pohnpei
+UTC-01:00: Etc/GMT+1
+Itä-Euroopan kesäaika: Europe/Kyiv
+UTC+05:00: Etc/GMT-5
+Réunionin aika: Indian/Reunion
+UTC-03:00: Antarctica/Palmer
+Yhdysvaltain keskinen normaaliaika: America/Bahia_Banderas
+Argentiinan normaaliaika: America/Jujuy
+Jakutskin normaaliaika: Asia/Chita
+Kalliovuorten kesäaika: US/Mountain
+Krasnojarskin normaaliaika: Asia/Novokuznetsk
+UTC+06:00: Etc/GMT-6
+Itä-Australian normaaliaika: Australia/Currie
+Nepalin aika: Asia/Kathmandu
+Newfoundlandin kesäaika: America/St_Johns
+Länsi-Kazakstanin aika: Asia/Aqtobe
+Greenwichin normaaliaika: GMT+0
+UTC+04:00: Europe/Astrakhan
+UTC+01:00: Europe/Guernsey
+Kanadan Atlantin normaaliaika: America/Martinique
+Yhdysvaltain itäinen kesäaika: US/East-Indiana
+Keski-Euroopan kesäaika: Arctic/Longyearbyen
+Yhdysvaltain keskinen normaaliaika: America/Mexico_City
+Argentiinan normaaliaika: America/Argentina/ComodRivadavia
+Yhdysvaltain Tyynenmeren kesäaika: Canada/Pacific
+Caseyn aika: Antarctica/Casey
+Keski-Afrikan aika: Africa/Bujumbura
+Acren normaaliaika: America/Eirunepe
+Japanin normaaliaika: Asia/Tokyo
+Keski-Euroopan kesäaika: Europe/Bratislava
+Itä-Australian normaaliaika: Australia/Melbourne
+Yhdysvaltain itäinen normaaliaika: America/Panama
+Itä-Euroopan kesäaika: Asia/Beirut
+Itä-Afrikan aika: Indian/Antananarivo
+Uzbekistanin normaaliaika: Asia/Samarkand
+Perun normaaliaika: America/Lima
+Kanadan Atlantin normaaliaika: America/St_Thomas
+Länsi-Indonesian aika: Asia/Pontianak
+Meksikon Tyynenmeren normaaliaika: Mexico/BajaSur
+Greenwichin normaaliaika: Etc/GMT
+Länsi-Afrikan normaaliaika: Africa/Luanda
+Kanadan Atlantin normaaliaika: America/St_Lucia
+Kanadan Atlantin normaaliaika: America/Barbados
+Etelä-Afrikan aika: Africa/Maseru
+Meksikon Tyynenmeren normaaliaika: America/Mazatlan
+Marquesassaarten aika: Pacific/Marquesas
+Yhdysvaltain itäinen kesäaika: America/Thunder_Bay
+Amazonin normaaliaika: America/Cuiaba
+Marshallinsaarten aika: Pacific/Majuro
+Itä-Afrikan aika: Africa/Addis_Ababa
+Uuden-Seelannin normaaliaika: Antarctica/McMurdo
+Keski-Euroopan kesäaika: Europe/Warsaw
+Yhdysvaltain keskinen kesäaika: America/Knox_IN
+Marshallinsaarten aika: Pacific/Kwajalein
+Amazonin normaaliaika: Brazil/West
+UTC+03:00: Etc/GMT-3
+Kanadan Atlantin normaaliaika: America/St_Vincent
+Kanadan Atlantin normaaliaika: America/Marigot
+Taipein normaaliaika: Asia/Taipei
+Yhdysvaltain itäinen kesäaika: US/Eastern
+Marshallinsaarten aika: Kwajalein
+Argentiinan normaaliaika: America/Argentina/Jujuy
+UTC-05:00: Etc/GMT+5
+Keski-Euroopan kesäaika: Europe/Zagreb
+Yhdysvaltain itäinen kesäaika: America/Port-au-Prince
+Keski-Australian normaaliaika: Australia/North
+Greenwichin normaaliaika: GMT
+Keski-Euroopan normaaliaika: Africa/Tunis
+Afganistanin aika: Asia/Kabul
+Alaskan kesäaika: America/Juneau
+UTC+07:00: Asia/Tomsk
+Etelä-Afrikan aika: Africa/Mbabane
+Länsi-Afrikan normaaliaika: Africa/Porto-Novo
+Arabiemiirikuntien normaaliaika: Asia/Muscat
+Argentiinan normaaliaika: America/Argentina/San_Luis
+Läntisen Keski-Australian normaaliaika: Australia/Eucla
+Kanadan Atlantin normaaliaika: America/Anguilla
+Keski-Euroopan kesäaika: Europe/Gibraltar
+Keski-Euroopan kesäaika: Europe/Prague
+Itä-Euroopan kesäaika: Europe/Zaporozhye
+Korean normaaliaika: Asia/Pyongyang
+Keski-Euroopan kesäaika: Europe/Zurich
+Länsi-Kazakstanin aika: Asia/Atyrau
+Yhdysvaltain itäinen kesäaika: America/Indiana/Vincennes
+Argentiinan normaaliaika: America/Argentina/Catamarca
+Keski-Euroopan kesäaika: Europe/Stockholm
+UTC-yleisaika: Etc/UTC
+Länsi-Afrikan normaaliaika: Africa/Lagos
+Argentiinan normaaliaika: America/Argentina/La_Rioja
+Arabiemiirikuntien normaaliaika: Asia/Dubai
+Ulan Batorin normaaliaika: Asia/Ulaanbaatar
+Fernando de Noronhan normaaliaika: Brazil/DeNoronha
+Greenwichin normaaliaika: Africa/Bissau
+Georgian normaaliaika: Asia/Tbilisi
+Kanadan Atlantin normaaliaika: America/St_Kitts
+Länsi-Afrikan normaaliaika: Africa/Douala
+Kanadan Atlantin kesäaika: America/Goose_Bay
+Yhdysvaltain itäinen kesäaika: America/Indianapolis
+Keski-Euroopan kesäaika: Europe/Rome
+Havaijin-Aleuttien normaaliaika: Pacific/Johnston
+Itä-Euroopan kesäaika: Asia/Hebron
+Itä-Australian normaaliaika: Australia/Victoria
+Yhdysvaltain keskinen kesäaika: CST6CDT
+Yhdysvaltain itäinen kesäaika: US/Michigan
+Vladivostokin normaaliaika: Asia/Vladivostok
+Etelä-Afrikan aika: Africa/Johannesburg
+UTC+03:00: Asia/Famagusta
+Israelin kesäaika: Israel
+Chuukin aika: Pacific/Yap
+UTC-09:00: Etc/GMT+9
+Keski-Afrikan aika: Africa/Khartoum
+Samaran normaaliaika: Europe/Samara
+Wallisin ja Futunan aika: Pacific/Wallis
+Vostokin aika: Antarctica/Vostok
+Galápagossaarten aika: Pacific/Galapagos
+Bolivian aika: America/La_Paz
+Kanadan Atlantin normaaliaika: America/Port_of_Spain
+Yhdysvaltain itäinen normaaliaika: America/Coral_Harbour
+Yhdysvaltain keskinen kesäaika: America/North_Dakota/Center
+Kalliovuorten normaaliaika: America/Creston
+Kanadan Atlantin normaaliaika: America/Grenada
+UTC+01:00: Europe/Jersey
+Tšamorron aika: Pacific/Saipan
+Yhdysvaltain itäinen normaaliaika: Jamaica
+Kanadan Atlantin normaaliaika: America/Lower_Princes
+UTC-yleisaika: Etc/Zulu
+Pohnpein aika: Pacific/Ponape
+Samoan normaaliaika: Pacific/Pago_Pago
+Itä-Euroopan kesäaika: Africa/Cairo
+Keski-Euroopan kesäaika: Europe/Budapest
+UTC-10:00: Etc/GMT+10
+Keski-Euroopan kesäaika: Europe/Tirane
+Keski-Euroopan kesäaika: Europe/Belgrade
+Yhdysvaltain keskinen normaaliaika: America/El_Salvador
+Yhdysvaltain keskinen kesäaika: America/Menominee
+Britannian kesäaika: GB-Eire
+Havaijin-Aleuttien normaaliaika: US/Hawaii
+Azerbaidžanin normaaliaika: Asia/Baku
+Länsi-Afrikan normaaliaika: Africa/Brazzaville
+Joulusaaren aika: Indian/Christmas
+UTC+02:00: Antarctica/Troll
+Länsi-Grönlannin kesäaika: America/Nuuk
+Länsi-Euroopan kesäaika: Atlantic/Madeira
+Turkmenistanin normaaliaika: Asia/Ashgabat
+Greenwichin normaaliaika: Etc/GMT-0
+Greenwichin normaaliaika: Africa/Timbuktu
+UTC+07:00: Etc/GMT-7
+UTC+06:00: Asia/Urumqi
+Itä-Australian normaaliaika: Australia/Brisbane
+Hongkongin normaaliaika: Hongkong
+Kalliovuorten normaaliaika: America/Phoenix
+Greenwichin normaaliaika: Africa/Bamako
+Taipein normaaliaika: ROC
+Yhdysvaltain keskinen normaaliaika: America/Costa_Rica
+Tadžikistanin aika: Asia/Dushanbe
+Havaijin-Aleuttien kesäaika: America/Adak
+Niuen aika: Pacific/Niue
+UTC+03:00: Europe/Istanbul
+Kiinan normaaliaika: Asia/Macau
+Brasilian normaaliaika: America/Belem
+Yhdysvaltain keskinen kesäaika: America/North_Dakota/New_Salem
+Yhdysvaltain keskinen normaaliaika: America/Monterrey
+Kanadan Atlantin normaaliaika: America/Montserrat
+Japanin normaaliaika: Japan
+Itä-Euroopan normaaliaika: Europe/Kaliningrad
+Argentiinan normaaliaika: America/Argentina/Rio_Gallegos
+Yhdysvaltain keskinen normaaliaika: America/Regina
+Greenwichin normaaliaika: Africa/Freetown
+Armenian normaaliaika: Asia/Yerevan
+Britannian kesäaika: Europe/Belfast
+Itä-Euroopan normaaliaika: Africa/Tripoli
+Ulan Batorin normaaliaika: Asia/Ulan_Bator
+Syowan aika: Antarctica/Syowa
+Argentiinan normaaliaika: America/Catamarca
+Itä-Australian normaaliaika: Australia/Lindeman
+Yhdysvaltain keskinen kesäaika: US/Central
+Argentiinan normaaliaika: America/Argentina/San_Juan
+Yukonin aika: America/Whitehorse
+Greenwichin normaaliaika: Africa/Banjul
+UTC+01:00: Africa/El_Aaiun
+Kalliovuorten kesäaika: America/Cambridge_Bay
+Kanadan Atlantin normaaliaika: America/Antigua
+Linesaarten aika: Pacific/Kiritimati
+Saudi-Arabian normaaliaika: Asia/Aden
+Yhdysvaltain itäinen kesäaika: America/Louisville
+Alaskan kesäaika: America/Sitka
+Itä-Euroopan kesäaika: Europe/Uzhgorod
+Uuden-Kaledonian normaaliaika: Pacific/Noumea
+Itä-Euroopan kesäaika: Europe/Kiev
+Itä-Australian normaaliaika: Australia/NSW
+Yhdysvaltain keskinen kesäaika: America/Resolute
+Greenwichin normaaliaika: GMT0
+Länsi-Australian normaaliaika: Australia/Perth
+Moskovan normaaliaika: Europe/Simferopol
+Keski-Australian normaaliaika: Australia/Broken_Hill
+Vanuatun normaaliaika: Pacific/Efate
+Länsi-Euroopan kesäaika: Atlantic/Canary
+Tahitin aika: Pacific/Tahiti
+Keski-Euroopan kesäaika: Europe/Copenhagen
+Alaskan kesäaika: America/Metlakatla
+Britannian kesäaika: Europe/London
+UTC-12:00: Etc/GMT+12
+Keski-Indonesian aika: Asia/Makassar
+Meksikon Tyynenmeren normaaliaika: America/Hermosillo
+Kanadan Atlantin kesäaika: America/Moncton
+Intian valtameren aika: Indian/Chagos
+Länsi-Euroopan kesäaika: Portugal
+Keski-Euroopan kesäaika: Europe/Monaco
+Havaijin-Aleuttien normaaliaika: Pacific/Honolulu
+UTC+02:00: Etc/GMT-2
+Indokiinan aika: Asia/Ho_Chi_Minh
+Cookinsaarten normaaliaika: Pacific/Rarotonga
+Yhdysvaltain itäinen kesäaika: America/Pangnirtung
+Acren normaaliaika: America/Porto_Acre
+Greenwichin normaaliaika: Africa/Monrovia
+Greenwichin normaaliaika: Etc/Greenwich
+Norfolkinsaaren normaaliaika: Pacific/Norfolk
+Chuukin aika: Pacific/Truk
+UTC-07:00: MST
+Yhdysvaltain keskinen kesäaika: America/Ojinaga
+Kiinan normaaliaika: Asia/Chungking
+Länsi-Euroopan kesäaika: Europe/Lisbon
+Itä-Euroopan kesäaika: Europe/Vilnius
+Alaskan kesäaika: America/Yakutat
+Yhdysvaltain Tyynenmeren kesäaika: America/Ensenada
+Naurun aika: Pacific/Nauru
+Itä-Euroopan kesäaika: Europe/Chisinau
+UTC+03:00: Europe/Kirov
+Keski-Euroopan kesäaika: Europe/Oslo
+Brasilian normaaliaika: America/Bahia
+Intian aika: Asia/Kolkata
+UTC+04:00: Europe/Ulyanovsk
+Kalliovuorten kesäaika: Canada/Mountain
+Keski-Euroopan kesäaika: Europe/Luxembourg
+Greenwichin normaaliaika: Africa/Conakry
+Argentiinan normaaliaika: America/Argentina/Tucuman
+Kirgisian aika: Asia/Bishkek
+Anadyrin normaaliaika: Asia/Anadyr
+Moskovan normaaliaika: Europe/Minsk
+Itä-Grönlannin kesäaika: America/Scoresbysund
+Keski-Euroopan kesäaika: Europe/Paris
+Yhdysvaltain keskinen normaaliaika: America/Chihuahua
+Fidžin normaaliaika: Pacific/Fiji
+Myanmarin aika: Asia/Yangon
+Chilen normaaliaika: America/Santiago
+Indokiinan aika: Asia/Vientiane
+Kanadan Atlantin normaaliaika: America/Kralendijk
+Keski-Afrikan aika: Africa/Juba
+Tongan normaaliaika: Pacific/Tongatapu
+Irkutskin normaaliaika: Asia/Irkutsk
+UTC+06:00: Asia/Kashgar
+Chathamin normaaliaika: NZ-CHAT
+Kiinan normaaliaika: PRC
+Saudi-Arabian normaaliaika: Asia/Kuwait
+Bhutanin aika: Asia/Thimbu
+Keski-Euroopan kesäaika: Europe/Busingen
+Kanadan Atlantin kesäaika: America/Glace_Bay
+Yhdysvaltain keskinen normaaliaika: America/Belize
+Intian aika: Asia/Calcutta
+Singaporen aika: Asia/Singapore
+Saudi-Arabian normaaliaika: Asia/Baghdad
+Singaporen aika: Singapore
+Itä-Euroopan kesäaika: Asia/Nicosia
+Greenwichin normaaliaika: Atlantic/Reykjavik
+Argentiinan normaaliaika: America/Buenos_Aires
+Kalliovuorten kesäaika: America/Boise
+Israelin kesäaika: Asia/Jerusalem
+Greenwichin normaaliaika: Africa/Ouagadougou
+Pääsiäissaaren normaaliaika: Pacific/Easter
+Hongkongin normaaliaika: Asia/Hong_Kong
+UTC-03:00: Etc/GMT+3
+Uruguayn normaaliaika: America/Montevideo
+Waken aika: Pacific/Wake
+Ecuadorin aika: America/Guayaquil
+Yhdysvaltain keskinen kesäaika: America/Winnipeg
+Kalliovuorten normaaliaika: US/Arizona
+Kanadan Atlantin normaaliaika: America/Virgin
+Yhdysvaltain keskinen normaaliaika: Canada/Saskatchewan
+UTC+04:00: Etc/GMT-4
+UTC+03:00: Turkey
+Kanadan Atlantin normaaliaika: America/Guadeloupe
+Keski-Afrikan aika: Africa/Windhoek
+Brasilian normaaliaika: Brazil/East
+Kalliovuorten kesäaika: Navajo
+Intian aika: Asia/Colombo
+UTC-05:00: EST
+Yhdysvaltain keskinen kesäaika: America/North_Dakota/Beulah
+Tokelaun aika: Pacific/Fakaofo
+Myanmarin aika: Asia/Rangoon
+Itä-Euroopan kesäaika: Europe/Mariehamn
+Kanadan Atlantin normaaliaika: America/Santo_Domingo
+Uuden-Seelannin normaaliaika: NZ
+Greenwichin normaaliaika: Etc/GMT+0
+Brasilian normaaliaika: America/Araguaina
+Kanadan Atlantin normaaliaika: America/Aruba
+Itä-Euroopan kesäaika: Europe/Helsinki
+Tuvalun aika: Pacific/Funafuti
+Yhdysvaltain itäinen normaaliaika: America/Jamaica
+Yhdysvaltain itäinen kesäaika: America/Indiana/Vevay
+Yhdysvaltain keskinen normaaliaika: America/Swift_Current
+Argentiinan normaaliaika: America/Argentina/Mendoza
+Indokiinan aika: Asia/Saigon
+Alaskan kesäaika: America/Nome
+Itä-Afrikan aika: Africa/Dar_es_Salaam
+UTC+13:00: Etc/GMT-13
+Yhdysvaltain itäinen kesäaika: America/Nipigon
+Kalliovuorten kesäaika: America/Yellowknife
+Länsi-Afrikan normaaliaika: Africa/Malabo
+Gilbertsaarten aika: Pacific/Tarawa
+Brasilian normaaliaika: America/Maceio
+UTC-yleisaika: Zulu
+Länsi-Kazakstanin aika: Asia/Oral
+Keski-Euroopan kesäaika: Europe/Vatican
+Argentiinan normaaliaika: America/Mendoza
+Yhdysvaltain keskinen kesäaika: America/Rankin_Inlet
+Britannian kesäaika: GB
+Keski-Euroopan kesäaika: Poland
+Keski-Euroopan kesäaika: Europe/Amsterdam
+Itä-Euroopan kesäaika: Asia/Gaza
+Bhutanin aika: Asia/Thimphu
+Yhdysvaltain Tyynenmeren kesäaika: US/Pacific
+Länsi-Euroopan kesäaika: Atlantic/Faeroe
+Saint-Pierren ja Miquelonin kesäaika: America/Miquelon
+Keski-Australian normaaliaika: Australia/Darwin
+Vladivostokin normaaliaika: Asia/Ust-Nera
+Länsi-Grönlannin kesäaika: America/Godthab
+Saudi-Arabian normaaliaika: Asia/Riyadh
+Amazonin normaaliaika: America/Boa_Vista
+Kuuban kesäaika: Cuba
+Greenwichin normaaliaika: GMT-0
+Kalliovuorten normaaliaika: America/Fort_Nelson
+Filippiinien normaaliaika: Asia/Manila
+Acren normaaliaika: America/Rio_Branco
+Yhdysvaltain keskinen kesäaika: America/Indiana/Tell_City
+Länsi-Kazakstanin aika: Asia/Qyzylorda
+Keski-Euroopan kesäaika: Europe/Sarajevo
+UTC+03:00: EET
+Moskovan normaaliaika: W-SU
+Itä-Kazakstanin aika: Asia/Almaty
+Itä-Afrikan aika: Indian/Comoro
+Itä-Indonesian aika: Asia/Jayapura
+Yhdysvaltain itäinen kesäaika: America/Grand_Turk
+Apian normaaliaika: Pacific/Apia
+Guyanan aika: America/Guyana
+UTC+01:00: Etc/GMT-1
+Seychellien aika: Indian/Mahe
+Ranskan Guayanan aika: America/Cayenne
+UTC+14:00: Etc/GMT-14
+Magadanin normaaliaika: Asia/Magadan
+Itä-Australian normaaliaika: Australia/Queensland
+Yhdysvaltain Tyynenmeren kesäaika: America/Los_Angeles
+Iranin normaaliaika: Iran
+UTC+09:00: Etc/GMT-9
+UTC+01:00: WET
+Keski-Euroopan kesäaika: Atlantic/Jan_Mayen
+Länsi-Kazakstanin aika: Asia/Aqtau
+Yhdysvaltain keskinen kesäaika: Canada/Central
+Kookossaarten aika: Indian/Cocos
+Kalliovuorten kesäaika: America/Shiprock
+Keski-Euroopan kesäaika: Africa/Ceuta
+Itä-Kazakstanin aika: Asia/Qostanay
+Saudi-Arabian normaaliaika: Asia/Bahrain
+Länsi-Afrikan normaaliaika: Africa/Niamey
+UTC-03:00: America/Punta_Arenas
+Saudi-Arabian normaaliaika: Asia/Qatar
+Uuden-Seelannin normaaliaika: Pacific/Auckland
+Pääsiäissaaren normaaliaika: Chile/EasterIsland
+Pakistanin normaaliaika: Asia/Karachi
+Israelin kesäaika: Asia/Tel_Aviv
+Kosraen aika: Pacific/Kosrae
+Greenwichin normaaliaika: Africa/Accra
+Kiinan normaaliaika: Asia/Chongqing
+Keski-Australian normaaliaika: Australia/Adelaide
+Yhdysvaltain itäinen kesäaika: America/Detroit
+Itä-Euroopan kesäaika: Europe/Sofia
+Länsi-Indonesian aika: Asia/Jakarta
+Kanadan Atlantin normaaliaika: America/Tortola
+Yhdysvaltain keskinen normaaliaika: America/Merida
+Keski-Afrikan aika: Africa/Lubumbashi
+Phoenixsaarten aika: Pacific/Enderbury
+Yhdysvaltain keskinen normaaliaika: Mexico/General
+Brunein aika: Asia/Brunei
+Yhdysvaltain keskinen kesäaika: America/Matamoros
+Yukonin aika: America/Dawson
+Samoan normaaliaika: Pacific/Samoa
+Kuuban kesäaika: America/Havana
+Mawsonin aika: Antarctica/Mawson
+Yhdysvaltain keskinen kesäaika: America/Chicago
+Kiinan normaaliaika: Asia/Macao
+Yhdysvaltain Tyynenmeren kesäaika: America/Santa_Isabel
+Alaskan kesäaika: America/Anchorage
+Itä-Australian normaaliaika: Australia/Canberra
+Greenwichin normaaliaika: Africa/Sao_Tome
+Azorien kesäaika: Atlantic/Azores
+UTC-08:00: Etc/GMT+8
+Kolumbian normaaliaika: America/Bogota
+Greenwichin normaaliaika: Etc/GMT0
+Itä-Euroopan kesäaika: Europe/Bucharest
+Argentiinan normaaliaika: America/Rosario
+Keski-Australian normaaliaika: Australia/South
+Itä-Afrikan aika: Africa/Djibouti
+Iranin normaaliaika: Asia/Tehran
+Itä-Afrikan aika: Africa/Asmera
+Itä-Afrikan aika: Africa/Mogadishu
+Amazonin normaaliaika: America/Porto_Velho
+Kalliovuorten kesäaika: America/Inuvik
+Yukonin aika: Canada/Yukon
+Keski-Euroopan kesäaika: Europe/Madrid
+UTC+03:00: Asia/Amman
+Chilen normaaliaika: Chile/Continental
+Yhdysvaltain itäinen kesäaika: America/Fort_Wayne
+Palaun aika: Pacific/Palau
+Greenwichin normaaliaika: Africa/Lome
+Novosibirskin normaaliaika: Asia/Novosibirsk
+Keski-Afrikan aika: Africa/Gaborone
+Länsi-Afrikan normaaliaika: Africa/Bangui
+UTC-yleisaika: Etc/Universal
+Länsi-Australian normaaliaika: Australia/West
+Keski-Afrikan aika: Africa/Maputo
+Yhdysvaltain keskinen kesäaika: America/Rainy_River
+Uzbekistanin normaaliaika: Asia/Tashkent
+Yhdysvaltain itäinen kesäaika: Canada/Eastern
+UTC-yleisaika: Universal
+UTC+00:00: Factory
+Itä-Afrikan aika: Africa/Nairobi
+Samoan normaaliaika: US/Samoa
+Argentiinan normaaliaika: America/Argentina/Ushuaia
+Newfoundlandin kesäaika: Canada/Newfoundland
+Greenwichin normaaliaika: Iceland
+Dumont d’Urvillen aika: Antarctica/DumontDUrville
+Keski-Euroopan kesäaika: Europe/Vienna
+Kalliovuorten kesäaika: America/Edmonton
+Yhdysvaltain itäinen kesäaika: America/Iqaluit
+Malesian aika: Asia/Kuching
+Greenwichin normaaliaika: America/Danmarkshavn
+Uuden-Seelannin normaaliaika: Antarctica/South_Pole
+Pitcairnin aika: Pacific/Pitcairn
+Länsi-Afrikan normaaliaika: Africa/Kinshasa
+Ulan Batorin normaaliaika: Asia/Choibalsan
+Fernando de Noronhan normaaliaika: America/Noronha
+Keski-Euroopan kesäaika: Europe/Andorra
+Acren normaaliaika: Brazil/Acre
+UTC+02:00: MET
+Yhdysvaltain itäinen normaaliaika: America/Cancun
+Sahalinin normaaliaika: Asia/Sakhalin
+Yhdysvaltain keskinen normaaliaika: America/Guatemala
+Kiinan normaaliaika: Asia/Harbin
+Argentiinan normaaliaika: America/Argentina/Cordoba
+Greenwichin normaaliaika: Greenwich
+UTC-yleisaika: UCT
+Gambiersaarten aika: Pacific/Gambier
+Kalliovuorten normaaliaika: America/Dawson_Creek
+Yhdysvaltain itäinen kesäaika: America/Indiana/Marengo
+Itä-Australian normaaliaika: Australia/Sydney
+UTC+10:00: Etc/GMT-10
+Länsi-Afrikan normaaliaika: Africa/Libreville
+Jekaterinburgin normaaliaika: Asia/Yekaterinburg
+UTC+03:00: Asia/Damascus
+Itä-Australian normaaliaika: Australia/ACT
+Yhdysvaltain keskinen normaaliaika: America/Managua
+Korean normaaliaika: ROK
+Greenwichin normaaliaika: Africa/Abidjan
+Greenwichin normaaliaika: Africa/Nouakchott
+Itä-Timorin aika: Asia/Dili
+Kap Verden normaaliaika: Atlantic/Cape_Verde
+UTC+04:00: Europe/Saratov
+Chathamin normaaliaika: Pacific/Chatham
+Kanadan Atlantin kesäaika: America/Thule
+Keski-Afrikan aika: Africa/Kigali
+Yhdysvaltain itäinen kesäaika: America/Indiana/Petersburg
+Yhdysvaltain itäinen normaaliaika: America/Atikokan
+Yhdysvaltain keskinen normaaliaika: America/Tegucigalpa
+Greenwichin normaaliaika: Eire
+Phoenixsaarten aika: Pacific/Kanton
+Kanadan Atlantin kesäaika: America/Halifax
+Alaskan kesäaika: US/Alaska
+Indokiinan aika: Asia/Bangkok
+Itä-Afrikan aika: Indian/Mayotte
+Yhdysvaltain itäinen normaaliaika: America/Cayman
+Kanadan Atlantin normaaliaika: America/Dominica
+Yhdysvaltain itäinen kesäaika: America/Indiana/Indianapolis
+UTC+11:00: Etc/GMT-11
+Rotheran aika: Antarctica/Rothera
+Malediivien aika: Indian/Maldives
+Itä-Afrikan aika: Africa/Asmara
+UTC+01:00: Africa/Casablanca
+Yhdysvaltain itäinen kesäaika: America/New_York
+Yhdysvaltain itäinen kesäaika: America/Toronto
+Itä-Euroopan kesäaika: Europe/Tiraspol
+UTC+11:00: Pacific/Bougainville
+Yhdysvaltain itäinen kesäaika: America/Kentucky/Monticello
+UTC-02:00: Etc/GMT+2
+Lord Howen normaaliaika: Australia/Lord_Howe
+Itä-Euroopan kesäaika: Europe/Athens
+Keski-Australian normaaliaika: Australia/Yancowinna
+Falklandinsaarten normaaliaika: Atlantic/Stanley
+Yhdysvaltain Tyynenmeren kesäaika: America/Tijuana
+Jakutskin normaaliaika: Asia/Khandyga
+Brasilian normaaliaika: America/Santarem
+Chuukin aika: Pacific/Chuuk
+Indokiinan aika: Asia/Phnom_Penh
+UTC+01:00: Europe/Isle_of_Man
+Keski-Euroopan kesäaika: Europe/Skopje
+Amazonin normaaliaika: America/Manaus
+Kalliovuorten kesäaika: MST7MDT
+Salomonsaarten aika: Pacific/Guadalcanal
+Malesian aika: Asia/Kuala_Lumpur
+Keski-Afrikan aika: Africa/Harare
+Yhdysvaltain Tyynenmeren kesäaika: Mexico/BajaNorte
+UTC-04:00: Etc/GMT+4
+Davisin aika: Antarctica/Davis
+Itä-Euroopan kesäaika: Egypt
+Venezuelan aika: America/Caracas
+Brasilian normaaliaika: America/Sao_Paulo
+Brasilian normaaliaika: America/Recife
+Keski-Euroopan kesäaika: Europe/Berlin
+Kamtšatkan normaaliaika: Asia/Kamchatka
+Havaijin-Aleuttien kesäaika: US/Aleutian
+Greenwichin normaaliaika: Africa/Dakar
+Jakutskin normaaliaika: Asia/Yakutsk
+Keski-Afrikan aika: Africa/Lusaka
+Greenwichin normaaliaika: Europe/Dublin
+Keski-Euroopan kesäaika: Europe/Vaduz
+Hovdin normaaliaika: Asia/Hovd
+Keski-Euroopan kesäaika: Europe/Ljubljana
+Keski-Euroopan kesäaika: Europe/San_Marino
+Yhdysvaltain itäinen kesäaika: America/Kentucky/Louisville
+Kiinan normaaliaika: Asia/Shanghai
+Yhdysvaltain itäinen kesäaika: America/Montreal
+UTC+07:00: Asia/Barnaul
+Tšamorron aika: Pacific/Guam
+Yhdysvaltain Tyynenmeren kesäaika: PST8PDT
+Papua-Uuden-Guinean aika: Pacific/Port_Moresby
+Itä-Afrikan aika: Africa/Kampala
+Itä-Euroopan kesäaika: Europe/Nicosia
+Yhdysvaltain Tyynenmeren kesäaika: America/Vancouver
+Keski-Euroopan kesäaika: Europe/Malta
+Kanadan Atlantin normaaliaika: America/Puerto_Rico
+Kanadan Atlantin kesäaika: Canada/Atlantic
+UTC-06:00: Etc/GMT+6
+Yhdysvaltain itäinen kesäaika: EST5EDT
+Kanadan Atlantin normaaliaika: America/Curacao
+UTC+03:00: Asia/Istanbul
+Keski-Indonesian aika: Asia/Ujung_Pandang
+Yhdysvaltain itäinen kesäaika: America/Indiana/Winamac
+Omskin normaaliaika: Asia/Omsk
+Itä-Euroopan kesäaika: Europe/Tallinn
+Argentiinan normaaliaika: America/Cordoba
+UTC-11:00: Etc/GMT+11

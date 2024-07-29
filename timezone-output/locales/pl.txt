@@ -1,0 +1,597 @@
+Hawaje-Aleuty (czas letni): America/Atka
+czas Surinam: America/Paramaribo
+Turkmenistan (czas standardowy): Asia/Ashkhabad
+czas Nepal: Asia/Katmandu
+GMT+12:00: Etc/GMT-12
+czas atlantycki standardowy: America/St_Barthelemy
+Krasnojarsk (czas standardowy): Asia/Krasnoyarsk
+czas środkowoeuropejski letni: Europe/Brussels
+Wołgograd (czas standardowy): Europe/Volgograd
+czas górski letni: America/Denver
+Brasília (czas standardowy): America/Fortaleza
+czas środkowoeuropejski letni: Europe/Podgorica
+czas Georgia Południowa: Atlantic/South_Georgia
+czas zachodnioafrykański standardowy: Africa/Ndjamena
+czas wschodnioamerykański letni: America/Nassau
+Bangladesz (czas standardowy): Asia/Dhaka
+Paragwaj (czas standardowy): America/Asuncion
+czas atlantycki standardowy: America/Blanc-Sablon
+czas środkowoamerykański letni: America/Indiana/Knox
+Bangladesz (czas standardowy): Asia/Dacca
+czas wschodnioaustralijski standardowy: Antarctica/Macquarie
+Moskwa (czas standardowy): Europe/Moscow
+uniwersalny czas koordynowany: UTC
+Korea (czas standardowy): Asia/Seoul
+czas wschodnioeuropejski letni: Europe/Riga
+czas środkowoafrykański: Africa/Blantyre
+Argentyna (czas standardowy): America/Argentina/Salta
+Argentyna (czas standardowy): America/Argentina/Buenos_Aires
+czas środkowoeuropejski standardowy: Africa/Algiers
+czas wschodnioaustralijski standardowy: Australia/Tasmania
+czas środkowoamerykański letni: US/Indiana-Starke
+Samoa (czas standardowy): Pacific/Midway
+czas górski letni: America/Ciudad_Juarez
+GMT-10:00: HST
+GMT+11:00: Asia/Srednekolymsk
+czas wschodnioaustralijski standardowy: Australia/Hobart
+czas atlantycki letni: Atlantic/Bermuda
+uniwersalny czas koordynowany: Etc/UCT
+czas Francuskie Terytoria Południowe i Antarktyczne: Indian/Kerguelen
+czas zachodnioeuropejski letni: Atlantic/Faroe
+czas amazoński standardowy: America/Campo_Grande
+Lord Howe (czas standardowy): Australia/LHI
+Mauritius (czas standardowy): Indian/Mauritius
+GMT+02:00: CET
+czas wschodnioeuropejski standardowy: Libya
+GMT-07:00: Etc/GMT+7
+GMT+08:00: Etc/GMT-8
+czas uniwersalny: Atlantic/St_Helena
+czas Pohnpei: Pacific/Pohnpei
+GMT-01:00: Etc/GMT+1
+czas wschodnioeuropejski letni: Europe/Kyiv
+GMT+05:00: Etc/GMT-5
+czas Reunion: Indian/Reunion
+GMT-03:00: Antarctica/Palmer
+czas środkowoamerykański standardowy: America/Bahia_Banderas
+Argentyna (czas standardowy): America/Jujuy
+Jakuck (czas standardowy): Asia/Chita
+czas górski letni: US/Mountain
+Krasnojarsk (czas standardowy): Asia/Novokuznetsk
+GMT+06:00: Etc/GMT-6
+czas wschodnioaustralijski standardowy: Australia/Currie
+czas Nepal: Asia/Kathmandu
+Nowa Fundlandia (czas letni): America/St_Johns
+czas Kazachstan Zachodni: Asia/Aqtobe
+czas uniwersalny: GMT+0
+GMT+04:00: Europe/Astrakhan
+GMT+01:00: Europe/Guernsey
+czas atlantycki standardowy: America/Martinique
+czas wschodnioamerykański letni: US/East-Indiana
+czas środkowoeuropejski letni: Arctic/Longyearbyen
+czas środkowoamerykański standardowy: America/Mexico_City
+Argentyna (czas standardowy): America/Argentina/ComodRivadavia
+czas pacyficzny letni: Canada/Pacific
+GMT+08:00: Antarctica/Casey
+czas środkowoafrykański: Africa/Bujumbura
+GMT-05:00: America/Eirunepe
+Japonia (czas standardowy): Asia/Tokyo
+czas środkowoeuropejski letni: Europe/Bratislava
+czas wschodnioaustralijski standardowy: Australia/Melbourne
+czas wschodnioamerykański standardowy: America/Panama
+czas wschodnioeuropejski letni: Asia/Beirut
+czas wschodnioafrykański: Indian/Antananarivo
+Uzbekistan (czas standardowy): Asia/Samarkand
+Peru (czas standardowy): America/Lima
+czas atlantycki standardowy: America/St_Thomas
+czas Indonezja Zachodnia: Asia/Pontianak
+Meksyk (czas pacyficzny standardowy): Mexico/BajaSur
+czas uniwersalny: Etc/GMT
+czas zachodnioafrykański standardowy: Africa/Luanda
+czas atlantycki standardowy: America/St_Lucia
+czas atlantycki standardowy: America/Barbados
+czas południowoafrykański: Africa/Maseru
+Meksyk (czas pacyficzny standardowy): America/Mazatlan
+czas Markizy: Pacific/Marquesas
+czas wschodnioamerykański letni: America/Thunder_Bay
+czas amazoński standardowy: America/Cuiaba
+czas Wyspy Marshalla: Pacific/Majuro
+czas wschodnioafrykański: Africa/Addis_Ababa
+Nowa Zelandia (czas standardowy): Antarctica/McMurdo
+czas środkowoeuropejski letni: Europe/Warsaw
+czas środkowoamerykański letni: America/Knox_IN
+czas Wyspy Marshalla: Pacific/Kwajalein
+czas amazoński standardowy: Brazil/West
+GMT+03:00: Etc/GMT-3
+czas atlantycki standardowy: America/St_Vincent
+czas atlantycki standardowy: America/Marigot
+Tajpej (czas standardowy): Asia/Taipei
+czas wschodnioamerykański letni: US/Eastern
+czas Wyspy Marshalla: Kwajalein
+Argentyna (czas standardowy): America/Argentina/Jujuy
+GMT-05:00: Etc/GMT+5
+czas środkowoeuropejski letni: Europe/Zagreb
+czas wschodnioamerykański letni: America/Port-au-Prince
+czas środkowoaustralijski standardowy: Australia/North
+czas uniwersalny: GMT
+czas środkowoeuropejski standardowy: Africa/Tunis
+czas Afganistan: Asia/Kabul
+Alaska (czas letni): America/Juneau
+GMT+07:00: Asia/Tomsk
+czas południowoafrykański: Africa/Mbabane
+czas zachodnioafrykański standardowy: Africa/Porto-Novo
+czas Zatoka Perska: Asia/Muscat
+Argentyna (czas standardowy): America/Argentina/San_Luis
+czas środkowo-zachodnioaustralijski standardowy: Australia/Eucla
+czas atlantycki standardowy: America/Anguilla
+czas środkowoeuropejski letni: Europe/Gibraltar
+czas środkowoeuropejski letni: Europe/Prague
+czas wschodnioeuropejski letni: Europe/Zaporozhye
+Korea (czas standardowy): Asia/Pyongyang
+czas środkowoeuropejski letni: Europe/Zurich
+czas Kazachstan Zachodni: Asia/Atyrau
+czas wschodnioamerykański letni: America/Indiana/Vincennes
+Argentyna (czas standardowy): America/Argentina/Catamarca
+czas środkowoeuropejski letni: Europe/Stockholm
+uniwersalny czas koordynowany: Etc/UTC
+czas zachodnioafrykański standardowy: Africa/Lagos
+Argentyna (czas standardowy): America/Argentina/La_Rioja
+czas Zatoka Perska: Asia/Dubai
+Ułan Bator (czas standardowy): Asia/Ulaanbaatar
+Fernando de Noronha (czas standardowy): Brazil/DeNoronha
+czas uniwersalny: Africa/Bissau
+Gruzja (czas standardowy): Asia/Tbilisi
+czas atlantycki standardowy: America/St_Kitts
+czas zachodnioafrykański standardowy: Africa/Douala
+czas atlantycki letni: America/Goose_Bay
+czas wschodnioamerykański letni: America/Indianapolis
+czas środkowoeuropejski letni: Europe/Rome
+Hawaje-Aleuty (czas standardowy): Pacific/Johnston
+czas wschodnioeuropejski letni: Asia/Hebron
+czas wschodnioaustralijski standardowy: Australia/Victoria
+czas środkowoamerykański letni: CST6CDT
+czas wschodnioamerykański letni: US/Michigan
+Władywostok (czas standardowy): Asia/Vladivostok
+czas południowoafrykański: Africa/Johannesburg
+GMT+03:00: Asia/Famagusta
+Izrael (czas letni): Israel
+czas Chuuk: Pacific/Yap
+GMT-09:00: Etc/GMT+9
+czas środkowoafrykański: Africa/Khartoum
+czas standardowy Samara: Europe/Samara
+czas Wallis i Futuna: Pacific/Wallis
+czas Wostok: Antarctica/Vostok
+czas Galapagos: Pacific/Galapagos
+czas Boliwia: America/La_Paz
+czas atlantycki standardowy: America/Port_of_Spain
+czas wschodnioamerykański standardowy: America/Coral_Harbour
+czas środkowoamerykański letni: America/North_Dakota/Center
+czas górski standardowy: America/Creston
+czas atlantycki standardowy: America/Grenada
+GMT+01:00: Europe/Jersey
+czas Czamorro: Pacific/Saipan
+czas wschodnioamerykański standardowy: Jamaica
+czas atlantycki standardowy: America/Lower_Princes
+uniwersalny czas koordynowany: Etc/Zulu
+czas Pohnpei: Pacific/Ponape
+Samoa (czas standardowy): Pacific/Pago_Pago
+czas wschodnioeuropejski letni: Africa/Cairo
+czas środkowoeuropejski letni: Europe/Budapest
+GMT-10:00: Etc/GMT+10
+czas środkowoeuropejski letni: Europe/Tirane
+czas środkowoeuropejski letni: Europe/Belgrade
+czas środkowoamerykański standardowy: America/El_Salvador
+czas środkowoamerykański letni: America/Menominee
+Brytyjski czas letni: GB-Eire
+Hawaje-Aleuty (czas standardowy): US/Hawaii
+Azerbejdżan (czas standardowy): Asia/Baku
+czas zachodnioafrykański standardowy: Africa/Brazzaville
+czas Wyspa Bożego Narodzenia: Indian/Christmas
+GMT+02:00: Antarctica/Troll
+Grenlandia Zachodnia (czas letni): America/Nuuk
+czas zachodnioeuropejski letni: Atlantic/Madeira
+Turkmenistan (czas standardowy): Asia/Ashgabat
+czas uniwersalny: Etc/GMT-0
+czas uniwersalny: Africa/Timbuktu
+GMT+07:00: Etc/GMT-7
+GMT+06:00: Asia/Urumqi
+czas wschodnioaustralijski standardowy: Australia/Brisbane
+Hongkong (czas standardowy): Hongkong
+czas górski standardowy: America/Phoenix
+czas uniwersalny: Africa/Bamako
+Tajpej (czas standardowy): ROC
+czas środkowoamerykański standardowy: America/Costa_Rica
+czas Tadżykistan: Asia/Dushanbe
+Hawaje-Aleuty (czas letni): America/Adak
+czas Niue: Pacific/Niue
+GMT+03:00: Europe/Istanbul
+Chiny (czas standardowy): Asia/Macau
+Brasília (czas standardowy): America/Belem
+czas środkowoamerykański letni: America/North_Dakota/New_Salem
+czas środkowoamerykański standardowy: America/Monterrey
+czas atlantycki standardowy: America/Montserrat
+Japonia (czas standardowy): Japan
+czas wschodnioeuropejski standardowy: Europe/Kaliningrad
+Argentyna (czas standardowy): America/Argentina/Rio_Gallegos
+czas środkowoamerykański standardowy: America/Regina
+czas uniwersalny: Africa/Freetown
+Armenia (czas standardowy): Asia/Yerevan
+Brytyjski czas letni: Europe/Belfast
+czas wschodnioeuropejski standardowy: Africa/Tripoli
+Ułan Bator (czas standardowy): Asia/Ulan_Bator
+czas Syowa: Antarctica/Syowa
+Argentyna (czas standardowy): America/Catamarca
+czas wschodnioaustralijski standardowy: Australia/Lindeman
+czas środkowoamerykański letni: US/Central
+Argentyna (czas standardowy): America/Argentina/San_Juan
+czas Jukon: America/Whitehorse
+czas uniwersalny: Africa/Banjul
+GMT+01:00: Africa/El_Aaiun
+czas górski letni: America/Cambridge_Bay
+czas atlantycki standardowy: America/Antigua
+czas Line Islands: Pacific/Kiritimati
+Półwysep Arabski (czas standardowy): Asia/Aden
+czas wschodnioamerykański letni: America/Louisville
+Alaska (czas letni): America/Sitka
+czas wschodnioeuropejski letni: Europe/Uzhgorod
+Nowa Kaledonia (czas standardowy): Pacific/Noumea
+czas wschodnioeuropejski letni: Europe/Kiev
+czas wschodnioaustralijski standardowy: Australia/NSW
+czas środkowoamerykański letni: America/Resolute
+czas uniwersalny: GMT0
+czas zachodnioaustralijski standardowy: Australia/Perth
+Moskwa (czas standardowy): Europe/Simferopol
+czas środkowoaustralijski standardowy: Australia/Broken_Hill
+Vanuatu (czas standardowy): Pacific/Efate
+czas zachodnioeuropejski letni: Atlantic/Canary
+czas Tahiti: Pacific/Tahiti
+czas środkowoeuropejski letni: Europe/Copenhagen
+Alaska (czas letni): America/Metlakatla
+Brytyjski czas letni: Europe/London
+GMT-12:00: Etc/GMT+12
+czas Indonezja Środkowa: Asia/Makassar
+Meksyk (czas pacyficzny standardowy): America/Hermosillo
+czas atlantycki letni: America/Moncton
+czas Ocean Indyjski: Indian/Chagos
+czas zachodnioeuropejski letni: Portugal
+czas środkowoeuropejski letni: Europe/Monaco
+Hawaje-Aleuty (czas standardowy): Pacific/Honolulu
+GMT+02:00: Etc/GMT-2
+czas indochiński: Asia/Ho_Chi_Minh
+Wyspy Cooka (czas standardowy): Pacific/Rarotonga
+czas wschodnioamerykański letni: America/Pangnirtung
+GMT-05:00: America/Porto_Acre
+czas uniwersalny: Africa/Monrovia
+czas uniwersalny: Etc/Greenwich
+Norfolk (czas standardowy): Pacific/Norfolk
+czas Chuuk: Pacific/Truk
+GMT-07:00: MST
+czas środkowoamerykański letni: America/Ojinaga
+Chiny (czas standardowy): Asia/Chungking
+czas zachodnioeuropejski letni: Europe/Lisbon
+czas wschodnioeuropejski letni: Europe/Vilnius
+Alaska (czas letni): America/Yakutat
+czas pacyficzny letni: America/Ensenada
+czas Nauru: Pacific/Nauru
+czas wschodnioeuropejski letni: Europe/Chisinau
+GMT+03:00: Europe/Kirov
+czas środkowoeuropejski letni: Europe/Oslo
+Brasília (czas standardowy): America/Bahia
+czas indyjski standardowy: Asia/Kolkata
+GMT+04:00: Europe/Ulyanovsk
+czas górski letni: Canada/Mountain
+czas środkowoeuropejski letni: Europe/Luxembourg
+czas uniwersalny: Africa/Conakry
+Argentyna (czas standardowy): America/Argentina/Tucuman
+czas Kirgistan: Asia/Bishkek
+czas standardowy Anadyr: Asia/Anadyr
+Moskwa (czas standardowy): Europe/Minsk
+Grenlandia Wschodnia (czas letni): America/Scoresbysund
+czas środkowoeuropejski letni: Europe/Paris
+czas środkowoamerykański standardowy: America/Chihuahua
+Fidżi (czas standardowy): Pacific/Fiji
+czas Mjanma: Asia/Yangon
+Chile (czas standardowy): America/Santiago
+czas indochiński: Asia/Vientiane
+czas atlantycki standardowy: America/Kralendijk
+czas środkowoafrykański: Africa/Juba
+Tonga (czas standardowy): Pacific/Tongatapu
+Irkuck (czas standardowy): Asia/Irkutsk
+GMT+06:00: Asia/Kashgar
+Chatham (czas standardowy): NZ-CHAT
+Chiny (czas standardowy): PRC
+Półwysep Arabski (czas standardowy): Asia/Kuwait
+czas Bhutan: Asia/Thimbu
+czas środkowoeuropejski letni: Europe/Busingen
+czas atlantycki letni: America/Glace_Bay
+czas środkowoamerykański standardowy: America/Belize
+czas indyjski standardowy: Asia/Calcutta
+czas Singapur: Asia/Singapore
+Półwysep Arabski (czas standardowy): Asia/Baghdad
+czas Singapur: Singapore
+czas wschodnioeuropejski letni: Asia/Nicosia
+czas uniwersalny: Atlantic/Reykjavik
+Argentyna (czas standardowy): America/Buenos_Aires
+czas górski letni: America/Boise
+Izrael (czas letni): Asia/Jerusalem
+czas uniwersalny: Africa/Ouagadougou
+Wyspa Wielkanocna (czas standardowy): Pacific/Easter
+Hongkong (czas standardowy): Asia/Hong_Kong
+GMT-03:00: Etc/GMT+3
+Urugwaj (czas standardowy): America/Montevideo
+czas Wake: Pacific/Wake
+czas Ekwador: America/Guayaquil
+czas środkowoamerykański letni: America/Winnipeg
+czas górski standardowy: US/Arizona
+czas atlantycki standardowy: America/Virgin
+czas środkowoamerykański standardowy: Canada/Saskatchewan
+GMT+04:00: Etc/GMT-4
+GMT+03:00: Turkey
+czas atlantycki standardowy: America/Guadeloupe
+czas środkowoafrykański: Africa/Windhoek
+Brasília (czas standardowy): Brazil/East
+czas górski letni: Navajo
+czas indyjski standardowy: Asia/Colombo
+GMT-05:00: EST
+czas środkowoamerykański letni: America/North_Dakota/Beulah
+czas Tokelau: Pacific/Fakaofo
+czas Mjanma: Asia/Rangoon
+czas wschodnioeuropejski letni: Europe/Mariehamn
+czas atlantycki standardowy: America/Santo_Domingo
+Nowa Zelandia (czas standardowy): NZ
+czas uniwersalny: Etc/GMT+0
+Brasília (czas standardowy): America/Araguaina
+czas atlantycki standardowy: America/Aruba
+czas wschodnioeuropejski letni: Europe/Helsinki
+czas Tuvalu: Pacific/Funafuti
+czas wschodnioamerykański standardowy: America/Jamaica
+czas wschodnioamerykański letni: America/Indiana/Vevay
+czas środkowoamerykański standardowy: America/Swift_Current
+Argentyna (czas standardowy): America/Argentina/Mendoza
+czas indochiński: Asia/Saigon
+Alaska (czas letni): America/Nome
+czas wschodnioafrykański: Africa/Dar_es_Salaam
+GMT+13:00: Etc/GMT-13
+czas wschodnioamerykański letni: America/Nipigon
+czas górski letni: America/Yellowknife
+czas zachodnioafrykański standardowy: Africa/Malabo
+czas Wyspy Gilberta: Pacific/Tarawa
+Brasília (czas standardowy): America/Maceio
+uniwersalny czas koordynowany: Zulu
+czas Kazachstan Zachodni: Asia/Oral
+czas środkowoeuropejski letni: Europe/Vatican
+Argentyna (czas standardowy): America/Mendoza
+czas środkowoamerykański letni: America/Rankin_Inlet
+Brytyjski czas letni: GB
+czas środkowoeuropejski letni: Poland
+czas środkowoeuropejski letni: Europe/Amsterdam
+czas wschodnioeuropejski letni: Asia/Gaza
+czas Bhutan: Asia/Thimphu
+czas pacyficzny letni: US/Pacific
+czas zachodnioeuropejski letni: Atlantic/Faeroe
+Saint-Pierre i Miquelon (czas letni): America/Miquelon
+czas środkowoaustralijski standardowy: Australia/Darwin
+Władywostok (czas standardowy): Asia/Ust-Nera
+Grenlandia Zachodnia (czas letni): America/Godthab
+Półwysep Arabski (czas standardowy): Asia/Riyadh
+czas amazoński standardowy: America/Boa_Vista
+Kuba (czas letni): Cuba
+czas uniwersalny: GMT-0
+czas górski standardowy: America/Fort_Nelson
+Filipiny (czas standardowy): Asia/Manila
+GMT-05:00: America/Rio_Branco
+czas środkowoamerykański letni: America/Indiana/Tell_City
+czas Kazachstan Zachodni: Asia/Qyzylorda
+czas środkowoeuropejski letni: Europe/Sarajevo
+GMT+03:00: EET
+Moskwa (czas standardowy): W-SU
+czas Kazachstan Wschodni: Asia/Almaty
+czas wschodnioafrykański: Indian/Comoro
+czas Indonezja Wschodnia: Asia/Jayapura
+czas wschodnioamerykański letni: America/Grand_Turk
+Apia (czas standardowy): Pacific/Apia
+czas Gujana: America/Guyana
+GMT+01:00: Etc/GMT-1
+czas Seszele: Indian/Mahe
+czas Gujana Francuska: America/Cayenne
+GMT+14:00: Etc/GMT-14
+Magadan (czas standardowy): Asia/Magadan
+czas wschodnioaustralijski standardowy: Australia/Queensland
+czas pacyficzny letni: America/Los_Angeles
+Iran (czas standardowy): Iran
+GMT+09:00: Etc/GMT-9
+GMT+01:00: WET
+czas środkowoeuropejski letni: Atlantic/Jan_Mayen
+czas Kazachstan Zachodni: Asia/Aqtau
+czas środkowoamerykański letni: Canada/Central
+czas Wyspy Kokosowe: Indian/Cocos
+czas górski letni: America/Shiprock
+czas środkowoeuropejski letni: Africa/Ceuta
+czas Kazachstan Wschodni: Asia/Qostanay
+Półwysep Arabski (czas standardowy): Asia/Bahrain
+czas zachodnioafrykański standardowy: Africa/Niamey
+GMT-03:00: America/Punta_Arenas
+Półwysep Arabski (czas standardowy): Asia/Qatar
+Nowa Zelandia (czas standardowy): Pacific/Auckland
+Wyspa Wielkanocna (czas standardowy): Chile/EasterIsland
+Pakistan (czas standardowy): Asia/Karachi
+Izrael (czas letni): Asia/Tel_Aviv
+czas Kosrae: Pacific/Kosrae
+czas uniwersalny: Africa/Accra
+Chiny (czas standardowy): Asia/Chongqing
+czas środkowoaustralijski standardowy: Australia/Adelaide
+czas wschodnioamerykański letni: America/Detroit
+czas wschodnioeuropejski letni: Europe/Sofia
+czas Indonezja Zachodnia: Asia/Jakarta
+czas atlantycki standardowy: America/Tortola
+czas środkowoamerykański standardowy: America/Merida
+czas środkowoafrykański: Africa/Lubumbashi
+czas Feniks: Pacific/Enderbury
+czas środkowoamerykański standardowy: Mexico/General
+czas Brunei: Asia/Brunei
+czas środkowoamerykański letni: America/Matamoros
+czas Jukon: America/Dawson
+Samoa (czas standardowy): Pacific/Samoa
+Kuba (czas letni): America/Havana
+czas Mawson: Antarctica/Mawson
+czas środkowoamerykański letni: America/Chicago
+Chiny (czas standardowy): Asia/Macao
+czas pacyficzny letni: America/Santa_Isabel
+Alaska (czas letni): America/Anchorage
+czas wschodnioaustralijski standardowy: Australia/Canberra
+czas uniwersalny: Africa/Sao_Tome
+Azory (czas letni): Atlantic/Azores
+GMT-08:00: Etc/GMT+8
+Kolumbia (czas standardowy): America/Bogota
+czas uniwersalny: Etc/GMT0
+czas wschodnioeuropejski letni: Europe/Bucharest
+Argentyna (czas standardowy): America/Rosario
+czas środkowoaustralijski standardowy: Australia/South
+czas wschodnioafrykański: Africa/Djibouti
+Iran (czas standardowy): Asia/Tehran
+czas wschodnioafrykański: Africa/Asmera
+czas wschodnioafrykański: Africa/Mogadishu
+czas amazoński standardowy: America/Porto_Velho
+czas górski letni: America/Inuvik
+czas Jukon: Canada/Yukon
+czas środkowoeuropejski letni: Europe/Madrid
+GMT+03:00: Asia/Amman
+Chile (czas standardowy): Chile/Continental
+czas wschodnioamerykański letni: America/Fort_Wayne
+czas Palau: Pacific/Palau
+czas uniwersalny: Africa/Lome
+Nowosybirsk (czas standardowy): Asia/Novosibirsk
+czas środkowoafrykański: Africa/Gaborone
+czas zachodnioafrykański standardowy: Africa/Bangui
+uniwersalny czas koordynowany: Etc/Universal
+czas zachodnioaustralijski standardowy: Australia/West
+czas środkowoafrykański: Africa/Maputo
+czas środkowoamerykański letni: America/Rainy_River
+Uzbekistan (czas standardowy): Asia/Tashkent
+czas wschodnioamerykański letni: Canada/Eastern
+uniwersalny czas koordynowany: Universal
+GMT+00:00: Factory
+czas wschodnioafrykański: Africa/Nairobi
+Samoa (czas standardowy): US/Samoa
+Argentyna (czas standardowy): America/Argentina/Ushuaia
+Nowa Fundlandia (czas letni): Canada/Newfoundland
+czas uniwersalny: Iceland
+czas Dumont-d’Urville: Antarctica/DumontDUrville
+czas środkowoeuropejski letni: Europe/Vienna
+czas górski letni: America/Edmonton
+czas wschodnioamerykański letni: America/Iqaluit
+czas Malezja: Asia/Kuching
+czas uniwersalny: America/Danmarkshavn
+Nowa Zelandia (czas standardowy): Antarctica/South_Pole
+czas Pitcairn: Pacific/Pitcairn
+czas zachodnioafrykański standardowy: Africa/Kinshasa
+Ułan Bator (czas standardowy): Asia/Choibalsan
+Fernando de Noronha (czas standardowy): America/Noronha
+czas środkowoeuropejski letni: Europe/Andorra
+GMT-05:00: Brazil/Acre
+GMT+02:00: MET
+czas wschodnioamerykański standardowy: America/Cancun
+Sachalin (czas standardowy): Asia/Sakhalin
+czas środkowoamerykański standardowy: America/Guatemala
+Chiny (czas standardowy): Asia/Harbin
+Argentyna (czas standardowy): America/Argentina/Cordoba
+czas uniwersalny: Greenwich
+uniwersalny czas koordynowany: UCT
+czas Wyspy Gambiera: Pacific/Gambier
+czas górski standardowy: America/Dawson_Creek
+czas wschodnioamerykański letni: America/Indiana/Marengo
+czas wschodnioaustralijski standardowy: Australia/Sydney
+GMT+10:00: Etc/GMT-10
+czas zachodnioafrykański standardowy: Africa/Libreville
+Jekaterynburg (czas standardowy): Asia/Yekaterinburg
+GMT+03:00: Asia/Damascus
+czas wschodnioaustralijski standardowy: Australia/ACT
+czas środkowoamerykański standardowy: America/Managua
+Korea (czas standardowy): ROK
+czas uniwersalny: Africa/Abidjan
+czas uniwersalny: Africa/Nouakchott
+czas Timor Wschodni: Asia/Dili
+Wyspy Zielonego Przylądka (czas standardowy): Atlantic/Cape_Verde
+GMT+04:00: Europe/Saratov
+Chatham (czas standardowy): Pacific/Chatham
+czas atlantycki letni: America/Thule
+czas środkowoafrykański: Africa/Kigali
+czas wschodnioamerykański letni: America/Indiana/Petersburg
+czas wschodnioamerykański standardowy: America/Atikokan
+czas środkowoamerykański standardowy: America/Tegucigalpa
+czas uniwersalny: Eire
+czas Feniks: Pacific/Kanton
+czas atlantycki letni: America/Halifax
+Alaska (czas letni): US/Alaska
+czas indochiński: Asia/Bangkok
+czas wschodnioafrykański: Indian/Mayotte
+czas wschodnioamerykański standardowy: America/Cayman
+czas atlantycki standardowy: America/Dominica
+czas wschodnioamerykański letni: America/Indiana/Indianapolis
+GMT+11:00: Etc/GMT-11
+czas Rothera: Antarctica/Rothera
+czas Malediwy: Indian/Maldives
+czas wschodnioafrykański: Africa/Asmara
+GMT+01:00: Africa/Casablanca
+czas wschodnioamerykański letni: America/New_York
+czas wschodnioamerykański letni: America/Toronto
+czas wschodnioeuropejski letni: Europe/Tiraspol
+GMT+11:00: Pacific/Bougainville
+czas wschodnioamerykański letni: America/Kentucky/Monticello
+GMT-02:00: Etc/GMT+2
+Lord Howe (czas standardowy): Australia/Lord_Howe
+czas wschodnioeuropejski letni: Europe/Athens
+czas środkowoaustralijski standardowy: Australia/Yancowinna
+Falklandy (czas standardowy): Atlantic/Stanley
+czas pacyficzny letni: America/Tijuana
+Jakuck (czas standardowy): Asia/Khandyga
+Brasília (czas standardowy): America/Santarem
+czas Chuuk: Pacific/Chuuk
+czas indochiński: Asia/Phnom_Penh
+GMT+01:00: Europe/Isle_of_Man
+czas środkowoeuropejski letni: Europe/Skopje
+czas amazoński standardowy: America/Manaus
+czas górski letni: MST7MDT
+czas Wyspy Salomona: Pacific/Guadalcanal
+czas Malezja: Asia/Kuala_Lumpur
+czas środkowoafrykański: Africa/Harare
+czas pacyficzny letni: Mexico/BajaNorte
+GMT-04:00: Etc/GMT+4
+czas Davis: Antarctica/Davis
+czas wschodnioeuropejski letni: Egypt
+czas Wenezuela: America/Caracas
+Brasília (czas standardowy): America/Sao_Paulo
+Brasília (czas standardowy): America/Recife
+czas środkowoeuropejski letni: Europe/Berlin
+czas standardowy Pietropawłowsk Kamczacki: Asia/Kamchatka
+Hawaje-Aleuty (czas letni): US/Aleutian
+czas uniwersalny: Africa/Dakar
+Jakuck (czas standardowy): Asia/Yakutsk
+czas środkowoafrykański: Africa/Lusaka
+czas uniwersalny: Europe/Dublin
+czas środkowoeuropejski letni: Europe/Vaduz
+Kobdo (czas standardowy): Asia/Hovd
+czas środkowoeuropejski letni: Europe/Ljubljana
+czas środkowoeuropejski letni: Europe/San_Marino
+czas wschodnioamerykański letni: America/Kentucky/Louisville
+Chiny (czas standardowy): Asia/Shanghai
+czas wschodnioamerykański letni: America/Montreal
+GMT+07:00: Asia/Barnaul
+czas Czamorro: Pacific/Guam
+czas pacyficzny letni: PST8PDT
+czas Papua-Nowa Gwinea: Pacific/Port_Moresby
+czas wschodnioafrykański: Africa/Kampala
+czas wschodnioeuropejski letni: Europe/Nicosia
+czas pacyficzny letni: America/Vancouver
+czas środkowoeuropejski letni: Europe/Malta
+czas atlantycki standardowy: America/Puerto_Rico
+czas atlantycki letni: Canada/Atlantic
+GMT-06:00: Etc/GMT+6
+czas wschodnioamerykański letni: EST5EDT
+czas atlantycki standardowy: America/Curacao
+GMT+03:00: Asia/Istanbul
+czas Indonezja Środkowa: Asia/Ujung_Pandang
+czas wschodnioamerykański letni: America/Indiana/Winamac
+Omsk (czas standardowy): Asia/Omsk
+czas wschodnioeuropejski letni: Europe/Tallinn
+Argentyna (czas standardowy): America/Cordoba
+GMT-11:00: Etc/GMT+11

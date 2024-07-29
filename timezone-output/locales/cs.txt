@@ -1,0 +1,597 @@
+havajsko-aleutský letní čas: America/Atka
+surinamský čas: America/Paramaribo
+turkmenský standardní čas: Asia/Ashkhabad
+nepálský čas: Asia/Katmandu
+GMT+12:00: Etc/GMT-12
+atlantický standardní čas: America/St_Barthelemy
+krasnojarský standardní čas: Asia/Krasnoyarsk
+středoevropský letní čas: Europe/Brussels
+volgogradský standardní čas: Europe/Volgograd
+severoamerický horský letní čas: America/Denver
+brasilijský standardní čas: America/Fortaleza
+středoevropský letní čas: Europe/Podgorica
+čas Jižní Georgie: Atlantic/South_Georgia
+západoafrický standardní čas: Africa/Ndjamena
+severoamerický východní letní čas: America/Nassau
+bangladéšský standardní čas: Asia/Dhaka
+paraguayský standardní čas: America/Asuncion
+atlantický standardní čas: America/Blanc-Sablon
+severoamerický centrální letní čas: America/Indiana/Knox
+bangladéšský standardní čas: Asia/Dacca
+východoaustralský standardní čas: Antarctica/Macquarie
+moskevský standardní čas: Europe/Moscow
+koordinovaný světový čas: UTC
+korejský standardní čas: Asia/Seoul
+východoevropský letní čas: Europe/Riga
+středoafrický čas: Africa/Blantyre
+argentinský standardní čas: America/Argentina/Salta
+argentinský standardní čas: America/Argentina/Buenos_Aires
+středoevropský standardní čas: Africa/Algiers
+východoaustralský standardní čas: Australia/Tasmania
+severoamerický centrální letní čas: US/Indiana-Starke
+samojský standardní čas: Pacific/Midway
+severoamerický horský letní čas: America/Ciudad_Juarez
+GMT-10:00: HST
+GMT+11:00: Asia/Srednekolymsk
+východoaustralský standardní čas: Australia/Hobart
+atlantický letní čas: Atlantic/Bermuda
+koordinovaný světový čas: Etc/UCT
+čas Francouzských jižních a antarktických území: Indian/Kerguelen
+západoevropský letní čas: Atlantic/Faroe
+amazonský standardní čas: America/Campo_Grande
+standardní čas ostrova lorda Howa: Australia/LHI
+mauricijský standardní čas: Indian/Mauritius
+GMT+02:00: CET
+východoevropský standardní čas: Libya
+GMT-07:00: Etc/GMT+7
+GMT+08:00: Etc/GMT-8
+greenwichský střední čas: Atlantic/St_Helena
+ponapský čas: Pacific/Pohnpei
+GMT-01:00: Etc/GMT+1
+východoevropský letní čas: Europe/Kyiv
+GMT+05:00: Etc/GMT-5
+réunionský čas: Indian/Reunion
+GMT-03:00: Antarctica/Palmer
+severoamerický centrální standardní čas: America/Bahia_Banderas
+argentinský standardní čas: America/Jujuy
+jakutský standardní čas: Asia/Chita
+severoamerický horský letní čas: US/Mountain
+krasnojarský standardní čas: Asia/Novokuznetsk
+GMT+06:00: Etc/GMT-6
+východoaustralský standardní čas: Australia/Currie
+nepálský čas: Asia/Kathmandu
+newfoundlandský letní čas: America/St_Johns
+západokazachstánský čas: Asia/Aqtobe
+greenwichský střední čas: GMT+0
+GMT+04:00: Europe/Astrakhan
+GMT+01:00: Europe/Guernsey
+atlantický standardní čas: America/Martinique
+severoamerický východní letní čas: US/East-Indiana
+středoevropský letní čas: Arctic/Longyearbyen
+severoamerický centrální standardní čas: America/Mexico_City
+argentinský standardní čas: America/Argentina/ComodRivadavia
+severoamerický pacifický letní čas: Canada/Pacific
+čas Caseyho stanice: Antarctica/Casey
+středoafrický čas: Africa/Bujumbura
+acrejský standardní čas: America/Eirunepe
+japonský standardní čas: Asia/Tokyo
+středoevropský letní čas: Europe/Bratislava
+východoaustralský standardní čas: Australia/Melbourne
+severoamerický východní standardní čas: America/Panama
+východoevropský letní čas: Asia/Beirut
+východoafrický čas: Indian/Antananarivo
+uzbecký standardní čas: Asia/Samarkand
+peruánský standardní čas: America/Lima
+atlantický standardní čas: America/St_Thomas
+západoindonéský čas: Asia/Pontianak
+mexický pacifický standardní čas: Mexico/BajaSur
+greenwichský střední čas: Etc/GMT
+západoafrický standardní čas: Africa/Luanda
+atlantický standardní čas: America/St_Lucia
+atlantický standardní čas: America/Barbados
+jihoafrický čas: Africa/Maseru
+mexický pacifický standardní čas: America/Mazatlan
+markézský čas: Pacific/Marquesas
+severoamerický východní letní čas: America/Thunder_Bay
+amazonský standardní čas: America/Cuiaba
+čas Marshallových ostrovů: Pacific/Majuro
+východoafrický čas: Africa/Addis_Ababa
+novozélandský standardní čas: Antarctica/McMurdo
+středoevropský letní čas: Europe/Warsaw
+severoamerický centrální letní čas: America/Knox_IN
+čas Marshallových ostrovů: Pacific/Kwajalein
+amazonský standardní čas: Brazil/West
+GMT+03:00: Etc/GMT-3
+atlantický standardní čas: America/St_Vincent
+atlantický standardní čas: America/Marigot
+tchajpejský standardní čas: Asia/Taipei
+severoamerický východní letní čas: US/Eastern
+čas Marshallových ostrovů: Kwajalein
+argentinský standardní čas: America/Argentina/Jujuy
+GMT-05:00: Etc/GMT+5
+středoevropský letní čas: Europe/Zagreb
+severoamerický východní letní čas: America/Port-au-Prince
+středoaustralský standardní čas: Australia/North
+greenwichský střední čas: GMT
+středoevropský standardní čas: Africa/Tunis
+afghánský čas: Asia/Kabul
+aljašský letní čas: America/Juneau
+GMT+07:00: Asia/Tomsk
+jihoafrický čas: Africa/Mbabane
+západoafrický standardní čas: Africa/Porto-Novo
+standardní čas Perského zálivu: Asia/Muscat
+argentinský standardní čas: America/Argentina/San_Luis
+středozápadní australský standardní čas: Australia/Eucla
+atlantický standardní čas: America/Anguilla
+středoevropský letní čas: Europe/Gibraltar
+středoevropský letní čas: Europe/Prague
+východoevropský letní čas: Europe/Zaporozhye
+korejský standardní čas: Asia/Pyongyang
+středoevropský letní čas: Europe/Zurich
+západokazachstánský čas: Asia/Atyrau
+severoamerický východní letní čas: America/Indiana/Vincennes
+argentinský standardní čas: America/Argentina/Catamarca
+středoevropský letní čas: Europe/Stockholm
+koordinovaný světový čas: Etc/UTC
+západoafrický standardní čas: Africa/Lagos
+argentinský standardní čas: America/Argentina/La_Rioja
+standardní čas Perského zálivu: Asia/Dubai
+ulánbátarský standardní čas: Asia/Ulaanbaatar
+standardní čas souostroví Fernando de Noronha: Brazil/DeNoronha
+greenwichský střední čas: Africa/Bissau
+gruzínský standardní čas: Asia/Tbilisi
+atlantický standardní čas: America/St_Kitts
+západoafrický standardní čas: Africa/Douala
+atlantický letní čas: America/Goose_Bay
+severoamerický východní letní čas: America/Indianapolis
+středoevropský letní čas: Europe/Rome
+havajsko-aleutský standardní čas: Pacific/Johnston
+východoevropský letní čas: Asia/Hebron
+východoaustralský standardní čas: Australia/Victoria
+severoamerický centrální letní čas: CST6CDT
+severoamerický východní letní čas: US/Michigan
+vladivostocký standardní čas: Asia/Vladivostok
+jihoafrický čas: Africa/Johannesburg
+GMT+03:00: Asia/Famagusta
+izraelský letní čas: Israel
+chuukský čas: Pacific/Yap
+GMT-09:00: Etc/GMT+9
+středoafrický čas: Africa/Khartoum
+samarský standardní čas: Europe/Samara
+čas ostrovů Wallis a Futuna: Pacific/Wallis
+čas stanice Vostok: Antarctica/Vostok
+galapážský čas: Pacific/Galapagos
+bolivijský čas: America/La_Paz
+atlantický standardní čas: America/Port_of_Spain
+severoamerický východní standardní čas: America/Coral_Harbour
+severoamerický centrální letní čas: America/North_Dakota/Center
+severoamerický horský standardní čas: America/Creston
+atlantický standardní čas: America/Grenada
+GMT+01:00: Europe/Jersey
+chamorrský čas: Pacific/Saipan
+severoamerický východní standardní čas: Jamaica
+atlantický standardní čas: America/Lower_Princes
+koordinovaný světový čas: Etc/Zulu
+ponapský čas: Pacific/Ponape
+samojský standardní čas: Pacific/Pago_Pago
+východoevropský letní čas: Africa/Cairo
+středoevropský letní čas: Europe/Budapest
+GMT-10:00: Etc/GMT+10
+středoevropský letní čas: Europe/Tirane
+středoevropský letní čas: Europe/Belgrade
+severoamerický centrální standardní čas: America/El_Salvador
+severoamerický centrální letní čas: America/Menominee
+britský letní čas: GB-Eire
+havajsko-aleutský standardní čas: US/Hawaii
+ázerbájdžánský standardní čas: Asia/Baku
+západoafrický standardní čas: Africa/Brazzaville
+čas Vánočního ostrova: Indian/Christmas
+GMT+02:00: Antarctica/Troll
+západogrónský letní čas: America/Nuuk
+západoevropský letní čas: Atlantic/Madeira
+turkmenský standardní čas: Asia/Ashgabat
+greenwichský střední čas: Etc/GMT-0
+greenwichský střední čas: Africa/Timbuktu
+GMT+07:00: Etc/GMT-7
+GMT+06:00: Asia/Urumqi
+východoaustralský standardní čas: Australia/Brisbane
+hongkongský standardní čas: Hongkong
+severoamerický horský standardní čas: America/Phoenix
+greenwichský střední čas: Africa/Bamako
+tchajpejský standardní čas: ROC
+severoamerický centrální standardní čas: America/Costa_Rica
+tádžický čas: Asia/Dushanbe
+havajsko-aleutský letní čas: America/Adak
+niuejský čas: Pacific/Niue
+GMT+03:00: Europe/Istanbul
+čínský standardní čas: Asia/Macau
+brasilijský standardní čas: America/Belem
+severoamerický centrální letní čas: America/North_Dakota/New_Salem
+severoamerický centrální standardní čas: America/Monterrey
+atlantický standardní čas: America/Montserrat
+japonský standardní čas: Japan
+východoevropský standardní čas: Europe/Kaliningrad
+argentinský standardní čas: America/Argentina/Rio_Gallegos
+severoamerický centrální standardní čas: America/Regina
+greenwichský střední čas: Africa/Freetown
+arménský standardní čas: Asia/Yerevan
+britský letní čas: Europe/Belfast
+východoevropský standardní čas: Africa/Tripoli
+ulánbátarský standardní čas: Asia/Ulan_Bator
+čas stanice Šówa: Antarctica/Syowa
+argentinský standardní čas: America/Catamarca
+východoaustralský standardní čas: Australia/Lindeman
+severoamerický centrální letní čas: US/Central
+argentinský standardní čas: America/Argentina/San_Juan
+yukonský čas: America/Whitehorse
+greenwichský střední čas: Africa/Banjul
+GMT+01:00: Africa/El_Aaiun
+severoamerický horský letní čas: America/Cambridge_Bay
+atlantický standardní čas: America/Antigua
+čas Rovníkových ostrovů: Pacific/Kiritimati
+arabský standardní čas: Asia/Aden
+severoamerický východní letní čas: America/Louisville
+aljašský letní čas: America/Sitka
+východoevropský letní čas: Europe/Uzhgorod
+novokaledonský standardní čas: Pacific/Noumea
+východoevropský letní čas: Europe/Kiev
+východoaustralský standardní čas: Australia/NSW
+severoamerický centrální letní čas: America/Resolute
+greenwichský střední čas: GMT0
+západoaustralský standardní čas: Australia/Perth
+moskevský standardní čas: Europe/Simferopol
+středoaustralský standardní čas: Australia/Broken_Hill
+vanuatský standardní čas: Pacific/Efate
+západoevropský letní čas: Atlantic/Canary
+tahitský čas: Pacific/Tahiti
+středoevropský letní čas: Europe/Copenhagen
+aljašský letní čas: America/Metlakatla
+britský letní čas: Europe/London
+GMT-12:00: Etc/GMT+12
+středoindonéský čas: Asia/Makassar
+mexický pacifický standardní čas: America/Hermosillo
+atlantický letní čas: America/Moncton
+indickooceánský čas: Indian/Chagos
+západoevropský letní čas: Portugal
+středoevropský letní čas: Europe/Monaco
+havajsko-aleutský standardní čas: Pacific/Honolulu
+GMT+02:00: Etc/GMT-2
+indočínský čas: Asia/Ho_Chi_Minh
+standardní čas Cookových ostrovů: Pacific/Rarotonga
+severoamerický východní letní čas: America/Pangnirtung
+acrejský standardní čas: America/Porto_Acre
+greenwichský střední čas: Africa/Monrovia
+greenwichský střední čas: Etc/Greenwich
+norfolkský standardní čas: Pacific/Norfolk
+chuukský čas: Pacific/Truk
+GMT-07:00: MST
+severoamerický centrální letní čas: America/Ojinaga
+čínský standardní čas: Asia/Chungking
+západoevropský letní čas: Europe/Lisbon
+východoevropský letní čas: Europe/Vilnius
+aljašský letní čas: America/Yakutat
+severoamerický pacifický letní čas: America/Ensenada
+naurský čas: Pacific/Nauru
+východoevropský letní čas: Europe/Chisinau
+GMT+03:00: Europe/Kirov
+středoevropský letní čas: Europe/Oslo
+brasilijský standardní čas: America/Bahia
+indický čas: Asia/Kolkata
+GMT+04:00: Europe/Ulyanovsk
+severoamerický horský letní čas: Canada/Mountain
+středoevropský letní čas: Europe/Luxembourg
+greenwichský střední čas: Africa/Conakry
+argentinský standardní čas: America/Argentina/Tucuman
+kyrgyzský čas: Asia/Bishkek
+anadyrský standardní čas: Asia/Anadyr
+moskevský standardní čas: Europe/Minsk
+východogrónský letní čas: America/Scoresbysund
+středoevropský letní čas: Europe/Paris
+severoamerický centrální standardní čas: America/Chihuahua
+fidžijský standardní čas: Pacific/Fiji
+myanmarský čas: Asia/Yangon
+chilský standardní čas: America/Santiago
+indočínský čas: Asia/Vientiane
+atlantický standardní čas: America/Kralendijk
+středoafrický čas: Africa/Juba
+tonžský standardní čas: Pacific/Tongatapu
+irkutský standardní čas: Asia/Irkutsk
+GMT+06:00: Asia/Kashgar
+chathamský standardní čas: NZ-CHAT
+čínský standardní čas: PRC
+arabský standardní čas: Asia/Kuwait
+bhútánský čas: Asia/Thimbu
+středoevropský letní čas: Europe/Busingen
+atlantický letní čas: America/Glace_Bay
+severoamerický centrální standardní čas: America/Belize
+indický čas: Asia/Calcutta
+singapurský čas: Asia/Singapore
+arabský standardní čas: Asia/Baghdad
+singapurský čas: Singapore
+východoevropský letní čas: Asia/Nicosia
+greenwichský střední čas: Atlantic/Reykjavik
+argentinský standardní čas: America/Buenos_Aires
+severoamerický horský letní čas: America/Boise
+izraelský letní čas: Asia/Jerusalem
+greenwichský střední čas: Africa/Ouagadougou
+standardní čas Velikonočního ostrova: Pacific/Easter
+hongkongský standardní čas: Asia/Hong_Kong
+GMT-03:00: Etc/GMT+3
+uruguayský standardní čas: America/Montevideo
+čas ostrova Wake: Pacific/Wake
+ekvádorský čas: America/Guayaquil
+severoamerický centrální letní čas: America/Winnipeg
+severoamerický horský standardní čas: US/Arizona
+atlantický standardní čas: America/Virgin
+severoamerický centrální standardní čas: Canada/Saskatchewan
+GMT+04:00: Etc/GMT-4
+GMT+03:00: Turkey
+atlantický standardní čas: America/Guadeloupe
+středoafrický čas: Africa/Windhoek
+brasilijský standardní čas: Brazil/East
+severoamerický horský letní čas: Navajo
+indický čas: Asia/Colombo
+GMT-05:00: EST
+severoamerický centrální letní čas: America/North_Dakota/Beulah
+tokelauský čas: Pacific/Fakaofo
+myanmarský čas: Asia/Rangoon
+východoevropský letní čas: Europe/Mariehamn
+atlantický standardní čas: America/Santo_Domingo
+novozélandský standardní čas: NZ
+greenwichský střední čas: Etc/GMT+0
+brasilijský standardní čas: America/Araguaina
+atlantický standardní čas: America/Aruba
+východoevropský letní čas: Europe/Helsinki
+tuvalský čas: Pacific/Funafuti
+severoamerický východní standardní čas: America/Jamaica
+severoamerický východní letní čas: America/Indiana/Vevay
+severoamerický centrální standardní čas: America/Swift_Current
+argentinský standardní čas: America/Argentina/Mendoza
+indočínský čas: Asia/Saigon
+aljašský letní čas: America/Nome
+východoafrický čas: Africa/Dar_es_Salaam
+GMT+13:00: Etc/GMT-13
+severoamerický východní letní čas: America/Nipigon
+severoamerický horský letní čas: America/Yellowknife
+západoafrický standardní čas: Africa/Malabo
+čas Gilbertových ostrovů: Pacific/Tarawa
+brasilijský standardní čas: America/Maceio
+koordinovaný světový čas: Zulu
+západokazachstánský čas: Asia/Oral
+středoevropský letní čas: Europe/Vatican
+argentinský standardní čas: America/Mendoza
+severoamerický centrální letní čas: America/Rankin_Inlet
+britský letní čas: GB
+středoevropský letní čas: Poland
+středoevropský letní čas: Europe/Amsterdam
+východoevropský letní čas: Asia/Gaza
+bhútánský čas: Asia/Thimphu
+severoamerický pacifický letní čas: US/Pacific
+západoevropský letní čas: Atlantic/Faeroe
+pierre-miquelonský letní čas: America/Miquelon
+středoaustralský standardní čas: Australia/Darwin
+vladivostocký standardní čas: Asia/Ust-Nera
+západogrónský letní čas: America/Godthab
+arabský standardní čas: Asia/Riyadh
+amazonský standardní čas: America/Boa_Vista
+kubánský letní čas: Cuba
+greenwichský střední čas: GMT-0
+severoamerický horský standardní čas: America/Fort_Nelson
+filipínský standardní čas: Asia/Manila
+acrejský standardní čas: America/Rio_Branco
+severoamerický centrální letní čas: America/Indiana/Tell_City
+západokazachstánský čas: Asia/Qyzylorda
+středoevropský letní čas: Europe/Sarajevo
+GMT+03:00: EET
+moskevský standardní čas: W-SU
+východokazachstánský čas: Asia/Almaty
+východoafrický čas: Indian/Comoro
+východoindonéský čas: Asia/Jayapura
+severoamerický východní letní čas: America/Grand_Turk
+apijský standardní čas: Pacific/Apia
+guyanský čas: America/Guyana
+GMT+01:00: Etc/GMT-1
+seychelský čas: Indian/Mahe
+francouzskoguyanský čas: America/Cayenne
+GMT+14:00: Etc/GMT-14
+magadanský standardní čas: Asia/Magadan
+východoaustralský standardní čas: Australia/Queensland
+severoamerický pacifický letní čas: America/Los_Angeles
+íránský standardní čas: Iran
+GMT+09:00: Etc/GMT-9
+GMT+01:00: WET
+středoevropský letní čas: Atlantic/Jan_Mayen
+západokazachstánský čas: Asia/Aqtau
+severoamerický centrální letní čas: Canada/Central
+čas Kokosových ostrovů: Indian/Cocos
+severoamerický horský letní čas: America/Shiprock
+středoevropský letní čas: Africa/Ceuta
+východokazachstánský čas: Asia/Qostanay
+arabský standardní čas: Asia/Bahrain
+západoafrický standardní čas: Africa/Niamey
+GMT-03:00: America/Punta_Arenas
+arabský standardní čas: Asia/Qatar
+novozélandský standardní čas: Pacific/Auckland
+standardní čas Velikonočního ostrova: Chile/EasterIsland
+pákistánský standardní čas: Asia/Karachi
+izraelský letní čas: Asia/Tel_Aviv
+kosrajský čas: Pacific/Kosrae
+greenwichský střední čas: Africa/Accra
+čínský standardní čas: Asia/Chongqing
+středoaustralský standardní čas: Australia/Adelaide
+severoamerický východní letní čas: America/Detroit
+východoevropský letní čas: Europe/Sofia
+západoindonéský čas: Asia/Jakarta
+atlantický standardní čas: America/Tortola
+severoamerický centrální standardní čas: America/Merida
+středoafrický čas: Africa/Lubumbashi
+čas Fénixových ostrovů: Pacific/Enderbury
+severoamerický centrální standardní čas: Mexico/General
+brunejský čas: Asia/Brunei
+severoamerický centrální letní čas: America/Matamoros
+yukonský čas: America/Dawson
+samojský standardní čas: Pacific/Samoa
+kubánský letní čas: America/Havana
+čas Mawsonovy stanice: Antarctica/Mawson
+severoamerický centrální letní čas: America/Chicago
+čínský standardní čas: Asia/Macao
+severoamerický pacifický letní čas: America/Santa_Isabel
+aljašský letní čas: America/Anchorage
+východoaustralský standardní čas: Australia/Canberra
+greenwichský střední čas: Africa/Sao_Tome
+azorský letní čas: Atlantic/Azores
+GMT-08:00: Etc/GMT+8
+kolumbijský standardní čas: America/Bogota
+greenwichský střední čas: Etc/GMT0
+východoevropský letní čas: Europe/Bucharest
+argentinský standardní čas: America/Rosario
+středoaustralský standardní čas: Australia/South
+východoafrický čas: Africa/Djibouti
+íránský standardní čas: Asia/Tehran
+východoafrický čas: Africa/Asmera
+východoafrický čas: Africa/Mogadishu
+amazonský standardní čas: America/Porto_Velho
+severoamerický horský letní čas: America/Inuvik
+yukonský čas: Canada/Yukon
+středoevropský letní čas: Europe/Madrid
+GMT+03:00: Asia/Amman
+chilský standardní čas: Chile/Continental
+severoamerický východní letní čas: America/Fort_Wayne
+palauský čas: Pacific/Palau
+greenwichský střední čas: Africa/Lome
+novosibirský standardní čas: Asia/Novosibirsk
+středoafrický čas: Africa/Gaborone
+západoafrický standardní čas: Africa/Bangui
+koordinovaný světový čas: Etc/Universal
+západoaustralský standardní čas: Australia/West
+středoafrický čas: Africa/Maputo
+severoamerický centrální letní čas: America/Rainy_River
+uzbecký standardní čas: Asia/Tashkent
+severoamerický východní letní čas: Canada/Eastern
+koordinovaný světový čas: Universal
+GMT+00:00: Factory
+východoafrický čas: Africa/Nairobi
+samojský standardní čas: US/Samoa
+argentinský standardní čas: America/Argentina/Ushuaia
+newfoundlandský letní čas: Canada/Newfoundland
+greenwichský střední čas: Iceland
+čas stanice Dumonta d’Urvilla: Antarctica/DumontDUrville
+středoevropský letní čas: Europe/Vienna
+severoamerický horský letní čas: America/Edmonton
+severoamerický východní letní čas: America/Iqaluit
+malajský čas: Asia/Kuching
+greenwichský střední čas: America/Danmarkshavn
+novozélandský standardní čas: Antarctica/South_Pole
+čas Pitcairnových ostrovů: Pacific/Pitcairn
+západoafrický standardní čas: Africa/Kinshasa
+ulánbátarský standardní čas: Asia/Choibalsan
+standardní čas souostroví Fernando de Noronha: America/Noronha
+středoevropský letní čas: Europe/Andorra
+acrejský standardní čas: Brazil/Acre
+GMT+02:00: MET
+severoamerický východní standardní čas: America/Cancun
+sachalinský standardní čas: Asia/Sakhalin
+severoamerický centrální standardní čas: America/Guatemala
+čínský standardní čas: Asia/Harbin
+argentinský standardní čas: America/Argentina/Cordoba
+greenwichský střední čas: Greenwich
+koordinovaný světový čas: UCT
+gambierský čas: Pacific/Gambier
+severoamerický horský standardní čas: America/Dawson_Creek
+severoamerický východní letní čas: America/Indiana/Marengo
+východoaustralský standardní čas: Australia/Sydney
+GMT+10:00: Etc/GMT-10
+západoafrický standardní čas: Africa/Libreville
+jekatěrinburský standardní čas: Asia/Yekaterinburg
+GMT+03:00: Asia/Damascus
+východoaustralský standardní čas: Australia/ACT
+severoamerický centrální standardní čas: America/Managua
+korejský standardní čas: ROK
+greenwichský střední čas: Africa/Abidjan
+greenwichský střední čas: Africa/Nouakchott
+východotimorský čas: Asia/Dili
+kapverdský standardní čas: Atlantic/Cape_Verde
+GMT+04:00: Europe/Saratov
+chathamský standardní čas: Pacific/Chatham
+atlantický letní čas: America/Thule
+středoafrický čas: Africa/Kigali
+severoamerický východní letní čas: America/Indiana/Petersburg
+severoamerický východní standardní čas: America/Atikokan
+severoamerický centrální standardní čas: America/Tegucigalpa
+greenwichský střední čas: Eire
+čas Fénixových ostrovů: Pacific/Kanton
+atlantický letní čas: America/Halifax
+aljašský letní čas: US/Alaska
+indočínský čas: Asia/Bangkok
+východoafrický čas: Indian/Mayotte
+severoamerický východní standardní čas: America/Cayman
+atlantický standardní čas: America/Dominica
+severoamerický východní letní čas: America/Indiana/Indianapolis
+GMT+11:00: Etc/GMT-11
+čas Rotherovy stanice: Antarctica/Rothera
+maledivský čas: Indian/Maldives
+východoafrický čas: Africa/Asmara
+GMT+01:00: Africa/Casablanca
+severoamerický východní letní čas: America/New_York
+severoamerický východní letní čas: America/Toronto
+východoevropský letní čas: Europe/Tiraspol
+GMT+11:00: Pacific/Bougainville
+severoamerický východní letní čas: America/Kentucky/Monticello
+GMT-02:00: Etc/GMT+2
+standardní čas ostrova lorda Howa: Australia/Lord_Howe
+východoevropský letní čas: Europe/Athens
+středoaustralský standardní čas: Australia/Yancowinna
+falklandský standardní čas: Atlantic/Stanley
+severoamerický pacifický letní čas: America/Tijuana
+jakutský standardní čas: Asia/Khandyga
+brasilijský standardní čas: America/Santarem
+chuukský čas: Pacific/Chuuk
+indočínský čas: Asia/Phnom_Penh
+GMT+01:00: Europe/Isle_of_Man
+středoevropský letní čas: Europe/Skopje
+amazonský standardní čas: America/Manaus
+severoamerický horský letní čas: MST7MDT
+čas Šalamounových ostrovů: Pacific/Guadalcanal
+malajský čas: Asia/Kuala_Lumpur
+středoafrický čas: Africa/Harare
+severoamerický pacifický letní čas: Mexico/BajaNorte
+GMT-04:00: Etc/GMT+4
+čas Davisovy stanice: Antarctica/Davis
+východoevropský letní čas: Egypt
+venezuelský čas: America/Caracas
+brasilijský standardní čas: America/Sao_Paulo
+brasilijský standardní čas: America/Recife
+středoevropský letní čas: Europe/Berlin
+petropavlovsko-kamčatský standardní čas: Asia/Kamchatka
+havajsko-aleutský letní čas: US/Aleutian
+greenwichský střední čas: Africa/Dakar
+jakutský standardní čas: Asia/Yakutsk
+středoafrický čas: Africa/Lusaka
+greenwichský střední čas: Europe/Dublin
+středoevropský letní čas: Europe/Vaduz
+hovdský standardní čas: Asia/Hovd
+středoevropský letní čas: Europe/Ljubljana
+středoevropský letní čas: Europe/San_Marino
+severoamerický východní letní čas: America/Kentucky/Louisville
+čínský standardní čas: Asia/Shanghai
+severoamerický východní letní čas: America/Montreal
+GMT+07:00: Asia/Barnaul
+chamorrský čas: Pacific/Guam
+severoamerický pacifický letní čas: PST8PDT
+čas Papuy-Nové Guiney: Pacific/Port_Moresby
+východoafrický čas: Africa/Kampala
+východoevropský letní čas: Europe/Nicosia
+severoamerický pacifický letní čas: America/Vancouver
+středoevropský letní čas: Europe/Malta
+atlantický standardní čas: America/Puerto_Rico
+atlantický letní čas: Canada/Atlantic
+GMT-06:00: Etc/GMT+6
+severoamerický východní letní čas: EST5EDT
+atlantický standardní čas: America/Curacao
+GMT+03:00: Asia/Istanbul
+středoindonéský čas: Asia/Ujung_Pandang
+severoamerický východní letní čas: America/Indiana/Winamac
+omský standardní čas: Asia/Omsk
+východoevropský letní čas: Europe/Tallinn
+argentinský standardní čas: America/Cordoba
+GMT-11:00: Etc/GMT+11

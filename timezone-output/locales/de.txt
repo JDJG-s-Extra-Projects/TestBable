@@ -1,0 +1,597 @@
+Hawaii-Aleuten-Sommerzeit: America/Atka
+Suriname-Zeit: America/Paramaribo
+Turkmenistan-Normalzeit: Asia/Ashkhabad
+Nepalesische Zeit: Asia/Katmandu
+GMT+12:00: Etc/GMT-12
+Atlantik-Normalzeit: America/St_Barthelemy
+Krasnojarsker Normalzeit: Asia/Krasnoyarsk
+Mitteleuropäische Sommerzeit: Europe/Brussels
+Wolgograder Normalzeit: Europe/Volgograd
+Rocky-Mountain-Sommerzeit: America/Denver
+Brasília-Normalzeit: America/Fortaleza
+Mitteleuropäische Sommerzeit: Europe/Podgorica
+Südgeorgische Zeit: Atlantic/South_Georgia
+Westafrikanische Normalzeit: Africa/Ndjamena
+Nordamerikanische Ostküsten-Sommerzeit: America/Nassau
+Bangladesch-Normalzeit: Asia/Dhaka
+Paraguayische Normalzeit: America/Asuncion
+Atlantik-Normalzeit: America/Blanc-Sablon
+Nordamerikanische Zentral-Sommerzeit: America/Indiana/Knox
+Bangladesch-Normalzeit: Asia/Dacca
+Ostaustralische Normalzeit: Antarctica/Macquarie
+Moskauer Normalzeit: Europe/Moscow
+Koordinierte Weltzeit: UTC
+Koreanische Normalzeit: Asia/Seoul
+Osteuropäische Sommerzeit: Europe/Riga
+Zentralafrikanische Zeit: Africa/Blantyre
+Argentinische Normalzeit: America/Argentina/Salta
+Argentinische Normalzeit: America/Argentina/Buenos_Aires
+Mitteleuropäische Normalzeit: Africa/Algiers
+Ostaustralische Normalzeit: Australia/Tasmania
+Nordamerikanische Zentral-Sommerzeit: US/Indiana-Starke
+Samoa-Normalzeit: Pacific/Midway
+Rocky-Mountain-Sommerzeit: America/Ciudad_Juarez
+GMT-10:00: HST
+GMT+11:00: Asia/Srednekolymsk
+Ostaustralische Normalzeit: Australia/Hobart
+Atlantik-Sommerzeit: Atlantic/Bermuda
+Koordinierte Weltzeit: Etc/UCT
+Französische-Süd-und-Antarktisgebiete-Zeit: Indian/Kerguelen
+Westeuropäische Sommerzeit: Atlantic/Faroe
+Amazonas-Normalzeit: America/Campo_Grande
+Lord-Howe-Normalzeit: Australia/LHI
+Mauritius-Normalzeit: Indian/Mauritius
+GMT+02:00: CET
+Osteuropäische Normalzeit: Libya
+GMT-07:00: Etc/GMT+7
+GMT+08:00: Etc/GMT-8
+Mittlere Greenwich-Zeit: Atlantic/St_Helena
+Ponape-Zeit: Pacific/Pohnpei
+GMT-01:00: Etc/GMT+1
+Osteuropäische Sommerzeit: Europe/Kyiv
+GMT+05:00: Etc/GMT-5
+Réunion-Zeit: Indian/Reunion
+GMT-03:00: Antarctica/Palmer
+Nordamerikanische Zentral-Normalzeit: America/Bahia_Banderas
+Argentinische Normalzeit: America/Jujuy
+Jakutsker Normalzeit: Asia/Chita
+Rocky-Mountain-Sommerzeit: US/Mountain
+Krasnojarsker Normalzeit: Asia/Novokuznetsk
+GMT+06:00: Etc/GMT-6
+Ostaustralische Normalzeit: Australia/Currie
+Nepalesische Zeit: Asia/Kathmandu
+Neufundland-Sommerzeit: America/St_Johns
+Westkasachische Zeit: Asia/Aqtobe
+Mittlere Greenwich-Zeit: GMT+0
+GMT+04:00: Europe/Astrakhan
+GMT+01:00: Europe/Guernsey
+Atlantik-Normalzeit: America/Martinique
+Nordamerikanische Ostküsten-Sommerzeit: US/East-Indiana
+Mitteleuropäische Sommerzeit: Arctic/Longyearbyen
+Nordamerikanische Zentral-Normalzeit: America/Mexico_City
+Argentinische Normalzeit: America/Argentina/ComodRivadavia
+Nordamerikanische Westküsten-Sommerzeit: Canada/Pacific
+Casey-Zeit: Antarctica/Casey
+Zentralafrikanische Zeit: Africa/Bujumbura
+Acre-Normalzeit: America/Eirunepe
+Japanische Normalzeit: Asia/Tokyo
+Mitteleuropäische Sommerzeit: Europe/Bratislava
+Ostaustralische Normalzeit: Australia/Melbourne
+Nordamerikanische Ostküsten-Normalzeit: America/Panama
+Osteuropäische Sommerzeit: Asia/Beirut
+Ostafrikanische Zeit: Indian/Antananarivo
+Usbekistan-Normalzeit: Asia/Samarkand
+Peruanische Normalzeit: America/Lima
+Atlantik-Normalzeit: America/St_Thomas
+Westindonesische Zeit: Asia/Pontianak
+Mexikanische Pazifik-Normalzeit: Mexico/BajaSur
+Mittlere Greenwich-Zeit: Etc/GMT
+Westafrikanische Normalzeit: Africa/Luanda
+Atlantik-Normalzeit: America/St_Lucia
+Atlantik-Normalzeit: America/Barbados
+Südafrikanische Zeit: Africa/Maseru
+Mexikanische Pazifik-Normalzeit: America/Mazatlan
+Marquesas-Zeit: Pacific/Marquesas
+Nordamerikanische Ostküsten-Sommerzeit: America/Thunder_Bay
+Amazonas-Normalzeit: America/Cuiaba
+Marshallinseln-Zeit: Pacific/Majuro
+Ostafrikanische Zeit: Africa/Addis_Ababa
+Neuseeland-Normalzeit: Antarctica/McMurdo
+Mitteleuropäische Sommerzeit: Europe/Warsaw
+Nordamerikanische Zentral-Sommerzeit: America/Knox_IN
+Marshallinseln-Zeit: Pacific/Kwajalein
+Amazonas-Normalzeit: Brazil/West
+GMT+03:00: Etc/GMT-3
+Atlantik-Normalzeit: America/St_Vincent
+Atlantik-Normalzeit: America/Marigot
+Taipeh-Normalzeit: Asia/Taipei
+Nordamerikanische Ostküsten-Sommerzeit: US/Eastern
+Marshallinseln-Zeit: Kwajalein
+Argentinische Normalzeit: America/Argentina/Jujuy
+GMT-05:00: Etc/GMT+5
+Mitteleuropäische Sommerzeit: Europe/Zagreb
+Nordamerikanische Ostküsten-Sommerzeit: America/Port-au-Prince
+Zentralaustralische Normalzeit: Australia/North
+Mittlere Greenwich-Zeit: GMT
+Mitteleuropäische Normalzeit: Africa/Tunis
+Afghanistan-Zeit: Asia/Kabul
+Alaska-Sommerzeit: America/Juneau
+GMT+07:00: Asia/Tomsk
+Südafrikanische Zeit: Africa/Mbabane
+Westafrikanische Normalzeit: Africa/Porto-Novo
+Golf-Zeit: Asia/Muscat
+Argentinische Normalzeit: America/Argentina/San_Luis
+Zentral-/Westaustralische Normalzeit: Australia/Eucla
+Atlantik-Normalzeit: America/Anguilla
+Mitteleuropäische Sommerzeit: Europe/Gibraltar
+Mitteleuropäische Sommerzeit: Europe/Prague
+Osteuropäische Sommerzeit: Europe/Zaporozhye
+Koreanische Normalzeit: Asia/Pyongyang
+Mitteleuropäische Sommerzeit: Europe/Zurich
+Westkasachische Zeit: Asia/Atyrau
+Nordamerikanische Ostküsten-Sommerzeit: America/Indiana/Vincennes
+Argentinische Normalzeit: America/Argentina/Catamarca
+Mitteleuropäische Sommerzeit: Europe/Stockholm
+Koordinierte Weltzeit: Etc/UTC
+Westafrikanische Normalzeit: Africa/Lagos
+Argentinische Normalzeit: America/Argentina/La_Rioja
+Golf-Zeit: Asia/Dubai
+Ulaanbaatar-Normalzeit: Asia/Ulaanbaatar
+Fernando-de-Noronha-Normalzeit: Brazil/DeNoronha
+Mittlere Greenwich-Zeit: Africa/Bissau
+Georgische Normalzeit: Asia/Tbilisi
+Atlantik-Normalzeit: America/St_Kitts
+Westafrikanische Normalzeit: Africa/Douala
+Atlantik-Sommerzeit: America/Goose_Bay
+Nordamerikanische Ostküsten-Sommerzeit: America/Indianapolis
+Mitteleuropäische Sommerzeit: Europe/Rome
+Hawaii-Aleuten-Normalzeit: Pacific/Johnston
+Osteuropäische Sommerzeit: Asia/Hebron
+Ostaustralische Normalzeit: Australia/Victoria
+Nordamerikanische Zentral-Sommerzeit: CST6CDT
+Nordamerikanische Ostküsten-Sommerzeit: US/Michigan
+Wladiwostoker Normalzeit: Asia/Vladivostok
+Südafrikanische Zeit: Africa/Johannesburg
+GMT+03:00: Asia/Famagusta
+Israelische Sommerzeit: Israel
+Chuuk-Zeit: Pacific/Yap
+GMT-09:00: Etc/GMT+9
+Zentralafrikanische Zeit: Africa/Khartoum
+Samara-Normalzeit: Europe/Samara
+Wallis-und-Futuna-Zeit: Pacific/Wallis
+Wostok-Zeit: Antarctica/Vostok
+Galapagos-Zeit: Pacific/Galapagos
+Bolivianische Zeit: America/La_Paz
+Atlantik-Normalzeit: America/Port_of_Spain
+Nordamerikanische Ostküsten-Normalzeit: America/Coral_Harbour
+Nordamerikanische Zentral-Sommerzeit: America/North_Dakota/Center
+Rocky-Mountain-Normalzeit: America/Creston
+Atlantik-Normalzeit: America/Grenada
+GMT+01:00: Europe/Jersey
+Chamorro-Zeit: Pacific/Saipan
+Nordamerikanische Ostküsten-Normalzeit: Jamaica
+Atlantik-Normalzeit: America/Lower_Princes
+Koordinierte Weltzeit: Etc/Zulu
+Ponape-Zeit: Pacific/Ponape
+Samoa-Normalzeit: Pacific/Pago_Pago
+Osteuropäische Sommerzeit: Africa/Cairo
+Mitteleuropäische Sommerzeit: Europe/Budapest
+GMT-10:00: Etc/GMT+10
+Mitteleuropäische Sommerzeit: Europe/Tirane
+Mitteleuropäische Sommerzeit: Europe/Belgrade
+Nordamerikanische Zentral-Normalzeit: America/El_Salvador
+Nordamerikanische Zentral-Sommerzeit: America/Menominee
+Britische Sommerzeit: GB-Eire
+Hawaii-Aleuten-Normalzeit: US/Hawaii
+Aserbeidschanische Normalzeit: Asia/Baku
+Westafrikanische Normalzeit: Africa/Brazzaville
+Weihnachtsinsel-Zeit: Indian/Christmas
+GMT+02:00: Antarctica/Troll
+Westgrönland-Sommerzeit: America/Nuuk
+Westeuropäische Sommerzeit: Atlantic/Madeira
+Turkmenistan-Normalzeit: Asia/Ashgabat
+Mittlere Greenwich-Zeit: Etc/GMT-0
+Mittlere Greenwich-Zeit: Africa/Timbuktu
+GMT+07:00: Etc/GMT-7
+GMT+06:00: Asia/Urumqi
+Ostaustralische Normalzeit: Australia/Brisbane
+Hongkong-Normalzeit: Hongkong
+Rocky-Mountain-Normalzeit: America/Phoenix
+Mittlere Greenwich-Zeit: Africa/Bamako
+Taipeh-Normalzeit: ROC
+Nordamerikanische Zentral-Normalzeit: America/Costa_Rica
+Tadschikistan-Zeit: Asia/Dushanbe
+Hawaii-Aleuten-Sommerzeit: America/Adak
+Niue-Zeit: Pacific/Niue
+GMT+03:00: Europe/Istanbul
+Chinesische Normalzeit: Asia/Macau
+Brasília-Normalzeit: America/Belem
+Nordamerikanische Zentral-Sommerzeit: America/North_Dakota/New_Salem
+Nordamerikanische Zentral-Normalzeit: America/Monterrey
+Atlantik-Normalzeit: America/Montserrat
+Japanische Normalzeit: Japan
+Osteuropäische Normalzeit: Europe/Kaliningrad
+Argentinische Normalzeit: America/Argentina/Rio_Gallegos
+Nordamerikanische Zentral-Normalzeit: America/Regina
+Mittlere Greenwich-Zeit: Africa/Freetown
+Armenische Normalzeit: Asia/Yerevan
+Britische Sommerzeit: Europe/Belfast
+Osteuropäische Normalzeit: Africa/Tripoli
+Ulaanbaatar-Normalzeit: Asia/Ulan_Bator
+Syowa-Zeit: Antarctica/Syowa
+Argentinische Normalzeit: America/Catamarca
+Ostaustralische Normalzeit: Australia/Lindeman
+Nordamerikanische Zentral-Sommerzeit: US/Central
+Argentinische Normalzeit: America/Argentina/San_Juan
+Yukon-Zeit: America/Whitehorse
+Mittlere Greenwich-Zeit: Africa/Banjul
+GMT+01:00: Africa/El_Aaiun
+Rocky-Mountain-Sommerzeit: America/Cambridge_Bay
+Atlantik-Normalzeit: America/Antigua
+Linieninseln-Zeit: Pacific/Kiritimati
+Arabische Normalzeit: Asia/Aden
+Nordamerikanische Ostküsten-Sommerzeit: America/Louisville
+Alaska-Sommerzeit: America/Sitka
+Osteuropäische Sommerzeit: Europe/Uzhgorod
+Neukaledonische Normalzeit: Pacific/Noumea
+Osteuropäische Sommerzeit: Europe/Kiev
+Ostaustralische Normalzeit: Australia/NSW
+Nordamerikanische Zentral-Sommerzeit: America/Resolute
+Mittlere Greenwich-Zeit: GMT0
+Westaustralische Normalzeit: Australia/Perth
+Moskauer Normalzeit: Europe/Simferopol
+Zentralaustralische Normalzeit: Australia/Broken_Hill
+Vanuatu-Normalzeit: Pacific/Efate
+Westeuropäische Sommerzeit: Atlantic/Canary
+Tahiti-Zeit: Pacific/Tahiti
+Mitteleuropäische Sommerzeit: Europe/Copenhagen
+Alaska-Sommerzeit: America/Metlakatla
+Britische Sommerzeit: Europe/London
+GMT-12:00: Etc/GMT+12
+Zentralindonesische Zeit: Asia/Makassar
+Mexikanische Pazifik-Normalzeit: America/Hermosillo
+Atlantik-Sommerzeit: America/Moncton
+Indischer-Ozean-Zeit: Indian/Chagos
+Westeuropäische Sommerzeit: Portugal
+Mitteleuropäische Sommerzeit: Europe/Monaco
+Hawaii-Aleuten-Normalzeit: Pacific/Honolulu
+GMT+02:00: Etc/GMT-2
+Indochina-Zeit: Asia/Ho_Chi_Minh
+Cookinseln-Normalzeit: Pacific/Rarotonga
+Nordamerikanische Ostküsten-Sommerzeit: America/Pangnirtung
+Acre-Normalzeit: America/Porto_Acre
+Mittlere Greenwich-Zeit: Africa/Monrovia
+Mittlere Greenwich-Zeit: Etc/Greenwich
+Norfolkinsel-Normalzeit: Pacific/Norfolk
+Chuuk-Zeit: Pacific/Truk
+GMT-07:00: MST
+Nordamerikanische Zentral-Sommerzeit: America/Ojinaga
+Chinesische Normalzeit: Asia/Chungking
+Westeuropäische Sommerzeit: Europe/Lisbon
+Osteuropäische Sommerzeit: Europe/Vilnius
+Alaska-Sommerzeit: America/Yakutat
+Nordamerikanische Westküsten-Sommerzeit: America/Ensenada
+Nauru-Zeit: Pacific/Nauru
+Osteuropäische Sommerzeit: Europe/Chisinau
+GMT+03:00: Europe/Kirov
+Mitteleuropäische Sommerzeit: Europe/Oslo
+Brasília-Normalzeit: America/Bahia
+Indische Normalzeit: Asia/Kolkata
+GMT+04:00: Europe/Ulyanovsk
+Rocky-Mountain-Sommerzeit: Canada/Mountain
+Mitteleuropäische Sommerzeit: Europe/Luxembourg
+Mittlere Greenwich-Zeit: Africa/Conakry
+Argentinische Normalzeit: America/Argentina/Tucuman
+Kirgisistan-Zeit: Asia/Bishkek
+Anadyr Normalzeit: Asia/Anadyr
+Moskauer Normalzeit: Europe/Minsk
+Ostgrönland-Sommerzeit: America/Scoresbysund
+Mitteleuropäische Sommerzeit: Europe/Paris
+Nordamerikanische Zentral-Normalzeit: America/Chihuahua
+Fidschi-Normalzeit: Pacific/Fiji
+Myanmar-Zeit: Asia/Yangon
+Chilenische Normalzeit: America/Santiago
+Indochina-Zeit: Asia/Vientiane
+Atlantik-Normalzeit: America/Kralendijk
+Zentralafrikanische Zeit: Africa/Juba
+Tongaische Normalzeit: Pacific/Tongatapu
+Irkutsker Normalzeit: Asia/Irkutsk
+GMT+06:00: Asia/Kashgar
+Chatham-Normalzeit: NZ-CHAT
+Chinesische Normalzeit: PRC
+Arabische Normalzeit: Asia/Kuwait
+Bhutan-Zeit: Asia/Thimbu
+Mitteleuropäische Sommerzeit: Europe/Busingen
+Atlantik-Sommerzeit: America/Glace_Bay
+Nordamerikanische Zentral-Normalzeit: America/Belize
+Indische Normalzeit: Asia/Calcutta
+Singapurische Normalzeit: Asia/Singapore
+Arabische Normalzeit: Asia/Baghdad
+Singapurische Normalzeit: Singapore
+Osteuropäische Sommerzeit: Asia/Nicosia
+Mittlere Greenwich-Zeit: Atlantic/Reykjavik
+Argentinische Normalzeit: America/Buenos_Aires
+Rocky-Mountain-Sommerzeit: America/Boise
+Israelische Sommerzeit: Asia/Jerusalem
+Mittlere Greenwich-Zeit: Africa/Ouagadougou
+Osterinsel-Normalzeit: Pacific/Easter
+Hongkong-Normalzeit: Asia/Hong_Kong
+GMT-03:00: Etc/GMT+3
+Uruguayische Normalzeit: America/Montevideo
+Wake-Insel-Zeit: Pacific/Wake
+Ecuadorianische Zeit: America/Guayaquil
+Nordamerikanische Zentral-Sommerzeit: America/Winnipeg
+Rocky-Mountain-Normalzeit: US/Arizona
+Atlantik-Normalzeit: America/Virgin
+Nordamerikanische Zentral-Normalzeit: Canada/Saskatchewan
+GMT+04:00: Etc/GMT-4
+GMT+03:00: Turkey
+Atlantik-Normalzeit: America/Guadeloupe
+Zentralafrikanische Zeit: Africa/Windhoek
+Brasília-Normalzeit: Brazil/East
+Rocky-Mountain-Sommerzeit: Navajo
+Indische Normalzeit: Asia/Colombo
+GMT-05:00: EST
+Nordamerikanische Zentral-Sommerzeit: America/North_Dakota/Beulah
+Tokelau-Zeit: Pacific/Fakaofo
+Myanmar-Zeit: Asia/Rangoon
+Osteuropäische Sommerzeit: Europe/Mariehamn
+Atlantik-Normalzeit: America/Santo_Domingo
+Neuseeland-Normalzeit: NZ
+Mittlere Greenwich-Zeit: Etc/GMT+0
+Brasília-Normalzeit: America/Araguaina
+Atlantik-Normalzeit: America/Aruba
+Osteuropäische Sommerzeit: Europe/Helsinki
+Tuvalu-Zeit: Pacific/Funafuti
+Nordamerikanische Ostküsten-Normalzeit: America/Jamaica
+Nordamerikanische Ostküsten-Sommerzeit: America/Indiana/Vevay
+Nordamerikanische Zentral-Normalzeit: America/Swift_Current
+Argentinische Normalzeit: America/Argentina/Mendoza
+Indochina-Zeit: Asia/Saigon
+Alaska-Sommerzeit: America/Nome
+Ostafrikanische Zeit: Africa/Dar_es_Salaam
+GMT+13:00: Etc/GMT-13
+Nordamerikanische Ostküsten-Sommerzeit: America/Nipigon
+Rocky-Mountain-Sommerzeit: America/Yellowknife
+Westafrikanische Normalzeit: Africa/Malabo
+Gilbert-Inseln-Zeit: Pacific/Tarawa
+Brasília-Normalzeit: America/Maceio
+Koordinierte Weltzeit: Zulu
+Westkasachische Zeit: Asia/Oral
+Mitteleuropäische Sommerzeit: Europe/Vatican
+Argentinische Normalzeit: America/Mendoza
+Nordamerikanische Zentral-Sommerzeit: America/Rankin_Inlet
+Britische Sommerzeit: GB
+Mitteleuropäische Sommerzeit: Poland
+Mitteleuropäische Sommerzeit: Europe/Amsterdam
+Osteuropäische Sommerzeit: Asia/Gaza
+Bhutan-Zeit: Asia/Thimphu
+Nordamerikanische Westküsten-Sommerzeit: US/Pacific
+Westeuropäische Sommerzeit: Atlantic/Faeroe
+St.-Pierre-und-Miquelon-Sommerzeit: America/Miquelon
+Zentralaustralische Normalzeit: Australia/Darwin
+Wladiwostoker Normalzeit: Asia/Ust-Nera
+Westgrönland-Sommerzeit: America/Godthab
+Arabische Normalzeit: Asia/Riyadh
+Amazonas-Normalzeit: America/Boa_Vista
+Kubanische Sommerzeit: Cuba
+Mittlere Greenwich-Zeit: GMT-0
+Rocky-Mountain-Normalzeit: America/Fort_Nelson
+Philippinische Normalzeit: Asia/Manila
+Acre-Normalzeit: America/Rio_Branco
+Nordamerikanische Zentral-Sommerzeit: America/Indiana/Tell_City
+Westkasachische Zeit: Asia/Qyzylorda
+Mitteleuropäische Sommerzeit: Europe/Sarajevo
+GMT+03:00: EET
+Moskauer Normalzeit: W-SU
+Ostkasachische Zeit: Asia/Almaty
+Ostafrikanische Zeit: Indian/Comoro
+Ostindonesische Zeit: Asia/Jayapura
+Nordamerikanische Ostküsten-Sommerzeit: America/Grand_Turk
+Apia-Normalzeit: Pacific/Apia
+Guyana-Zeit: America/Guyana
+GMT+01:00: Etc/GMT-1
+Seychellen-Zeit: Indian/Mahe
+Französisch-Guayana-Zeit: America/Cayenne
+GMT+14:00: Etc/GMT-14
+Magadan-Normalzeit: Asia/Magadan
+Ostaustralische Normalzeit: Australia/Queensland
+Nordamerikanische Westküsten-Sommerzeit: America/Los_Angeles
+Iranische Normalzeit: Iran
+GMT+09:00: Etc/GMT-9
+GMT+01:00: WET
+Mitteleuropäische Sommerzeit: Atlantic/Jan_Mayen
+Westkasachische Zeit: Asia/Aqtau
+Nordamerikanische Zentral-Sommerzeit: Canada/Central
+Kokosinseln-Zeit: Indian/Cocos
+Rocky-Mountain-Sommerzeit: America/Shiprock
+Mitteleuropäische Sommerzeit: Africa/Ceuta
+Ostkasachische Zeit: Asia/Qostanay
+Arabische Normalzeit: Asia/Bahrain
+Westafrikanische Normalzeit: Africa/Niamey
+GMT-03:00: America/Punta_Arenas
+Arabische Normalzeit: Asia/Qatar
+Neuseeland-Normalzeit: Pacific/Auckland
+Osterinsel-Normalzeit: Chile/EasterIsland
+Pakistanische Normalzeit: Asia/Karachi
+Israelische Sommerzeit: Asia/Tel_Aviv
+Kosrae-Zeit: Pacific/Kosrae
+Mittlere Greenwich-Zeit: Africa/Accra
+Chinesische Normalzeit: Asia/Chongqing
+Zentralaustralische Normalzeit: Australia/Adelaide
+Nordamerikanische Ostküsten-Sommerzeit: America/Detroit
+Osteuropäische Sommerzeit: Europe/Sofia
+Westindonesische Zeit: Asia/Jakarta
+Atlantik-Normalzeit: America/Tortola
+Nordamerikanische Zentral-Normalzeit: America/Merida
+Zentralafrikanische Zeit: Africa/Lubumbashi
+Phoenixinseln-Zeit: Pacific/Enderbury
+Nordamerikanische Zentral-Normalzeit: Mexico/General
+Brunei-Darussalam-Zeit: Asia/Brunei
+Nordamerikanische Zentral-Sommerzeit: America/Matamoros
+Yukon-Zeit: America/Dawson
+Samoa-Normalzeit: Pacific/Samoa
+Kubanische Sommerzeit: America/Havana
+Mawson-Zeit: Antarctica/Mawson
+Nordamerikanische Zentral-Sommerzeit: America/Chicago
+Chinesische Normalzeit: Asia/Macao
+Nordamerikanische Westküsten-Sommerzeit: America/Santa_Isabel
+Alaska-Sommerzeit: America/Anchorage
+Ostaustralische Normalzeit: Australia/Canberra
+Mittlere Greenwich-Zeit: Africa/Sao_Tome
+Azoren-Sommerzeit: Atlantic/Azores
+GMT-08:00: Etc/GMT+8
+Kolumbianische Normalzeit: America/Bogota
+Mittlere Greenwich-Zeit: Etc/GMT0
+Osteuropäische Sommerzeit: Europe/Bucharest
+Argentinische Normalzeit: America/Rosario
+Zentralaustralische Normalzeit: Australia/South
+Ostafrikanische Zeit: Africa/Djibouti
+Iranische Normalzeit: Asia/Tehran
+Ostafrikanische Zeit: Africa/Asmera
+Ostafrikanische Zeit: Africa/Mogadishu
+Amazonas-Normalzeit: America/Porto_Velho
+Rocky-Mountain-Sommerzeit: America/Inuvik
+Yukon-Zeit: Canada/Yukon
+Mitteleuropäische Sommerzeit: Europe/Madrid
+GMT+03:00: Asia/Amman
+Chilenische Normalzeit: Chile/Continental
+Nordamerikanische Ostküsten-Sommerzeit: America/Fort_Wayne
+Palau-Zeit: Pacific/Palau
+Mittlere Greenwich-Zeit: Africa/Lome
+Nowosibirsker Normalzeit: Asia/Novosibirsk
+Zentralafrikanische Zeit: Africa/Gaborone
+Westafrikanische Normalzeit: Africa/Bangui
+Koordinierte Weltzeit: Etc/Universal
+Westaustralische Normalzeit: Australia/West
+Zentralafrikanische Zeit: Africa/Maputo
+Nordamerikanische Zentral-Sommerzeit: America/Rainy_River
+Usbekistan-Normalzeit: Asia/Tashkent
+Nordamerikanische Ostküsten-Sommerzeit: Canada/Eastern
+Koordinierte Weltzeit: Universal
+GMT+00:00: Factory
+Ostafrikanische Zeit: Africa/Nairobi
+Samoa-Normalzeit: US/Samoa
+Argentinische Normalzeit: America/Argentina/Ushuaia
+Neufundland-Sommerzeit: Canada/Newfoundland
+Mittlere Greenwich-Zeit: Iceland
+Dumont-d’Urville-Zeit: Antarctica/DumontDUrville
+Mitteleuropäische Sommerzeit: Europe/Vienna
+Rocky-Mountain-Sommerzeit: America/Edmonton
+Nordamerikanische Ostküsten-Sommerzeit: America/Iqaluit
+Malaysische Zeit: Asia/Kuching
+Mittlere Greenwich-Zeit: America/Danmarkshavn
+Neuseeland-Normalzeit: Antarctica/South_Pole
+Pitcairninseln-Zeit: Pacific/Pitcairn
+Westafrikanische Normalzeit: Africa/Kinshasa
+Ulaanbaatar-Normalzeit: Asia/Choibalsan
+Fernando-de-Noronha-Normalzeit: America/Noronha
+Mitteleuropäische Sommerzeit: Europe/Andorra
+Acre-Normalzeit: Brazil/Acre
+GMT+02:00: MET
+Nordamerikanische Ostküsten-Normalzeit: America/Cancun
+Sachalin-Normalzeit: Asia/Sakhalin
+Nordamerikanische Zentral-Normalzeit: America/Guatemala
+Chinesische Normalzeit: Asia/Harbin
+Argentinische Normalzeit: America/Argentina/Cordoba
+Mittlere Greenwich-Zeit: Greenwich
+Koordinierte Weltzeit: UCT
+Gambier-Zeit: Pacific/Gambier
+Rocky-Mountain-Normalzeit: America/Dawson_Creek
+Nordamerikanische Ostküsten-Sommerzeit: America/Indiana/Marengo
+Ostaustralische Normalzeit: Australia/Sydney
+GMT+10:00: Etc/GMT-10
+Westafrikanische Normalzeit: Africa/Libreville
+Jekaterinburger Normalzeit: Asia/Yekaterinburg
+GMT+03:00: Asia/Damascus
+Ostaustralische Normalzeit: Australia/ACT
+Nordamerikanische Zentral-Normalzeit: America/Managua
+Koreanische Normalzeit: ROK
+Mittlere Greenwich-Zeit: Africa/Abidjan
+Mittlere Greenwich-Zeit: Africa/Nouakchott
+Osttimor-Zeit: Asia/Dili
+Cabo-Verde-Normalzeit: Atlantic/Cape_Verde
+GMT+04:00: Europe/Saratov
+Chatham-Normalzeit: Pacific/Chatham
+Atlantik-Sommerzeit: America/Thule
+Zentralafrikanische Zeit: Africa/Kigali
+Nordamerikanische Ostküsten-Sommerzeit: America/Indiana/Petersburg
+Nordamerikanische Ostküsten-Normalzeit: America/Atikokan
+Nordamerikanische Zentral-Normalzeit: America/Tegucigalpa
+Mittlere Greenwich-Zeit: Eire
+Phoenixinseln-Zeit: Pacific/Kanton
+Atlantik-Sommerzeit: America/Halifax
+Alaska-Sommerzeit: US/Alaska
+Indochina-Zeit: Asia/Bangkok
+Ostafrikanische Zeit: Indian/Mayotte
+Nordamerikanische Ostküsten-Normalzeit: America/Cayman
+Atlantik-Normalzeit: America/Dominica
+Nordamerikanische Ostküsten-Sommerzeit: America/Indiana/Indianapolis
+GMT+11:00: Etc/GMT-11
+Rothera-Zeit: Antarctica/Rothera
+Malediven-Zeit: Indian/Maldives
+Ostafrikanische Zeit: Africa/Asmara
+GMT+01:00: Africa/Casablanca
+Nordamerikanische Ostküsten-Sommerzeit: America/New_York
+Nordamerikanische Ostküsten-Sommerzeit: America/Toronto
+Osteuropäische Sommerzeit: Europe/Tiraspol
+GMT+11:00: Pacific/Bougainville
+Nordamerikanische Ostküsten-Sommerzeit: America/Kentucky/Monticello
+GMT-02:00: Etc/GMT+2
+Lord-Howe-Normalzeit: Australia/Lord_Howe
+Osteuropäische Sommerzeit: Europe/Athens
+Zentralaustralische Normalzeit: Australia/Yancowinna
+Falklandinseln-Normalzeit: Atlantic/Stanley
+Nordamerikanische Westküsten-Sommerzeit: America/Tijuana
+Jakutsker Normalzeit: Asia/Khandyga
+Brasília-Normalzeit: America/Santarem
+Chuuk-Zeit: Pacific/Chuuk
+Indochina-Zeit: Asia/Phnom_Penh
+GMT+01:00: Europe/Isle_of_Man
+Mitteleuropäische Sommerzeit: Europe/Skopje
+Amazonas-Normalzeit: America/Manaus
+Rocky-Mountain-Sommerzeit: MST7MDT
+Salomonen-Zeit: Pacific/Guadalcanal
+Malaysische Zeit: Asia/Kuala_Lumpur
+Zentralafrikanische Zeit: Africa/Harare
+Nordamerikanische Westküsten-Sommerzeit: Mexico/BajaNorte
+GMT-04:00: Etc/GMT+4
+Davis-Zeit: Antarctica/Davis
+Osteuropäische Sommerzeit: Egypt
+Venezuela-Zeit: America/Caracas
+Brasília-Normalzeit: America/Sao_Paulo
+Brasília-Normalzeit: America/Recife
+Mitteleuropäische Sommerzeit: Europe/Berlin
+Kamtschatka-Normalzeit: Asia/Kamchatka
+Hawaii-Aleuten-Sommerzeit: US/Aleutian
+Mittlere Greenwich-Zeit: Africa/Dakar
+Jakutsker Normalzeit: Asia/Yakutsk
+Zentralafrikanische Zeit: Africa/Lusaka
+Mittlere Greenwich-Zeit: Europe/Dublin
+Mitteleuropäische Sommerzeit: Europe/Vaduz
+Chowd-Normalzeit: Asia/Hovd
+Mitteleuropäische Sommerzeit: Europe/Ljubljana
+Mitteleuropäische Sommerzeit: Europe/San_Marino
+Nordamerikanische Ostküsten-Sommerzeit: America/Kentucky/Louisville
+Chinesische Normalzeit: Asia/Shanghai
+Nordamerikanische Ostküsten-Sommerzeit: America/Montreal
+GMT+07:00: Asia/Barnaul
+Chamorro-Zeit: Pacific/Guam
+Nordamerikanische Westküsten-Sommerzeit: PST8PDT
+Papua-Neuguinea-Zeit: Pacific/Port_Moresby
+Ostafrikanische Zeit: Africa/Kampala
+Osteuropäische Sommerzeit: Europe/Nicosia
+Nordamerikanische Westküsten-Sommerzeit: America/Vancouver
+Mitteleuropäische Sommerzeit: Europe/Malta
+Atlantik-Normalzeit: America/Puerto_Rico
+Atlantik-Sommerzeit: Canada/Atlantic
+GMT-06:00: Etc/GMT+6
+Nordamerikanische Ostküsten-Sommerzeit: EST5EDT
+Atlantik-Normalzeit: America/Curacao
+GMT+03:00: Asia/Istanbul
+Zentralindonesische Zeit: Asia/Ujung_Pandang
+Nordamerikanische Ostküsten-Sommerzeit: America/Indiana/Winamac
+Omsker Normalzeit: Asia/Omsk
+Osteuropäische Sommerzeit: Europe/Tallinn
+Argentinische Normalzeit: America/Cordoba
+GMT-11:00: Etc/GMT+11

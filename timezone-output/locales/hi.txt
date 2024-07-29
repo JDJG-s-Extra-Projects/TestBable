@@ -1,0 +1,597 @@
+हवाई–आल्यूशन डेलाइट समय: America/Atka
+सूरीनाम समय: America/Paramaribo
+तुर्कमेनिस्तान मानक समय: Asia/Ashkhabad
+नेपाल समय: Asia/Katmandu
+GMT+12:00: Etc/GMT-12
+अटलांटिक मानक समय: America/St_Barthelemy
+क्रास्नोयार्स्क मानक समय: Asia/Krasnoyarsk
+मध्‍य यूरोपीय ग्रीष्‍मकालीन समय: Europe/Brussels
+वोल्गोग्राड मानक समय: Europe/Volgograd
+उत्तरी अमेरिकी माउंटेन डेलाइट समय: America/Denver
+ब्राज़ीलिया मानक समय: America/Fortaleza
+मध्‍य यूरोपीय ग्रीष्‍मकालीन समय: Europe/Podgorica
+दक्षिणी जॉर्जिया समय: Atlantic/South_Georgia
+पश्चिम अफ़्रीका मानक समय: Africa/Ndjamena
+उत्तरी अमेरिकी पूर्वी डेलाइट समय: America/Nassau
+बांग्लादेश मानक समय: Asia/Dhaka
+पैराग्वे मानक समय: America/Asuncion
+अटलांटिक मानक समय: America/Blanc-Sablon
+उत्तरी अमेरिकी केंद्रीय डेलाइट समय: America/Indiana/Knox
+बांग्लादेश मानक समय: Asia/Dacca
+ऑस्‍ट्रेलियाई पूर्वी मानक समय: Antarctica/Macquarie
+मॉस्को मानक समय: Europe/Moscow
+समन्वित वैश्विक समय: UTC
+कोरियाई मानक समय: Asia/Seoul
+पूर्वी यूरोपीय ग्रीष्मकालीन समय: Europe/Riga
+मध्य अफ़्रीका समय: Africa/Blantyre
+अर्जेंटीना मानक समय: America/Argentina/Salta
+अर्जेंटीना मानक समय: America/Argentina/Buenos_Aires
+मध्य यूरोपीय मानक समय: Africa/Algiers
+ऑस्‍ट्रेलियाई पूर्वी मानक समय: Australia/Tasmania
+उत्तरी अमेरिकी केंद्रीय डेलाइट समय: US/Indiana-Starke
+समोआ मानक समय: Pacific/Midway
+उत्तरी अमेरिकी माउंटेन डेलाइट समय: America/Ciudad_Juarez
+GMT-10:00: HST
+GMT+11:00: Asia/Srednekolymsk
+ऑस्‍ट्रेलियाई पूर्वी मानक समय: Australia/Hobart
+अटलांटिक डेलाइट समय: Atlantic/Bermuda
+समन्वित वैश्विक समय: Etc/UCT
+दक्षिणी फ़्रांस और अंटार्कटिक समय: Indian/Kerguelen
+पश्चिमी यूरोपीय ग्रीष्‍मकालीन समय: Atlantic/Faroe
+अमेज़न मानक समय: America/Campo_Grande
+लॉर्ड होवे मानक समय: Australia/LHI
+मॉरीशस मानक समय: Indian/Mauritius
+GMT+02:00: CET
+पूर्वी यूरोपीय मानक समय: Libya
+GMT-07:00: Etc/GMT+7
+GMT+08:00: Etc/GMT-8
+ग्रीनविच मीन टाइम: Atlantic/St_Helena
+पोनापे समय: Pacific/Pohnpei
+GMT-01:00: Etc/GMT+1
+पूर्वी यूरोपीय ग्रीष्मकालीन समय: Europe/Kyiv
+GMT+05:00: Etc/GMT-5
+रीयूनियन समय: Indian/Reunion
+GMT-03:00: Antarctica/Palmer
+उत्तरी अमेरिकी केंद्रीय मानक समय: America/Bahia_Banderas
+अर्जेंटीना मानक समय: America/Jujuy
+याकुत्स्क मानक समय: Asia/Chita
+उत्तरी अमेरिकी माउंटेन डेलाइट समय: US/Mountain
+क्रास्नोयार्स्क मानक समय: Asia/Novokuznetsk
+GMT+06:00: Etc/GMT-6
+ऑस्‍ट्रेलियाई पूर्वी मानक समय: Australia/Currie
+नेपाल समय: Asia/Kathmandu
+न्यूफ़ाउंडलैंड डेलाइट समय: America/St_Johns
+पश्चिम कज़ाखस्तान समय: Asia/Aqtobe
+ग्रीनविच मीन टाइम: GMT+0
+GMT+04:00: Europe/Astrakhan
+GMT+01:00: Europe/Guernsey
+अटलांटिक मानक समय: America/Martinique
+उत्तरी अमेरिकी पूर्वी डेलाइट समय: US/East-Indiana
+मध्‍य यूरोपीय ग्रीष्‍मकालीन समय: Arctic/Longyearbyen
+उत्तरी अमेरिकी केंद्रीय मानक समय: America/Mexico_City
+अर्जेंटीना मानक समय: America/Argentina/ComodRivadavia
+उत्तरी अमेरिकी प्रशांत डेलाइट समय: Canada/Pacific
+GMT+08:00: Antarctica/Casey
+मध्य अफ़्रीका समय: Africa/Bujumbura
+GMT-05:00: America/Eirunepe
+जापान मानक समय: Asia/Tokyo
+मध्‍य यूरोपीय ग्रीष्‍मकालीन समय: Europe/Bratislava
+ऑस्‍ट्रेलियाई पूर्वी मानक समय: Australia/Melbourne
+उत्तरी अमेरिकी पूर्वी मानक समय: America/Panama
+पूर्वी यूरोपीय ग्रीष्मकालीन समय: Asia/Beirut
+पूर्वी अफ़्रीका समय: Indian/Antananarivo
+उज़्बेकिस्तान मानक समय: Asia/Samarkand
+पेरू मानक समय: America/Lima
+अटलांटिक मानक समय: America/St_Thomas
+पश्चिमी इंडोनेशिया समय: Asia/Pontianak
+मेक्सिकन प्रशांत मानक समय: Mexico/BajaSur
+ग्रीनविच मीन टाइम: Etc/GMT
+पश्चिम अफ़्रीका मानक समय: Africa/Luanda
+अटलांटिक मानक समय: America/St_Lucia
+अटलांटिक मानक समय: America/Barbados
+दक्षिण अफ़्रीका मानक समय: Africa/Maseru
+मेक्सिकन प्रशांत मानक समय: America/Mazatlan
+मार्केसस समय: Pacific/Marquesas
+उत्तरी अमेरिकी पूर्वी डेलाइट समय: America/Thunder_Bay
+अमेज़न मानक समय: America/Cuiaba
+मार्शल द्वीपसमूह समय: Pacific/Majuro
+पूर्वी अफ़्रीका समय: Africa/Addis_Ababa
+न्यूज़ीलैंड मानक समय: Antarctica/McMurdo
+मध्‍य यूरोपीय ग्रीष्‍मकालीन समय: Europe/Warsaw
+उत्तरी अमेरिकी केंद्रीय डेलाइट समय: America/Knox_IN
+मार्शल द्वीपसमूह समय: Pacific/Kwajalein
+अमेज़न मानक समय: Brazil/West
+GMT+03:00: Etc/GMT-3
+अटलांटिक मानक समय: America/St_Vincent
+अटलांटिक मानक समय: America/Marigot
+ताइपे मानक समय: Asia/Taipei
+उत्तरी अमेरिकी पूर्वी डेलाइट समय: US/Eastern
+मार्शल द्वीपसमूह समय: Kwajalein
+अर्जेंटीना मानक समय: America/Argentina/Jujuy
+GMT-05:00: Etc/GMT+5
+मध्‍य यूरोपीय ग्रीष्‍मकालीन समय: Europe/Zagreb
+उत्तरी अमेरिकी पूर्वी डेलाइट समय: America/Port-au-Prince
+ऑस्‍ट्रेलियाई केंद्रीय मानक समय: Australia/North
+ग्रीनविच मीन टाइम: GMT
+मध्य यूरोपीय मानक समय: Africa/Tunis
+अफ़गानिस्तान समय: Asia/Kabul
+अलास्‍का डेलाइट समय: America/Juneau
+GMT+07:00: Asia/Tomsk
+दक्षिण अफ़्रीका मानक समय: Africa/Mbabane
+पश्चिम अफ़्रीका मानक समय: Africa/Porto-Novo
+खाड़ी मानक समय: Asia/Muscat
+अर्जेंटीना मानक समय: America/Argentina/San_Luis
+ऑस्‍ट्रेलियाई केंद्रीय पश्चिमी मानक समय: Australia/Eucla
+अटलांटिक मानक समय: America/Anguilla
+मध्‍य यूरोपीय ग्रीष्‍मकालीन समय: Europe/Gibraltar
+मध्‍य यूरोपीय ग्रीष्‍मकालीन समय: Europe/Prague
+पूर्वी यूरोपीय ग्रीष्मकालीन समय: Europe/Zaporozhye
+कोरियाई मानक समय: Asia/Pyongyang
+मध्‍य यूरोपीय ग्रीष्‍मकालीन समय: Europe/Zurich
+पश्चिम कज़ाखस्तान समय: Asia/Atyrau
+उत्तरी अमेरिकी पूर्वी डेलाइट समय: America/Indiana/Vincennes
+अर्जेंटीना मानक समय: America/Argentina/Catamarca
+मध्‍य यूरोपीय ग्रीष्‍मकालीन समय: Europe/Stockholm
+समन्वित वैश्विक समय: Etc/UTC
+पश्चिम अफ़्रीका मानक समय: Africa/Lagos
+अर्जेंटीना मानक समय: America/Argentina/La_Rioja
+खाड़ी मानक समय: Asia/Dubai
+उलान बटोर मानक समय: Asia/Ulaanbaatar
+फ़र्नांर्डो डे नोरोन्हा मानक समय: Brazil/DeNoronha
+ग्रीनविच मीन टाइम: Africa/Bissau
+जॉर्जिया मानक समय: Asia/Tbilisi
+अटलांटिक मानक समय: America/St_Kitts
+पश्चिम अफ़्रीका मानक समय: Africa/Douala
+अटलांटिक डेलाइट समय: America/Goose_Bay
+उत्तरी अमेरिकी पूर्वी डेलाइट समय: America/Indianapolis
+मध्‍य यूरोपीय ग्रीष्‍मकालीन समय: Europe/Rome
+हवाई–आल्यूशन मानक समय: Pacific/Johnston
+पूर्वी यूरोपीय ग्रीष्मकालीन समय: Asia/Hebron
+ऑस्‍ट्रेलियाई पूर्वी मानक समय: Australia/Victoria
+उत्तरी अमेरिकी केंद्रीय डेलाइट समय: CST6CDT
+उत्तरी अमेरिकी पूर्वी डेलाइट समय: US/Michigan
+व्लादिवोस्तोक मानक समय: Asia/Vladivostok
+दक्षिण अफ़्रीका मानक समय: Africa/Johannesburg
+GMT+03:00: Asia/Famagusta
+इज़राइल डेलाइट समय: Israel
+चुक समय: Pacific/Yap
+GMT-09:00: Etc/GMT+9
+मध्य अफ़्रीका समय: Africa/Khartoum
+समारा मानक समय: Europe/Samara
+वालिस और फ़्यूचूना समय: Pacific/Wallis
+वोस्तोक समय: Antarctica/Vostok
+गैलापेगोस का समय: Pacific/Galapagos
+बोलीविया समय: America/La_Paz
+अटलांटिक मानक समय: America/Port_of_Spain
+उत्तरी अमेरिकी पूर्वी मानक समय: America/Coral_Harbour
+उत्तरी अमेरिकी केंद्रीय डेलाइट समय: America/North_Dakota/Center
+उत्तरी अमेरिकी माउंटेन मानक समय: America/Creston
+अटलांटिक मानक समय: America/Grenada
+GMT+01:00: Europe/Jersey
+चामोरो मानक समय: Pacific/Saipan
+उत्तरी अमेरिकी पूर्वी मानक समय: Jamaica
+अटलांटिक मानक समय: America/Lower_Princes
+समन्वित वैश्विक समय: Etc/Zulu
+पोनापे समय: Pacific/Ponape
+समोआ मानक समय: Pacific/Pago_Pago
+पूर्वी यूरोपीय ग्रीष्मकालीन समय: Africa/Cairo
+मध्‍य यूरोपीय ग्रीष्‍मकालीन समय: Europe/Budapest
+GMT-10:00: Etc/GMT+10
+मध्‍य यूरोपीय ग्रीष्‍मकालीन समय: Europe/Tirane
+मध्‍य यूरोपीय ग्रीष्‍मकालीन समय: Europe/Belgrade
+उत्तरी अमेरिकी केंद्रीय मानक समय: America/El_Salvador
+उत्तरी अमेरिकी केंद्रीय डेलाइट समय: America/Menominee
+ब्रिटिश ग्रीष्मकालीन समय: GB-Eire
+हवाई–आल्यूशन मानक समय: US/Hawaii
+अज़रबैजान मानक समय: Asia/Baku
+पश्चिम अफ़्रीका मानक समय: Africa/Brazzaville
+क्रिसमस द्वीप समय: Indian/Christmas
+GMT+02:00: Antarctica/Troll
+पश्चिमी ग्रीनलैंड ग्रीष्मकालीन समय: America/Nuuk
+पश्चिमी यूरोपीय ग्रीष्‍मकालीन समय: Atlantic/Madeira
+तुर्कमेनिस्तान मानक समय: Asia/Ashgabat
+ग्रीनविच मीन टाइम: Etc/GMT-0
+ग्रीनविच मीन टाइम: Africa/Timbuktu
+GMT+07:00: Etc/GMT-7
+GMT+06:00: Asia/Urumqi
+ऑस्‍ट्रेलियाई पूर्वी मानक समय: Australia/Brisbane
+हाँग काँग मानक समय: Hongkong
+उत्तरी अमेरिकी माउंटेन मानक समय: America/Phoenix
+ग्रीनविच मीन टाइम: Africa/Bamako
+ताइपे मानक समय: ROC
+उत्तरी अमेरिकी केंद्रीय मानक समय: America/Costa_Rica
+ताजिकिस्तान समय: Asia/Dushanbe
+हवाई–आल्यूशन डेलाइट समय: America/Adak
+नीयू समय: Pacific/Niue
+GMT+03:00: Europe/Istanbul
+चीन मानक समय: Asia/Macau
+ब्राज़ीलिया मानक समय: America/Belem
+उत्तरी अमेरिकी केंद्रीय डेलाइट समय: America/North_Dakota/New_Salem
+उत्तरी अमेरिकी केंद्रीय मानक समय: America/Monterrey
+अटलांटिक मानक समय: America/Montserrat
+जापान मानक समय: Japan
+पूर्वी यूरोपीय मानक समय: Europe/Kaliningrad
+अर्जेंटीना मानक समय: America/Argentina/Rio_Gallegos
+उत्तरी अमेरिकी केंद्रीय मानक समय: America/Regina
+ग्रीनविच मीन टाइम: Africa/Freetown
+आर्मेनिया मानक समय: Asia/Yerevan
+ब्रिटिश ग्रीष्मकालीन समय: Europe/Belfast
+पूर्वी यूरोपीय मानक समय: Africa/Tripoli
+उलान बटोर मानक समय: Asia/Ulan_Bator
+स्योवा समय: Antarctica/Syowa
+अर्जेंटीना मानक समय: America/Catamarca
+ऑस्‍ट्रेलियाई पूर्वी मानक समय: Australia/Lindeman
+उत्तरी अमेरिकी केंद्रीय डेलाइट समय: US/Central
+अर्जेंटीना मानक समय: America/Argentina/San_Juan
+युकॉन समय: America/Whitehorse
+ग्रीनविच मीन टाइम: Africa/Banjul
+GMT+01:00: Africa/El_Aaiun
+उत्तरी अमेरिकी माउंटेन डेलाइट समय: America/Cambridge_Bay
+अटलांटिक मानक समय: America/Antigua
+लाइन द्वीपसमूह समय: Pacific/Kiritimati
+अरब मानक समय: Asia/Aden
+उत्तरी अमेरिकी पूर्वी डेलाइट समय: America/Louisville
+अलास्‍का डेलाइट समय: America/Sitka
+पूर्वी यूरोपीय ग्रीष्मकालीन समय: Europe/Uzhgorod
+न्यू कैलेडोनिया मानक समय: Pacific/Noumea
+पूर्वी यूरोपीय ग्रीष्मकालीन समय: Europe/Kiev
+ऑस्‍ट्रेलियाई पूर्वी मानक समय: Australia/NSW
+उत्तरी अमेरिकी केंद्रीय डेलाइट समय: America/Resolute
+ग्रीनविच मीन टाइम: GMT0
+ऑस्ट्रेलियाई पश्चिमी मानक समय: Australia/Perth
+मॉस्को मानक समय: Europe/Simferopol
+ऑस्‍ट्रेलियाई केंद्रीय मानक समय: Australia/Broken_Hill
+वनुआतू मानक समय: Pacific/Efate
+पश्चिमी यूरोपीय ग्रीष्‍मकालीन समय: Atlantic/Canary
+ताहिती समय: Pacific/Tahiti
+मध्‍य यूरोपीय ग्रीष्‍मकालीन समय: Europe/Copenhagen
+अलास्‍का डेलाइट समय: America/Metlakatla
+ब्रिटिश ग्रीष्मकालीन समय: Europe/London
+GMT-12:00: Etc/GMT+12
+मध्य इंडोनेशिया समय: Asia/Makassar
+मेक्सिकन प्रशांत मानक समय: America/Hermosillo
+अटलांटिक डेलाइट समय: America/Moncton
+हिंद महासागर समय: Indian/Chagos
+पश्चिमी यूरोपीय ग्रीष्‍मकालीन समय: Portugal
+मध्‍य यूरोपीय ग्रीष्‍मकालीन समय: Europe/Monaco
+हवाई–आल्यूशन मानक समय: Pacific/Honolulu
+GMT+02:00: Etc/GMT-2
+इंडोचाइना समय: Asia/Ho_Chi_Minh
+कुक द्वीपसमूह मानक समय: Pacific/Rarotonga
+उत्तरी अमेरिकी पूर्वी डेलाइट समय: America/Pangnirtung
+GMT-05:00: America/Porto_Acre
+ग्रीनविच मीन टाइम: Africa/Monrovia
+ग्रीनविच मीन टाइम: Etc/Greenwich
+नॉरफ़ॉक द्वीप मानक समय: Pacific/Norfolk
+चुक समय: Pacific/Truk
+GMT-07:00: MST
+उत्तरी अमेरिकी केंद्रीय डेलाइट समय: America/Ojinaga
+चीन मानक समय: Asia/Chungking
+पश्चिमी यूरोपीय ग्रीष्‍मकालीन समय: Europe/Lisbon
+पूर्वी यूरोपीय ग्रीष्मकालीन समय: Europe/Vilnius
+अलास्‍का डेलाइट समय: America/Yakutat
+उत्तरी अमेरिकी प्रशांत डेलाइट समय: America/Ensenada
+नौरू समय: Pacific/Nauru
+पूर्वी यूरोपीय ग्रीष्मकालीन समय: Europe/Chisinau
+GMT+03:00: Europe/Kirov
+मध्‍य यूरोपीय ग्रीष्‍मकालीन समय: Europe/Oslo
+ब्राज़ीलिया मानक समय: America/Bahia
+भारतीय मानक समय: Asia/Kolkata
+GMT+04:00: Europe/Ulyanovsk
+उत्तरी अमेरिकी माउंटेन डेलाइट समय: Canada/Mountain
+मध्‍य यूरोपीय ग्रीष्‍मकालीन समय: Europe/Luxembourg
+ग्रीनविच मीन टाइम: Africa/Conakry
+अर्जेंटीना मानक समय: America/Argentina/Tucuman
+किर्गिस्‍तान समय: Asia/Bishkek
+एनाडीयर मानक समय: Asia/Anadyr
+मॉस्को मानक समय: Europe/Minsk
+पूर्वी ग्रीनलैंड ग्रीष्मकालीन समय: America/Scoresbysund
+मध्‍य यूरोपीय ग्रीष्‍मकालीन समय: Europe/Paris
+उत्तरी अमेरिकी केंद्रीय मानक समय: America/Chihuahua
+फ़िजी मानक समय: Pacific/Fiji
+म्यांमार समय: Asia/Yangon
+चिली मानक समय: America/Santiago
+इंडोचाइना समय: Asia/Vientiane
+अटलांटिक मानक समय: America/Kralendijk
+मध्य अफ़्रीका समय: Africa/Juba
+टोंगा मानक समय: Pacific/Tongatapu
+इर्कुत्स्क मानक समय: Asia/Irkutsk
+GMT+06:00: Asia/Kashgar
+चैथम मानक समय: NZ-CHAT
+चीन मानक समय: PRC
+अरब मानक समय: Asia/Kuwait
+भूटान समय: Asia/Thimbu
+मध्‍य यूरोपीय ग्रीष्‍मकालीन समय: Europe/Busingen
+अटलांटिक डेलाइट समय: America/Glace_Bay
+उत्तरी अमेरिकी केंद्रीय मानक समय: America/Belize
+भारतीय मानक समय: Asia/Calcutta
+सिंगापुर समय: Asia/Singapore
+अरब मानक समय: Asia/Baghdad
+सिंगापुर समय: Singapore
+पूर्वी यूरोपीय ग्रीष्मकालीन समय: Asia/Nicosia
+ग्रीनविच मीन टाइम: Atlantic/Reykjavik
+अर्जेंटीना मानक समय: America/Buenos_Aires
+उत्तरी अमेरिकी माउंटेन डेलाइट समय: America/Boise
+इज़राइल डेलाइट समय: Asia/Jerusalem
+ग्रीनविच मीन टाइम: Africa/Ouagadougou
+ईस्टर द्वीप मानक समय: Pacific/Easter
+हाँग काँग मानक समय: Asia/Hong_Kong
+GMT-03:00: Etc/GMT+3
+उरुग्वे मानक समय: America/Montevideo
+वेक द्वीप समय: Pacific/Wake
+इक्वाडोर समय: America/Guayaquil
+उत्तरी अमेरिकी केंद्रीय डेलाइट समय: America/Winnipeg
+उत्तरी अमेरिकी माउंटेन मानक समय: US/Arizona
+अटलांटिक मानक समय: America/Virgin
+उत्तरी अमेरिकी केंद्रीय मानक समय: Canada/Saskatchewan
+GMT+04:00: Etc/GMT-4
+GMT+03:00: Turkey
+अटलांटिक मानक समय: America/Guadeloupe
+मध्य अफ़्रीका समय: Africa/Windhoek
+ब्राज़ीलिया मानक समय: Brazil/East
+उत्तरी अमेरिकी माउंटेन डेलाइट समय: Navajo
+भारतीय मानक समय: Asia/Colombo
+GMT-05:00: EST
+उत्तरी अमेरिकी केंद्रीय डेलाइट समय: America/North_Dakota/Beulah
+टोकेलाऊ समय: Pacific/Fakaofo
+म्यांमार समय: Asia/Rangoon
+पूर्वी यूरोपीय ग्रीष्मकालीन समय: Europe/Mariehamn
+अटलांटिक मानक समय: America/Santo_Domingo
+न्यूज़ीलैंड मानक समय: NZ
+ग्रीनविच मीन टाइम: Etc/GMT+0
+ब्राज़ीलिया मानक समय: America/Araguaina
+अटलांटिक मानक समय: America/Aruba
+पूर्वी यूरोपीय ग्रीष्मकालीन समय: Europe/Helsinki
+तुवालू समय: Pacific/Funafuti
+उत्तरी अमेरिकी पूर्वी मानक समय: America/Jamaica
+उत्तरी अमेरिकी पूर्वी डेलाइट समय: America/Indiana/Vevay
+उत्तरी अमेरिकी केंद्रीय मानक समय: America/Swift_Current
+अर्जेंटीना मानक समय: America/Argentina/Mendoza
+इंडोचाइना समय: Asia/Saigon
+अलास्‍का डेलाइट समय: America/Nome
+पूर्वी अफ़्रीका समय: Africa/Dar_es_Salaam
+GMT+13:00: Etc/GMT-13
+उत्तरी अमेरिकी पूर्वी डेलाइट समय: America/Nipigon
+उत्तरी अमेरिकी माउंटेन डेलाइट समय: America/Yellowknife
+पश्चिम अफ़्रीका मानक समय: Africa/Malabo
+गिल्बर्ट द्वीपसमूह समय: Pacific/Tarawa
+ब्राज़ीलिया मानक समय: America/Maceio
+समन्वित वैश्विक समय: Zulu
+पश्चिम कज़ाखस्तान समय: Asia/Oral
+मध्‍य यूरोपीय ग्रीष्‍मकालीन समय: Europe/Vatican
+अर्जेंटीना मानक समय: America/Mendoza
+उत्तरी अमेरिकी केंद्रीय डेलाइट समय: America/Rankin_Inlet
+ब्रिटिश ग्रीष्मकालीन समय: GB
+मध्‍य यूरोपीय ग्रीष्‍मकालीन समय: Poland
+मध्‍य यूरोपीय ग्रीष्‍मकालीन समय: Europe/Amsterdam
+पूर्वी यूरोपीय ग्रीष्मकालीन समय: Asia/Gaza
+भूटान समय: Asia/Thimphu
+उत्तरी अमेरिकी प्रशांत डेलाइट समय: US/Pacific
+पश्चिमी यूरोपीय ग्रीष्‍मकालीन समय: Atlantic/Faeroe
+सेंट पिएरे और मिक्वेलान डेलाइट समय: America/Miquelon
+ऑस्‍ट्रेलियाई केंद्रीय मानक समय: Australia/Darwin
+व्लादिवोस्तोक मानक समय: Asia/Ust-Nera
+पश्चिमी ग्रीनलैंड ग्रीष्मकालीन समय: America/Godthab
+अरब मानक समय: Asia/Riyadh
+अमेज़न मानक समय: America/Boa_Vista
+क्यूबा डेलाइट समय: Cuba
+ग्रीनविच मीन टाइम: GMT-0
+उत्तरी अमेरिकी माउंटेन मानक समय: America/Fort_Nelson
+फ़िलिपीन मानक समय: Asia/Manila
+GMT-05:00: America/Rio_Branco
+उत्तरी अमेरिकी केंद्रीय डेलाइट समय: America/Indiana/Tell_City
+पश्चिम कज़ाखस्तान समय: Asia/Qyzylorda
+मध्‍य यूरोपीय ग्रीष्‍मकालीन समय: Europe/Sarajevo
+GMT+03:00: EET
+मॉस्को मानक समय: W-SU
+पूर्व कज़ाखस्तान समय: Asia/Almaty
+पूर्वी अफ़्रीका समय: Indian/Comoro
+पूर्वी इंडोनेशिया समय: Asia/Jayapura
+उत्तरी अमेरिकी पूर्वी डेलाइट समय: America/Grand_Turk
+एपिआ मानक समय: Pacific/Apia
+गुयाना समय: America/Guyana
+GMT+01:00: Etc/GMT-1
+सेशेल्स समय: Indian/Mahe
+फ़्रेंच गुयाना समय: America/Cayenne
+GMT+14:00: Etc/GMT-14
+मागादान मानक समय: Asia/Magadan
+ऑस्‍ट्रेलियाई पूर्वी मानक समय: Australia/Queensland
+उत्तरी अमेरिकी प्रशांत डेलाइट समय: America/Los_Angeles
+ईरान मानक समय: Iran
+GMT+09:00: Etc/GMT-9
+GMT+01:00: WET
+मध्‍य यूरोपीय ग्रीष्‍मकालीन समय: Atlantic/Jan_Mayen
+पश्चिम कज़ाखस्तान समय: Asia/Aqtau
+उत्तरी अमेरिकी केंद्रीय डेलाइट समय: Canada/Central
+कोकोस द्वीपसमूह समय: Indian/Cocos
+उत्तरी अमेरिकी माउंटेन डेलाइट समय: America/Shiprock
+मध्‍य यूरोपीय ग्रीष्‍मकालीन समय: Africa/Ceuta
+पूर्व कज़ाखस्तान समय: Asia/Qostanay
+अरब मानक समय: Asia/Bahrain
+पश्चिम अफ़्रीका मानक समय: Africa/Niamey
+GMT-03:00: America/Punta_Arenas
+अरब मानक समय: Asia/Qatar
+न्यूज़ीलैंड मानक समय: Pacific/Auckland
+ईस्टर द्वीप मानक समय: Chile/EasterIsland
+पाकिस्तान मानक समय: Asia/Karachi
+इज़राइल डेलाइट समय: Asia/Tel_Aviv
+कोसराए समय: Pacific/Kosrae
+ग्रीनविच मीन टाइम: Africa/Accra
+चीन मानक समय: Asia/Chongqing
+ऑस्‍ट्रेलियाई केंद्रीय मानक समय: Australia/Adelaide
+उत्तरी अमेरिकी पूर्वी डेलाइट समय: America/Detroit
+पूर्वी यूरोपीय ग्रीष्मकालीन समय: Europe/Sofia
+पश्चिमी इंडोनेशिया समय: Asia/Jakarta
+अटलांटिक मानक समय: America/Tortola
+उत्तरी अमेरिकी केंद्रीय मानक समय: America/Merida
+मध्य अफ़्रीका समय: Africa/Lubumbashi
+फ़ीनिक्स द्वीपसमूह समय: Pacific/Enderbury
+उत्तरी अमेरिकी केंद्रीय मानक समय: Mexico/General
+ब्रूनेई दारूस्सलम समय: Asia/Brunei
+उत्तरी अमेरिकी केंद्रीय डेलाइट समय: America/Matamoros
+युकॉन समय: America/Dawson
+समोआ मानक समय: Pacific/Samoa
+क्यूबा डेलाइट समय: America/Havana
+माव्सन समय: Antarctica/Mawson
+उत्तरी अमेरिकी केंद्रीय डेलाइट समय: America/Chicago
+चीन मानक समय: Asia/Macao
+उत्तरी अमेरिकी प्रशांत डेलाइट समय: America/Santa_Isabel
+अलास्‍का डेलाइट समय: America/Anchorage
+ऑस्‍ट्रेलियाई पूर्वी मानक समय: Australia/Canberra
+ग्रीनविच मीन टाइम: Africa/Sao_Tome
+अज़ोरेस ग्रीष्मकालीन समय: Atlantic/Azores
+GMT-08:00: Etc/GMT+8
+कोलंबिया मानक समय: America/Bogota
+ग्रीनविच मीन टाइम: Etc/GMT0
+पूर्वी यूरोपीय ग्रीष्मकालीन समय: Europe/Bucharest
+अर्जेंटीना मानक समय: America/Rosario
+ऑस्‍ट्रेलियाई केंद्रीय मानक समय: Australia/South
+पूर्वी अफ़्रीका समय: Africa/Djibouti
+ईरान मानक समय: Asia/Tehran
+पूर्वी अफ़्रीका समय: Africa/Asmera
+पूर्वी अफ़्रीका समय: Africa/Mogadishu
+अमेज़न मानक समय: America/Porto_Velho
+उत्तरी अमेरिकी माउंटेन डेलाइट समय: America/Inuvik
+युकॉन समय: Canada/Yukon
+मध्‍य यूरोपीय ग्रीष्‍मकालीन समय: Europe/Madrid
+GMT+03:00: Asia/Amman
+चिली मानक समय: Chile/Continental
+उत्तरी अमेरिकी पूर्वी डेलाइट समय: America/Fort_Wayne
+पलाउ समय: Pacific/Palau
+ग्रीनविच मीन टाइम: Africa/Lome
+नोवोसिबिर्स्क मानक समय: Asia/Novosibirsk
+मध्य अफ़्रीका समय: Africa/Gaborone
+पश्चिम अफ़्रीका मानक समय: Africa/Bangui
+समन्वित वैश्विक समय: Etc/Universal
+ऑस्ट्रेलियाई पश्चिमी मानक समय: Australia/West
+मध्य अफ़्रीका समय: Africa/Maputo
+उत्तरी अमेरिकी केंद्रीय डेलाइट समय: America/Rainy_River
+उज़्बेकिस्तान मानक समय: Asia/Tashkent
+उत्तरी अमेरिकी पूर्वी डेलाइट समय: Canada/Eastern
+समन्वित वैश्विक समय: Universal
+GMT+00:00: Factory
+पूर्वी अफ़्रीका समय: Africa/Nairobi
+समोआ मानक समय: US/Samoa
+अर्जेंटीना मानक समय: America/Argentina/Ushuaia
+न्यूफ़ाउंडलैंड डेलाइट समय: Canada/Newfoundland
+ग्रीनविच मीन टाइम: Iceland
+ड्यूमोंट डी अर्विले समय: Antarctica/DumontDUrville
+मध्‍य यूरोपीय ग्रीष्‍मकालीन समय: Europe/Vienna
+उत्तरी अमेरिकी माउंटेन डेलाइट समय: America/Edmonton
+उत्तरी अमेरिकी पूर्वी डेलाइट समय: America/Iqaluit
+मलेशिया समय: Asia/Kuching
+ग्रीनविच मीन टाइम: America/Danmarkshavn
+न्यूज़ीलैंड मानक समय: Antarctica/South_Pole
+पिटकैर्न समय: Pacific/Pitcairn
+पश्चिम अफ़्रीका मानक समय: Africa/Kinshasa
+उलान बटोर मानक समय: Asia/Choibalsan
+फ़र्नांर्डो डे नोरोन्हा मानक समय: America/Noronha
+मध्‍य यूरोपीय ग्रीष्‍मकालीन समय: Europe/Andorra
+GMT-05:00: Brazil/Acre
+GMT+02:00: MET
+उत्तरी अमेरिकी पूर्वी मानक समय: America/Cancun
+सखालिन मानक समय: Asia/Sakhalin
+उत्तरी अमेरिकी केंद्रीय मानक समय: America/Guatemala
+चीन मानक समय: Asia/Harbin
+अर्जेंटीना मानक समय: America/Argentina/Cordoba
+ग्रीनविच मीन टाइम: Greenwich
+समन्वित वैश्विक समय: UCT
+गैंबियर समय: Pacific/Gambier
+उत्तरी अमेरिकी माउंटेन मानक समय: America/Dawson_Creek
+उत्तरी अमेरिकी पूर्वी डेलाइट समय: America/Indiana/Marengo
+ऑस्‍ट्रेलियाई पूर्वी मानक समय: Australia/Sydney
+GMT+10:00: Etc/GMT-10
+पश्चिम अफ़्रीका मानक समय: Africa/Libreville
+येकातेरिनबर्ग मानक समय: Asia/Yekaterinburg
+GMT+03:00: Asia/Damascus
+ऑस्‍ट्रेलियाई पूर्वी मानक समय: Australia/ACT
+उत्तरी अमेरिकी केंद्रीय मानक समय: America/Managua
+कोरियाई मानक समय: ROK
+ग्रीनविच मीन टाइम: Africa/Abidjan
+ग्रीनविच मीन टाइम: Africa/Nouakchott
+पूर्वी तिमोर समय: Asia/Dili
+केप वर्ड मानक समय: Atlantic/Cape_Verde
+GMT+04:00: Europe/Saratov
+चैथम मानक समय: Pacific/Chatham
+अटलांटिक डेलाइट समय: America/Thule
+मध्य अफ़्रीका समय: Africa/Kigali
+उत्तरी अमेरिकी पूर्वी डेलाइट समय: America/Indiana/Petersburg
+उत्तरी अमेरिकी पूर्वी मानक समय: America/Atikokan
+उत्तरी अमेरिकी केंद्रीय मानक समय: America/Tegucigalpa
+ग्रीनविच मीन टाइम: Eire
+फ़ीनिक्स द्वीपसमूह समय: Pacific/Kanton
+अटलांटिक डेलाइट समय: America/Halifax
+अलास्‍का डेलाइट समय: US/Alaska
+इंडोचाइना समय: Asia/Bangkok
+पूर्वी अफ़्रीका समय: Indian/Mayotte
+उत्तरी अमेरिकी पूर्वी मानक समय: America/Cayman
+अटलांटिक मानक समय: America/Dominica
+उत्तरी अमेरिकी पूर्वी डेलाइट समय: America/Indiana/Indianapolis
+GMT+11:00: Etc/GMT-11
+रोथेरा समय: Antarctica/Rothera
+मालदीव समय: Indian/Maldives
+पूर्वी अफ़्रीका समय: Africa/Asmara
+GMT+01:00: Africa/Casablanca
+उत्तरी अमेरिकी पूर्वी डेलाइट समय: America/New_York
+उत्तरी अमेरिकी पूर्वी डेलाइट समय: America/Toronto
+पूर्वी यूरोपीय ग्रीष्मकालीन समय: Europe/Tiraspol
+GMT+11:00: Pacific/Bougainville
+उत्तरी अमेरिकी पूर्वी डेलाइट समय: America/Kentucky/Monticello
+GMT-02:00: Etc/GMT+2
+लॉर्ड होवे मानक समय: Australia/Lord_Howe
+पूर्वी यूरोपीय ग्रीष्मकालीन समय: Europe/Athens
+ऑस्‍ट्रेलियाई केंद्रीय मानक समय: Australia/Yancowinna
+फ़ॉकलैंड द्वीपसमूह मानक समय: Atlantic/Stanley
+उत्तरी अमेरिकी प्रशांत डेलाइट समय: America/Tijuana
+याकुत्स्क मानक समय: Asia/Khandyga
+ब्राज़ीलिया मानक समय: America/Santarem
+चुक समय: Pacific/Chuuk
+इंडोचाइना समय: Asia/Phnom_Penh
+GMT+01:00: Europe/Isle_of_Man
+मध्‍य यूरोपीय ग्रीष्‍मकालीन समय: Europe/Skopje
+अमेज़न मानक समय: America/Manaus
+उत्तरी अमेरिकी माउंटेन डेलाइट समय: MST7MDT
+सोलोमन द्वीपसमूह समय: Pacific/Guadalcanal
+मलेशिया समय: Asia/Kuala_Lumpur
+मध्य अफ़्रीका समय: Africa/Harare
+उत्तरी अमेरिकी प्रशांत डेलाइट समय: Mexico/BajaNorte
+GMT-04:00: Etc/GMT+4
+डेविस समय: Antarctica/Davis
+पूर्वी यूरोपीय ग्रीष्मकालीन समय: Egypt
+वेनेज़ुएला समय: America/Caracas
+ब्राज़ीलिया मानक समय: America/Sao_Paulo
+ब्राज़ीलिया मानक समय: America/Recife
+मध्‍य यूरोपीय ग्रीष्‍मकालीन समय: Europe/Berlin
+पेट्रोपेवलास्क-कैमचात्सकी मानक समय: Asia/Kamchatka
+हवाई–आल्यूशन डेलाइट समय: US/Aleutian
+ग्रीनविच मीन टाइम: Africa/Dakar
+याकुत्स्क मानक समय: Asia/Yakutsk
+मध्य अफ़्रीका समय: Africa/Lusaka
+ग्रीनविच मीन टाइम: Europe/Dublin
+मध्‍य यूरोपीय ग्रीष्‍मकालीन समय: Europe/Vaduz
+होव्ड मानक समय: Asia/Hovd
+मध्‍य यूरोपीय ग्रीष्‍मकालीन समय: Europe/Ljubljana
+मध्‍य यूरोपीय ग्रीष्‍मकालीन समय: Europe/San_Marino
+उत्तरी अमेरिकी पूर्वी डेलाइट समय: America/Kentucky/Louisville
+चीन मानक समय: Asia/Shanghai
+उत्तरी अमेरिकी पूर्वी डेलाइट समय: America/Montreal
+GMT+07:00: Asia/Barnaul
+चामोरो मानक समय: Pacific/Guam
+उत्तरी अमेरिकी प्रशांत डेलाइट समय: PST8PDT
+पापुआ न्यू गिनी समय: Pacific/Port_Moresby
+पूर्वी अफ़्रीका समय: Africa/Kampala
+पूर्वी यूरोपीय ग्रीष्मकालीन समय: Europe/Nicosia
+उत्तरी अमेरिकी प्रशांत डेलाइट समय: America/Vancouver
+मध्‍य यूरोपीय ग्रीष्‍मकालीन समय: Europe/Malta
+अटलांटिक मानक समय: America/Puerto_Rico
+अटलांटिक डेलाइट समय: Canada/Atlantic
+GMT-06:00: Etc/GMT+6
+उत्तरी अमेरिकी पूर्वी डेलाइट समय: EST5EDT
+अटलांटिक मानक समय: America/Curacao
+GMT+03:00: Asia/Istanbul
+मध्य इंडोनेशिया समय: Asia/Ujung_Pandang
+उत्तरी अमेरिकी पूर्वी डेलाइट समय: America/Indiana/Winamac
+ओम्स्क मानक समय: Asia/Omsk
+पूर्वी यूरोपीय ग्रीष्मकालीन समय: Europe/Tallinn
+अर्जेंटीना मानक समय: America/Cordoba
+GMT-11:00: Etc/GMT+11

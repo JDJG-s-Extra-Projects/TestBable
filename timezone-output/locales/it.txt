@@ -1,0 +1,597 @@
+Ora legale delle Isole Hawaii-Aleutine: America/Atka
+Ora del Suriname: America/Paramaribo
+Ora standard del Turkmenistan: Asia/Ashkhabad
+Ora del Nepal: Asia/Katmandu
+GMT+12:00: Etc/GMT-12
+Ora standard dell’Atlantico: America/St_Barthelemy
+Ora standard di Krasnoyarsk: Asia/Krasnoyarsk
+Ora legale dell’Europa centrale: Europe/Brussels
+Ora standard di Volgograd: Europe/Volgograd
+Ora legale Montagne Rocciose USA: America/Denver
+Ora standard di Brasilia: America/Fortaleza
+Ora legale dell’Europa centrale: Europe/Podgorica
+Ora della Georgia del Sud: Atlantic/South_Georgia
+Ora standard dell’Africa occidentale: Africa/Ndjamena
+Ora legale orientale USA: America/Nassau
+Ora standard del Bangladesh: Asia/Dhaka
+Ora standard del Paraguay: America/Asuncion
+Ora standard dell’Atlantico: America/Blanc-Sablon
+Ora legale centrale USA: America/Indiana/Knox
+Ora standard del Bangladesh: Asia/Dacca
+Ora standard dell’Australia orientale: Antarctica/Macquarie
+Ora standard di Mosca: Europe/Moscow
+Tempo coordinato universale: UTC
+Ora standard coreana: Asia/Seoul
+Ora legale dell’Europa orientale: Europe/Riga
+Ora dell’Africa centrale: Africa/Blantyre
+Ora standard dell’Argentina: America/Argentina/Salta
+Ora standard dell’Argentina: America/Argentina/Buenos_Aires
+Ora standard dell’Europa centrale: Africa/Algiers
+Ora standard dell’Australia orientale: Australia/Tasmania
+Ora legale centrale USA: US/Indiana-Starke
+Ora standard di Samoa: Pacific/Midway
+Ora legale Montagne Rocciose USA: America/Ciudad_Juarez
+GMT-10:00: HST
+GMT+11:00: Asia/Srednekolymsk
+Ora standard dell’Australia orientale: Australia/Hobart
+Ora legale dell’Atlantico: Atlantic/Bermuda
+Tempo coordinato universale: Etc/UCT
+Ora delle Terre australi e antartiche francesi: Indian/Kerguelen
+Ora legale dell’Europa occidentale: Atlantic/Faroe
+Ora standard dell’Amazzonia: America/Campo_Grande
+Ora standard di Lord Howe: Australia/LHI
+Ora standard delle Mauritius: Indian/Mauritius
+GMT+02:00: CET
+Ora standard dell’Europa orientale: Libya
+GMT-07:00: Etc/GMT+7
+GMT+08:00: Etc/GMT-8
+Ora del meridiano di Greenwich: Atlantic/St_Helena
+Ora di Pohnpei: Pacific/Pohnpei
+GMT-01:00: Etc/GMT+1
+Ora legale dell’Europa orientale: Europe/Kyiv
+GMT+05:00: Etc/GMT-5
+Ora di Riunione: Indian/Reunion
+GMT-03:00: Antarctica/Palmer
+Ora standard centrale USA: America/Bahia_Banderas
+Ora standard dell’Argentina: America/Jujuy
+Ora standard di Yakutsk: Asia/Chita
+Ora legale Montagne Rocciose USA: US/Mountain
+Ora standard di Krasnoyarsk: Asia/Novokuznetsk
+GMT+06:00: Etc/GMT-6
+Ora standard dell’Australia orientale: Australia/Currie
+Ora del Nepal: Asia/Kathmandu
+Ora legale di Terranova: America/St_Johns
+Ora del Kazakistan occidentale: Asia/Aqtobe
+Ora del meridiano di Greenwich: GMT+0
+GMT+04:00: Europe/Astrakhan
+GMT+01:00: Europe/Guernsey
+Ora standard dell’Atlantico: America/Martinique
+Ora legale orientale USA: US/East-Indiana
+Ora legale dell’Europa centrale: Arctic/Longyearbyen
+Ora standard centrale USA: America/Mexico_City
+Ora standard dell’Argentina: America/Argentina/ComodRivadavia
+Ora legale del Pacifico USA: Canada/Pacific
+GMT+08:00: Antarctica/Casey
+Ora dell’Africa centrale: Africa/Bujumbura
+GMT-05:00: America/Eirunepe
+Ora standard del Giappone: Asia/Tokyo
+Ora legale dell’Europa centrale: Europe/Bratislava
+Ora standard dell’Australia orientale: Australia/Melbourne
+Ora standard orientale USA: America/Panama
+Ora legale dell’Europa orientale: Asia/Beirut
+Ora dell’Africa orientale: Indian/Antananarivo
+Ora standard dell’Uzbekistan: Asia/Samarkand
+Ora standard del Perù: America/Lima
+Ora standard dell’Atlantico: America/St_Thomas
+Ora dell’Indonesia occidentale: Asia/Pontianak
+Ora standard del Pacifico (Messico): Mexico/BajaSur
+Ora del meridiano di Greenwich: Etc/GMT
+Ora standard dell’Africa occidentale: Africa/Luanda
+Ora standard dell’Atlantico: America/St_Lucia
+Ora standard dell’Atlantico: America/Barbados
+Ora dell’Africa meridionale: Africa/Maseru
+Ora standard del Pacifico (Messico): America/Mazatlan
+Ora delle Marchesi: Pacific/Marquesas
+Ora legale orientale USA: America/Thunder_Bay
+Ora standard dell’Amazzonia: America/Cuiaba
+Ora delle Isole Marshall: Pacific/Majuro
+Ora dell’Africa orientale: Africa/Addis_Ababa
+Ora standard della Nuova Zelanda: Antarctica/McMurdo
+Ora legale dell’Europa centrale: Europe/Warsaw
+Ora legale centrale USA: America/Knox_IN
+Ora delle Isole Marshall: Pacific/Kwajalein
+Ora standard dell’Amazzonia: Brazil/West
+GMT+03:00: Etc/GMT-3
+Ora standard dell’Atlantico: America/St_Vincent
+Ora standard dell’Atlantico: America/Marigot
+Ora standard di Taipei: Asia/Taipei
+Ora legale orientale USA: US/Eastern
+Ora delle Isole Marshall: Kwajalein
+Ora standard dell’Argentina: America/Argentina/Jujuy
+GMT-05:00: Etc/GMT+5
+Ora legale dell’Europa centrale: Europe/Zagreb
+Ora legale orientale USA: America/Port-au-Prince
+Ora standard dell’Australia centrale: Australia/North
+Ora del meridiano di Greenwich: GMT
+Ora standard dell’Europa centrale: Africa/Tunis
+Ora dell’Afghanistan: Asia/Kabul
+Ora legale dell’Alaska: America/Juneau
+GMT+07:00: Asia/Tomsk
+Ora dell’Africa meridionale: Africa/Mbabane
+Ora standard dell’Africa occidentale: Africa/Porto-Novo
+Ora del Golfo: Asia/Muscat
+Ora standard dell’Argentina: America/Argentina/San_Luis
+Ora standard dell’Australia centroccidentale: Australia/Eucla
+Ora standard dell’Atlantico: America/Anguilla
+Ora legale dell’Europa centrale: Europe/Gibraltar
+Ora legale dell’Europa centrale: Europe/Prague
+Ora legale dell’Europa orientale: Europe/Zaporozhye
+Ora standard coreana: Asia/Pyongyang
+Ora legale dell’Europa centrale: Europe/Zurich
+Ora del Kazakistan occidentale: Asia/Atyrau
+Ora legale orientale USA: America/Indiana/Vincennes
+Ora standard dell’Argentina: America/Argentina/Catamarca
+Ora legale dell’Europa centrale: Europe/Stockholm
+Tempo coordinato universale: Etc/UTC
+Ora standard dell’Africa occidentale: Africa/Lagos
+Ora standard dell’Argentina: America/Argentina/La_Rioja
+Ora del Golfo: Asia/Dubai
+Ora standard di Ulan Bator: Asia/Ulaanbaatar
+Ora standard di Fernando de Noronha: Brazil/DeNoronha
+Ora del meridiano di Greenwich: Africa/Bissau
+Ora standard della Georgia: Asia/Tbilisi
+Ora standard dell’Atlantico: America/St_Kitts
+Ora standard dell’Africa occidentale: Africa/Douala
+Ora legale dell’Atlantico: America/Goose_Bay
+Ora legale orientale USA: America/Indianapolis
+Ora legale dell’Europa centrale: Europe/Rome
+Ora standard delle Isole Hawaii-Aleutine: Pacific/Johnston
+Ora legale dell’Europa orientale: Asia/Hebron
+Ora standard dell’Australia orientale: Australia/Victoria
+Ora legale centrale USA: CST6CDT
+Ora legale orientale USA: US/Michigan
+Ora standard di Vladivostok: Asia/Vladivostok
+Ora dell’Africa meridionale: Africa/Johannesburg
+GMT+03:00: Asia/Famagusta
+Ora legale di Israele: Israel
+Ora del Chuuk: Pacific/Yap
+GMT-09:00: Etc/GMT+9
+Ora dell’Africa centrale: Africa/Khartoum
+Ora standard di Samara: Europe/Samara
+Ora di Wallis e Futuna: Pacific/Wallis
+Ora di Vostok: Antarctica/Vostok
+Ora delle Galapagos: Pacific/Galapagos
+Ora della Bolivia: America/La_Paz
+Ora standard dell’Atlantico: America/Port_of_Spain
+Ora standard orientale USA: America/Coral_Harbour
+Ora legale centrale USA: America/North_Dakota/Center
+Ora standard Montagne Rocciose USA: America/Creston
+Ora standard dell’Atlantico: America/Grenada
+GMT+01:00: Europe/Jersey
+Ora di Chamorro: Pacific/Saipan
+Ora standard orientale USA: Jamaica
+Ora standard dell’Atlantico: America/Lower_Princes
+Tempo coordinato universale: Etc/Zulu
+Ora di Pohnpei: Pacific/Ponape
+Ora standard di Samoa: Pacific/Pago_Pago
+Ora legale dell’Europa orientale: Africa/Cairo
+Ora legale dell’Europa centrale: Europe/Budapest
+GMT-10:00: Etc/GMT+10
+Ora legale dell’Europa centrale: Europe/Tirane
+Ora legale dell’Europa centrale: Europe/Belgrade
+Ora standard centrale USA: America/El_Salvador
+Ora legale centrale USA: America/Menominee
+Ora legale del Regno Unito: GB-Eire
+Ora standard delle Isole Hawaii-Aleutine: US/Hawaii
+Ora standard dell’Azerbaigian: Asia/Baku
+Ora standard dell’Africa occidentale: Africa/Brazzaville
+Ora dell’Isola Christmas: Indian/Christmas
+GMT+02:00: Antarctica/Troll
+Ora legale della Groenlandia occidentale: America/Nuuk
+Ora legale dell’Europa occidentale: Atlantic/Madeira
+Ora standard del Turkmenistan: Asia/Ashgabat
+Ora del meridiano di Greenwich: Etc/GMT-0
+Ora del meridiano di Greenwich: Africa/Timbuktu
+GMT+07:00: Etc/GMT-7
+GMT+06:00: Asia/Urumqi
+Ora standard dell’Australia orientale: Australia/Brisbane
+Ora standard di Hong Kong: Hongkong
+Ora standard Montagne Rocciose USA: America/Phoenix
+Ora del meridiano di Greenwich: Africa/Bamako
+Ora standard di Taipei: ROC
+Ora standard centrale USA: America/Costa_Rica
+Ora del Tagikistan: Asia/Dushanbe
+Ora legale delle Isole Hawaii-Aleutine: America/Adak
+Ora di Niue: Pacific/Niue
+GMT+03:00: Europe/Istanbul
+Ora standard della Cina: Asia/Macau
+Ora standard di Brasilia: America/Belem
+Ora legale centrale USA: America/North_Dakota/New_Salem
+Ora standard centrale USA: America/Monterrey
+Ora standard dell’Atlantico: America/Montserrat
+Ora standard del Giappone: Japan
+Ora standard dell’Europa orientale: Europe/Kaliningrad
+Ora standard dell’Argentina: America/Argentina/Rio_Gallegos
+Ora standard centrale USA: America/Regina
+Ora del meridiano di Greenwich: Africa/Freetown
+Ora standard dell’Armenia: Asia/Yerevan
+Ora legale del Regno Unito: Europe/Belfast
+Ora standard dell’Europa orientale: Africa/Tripoli
+Ora standard di Ulan Bator: Asia/Ulan_Bator
+Ora di Syowa: Antarctica/Syowa
+Ora standard dell’Argentina: America/Catamarca
+Ora standard dell’Australia orientale: Australia/Lindeman
+Ora legale centrale USA: US/Central
+Ora standard dell’Argentina: America/Argentina/San_Juan
+Ora dello Yukon: America/Whitehorse
+Ora del meridiano di Greenwich: Africa/Banjul
+GMT+01:00: Africa/El_Aaiun
+Ora legale Montagne Rocciose USA: America/Cambridge_Bay
+Ora standard dell’Atlantico: America/Antigua
+Ora delle Sporadi equatoriali: Pacific/Kiritimati
+Ora standard araba: Asia/Aden
+Ora legale orientale USA: America/Louisville
+Ora legale dell’Alaska: America/Sitka
+Ora legale dell’Europa orientale: Europe/Uzhgorod
+Ora standard della Nuova Caledonia: Pacific/Noumea
+Ora legale dell’Europa orientale: Europe/Kiev
+Ora standard dell’Australia orientale: Australia/NSW
+Ora legale centrale USA: America/Resolute
+Ora del meridiano di Greenwich: GMT0
+Ora standard dell’Australia occidentale: Australia/Perth
+Ora standard di Mosca: Europe/Simferopol
+Ora standard dell’Australia centrale: Australia/Broken_Hill
+Ora standard del Vanuatu: Pacific/Efate
+Ora legale dell’Europa occidentale: Atlantic/Canary
+Ora di Tahiti: Pacific/Tahiti
+Ora legale dell’Europa centrale: Europe/Copenhagen
+Ora legale dell’Alaska: America/Metlakatla
+Ora legale del Regno Unito: Europe/London
+GMT-12:00: Etc/GMT+12
+Ora dell’Indonesia centrale: Asia/Makassar
+Ora standard del Pacifico (Messico): America/Hermosillo
+Ora legale dell’Atlantico: America/Moncton
+Ora dell’Oceano Indiano: Indian/Chagos
+Ora legale dell’Europa occidentale: Portugal
+Ora legale dell’Europa centrale: Europe/Monaco
+Ora standard delle Isole Hawaii-Aleutine: Pacific/Honolulu
+GMT+02:00: Etc/GMT-2
+Ora dell’Indocina: Asia/Ho_Chi_Minh
+Ora standard delle isole Cook: Pacific/Rarotonga
+Ora legale orientale USA: America/Pangnirtung
+GMT-05:00: America/Porto_Acre
+Ora del meridiano di Greenwich: Africa/Monrovia
+Ora del meridiano di Greenwich: Etc/Greenwich
+Ora standard delle Isole Norfolk: Pacific/Norfolk
+Ora del Chuuk: Pacific/Truk
+GMT-07:00: MST
+Ora legale centrale USA: America/Ojinaga
+Ora standard della Cina: Asia/Chungking
+Ora legale dell’Europa occidentale: Europe/Lisbon
+Ora legale dell’Europa orientale: Europe/Vilnius
+Ora legale dell’Alaska: America/Yakutat
+Ora legale del Pacifico USA: America/Ensenada
+Ora di Nauru: Pacific/Nauru
+Ora legale dell’Europa orientale: Europe/Chisinau
+GMT+03:00: Europe/Kirov
+Ora legale dell’Europa centrale: Europe/Oslo
+Ora standard di Brasilia: America/Bahia
+Ora standard dell’India: Asia/Kolkata
+GMT+04:00: Europe/Ulyanovsk
+Ora legale Montagne Rocciose USA: Canada/Mountain
+Ora legale dell’Europa centrale: Europe/Luxembourg
+Ora del meridiano di Greenwich: Africa/Conakry
+Ora standard dell’Argentina: America/Argentina/Tucuman
+Ora del Kirghizistan: Asia/Bishkek
+Ora standard di Anadyr: Asia/Anadyr
+Ora standard di Mosca: Europe/Minsk
+Ora legale della Groenlandia orientale: America/Scoresbysund
+Ora legale dell’Europa centrale: Europe/Paris
+Ora standard centrale USA: America/Chihuahua
+Ora standard delle Figi: Pacific/Fiji
+Ora della Birmania: Asia/Yangon
+Ora standard del Cile: America/Santiago
+Ora dell’Indocina: Asia/Vientiane
+Ora standard dell’Atlantico: America/Kralendijk
+Ora dell’Africa centrale: Africa/Juba
+Ora standard di Tonga: Pacific/Tongatapu
+Ora standard di Irkutsk: Asia/Irkutsk
+GMT+06:00: Asia/Kashgar
+Ora standard delle Chatham: NZ-CHAT
+Ora standard della Cina: PRC
+Ora standard araba: Asia/Kuwait
+Ora del Bhutan: Asia/Thimbu
+Ora legale dell’Europa centrale: Europe/Busingen
+Ora legale dell’Atlantico: America/Glace_Bay
+Ora standard centrale USA: America/Belize
+Ora standard dell’India: Asia/Calcutta
+Ora di Singapore: Asia/Singapore
+Ora standard araba: Asia/Baghdad
+Ora di Singapore: Singapore
+Ora legale dell’Europa orientale: Asia/Nicosia
+Ora del meridiano di Greenwich: Atlantic/Reykjavik
+Ora standard dell’Argentina: America/Buenos_Aires
+Ora legale Montagne Rocciose USA: America/Boise
+Ora legale di Israele: Asia/Jerusalem
+Ora del meridiano di Greenwich: Africa/Ouagadougou
+Ora standard dell’Isola di Pasqua: Pacific/Easter
+Ora standard di Hong Kong: Asia/Hong_Kong
+GMT-03:00: Etc/GMT+3
+Ora standard dell’Uruguay: America/Montevideo
+Ora dell’Isola di Wake: Pacific/Wake
+Ora dell’Ecuador: America/Guayaquil
+Ora legale centrale USA: America/Winnipeg
+Ora standard Montagne Rocciose USA: US/Arizona
+Ora standard dell’Atlantico: America/Virgin
+Ora standard centrale USA: Canada/Saskatchewan
+GMT+04:00: Etc/GMT-4
+GMT+03:00: Turkey
+Ora standard dell’Atlantico: America/Guadeloupe
+Ora dell’Africa centrale: Africa/Windhoek
+Ora standard di Brasilia: Brazil/East
+Ora legale Montagne Rocciose USA: Navajo
+Ora standard dell’India: Asia/Colombo
+GMT-05:00: EST
+Ora legale centrale USA: America/North_Dakota/Beulah
+Ora di Tokelau: Pacific/Fakaofo
+Ora della Birmania: Asia/Rangoon
+Ora legale dell’Europa orientale: Europe/Mariehamn
+Ora standard dell’Atlantico: America/Santo_Domingo
+Ora standard della Nuova Zelanda: NZ
+Ora del meridiano di Greenwich: Etc/GMT+0
+Ora standard di Brasilia: America/Araguaina
+Ora standard dell’Atlantico: America/Aruba
+Ora legale dell’Europa orientale: Europe/Helsinki
+Ora di Tuvalu: Pacific/Funafuti
+Ora standard orientale USA: America/Jamaica
+Ora legale orientale USA: America/Indiana/Vevay
+Ora standard centrale USA: America/Swift_Current
+Ora standard dell’Argentina: America/Argentina/Mendoza
+Ora dell’Indocina: Asia/Saigon
+Ora legale dell’Alaska: America/Nome
+Ora dell’Africa orientale: Africa/Dar_es_Salaam
+GMT+13:00: Etc/GMT-13
+Ora legale orientale USA: America/Nipigon
+Ora legale Montagne Rocciose USA: America/Yellowknife
+Ora standard dell’Africa occidentale: Africa/Malabo
+Ora delle isole Gilbert: Pacific/Tarawa
+Ora standard di Brasilia: America/Maceio
+Tempo coordinato universale: Zulu
+Ora del Kazakistan occidentale: Asia/Oral
+Ora legale dell’Europa centrale: Europe/Vatican
+Ora standard dell’Argentina: America/Mendoza
+Ora legale centrale USA: America/Rankin_Inlet
+Ora legale del Regno Unito: GB
+Ora legale dell’Europa centrale: Poland
+Ora legale dell’Europa centrale: Europe/Amsterdam
+Ora legale dell’Europa orientale: Asia/Gaza
+Ora del Bhutan: Asia/Thimphu
+Ora legale del Pacifico USA: US/Pacific
+Ora legale dell’Europa occidentale: Atlantic/Faeroe
+Ora legale di Saint-Pierre e Miquelon: America/Miquelon
+Ora standard dell’Australia centrale: Australia/Darwin
+Ora standard di Vladivostok: Asia/Ust-Nera
+Ora legale della Groenlandia occidentale: America/Godthab
+Ora standard araba: Asia/Riyadh
+Ora standard dell’Amazzonia: America/Boa_Vista
+Ora legale di Cuba: Cuba
+Ora del meridiano di Greenwich: GMT-0
+Ora standard Montagne Rocciose USA: America/Fort_Nelson
+Ora standard delle Filippine: Asia/Manila
+GMT-05:00: America/Rio_Branco
+Ora legale centrale USA: America/Indiana/Tell_City
+Ora del Kazakistan occidentale: Asia/Qyzylorda
+Ora legale dell’Europa centrale: Europe/Sarajevo
+GMT+03:00: EET
+Ora standard di Mosca: W-SU
+Ora del Kazakistan orientale: Asia/Almaty
+Ora dell’Africa orientale: Indian/Comoro
+Ora dell’Indonesia orientale: Asia/Jayapura
+Ora legale orientale USA: America/Grand_Turk
+Ora standard di Apia: Pacific/Apia
+Ora della Guyana: America/Guyana
+GMT+01:00: Etc/GMT-1
+Ora delle Seychelles: Indian/Mahe
+Ora della Guiana francese: America/Cayenne
+GMT+14:00: Etc/GMT-14
+Ora standard di Magadan: Asia/Magadan
+Ora standard dell’Australia orientale: Australia/Queensland
+Ora legale del Pacifico USA: America/Los_Angeles
+Ora standard dell’Iran: Iran
+GMT+09:00: Etc/GMT-9
+GMT+01:00: WET
+Ora legale dell’Europa centrale: Atlantic/Jan_Mayen
+Ora del Kazakistan occidentale: Asia/Aqtau
+Ora legale centrale USA: Canada/Central
+Ora delle Isole Cocos: Indian/Cocos
+Ora legale Montagne Rocciose USA: America/Shiprock
+Ora legale dell’Europa centrale: Africa/Ceuta
+Ora del Kazakistan orientale: Asia/Qostanay
+Ora standard araba: Asia/Bahrain
+Ora standard dell’Africa occidentale: Africa/Niamey
+GMT-03:00: America/Punta_Arenas
+Ora standard araba: Asia/Qatar
+Ora standard della Nuova Zelanda: Pacific/Auckland
+Ora standard dell’Isola di Pasqua: Chile/EasterIsland
+Ora standard del Pakistan: Asia/Karachi
+Ora legale di Israele: Asia/Tel_Aviv
+Ora del Kosrae: Pacific/Kosrae
+Ora del meridiano di Greenwich: Africa/Accra
+Ora standard della Cina: Asia/Chongqing
+Ora standard dell’Australia centrale: Australia/Adelaide
+Ora legale orientale USA: America/Detroit
+Ora legale dell’Europa orientale: Europe/Sofia
+Ora dell’Indonesia occidentale: Asia/Jakarta
+Ora standard dell’Atlantico: America/Tortola
+Ora standard centrale USA: America/Merida
+Ora dell’Africa centrale: Africa/Lubumbashi
+Ora delle Isole della Fenice: Pacific/Enderbury
+Ora standard centrale USA: Mexico/General
+Ora del Brunei Darussalam: Asia/Brunei
+Ora legale centrale USA: America/Matamoros
+Ora dello Yukon: America/Dawson
+Ora standard di Samoa: Pacific/Samoa
+Ora legale di Cuba: America/Havana
+Ora di Mawson: Antarctica/Mawson
+Ora legale centrale USA: America/Chicago
+Ora standard della Cina: Asia/Macao
+Ora legale del Pacifico USA: America/Santa_Isabel
+Ora legale dell’Alaska: America/Anchorage
+Ora standard dell’Australia orientale: Australia/Canberra
+Ora del meridiano di Greenwich: Africa/Sao_Tome
+Ora legale delle Azzorre: Atlantic/Azores
+GMT-08:00: Etc/GMT+8
+Ora standard della Colombia: America/Bogota
+Ora del meridiano di Greenwich: Etc/GMT0
+Ora legale dell’Europa orientale: Europe/Bucharest
+Ora standard dell’Argentina: America/Rosario
+Ora standard dell’Australia centrale: Australia/South
+Ora dell’Africa orientale: Africa/Djibouti
+Ora standard dell’Iran: Asia/Tehran
+Ora dell’Africa orientale: Africa/Asmera
+Ora dell’Africa orientale: Africa/Mogadishu
+Ora standard dell’Amazzonia: America/Porto_Velho
+Ora legale Montagne Rocciose USA: America/Inuvik
+Ora dello Yukon: Canada/Yukon
+Ora legale dell’Europa centrale: Europe/Madrid
+GMT+03:00: Asia/Amman
+Ora standard del Cile: Chile/Continental
+Ora legale orientale USA: America/Fort_Wayne
+Ora di Palau: Pacific/Palau
+Ora del meridiano di Greenwich: Africa/Lome
+Ora standard di Novosibirsk: Asia/Novosibirsk
+Ora dell’Africa centrale: Africa/Gaborone
+Ora standard dell’Africa occidentale: Africa/Bangui
+Tempo coordinato universale: Etc/Universal
+Ora standard dell’Australia occidentale: Australia/West
+Ora dell’Africa centrale: Africa/Maputo
+Ora legale centrale USA: America/Rainy_River
+Ora standard dell’Uzbekistan: Asia/Tashkent
+Ora legale orientale USA: Canada/Eastern
+Tempo coordinato universale: Universal
+GMT+00:00: Factory
+Ora dell’Africa orientale: Africa/Nairobi
+Ora standard di Samoa: US/Samoa
+Ora standard dell’Argentina: America/Argentina/Ushuaia
+Ora legale di Terranova: Canada/Newfoundland
+Ora del meridiano di Greenwich: Iceland
+Ora di Dumont-d’Urville: Antarctica/DumontDUrville
+Ora legale dell’Europa centrale: Europe/Vienna
+Ora legale Montagne Rocciose USA: America/Edmonton
+Ora legale orientale USA: America/Iqaluit
+Ora della Malesia: Asia/Kuching
+Ora del meridiano di Greenwich: America/Danmarkshavn
+Ora standard della Nuova Zelanda: Antarctica/South_Pole
+Ora delle Pitcairn: Pacific/Pitcairn
+Ora standard dell’Africa occidentale: Africa/Kinshasa
+Ora standard di Ulan Bator: Asia/Choibalsan
+Ora standard di Fernando de Noronha: America/Noronha
+Ora legale dell’Europa centrale: Europe/Andorra
+GMT-05:00: Brazil/Acre
+GMT+02:00: MET
+Ora standard orientale USA: America/Cancun
+Ora standard di Sakhalin: Asia/Sakhalin
+Ora standard centrale USA: America/Guatemala
+Ora standard della Cina: Asia/Harbin
+Ora standard dell’Argentina: America/Argentina/Cordoba
+Ora del meridiano di Greenwich: Greenwich
+Tempo coordinato universale: UCT
+Ora di Gambier: Pacific/Gambier
+Ora standard Montagne Rocciose USA: America/Dawson_Creek
+Ora legale orientale USA: America/Indiana/Marengo
+Ora standard dell’Australia orientale: Australia/Sydney
+GMT+10:00: Etc/GMT-10
+Ora standard dell’Africa occidentale: Africa/Libreville
+Ora standard di Ekaterinburg: Asia/Yekaterinburg
+GMT+03:00: Asia/Damascus
+Ora standard dell’Australia orientale: Australia/ACT
+Ora standard centrale USA: America/Managua
+Ora standard coreana: ROK
+Ora del meridiano di Greenwich: Africa/Abidjan
+Ora del meridiano di Greenwich: Africa/Nouakchott
+Ora di Timor Est: Asia/Dili
+Ora standard di Capo Verde: Atlantic/Cape_Verde
+GMT+04:00: Europe/Saratov
+Ora standard delle Chatham: Pacific/Chatham
+Ora legale dell’Atlantico: America/Thule
+Ora dell’Africa centrale: Africa/Kigali
+Ora legale orientale USA: America/Indiana/Petersburg
+Ora standard orientale USA: America/Atikokan
+Ora standard centrale USA: America/Tegucigalpa
+Ora del meridiano di Greenwich: Eire
+Ora delle Isole della Fenice: Pacific/Kanton
+Ora legale dell’Atlantico: America/Halifax
+Ora legale dell’Alaska: US/Alaska
+Ora dell’Indocina: Asia/Bangkok
+Ora dell’Africa orientale: Indian/Mayotte
+Ora standard orientale USA: America/Cayman
+Ora standard dell’Atlantico: America/Dominica
+Ora legale orientale USA: America/Indiana/Indianapolis
+GMT+11:00: Etc/GMT-11
+Ora di Rothera: Antarctica/Rothera
+Ora delle Maldive: Indian/Maldives
+Ora dell’Africa orientale: Africa/Asmara
+GMT+01:00: Africa/Casablanca
+Ora legale orientale USA: America/New_York
+Ora legale orientale USA: America/Toronto
+Ora legale dell’Europa orientale: Europe/Tiraspol
+GMT+11:00: Pacific/Bougainville
+Ora legale orientale USA: America/Kentucky/Monticello
+GMT-02:00: Etc/GMT+2
+Ora standard di Lord Howe: Australia/Lord_Howe
+Ora legale dell’Europa orientale: Europe/Athens
+Ora standard dell’Australia centrale: Australia/Yancowinna
+Ora standard delle Isole Falkland: Atlantic/Stanley
+Ora legale del Pacifico USA: America/Tijuana
+Ora standard di Yakutsk: Asia/Khandyga
+Ora standard di Brasilia: America/Santarem
+Ora del Chuuk: Pacific/Chuuk
+Ora dell’Indocina: Asia/Phnom_Penh
+GMT+01:00: Europe/Isle_of_Man
+Ora legale dell’Europa centrale: Europe/Skopje
+Ora standard dell’Amazzonia: America/Manaus
+Ora legale Montagne Rocciose USA: MST7MDT
+Ora delle Isole Salomone: Pacific/Guadalcanal
+Ora della Malesia: Asia/Kuala_Lumpur
+Ora dell’Africa centrale: Africa/Harare
+Ora legale del Pacifico USA: Mexico/BajaNorte
+GMT-04:00: Etc/GMT+4
+Ora di Davis: Antarctica/Davis
+Ora legale dell’Europa orientale: Egypt
+Ora del Venezuela: America/Caracas
+Ora standard di Brasilia: America/Sao_Paulo
+Ora standard di Brasilia: America/Recife
+Ora legale dell’Europa centrale: Europe/Berlin
+Ora standard di Petropavlovsk-Kamchatski: Asia/Kamchatka
+Ora legale delle Isole Hawaii-Aleutine: US/Aleutian
+Ora del meridiano di Greenwich: Africa/Dakar
+Ora standard di Yakutsk: Asia/Yakutsk
+Ora dell’Africa centrale: Africa/Lusaka
+Ora del meridiano di Greenwich: Europe/Dublin
+Ora legale dell’Europa centrale: Europe/Vaduz
+Ora standard di Hovd: Asia/Hovd
+Ora legale dell’Europa centrale: Europe/Ljubljana
+Ora legale dell’Europa centrale: Europe/San_Marino
+Ora legale orientale USA: America/Kentucky/Louisville
+Ora standard della Cina: Asia/Shanghai
+Ora legale orientale USA: America/Montreal
+GMT+07:00: Asia/Barnaul
+Ora di Chamorro: Pacific/Guam
+Ora legale del Pacifico USA: PST8PDT
+Ora della Papua Nuova Guinea: Pacific/Port_Moresby
+Ora dell’Africa orientale: Africa/Kampala
+Ora legale dell’Europa orientale: Europe/Nicosia
+Ora legale del Pacifico USA: America/Vancouver
+Ora legale dell’Europa centrale: Europe/Malta
+Ora standard dell’Atlantico: America/Puerto_Rico
+Ora legale dell’Atlantico: Canada/Atlantic
+GMT-06:00: Etc/GMT+6
+Ora legale orientale USA: EST5EDT
+Ora standard dell’Atlantico: America/Curacao
+GMT+03:00: Asia/Istanbul
+Ora dell’Indonesia centrale: Asia/Ujung_Pandang
+Ora legale orientale USA: America/Indiana/Winamac
+Ora standard di Omsk: Asia/Omsk
+Ora legale dell’Europa orientale: Europe/Tallinn
+Ora standard dell’Argentina: America/Cordoba
+GMT-11:00: Etc/GMT+11

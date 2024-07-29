@@ -1,0 +1,597 @@
+hora de verano de Hawái-Aleutianas: America/Atka
+hora de Surinam: America/Paramaribo
+hora estándar de Turkmenistán: Asia/Ashkhabad
+hora de Nepal: Asia/Katmandu
+GMT+12:00: Etc/GMT-12
+hora estándar del Atlántico: America/St_Barthelemy
+hora estándar de Krasnoyarsk: Asia/Krasnoyarsk
+hora de verano de Europa central: Europe/Brussels
+hora estándar de Volgogrado: Europe/Volgograd
+hora de verano de la montaña: America/Denver
+hora estándar de Brasilia: America/Fortaleza
+hora de verano de Europa central: Europe/Podgorica
+hora de Georgia del Sur: Atlantic/South_Georgia
+hora estándar de África occidental: Africa/Ndjamena
+hora de verano oriental: America/Nassau
+hora estándar de Bangladés: Asia/Dhaka
+hora estándar de Paraguay: America/Asuncion
+hora estándar del Atlántico: America/Blanc-Sablon
+hora de verano central: America/Indiana/Knox
+hora estándar de Bangladés: Asia/Dacca
+hora estándar de Australia oriental: Antarctica/Macquarie
+hora estándar de Moscú: Europe/Moscow
+hora universal coordinada: UTC
+hora estándar de Corea: Asia/Seoul
+hora de verano de Europa del Este: Europe/Riga
+hora de África central: Africa/Blantyre
+hora estándar de Argentina: America/Argentina/Salta
+hora estándar de Argentina: America/Argentina/Buenos_Aires
+hora estándar de Europa central: Africa/Algiers
+hora estándar de Australia oriental: Australia/Tasmania
+hora de verano central: US/Indiana-Starke
+hora estándar de Samoa: Pacific/Midway
+hora de verano de la montaña: America/Ciudad_Juarez
+GMT-10:00: HST
+GMT+11:00: Asia/Srednekolymsk
+hora estándar de Australia oriental: Australia/Hobart
+hora de verano del Atlántico: Atlantic/Bermuda
+hora universal coordinada: Etc/UCT
+hora de las Tierras Australes y Antárticas Francesas: Indian/Kerguelen
+hora de verano de Europa del Oeste: Atlantic/Faroe
+hora estándar del Amazonas: America/Campo_Grande
+hora estándar de Lord Howe: Australia/LHI
+hora estándar de Mauricio: Indian/Mauritius
+GMT+02:00: CET
+hora estándar de Europa del Este: Libya
+GMT-07:00: Etc/GMT+7
+GMT+08:00: Etc/GMT-8
+hora del meridiano de Greenwich: Atlantic/St_Helena
+hora de Pohnpei: Pacific/Pohnpei
+GMT-01:00: Etc/GMT+1
+hora de verano de Europa del Este: Europe/Kyiv
+GMT+05:00: Etc/GMT-5
+hora de Reunión: Indian/Reunion
+GMT-03:00: Antarctica/Palmer
+hora estándar central: America/Bahia_Banderas
+hora estándar de Argentina: America/Jujuy
+hora estándar de Yakutsk: Asia/Chita
+hora de verano de la montaña: US/Mountain
+hora estándar de Krasnoyarsk: Asia/Novokuznetsk
+GMT+06:00: Etc/GMT-6
+hora estándar de Australia oriental: Australia/Currie
+hora de Nepal: Asia/Kathmandu
+hora de verano de Terranova: America/St_Johns
+hora de Kazajistán occidental: Asia/Aqtobe
+hora del meridiano de Greenwich: GMT+0
+GMT+04:00: Europe/Astrakhan
+GMT+01:00: Europe/Guernsey
+hora estándar del Atlántico: America/Martinique
+hora de verano oriental: US/East-Indiana
+hora de verano de Europa central: Arctic/Longyearbyen
+hora estándar central: America/Mexico_City
+hora estándar de Argentina: America/Argentina/ComodRivadavia
+hora de verano del Pacífico: Canada/Pacific
+GMT+08:00: Antarctica/Casey
+hora de África central: Africa/Bujumbura
+Hora estándar de Acre: America/Eirunepe
+hora estándar de Japón: Asia/Tokyo
+hora de verano de Europa central: Europe/Bratislava
+hora estándar de Australia oriental: Australia/Melbourne
+hora estándar oriental: America/Panama
+hora de verano de Europa del Este: Asia/Beirut
+hora de África oriental: Indian/Antananarivo
+hora estándar de Uzbekistán: Asia/Samarkand
+hora estándar de Perú: America/Lima
+hora estándar del Atlántico: America/St_Thomas
+hora de Indonesia occidental: Asia/Pontianak
+hora estándar del Pacífico de México: Mexico/BajaSur
+hora del meridiano de Greenwich: Etc/GMT
+hora estándar de África occidental: Africa/Luanda
+hora estándar del Atlántico: America/St_Lucia
+hora estándar del Atlántico: America/Barbados
+hora de Sudáfrica: Africa/Maseru
+hora estándar del Pacífico de México: America/Mazatlan
+hora de Marquesas: Pacific/Marquesas
+hora de verano oriental: America/Thunder_Bay
+hora estándar del Amazonas: America/Cuiaba
+hora de Islas Marshall: Pacific/Majuro
+hora de África oriental: Africa/Addis_Ababa
+hora estándar de Nueva Zelanda: Antarctica/McMurdo
+hora de verano de Europa central: Europe/Warsaw
+hora de verano central: America/Knox_IN
+hora de Islas Marshall: Pacific/Kwajalein
+hora estándar del Amazonas: Brazil/West
+GMT+03:00: Etc/GMT-3
+hora estándar del Atlántico: America/St_Vincent
+hora estándar del Atlántico: America/Marigot
+hora estándar de Taipéi: Asia/Taipei
+hora de verano oriental: US/Eastern
+hora de Islas Marshall: Kwajalein
+hora estándar de Argentina: America/Argentina/Jujuy
+GMT-05:00: Etc/GMT+5
+hora de verano de Europa central: Europe/Zagreb
+hora de verano oriental: America/Port-au-Prince
+hora estándar de Australia central: Australia/North
+hora del meridiano de Greenwich: GMT
+hora estándar de Europa central: Africa/Tunis
+hora de Afganistán: Asia/Kabul
+hora de verano de Alaska: America/Juneau
+GMT+07:00: Asia/Tomsk
+hora de Sudáfrica: Africa/Mbabane
+hora estándar de África occidental: Africa/Porto-Novo
+hora estándar del Golfo: Asia/Muscat
+hora estándar de Argentina: America/Argentina/San_Luis
+hora estándar de Australia centroccidental: Australia/Eucla
+hora estándar del Atlántico: America/Anguilla
+hora de verano de Europa central: Europe/Gibraltar
+hora de verano de Europa central: Europe/Prague
+hora de verano de Europa del Este: Europe/Zaporozhye
+hora estándar de Corea: Asia/Pyongyang
+hora de verano de Europa central: Europe/Zurich
+hora de Kazajistán occidental: Asia/Atyrau
+hora de verano oriental: America/Indiana/Vincennes
+hora estándar de Argentina: America/Argentina/Catamarca
+hora de verano de Europa central: Europe/Stockholm
+hora universal coordinada: Etc/UTC
+hora estándar de África occidental: Africa/Lagos
+hora estándar de Argentina: America/Argentina/La_Rioja
+hora estándar del Golfo: Asia/Dubai
+hora estándar de Ulán Bator: Asia/Ulaanbaatar
+hora estándar de Fernando de Noronha: Brazil/DeNoronha
+hora del meridiano de Greenwich: Africa/Bissau
+hora estándar de Georgia: Asia/Tbilisi
+hora estándar del Atlántico: America/St_Kitts
+hora estándar de África occidental: Africa/Douala
+hora de verano del Atlántico: America/Goose_Bay
+hora de verano oriental: America/Indianapolis
+hora de verano de Europa central: Europe/Rome
+hora estándar de Hawái-Aleutianas: Pacific/Johnston
+hora de verano de Europa del Este: Asia/Hebron
+hora estándar de Australia oriental: Australia/Victoria
+hora de verano central: CST6CDT
+hora de verano oriental: US/Michigan
+hora estándar de Vladivostok: Asia/Vladivostok
+hora de Sudáfrica: Africa/Johannesburg
+GMT+03:00: Asia/Famagusta
+hora de verano de Israel: Israel
+hora de Chuuk: Pacific/Yap
+GMT-09:00: Etc/GMT+9
+hora de África central: Africa/Khartoum
+hora estándar de Samara: Europe/Samara
+hora de Wallis y Futuna: Pacific/Wallis
+hora de Vostok: Antarctica/Vostok
+hora de Galápagos: Pacific/Galapagos
+hora de Bolivia: America/La_Paz
+hora estándar del Atlántico: America/Port_of_Spain
+hora estándar oriental: America/Coral_Harbour
+hora de verano central: America/North_Dakota/Center
+hora estándar de la montaña: America/Creston
+hora estándar del Atlántico: America/Grenada
+GMT+01:00: Europe/Jersey
+hora estándar de Chamorro: Pacific/Saipan
+hora estándar oriental: Jamaica
+hora estándar del Atlántico: America/Lower_Princes
+hora universal coordinada: Etc/Zulu
+hora de Pohnpei: Pacific/Ponape
+hora estándar de Samoa: Pacific/Pago_Pago
+hora de verano de Europa del Este: Africa/Cairo
+hora de verano de Europa central: Europe/Budapest
+GMT-10:00: Etc/GMT+10
+hora de verano de Europa central: Europe/Tirane
+hora de verano de Europa central: Europe/Belgrade
+hora estándar central: America/El_Salvador
+hora de verano central: America/Menominee
+hora de verano británica: GB-Eire
+hora estándar de Hawái-Aleutianas: US/Hawaii
+hora estándar de Azerbaiyán: Asia/Baku
+hora estándar de África occidental: Africa/Brazzaville
+hora de la Isla de Navidad: Indian/Christmas
+GMT+02:00: Antarctica/Troll
+hora de verano de Groenlandia occidental: America/Nuuk
+hora de verano de Europa del Oeste: Atlantic/Madeira
+hora estándar de Turkmenistán: Asia/Ashgabat
+hora del meridiano de Greenwich: Etc/GMT-0
+hora del meridiano de Greenwich: Africa/Timbuktu
+GMT+07:00: Etc/GMT-7
+GMT+06:00: Asia/Urumqi
+hora estándar de Australia oriental: Australia/Brisbane
+hora estándar de Hong Kong: Hongkong
+hora estándar de la montaña: America/Phoenix
+hora del meridiano de Greenwich: Africa/Bamako
+hora estándar de Taipéi: ROC
+hora estándar central: America/Costa_Rica
+hora de Tayikistán: Asia/Dushanbe
+hora de verano de Hawái-Aleutianas: America/Adak
+hora de Niue: Pacific/Niue
+GMT+03:00: Europe/Istanbul
+hora estándar de China: Asia/Macau
+hora estándar de Brasilia: America/Belem
+hora de verano central: America/North_Dakota/New_Salem
+hora estándar central: America/Monterrey
+hora estándar del Atlántico: America/Montserrat
+hora estándar de Japón: Japan
+hora estándar de Europa del Este: Europe/Kaliningrad
+hora estándar de Argentina: America/Argentina/Rio_Gallegos
+hora estándar central: America/Regina
+hora del meridiano de Greenwich: Africa/Freetown
+hora estándar de Armenia: Asia/Yerevan
+hora de verano británica: Europe/Belfast
+hora estándar de Europa del Este: Africa/Tripoli
+hora estándar de Ulán Bator: Asia/Ulan_Bator
+hora de Syowa: Antarctica/Syowa
+hora estándar de Argentina: America/Catamarca
+hora estándar de Australia oriental: Australia/Lindeman
+hora de verano central: US/Central
+hora estándar de Argentina: America/Argentina/San_Juan
+hora de Yukón: America/Whitehorse
+hora del meridiano de Greenwich: Africa/Banjul
+GMT+01:00: Africa/El_Aaiun
+hora de verano de la montaña: America/Cambridge_Bay
+hora estándar del Atlántico: America/Antigua
+hora de las Espóradas Ecuatoriales: Pacific/Kiritimati
+hora estándar de Arabia: Asia/Aden
+hora de verano oriental: America/Louisville
+hora de verano de Alaska: America/Sitka
+hora de verano de Europa del Este: Europe/Uzhgorod
+hora estándar de Nueva Caledonia: Pacific/Noumea
+hora de verano de Europa del Este: Europe/Kiev
+hora estándar de Australia oriental: Australia/NSW
+hora de verano central: America/Resolute
+hora del meridiano de Greenwich: GMT0
+hora estándar de Australia occidental: Australia/Perth
+hora estándar de Moscú: Europe/Simferopol
+hora estándar de Australia central: Australia/Broken_Hill
+hora estándar de Vanuatu: Pacific/Efate
+hora de verano de Europa del Oeste: Atlantic/Canary
+hora de Tahití: Pacific/Tahiti
+hora de verano de Europa central: Europe/Copenhagen
+hora de verano de Alaska: America/Metlakatla
+hora de verano británica: Europe/London
+GMT-12:00: Etc/GMT+12
+hora de Indonesia central: Asia/Makassar
+hora estándar del Pacífico de México: America/Hermosillo
+hora de verano del Atlántico: America/Moncton
+hora del océano Índico: Indian/Chagos
+hora de verano de Europa del Oeste: Portugal
+hora de verano de Europa central: Europe/Monaco
+hora estándar de Hawái-Aleutianas: Pacific/Honolulu
+GMT+02:00: Etc/GMT-2
+hora de Indochina: Asia/Ho_Chi_Minh
+hora estándar de las islas Cook: Pacific/Rarotonga
+hora de verano oriental: America/Pangnirtung
+Hora estándar de Acre: America/Porto_Acre
+hora del meridiano de Greenwich: Africa/Monrovia
+hora del meridiano de Greenwich: Etc/Greenwich
+hora estándar de la Isla Norfolk: Pacific/Norfolk
+hora de Chuuk: Pacific/Truk
+GMT-07:00: MST
+hora de verano central: America/Ojinaga
+hora estándar de China: Asia/Chungking
+hora de verano de Europa del Oeste: Europe/Lisbon
+hora de verano de Europa del Este: Europe/Vilnius
+hora de verano de Alaska: America/Yakutat
+hora de verano del Pacífico: America/Ensenada
+hora de Nauru: Pacific/Nauru
+hora de verano de Europa del Este: Europe/Chisinau
+GMT+03:00: Europe/Kirov
+hora de verano de Europa central: Europe/Oslo
+hora estándar de Brasilia: America/Bahia
+hora de India: Asia/Kolkata
+GMT+04:00: Europe/Ulyanovsk
+hora de verano de la montaña: Canada/Mountain
+hora de verano de Europa central: Europe/Luxembourg
+hora del meridiano de Greenwich: Africa/Conakry
+hora estándar de Argentina: America/Argentina/Tucuman
+hora de Kirguistán: Asia/Bishkek
+hora estándar de Anadyr: Asia/Anadyr
+hora estándar de Moscú: Europe/Minsk
+hora de verano de Groenlandia oriental: America/Scoresbysund
+hora de verano de Europa central: Europe/Paris
+hora estándar central: America/Chihuahua
+hora estándar de Fiyi: Pacific/Fiji
+hora de Myanmar (Birmania): Asia/Yangon
+hora estándar de Chile: America/Santiago
+hora de Indochina: Asia/Vientiane
+hora estándar del Atlántico: America/Kralendijk
+hora de África central: Africa/Juba
+hora estándar de Tonga: Pacific/Tongatapu
+hora estándar de Irkutsk: Asia/Irkutsk
+GMT+06:00: Asia/Kashgar
+hora estándar de Chatham: NZ-CHAT
+hora estándar de China: PRC
+hora estándar de Arabia: Asia/Kuwait
+hora de Bután: Asia/Thimbu
+hora de verano de Europa central: Europe/Busingen
+hora de verano del Atlántico: America/Glace_Bay
+hora estándar central: America/Belize
+hora de India: Asia/Calcutta
+hora de Singapur: Asia/Singapore
+hora estándar de Arabia: Asia/Baghdad
+hora de Singapur: Singapore
+hora de verano de Europa del Este: Asia/Nicosia
+hora del meridiano de Greenwich: Atlantic/Reykjavik
+hora estándar de Argentina: America/Buenos_Aires
+hora de verano de la montaña: America/Boise
+hora de verano de Israel: Asia/Jerusalem
+hora del meridiano de Greenwich: Africa/Ouagadougou
+hora estándar de Isla de Pascua: Pacific/Easter
+hora estándar de Hong Kong: Asia/Hong_Kong
+GMT-03:00: Etc/GMT+3
+hora estándar de Uruguay: America/Montevideo
+hora de Isla Wake: Pacific/Wake
+hora de Ecuador: America/Guayaquil
+hora de verano central: America/Winnipeg
+hora estándar de la montaña: US/Arizona
+hora estándar del Atlántico: America/Virgin
+hora estándar central: Canada/Saskatchewan
+GMT+04:00: Etc/GMT-4
+GMT+03:00: Turkey
+hora estándar del Atlántico: America/Guadeloupe
+hora de África central: Africa/Windhoek
+hora estándar de Brasilia: Brazil/East
+hora de verano de la montaña: Navajo
+hora de India: Asia/Colombo
+GMT-05:00: EST
+hora de verano central: America/North_Dakota/Beulah
+hora de Tokelau: Pacific/Fakaofo
+hora de Myanmar (Birmania): Asia/Rangoon
+hora de verano de Europa del Este: Europe/Mariehamn
+hora estándar del Atlántico: America/Santo_Domingo
+hora estándar de Nueva Zelanda: NZ
+hora del meridiano de Greenwich: Etc/GMT+0
+hora estándar de Brasilia: America/Araguaina
+hora estándar del Atlántico: America/Aruba
+hora de verano de Europa del Este: Europe/Helsinki
+hora de Tuvalu: Pacific/Funafuti
+hora estándar oriental: America/Jamaica
+hora de verano oriental: America/Indiana/Vevay
+hora estándar central: America/Swift_Current
+hora estándar de Argentina: America/Argentina/Mendoza
+hora de Indochina: Asia/Saigon
+hora de verano de Alaska: America/Nome
+hora de África oriental: Africa/Dar_es_Salaam
+GMT+13:00: Etc/GMT-13
+hora de verano oriental: America/Nipigon
+hora de verano de la montaña: America/Yellowknife
+hora estándar de África occidental: Africa/Malabo
+hora de Islas Gilbert: Pacific/Tarawa
+hora estándar de Brasilia: America/Maceio
+hora universal coordinada: Zulu
+hora de Kazajistán occidental: Asia/Oral
+hora de verano de Europa central: Europe/Vatican
+hora estándar de Argentina: America/Mendoza
+hora de verano central: America/Rankin_Inlet
+hora de verano británica: GB
+hora de verano de Europa central: Poland
+hora de verano de Europa central: Europe/Amsterdam
+hora de verano de Europa del Este: Asia/Gaza
+hora de Bután: Asia/Thimphu
+hora de verano del Pacífico: US/Pacific
+hora de verano de Europa del Oeste: Atlantic/Faeroe
+hora de verano de San Pedro y Miquelón: America/Miquelon
+hora estándar de Australia central: Australia/Darwin
+hora estándar de Vladivostok: Asia/Ust-Nera
+hora de verano de Groenlandia occidental: America/Godthab
+hora estándar de Arabia: Asia/Riyadh
+hora estándar del Amazonas: America/Boa_Vista
+hora de verano de Cuba: Cuba
+hora del meridiano de Greenwich: GMT-0
+hora estándar de la montaña: America/Fort_Nelson
+hora estándar de Filipinas: Asia/Manila
+Hora estándar de Acre: America/Rio_Branco
+hora de verano central: America/Indiana/Tell_City
+hora de Kazajistán occidental: Asia/Qyzylorda
+hora de verano de Europa central: Europe/Sarajevo
+GMT+03:00: EET
+hora estándar de Moscú: W-SU
+hora de Kazajistán oriental: Asia/Almaty
+hora de África oriental: Indian/Comoro
+hora de Indonesia oriental: Asia/Jayapura
+hora de verano oriental: America/Grand_Turk
+hora estándar de Apia: Pacific/Apia
+hora de Guyana: America/Guyana
+GMT+01:00: Etc/GMT-1
+hora de Seychelles: Indian/Mahe
+hora de la Guayana Francesa: America/Cayenne
+GMT+14:00: Etc/GMT-14
+hora estándar de Magadán: Asia/Magadan
+hora estándar de Australia oriental: Australia/Queensland
+hora de verano del Pacífico: America/Los_Angeles
+hora estándar de Irán: Iran
+GMT+09:00: Etc/GMT-9
+GMT+01:00: WET
+hora de verano de Europa central: Atlantic/Jan_Mayen
+hora de Kazajistán occidental: Asia/Aqtau
+hora de verano central: Canada/Central
+hora de Islas Cocos: Indian/Cocos
+hora de verano de la montaña: America/Shiprock
+hora de verano de Europa central: Africa/Ceuta
+hora de Kazajistán oriental: Asia/Qostanay
+hora estándar de Arabia: Asia/Bahrain
+hora estándar de África occidental: Africa/Niamey
+GMT-03:00: America/Punta_Arenas
+hora estándar de Arabia: Asia/Qatar
+hora estándar de Nueva Zelanda: Pacific/Auckland
+hora estándar de Isla de Pascua: Chile/EasterIsland
+hora estándar de Pakistán: Asia/Karachi
+hora de verano de Israel: Asia/Tel_Aviv
+hora de Kosrae: Pacific/Kosrae
+hora del meridiano de Greenwich: Africa/Accra
+hora estándar de China: Asia/Chongqing
+hora estándar de Australia central: Australia/Adelaide
+hora de verano oriental: America/Detroit
+hora de verano de Europa del Este: Europe/Sofia
+hora de Indonesia occidental: Asia/Jakarta
+hora estándar del Atlántico: America/Tortola
+hora estándar central: America/Merida
+hora de África central: Africa/Lubumbashi
+hora de las Islas Fénix: Pacific/Enderbury
+hora estándar central: Mexico/General
+hora de Brunéi: Asia/Brunei
+hora de verano central: America/Matamoros
+hora de Yukón: America/Dawson
+hora estándar de Samoa: Pacific/Samoa
+hora de verano de Cuba: America/Havana
+hora de Mawson: Antarctica/Mawson
+hora de verano central: America/Chicago
+hora estándar de China: Asia/Macao
+hora de verano del Pacífico: America/Santa_Isabel
+hora de verano de Alaska: America/Anchorage
+hora estándar de Australia oriental: Australia/Canberra
+hora del meridiano de Greenwich: Africa/Sao_Tome
+hora de verano de las Azores: Atlantic/Azores
+GMT-08:00: Etc/GMT+8
+hora estándar de Colombia: America/Bogota
+hora del meridiano de Greenwich: Etc/GMT0
+hora de verano de Europa del Este: Europe/Bucharest
+hora estándar de Argentina: America/Rosario
+hora estándar de Australia central: Australia/South
+hora de África oriental: Africa/Djibouti
+hora estándar de Irán: Asia/Tehran
+hora de África oriental: Africa/Asmera
+hora de África oriental: Africa/Mogadishu
+hora estándar del Amazonas: America/Porto_Velho
+hora de verano de la montaña: America/Inuvik
+hora de Yukón: Canada/Yukon
+hora de verano de Europa central: Europe/Madrid
+GMT+03:00: Asia/Amman
+hora estándar de Chile: Chile/Continental
+hora de verano oriental: America/Fort_Wayne
+hora de Palaos: Pacific/Palau
+hora del meridiano de Greenwich: Africa/Lome
+hora estándar de Novosibirsk: Asia/Novosibirsk
+hora de África central: Africa/Gaborone
+hora estándar de África occidental: Africa/Bangui
+hora universal coordinada: Etc/Universal
+hora estándar de Australia occidental: Australia/West
+hora de África central: Africa/Maputo
+hora de verano central: America/Rainy_River
+hora estándar de Uzbekistán: Asia/Tashkent
+hora de verano oriental: Canada/Eastern
+hora universal coordinada: Universal
+GMT+00:00: Factory
+hora de África oriental: Africa/Nairobi
+hora estándar de Samoa: US/Samoa
+hora estándar de Argentina: America/Argentina/Ushuaia
+hora de verano de Terranova: Canada/Newfoundland
+hora del meridiano de Greenwich: Iceland
+hora de Dumont-d’Urville: Antarctica/DumontDUrville
+hora de verano de Europa central: Europe/Vienna
+hora de verano de la montaña: America/Edmonton
+hora de verano oriental: America/Iqaluit
+hora de Malasia: Asia/Kuching
+hora del meridiano de Greenwich: America/Danmarkshavn
+hora estándar de Nueva Zelanda: Antarctica/South_Pole
+hora de Pitcairn: Pacific/Pitcairn
+hora estándar de África occidental: Africa/Kinshasa
+hora estándar de Ulán Bator: Asia/Choibalsan
+hora estándar de Fernando de Noronha: America/Noronha
+hora de verano de Europa central: Europe/Andorra
+Hora estándar de Acre: Brazil/Acre
+GMT+02:00: MET
+hora estándar oriental: America/Cancun
+hora estándar de Sajalín: Asia/Sakhalin
+hora estándar central: America/Guatemala
+hora estándar de China: Asia/Harbin
+hora estándar de Argentina: America/Argentina/Cordoba
+hora del meridiano de Greenwich: Greenwich
+hora universal coordinada: UCT
+hora de Gambier: Pacific/Gambier
+hora estándar de la montaña: America/Dawson_Creek
+hora de verano oriental: America/Indiana/Marengo
+hora estándar de Australia oriental: Australia/Sydney
+GMT+10:00: Etc/GMT-10
+hora estándar de África occidental: Africa/Libreville
+hora estándar de Ekaterimburgo: Asia/Yekaterinburg
+GMT+03:00: Asia/Damascus
+hora estándar de Australia oriental: Australia/ACT
+hora estándar central: America/Managua
+hora estándar de Corea: ROK
+hora del meridiano de Greenwich: Africa/Abidjan
+hora del meridiano de Greenwich: Africa/Nouakchott
+hora de Timor Oriental: Asia/Dili
+hora estándar de Cabo Verde: Atlantic/Cape_Verde
+GMT+04:00: Europe/Saratov
+hora estándar de Chatham: Pacific/Chatham
+hora de verano del Atlántico: America/Thule
+hora de África central: Africa/Kigali
+hora de verano oriental: America/Indiana/Petersburg
+hora estándar oriental: America/Atikokan
+hora estándar central: America/Tegucigalpa
+hora del meridiano de Greenwich: Eire
+hora de las Islas Fénix: Pacific/Kanton
+hora de verano del Atlántico: America/Halifax
+hora de verano de Alaska: US/Alaska
+hora de Indochina: Asia/Bangkok
+hora de África oriental: Indian/Mayotte
+hora estándar oriental: America/Cayman
+hora estándar del Atlántico: America/Dominica
+hora de verano oriental: America/Indiana/Indianapolis
+GMT+11:00: Etc/GMT-11
+hora de Rothera: Antarctica/Rothera
+hora de Maldivas: Indian/Maldives
+hora de África oriental: Africa/Asmara
+GMT+01:00: Africa/Casablanca
+hora de verano oriental: America/New_York
+hora de verano oriental: America/Toronto
+hora de verano de Europa del Este: Europe/Tiraspol
+GMT+11:00: Pacific/Bougainville
+hora de verano oriental: America/Kentucky/Monticello
+GMT-02:00: Etc/GMT+2
+hora estándar de Lord Howe: Australia/Lord_Howe
+hora de verano de Europa del Este: Europe/Athens
+hora estándar de Australia central: Australia/Yancowinna
+hora estándar de las Islas Malvinas: Atlantic/Stanley
+hora de verano del Pacífico: America/Tijuana
+hora estándar de Yakutsk: Asia/Khandyga
+hora estándar de Brasilia: America/Santarem
+hora de Chuuk: Pacific/Chuuk
+hora de Indochina: Asia/Phnom_Penh
+GMT+01:00: Europe/Isle_of_Man
+hora de verano de Europa central: Europe/Skopje
+hora estándar del Amazonas: America/Manaus
+hora de verano de la montaña: MST7MDT
+hora de Islas Salomón: Pacific/Guadalcanal
+hora de Malasia: Asia/Kuala_Lumpur
+hora de África central: Africa/Harare
+hora de verano del Pacífico: Mexico/BajaNorte
+GMT-04:00: Etc/GMT+4
+hora de Davis: Antarctica/Davis
+hora de verano de Europa del Este: Egypt
+hora de Venezuela: America/Caracas
+hora estándar de Brasilia: America/Sao_Paulo
+hora estándar de Brasilia: America/Recife
+hora de verano de Europa central: Europe/Berlin
+hora estándar de Kamchatka: Asia/Kamchatka
+hora de verano de Hawái-Aleutianas: US/Aleutian
+hora del meridiano de Greenwich: Africa/Dakar
+hora estándar de Yakutsk: Asia/Yakutsk
+hora de África central: Africa/Lusaka
+hora del meridiano de Greenwich: Europe/Dublin
+hora de verano de Europa central: Europe/Vaduz
+hora estándar de Hovd: Asia/Hovd
+hora de verano de Europa central: Europe/Ljubljana
+hora de verano de Europa central: Europe/San_Marino
+hora de verano oriental: America/Kentucky/Louisville
+hora estándar de China: Asia/Shanghai
+hora de verano oriental: America/Montreal
+GMT+07:00: Asia/Barnaul
+hora estándar de Chamorro: Pacific/Guam
+hora de verano del Pacífico: PST8PDT
+hora de Papúa Nueva Guinea: Pacific/Port_Moresby
+hora de África oriental: Africa/Kampala
+hora de verano de Europa del Este: Europe/Nicosia
+hora de verano del Pacífico: America/Vancouver
+hora de verano de Europa central: Europe/Malta
+hora estándar del Atlántico: America/Puerto_Rico
+hora de verano del Atlántico: Canada/Atlantic
+GMT-06:00: Etc/GMT+6
+hora de verano oriental: EST5EDT
+hora estándar del Atlántico: America/Curacao
+GMT+03:00: Asia/Istanbul
+hora de Indonesia central: Asia/Ujung_Pandang
+hora de verano oriental: America/Indiana/Winamac
+hora estándar de Omsk: Asia/Omsk
+hora de verano de Europa del Este: Europe/Tallinn
+hora estándar de Argentina: America/Cordoba
+GMT-11:00: Etc/GMT+11

@@ -1,0 +1,597 @@
+Havajų–Aleutų vasaros laikas: America/Atka
+Surinamo laikas: America/Paramaribo
+Turkmėnistano žiemos laikas: Asia/Ashkhabad
+Nepalo laikas: Asia/Katmandu
+GMT+12:00: Etc/GMT-12
+Atlanto žiemos laikas: America/St_Barthelemy
+Krasnojarsko žiemos laikas: Asia/Krasnoyarsk
+Vidurio Europos vasaros laikas: Europe/Brussels
+Volgogrado žiemos laikas: Europe/Volgograd
+Šiaurės Amerikos kalnų vasaros laikas: America/Denver
+Brazilijos žiemos laikas: America/Fortaleza
+Vidurio Europos vasaros laikas: Europe/Podgorica
+Pietų Džordžijos laikas: Atlantic/South_Georgia
+Vakarų Afrikos žiemos laikas: Africa/Ndjamena
+Šiaurės Amerikos rytų vasaros laikas: America/Nassau
+Bangladešo žiemos laikas: Asia/Dhaka
+Paragvajaus žiemos laikas: America/Asuncion
+Atlanto žiemos laikas: America/Blanc-Sablon
+Šiaurės Amerikos centro vasaros laikas: America/Indiana/Knox
+Bangladešo žiemos laikas: Asia/Dacca
+Rytų Australijos žiemos laikas: Antarctica/Macquarie
+Maskvos žiemos laikas: Europe/Moscow
+pasaulio suderintasis laikas: UTC
+Korėjos žiemos laikas: Asia/Seoul
+Rytų Europos vasaros laikas: Europe/Riga
+Centrinės Afrikos laikas: Africa/Blantyre
+Argentinos žiemos laikas: America/Argentina/Salta
+Argentinos žiemos laikas: America/Argentina/Buenos_Aires
+Vidurio Europos žiemos laikas: Africa/Algiers
+Rytų Australijos žiemos laikas: Australia/Tasmania
+Šiaurės Amerikos centro vasaros laikas: US/Indiana-Starke
+Samoa žiemos laikas: Pacific/Midway
+Šiaurės Amerikos kalnų vasaros laikas: America/Ciudad_Juarez
+GMT-10:00: HST
+GMT+11:00: Asia/Srednekolymsk
+Rytų Australijos žiemos laikas: Australia/Hobart
+Atlanto vasaros laikas: Atlantic/Bermuda
+pasaulio suderintasis laikas: Etc/UCT
+Pietų Prancūzijos ir antarktinis laikas: Indian/Kerguelen
+Vakarų Europos vasaros laikas: Atlantic/Faroe
+Amazonės žiemos laikas: America/Campo_Grande
+Lordo Hau žiemos laikas: Australia/LHI
+Mauricijaus žiemos laikas: Indian/Mauritius
+GMT+02:00: CET
+Rytų Europos žiemos laikas: Libya
+GMT-07:00: Etc/GMT+7
+GMT+08:00: Etc/GMT-8
+Grinvičo laikas: Atlantic/St_Helena
+Ponapės laikas: Pacific/Pohnpei
+GMT-01:00: Etc/GMT+1
+Rytų Europos vasaros laikas: Europe/Kyiv
+GMT+05:00: Etc/GMT-5
+Reunjono laikas: Indian/Reunion
+GMT-03:00: Antarctica/Palmer
+Šiaurės Amerikos centro žiemos laikas: America/Bahia_Banderas
+Argentinos žiemos laikas: America/Jujuy
+Jakutsko žiemos laikas: Asia/Chita
+Šiaurės Amerikos kalnų vasaros laikas: US/Mountain
+Krasnojarsko žiemos laikas: Asia/Novokuznetsk
+GMT+06:00: Etc/GMT-6
+Rytų Australijos žiemos laikas: Australia/Currie
+Nepalo laikas: Asia/Kathmandu
+Niufaundlendo vasaros laikas: America/St_Johns
+Vakarų Kazachstano laikas: Asia/Aqtobe
+Grinvičo laikas: GMT+0
+GMT+04:00: Europe/Astrakhan
+GMT+01:00: Europe/Guernsey
+Atlanto žiemos laikas: America/Martinique
+Šiaurės Amerikos rytų vasaros laikas: US/East-Indiana
+Vidurio Europos vasaros laikas: Arctic/Longyearbyen
+Šiaurės Amerikos centro žiemos laikas: America/Mexico_City
+Argentinos žiemos laikas: America/Argentina/ComodRivadavia
+Šiaurės Amerikos Ramiojo vandenyno vasaros laikas: Canada/Pacific
+Keisio laikas: Antarctica/Casey
+Centrinės Afrikos laikas: Africa/Bujumbura
+Ako standartinis laikas: America/Eirunepe
+Japonijos žiemos laikas: Asia/Tokyo
+Vidurio Europos vasaros laikas: Europe/Bratislava
+Rytų Australijos žiemos laikas: Australia/Melbourne
+Šiaurės Amerikos rytų žiemos laikas: America/Panama
+Rytų Europos vasaros laikas: Asia/Beirut
+Rytų Afrikos laikas: Indian/Antananarivo
+Uzbekistano žiemos laikas: Asia/Samarkand
+Peru žiemos laikas: America/Lima
+Atlanto žiemos laikas: America/St_Thomas
+Vakarų Indonezijos laikas: Asia/Pontianak
+Meksikos Ramiojo vandenyno žiemos laikas: Mexico/BajaSur
+Grinvičo laikas: Etc/GMT
+Vakarų Afrikos žiemos laikas: Africa/Luanda
+Atlanto žiemos laikas: America/St_Lucia
+Atlanto žiemos laikas: America/Barbados
+Pietų Afrikos laikas: Africa/Maseru
+Meksikos Ramiojo vandenyno žiemos laikas: America/Mazatlan
+Markizo Salų laikas: Pacific/Marquesas
+Šiaurės Amerikos rytų vasaros laikas: America/Thunder_Bay
+Amazonės žiemos laikas: America/Cuiaba
+Maršalo Salų laikas: Pacific/Majuro
+Rytų Afrikos laikas: Africa/Addis_Ababa
+Naujosios Zelandijos žiemos laikas: Antarctica/McMurdo
+Vidurio Europos vasaros laikas: Europe/Warsaw
+Šiaurės Amerikos centro vasaros laikas: America/Knox_IN
+Maršalo Salų laikas: Pacific/Kwajalein
+Amazonės žiemos laikas: Brazil/West
+GMT+03:00: Etc/GMT-3
+Atlanto žiemos laikas: America/St_Vincent
+Atlanto žiemos laikas: America/Marigot
+Taipėjaus žiemos laikas: Asia/Taipei
+Šiaurės Amerikos rytų vasaros laikas: US/Eastern
+Maršalo Salų laikas: Kwajalein
+Argentinos žiemos laikas: America/Argentina/Jujuy
+GMT-05:00: Etc/GMT+5
+Vidurio Europos vasaros laikas: Europe/Zagreb
+Šiaurės Amerikos rytų vasaros laikas: America/Port-au-Prince
+Centrinės Australijos žiemos laikas: Australia/North
+Grinvičo laikas: GMT
+Vidurio Europos žiemos laikas: Africa/Tunis
+Afganistano laikas: Asia/Kabul
+Aliaskos vasaros laikas: America/Juneau
+GMT+07:00: Asia/Tomsk
+Pietų Afrikos laikas: Africa/Mbabane
+Vakarų Afrikos žiemos laikas: Africa/Porto-Novo
+Persijos įlankos laikas: Asia/Muscat
+Argentinos žiemos laikas: America/Argentina/San_Luis
+Centrinės vakarų Australijos žiemos laikas: Australia/Eucla
+Atlanto žiemos laikas: America/Anguilla
+Vidurio Europos vasaros laikas: Europe/Gibraltar
+Vidurio Europos vasaros laikas: Europe/Prague
+Rytų Europos vasaros laikas: Europe/Zaporozhye
+Korėjos žiemos laikas: Asia/Pyongyang
+Vidurio Europos vasaros laikas: Europe/Zurich
+Vakarų Kazachstano laikas: Asia/Atyrau
+Šiaurės Amerikos rytų vasaros laikas: America/Indiana/Vincennes
+Argentinos žiemos laikas: America/Argentina/Catamarca
+Vidurio Europos vasaros laikas: Europe/Stockholm
+pasaulio suderintasis laikas: Etc/UTC
+Vakarų Afrikos žiemos laikas: Africa/Lagos
+Argentinos žiemos laikas: America/Argentina/La_Rioja
+Persijos įlankos laikas: Asia/Dubai
+Ulan Batoro žiemos laikas: Asia/Ulaanbaatar
+Fernando de Noronjos žiemos laikas: Brazil/DeNoronha
+Grinvičo laikas: Africa/Bissau
+Gruzijos žiemos laikas: Asia/Tbilisi
+Atlanto žiemos laikas: America/St_Kitts
+Vakarų Afrikos žiemos laikas: Africa/Douala
+Atlanto vasaros laikas: America/Goose_Bay
+Šiaurės Amerikos rytų vasaros laikas: America/Indianapolis
+Vidurio Europos vasaros laikas: Europe/Rome
+Havajų–Aleutų žiemos laikas: Pacific/Johnston
+Rytų Europos vasaros laikas: Asia/Hebron
+Rytų Australijos žiemos laikas: Australia/Victoria
+Šiaurės Amerikos centro vasaros laikas: CST6CDT
+Šiaurės Amerikos rytų vasaros laikas: US/Michigan
+Vladivostoko žiemos laikas: Asia/Vladivostok
+Pietų Afrikos laikas: Africa/Johannesburg
+GMT+03:00: Asia/Famagusta
+Izraelio vasaros laikas: Israel
+Čuko laikas: Pacific/Yap
+GMT-09:00: Etc/GMT+9
+Centrinės Afrikos laikas: Africa/Khartoum
+Samaros žiemos laikas: Europe/Samara
+Voliso ir Futūnos laikas: Pacific/Wallis
+Vostoko laikas: Antarctica/Vostok
+Galapagų laikas: Pacific/Galapagos
+Bolivijos laikas: America/La_Paz
+Atlanto žiemos laikas: America/Port_of_Spain
+Šiaurės Amerikos rytų žiemos laikas: America/Coral_Harbour
+Šiaurės Amerikos centro vasaros laikas: America/North_Dakota/Center
+Šiaurės Amerikos kalnų žiemos laikas: America/Creston
+Atlanto žiemos laikas: America/Grenada
+GMT+01:00: Europe/Jersey
+Čamoro laikas: Pacific/Saipan
+Šiaurės Amerikos rytų žiemos laikas: Jamaica
+Atlanto žiemos laikas: America/Lower_Princes
+pasaulio suderintasis laikas: Etc/Zulu
+Ponapės laikas: Pacific/Ponape
+Samoa žiemos laikas: Pacific/Pago_Pago
+Rytų Europos vasaros laikas: Africa/Cairo
+Vidurio Europos vasaros laikas: Europe/Budapest
+GMT-10:00: Etc/GMT+10
+Vidurio Europos vasaros laikas: Europe/Tirane
+Vidurio Europos vasaros laikas: Europe/Belgrade
+Šiaurės Amerikos centro žiemos laikas: America/El_Salvador
+Šiaurės Amerikos centro vasaros laikas: America/Menominee
+Britanijos vasaros laikas: GB-Eire
+Havajų–Aleutų žiemos laikas: US/Hawaii
+Azerbaidžano žiemos laikas: Asia/Baku
+Vakarų Afrikos žiemos laikas: Africa/Brazzaville
+Kalėdų Salos laikas: Indian/Christmas
+GMT+02:00: Antarctica/Troll
+Grenlandijos vakarų vasaros laikas: America/Nuuk
+Vakarų Europos vasaros laikas: Atlantic/Madeira
+Turkmėnistano žiemos laikas: Asia/Ashgabat
+Grinvičo laikas: Etc/GMT-0
+Grinvičo laikas: Africa/Timbuktu
+GMT+07:00: Etc/GMT-7
+GMT+06:00: Asia/Urumqi
+Rytų Australijos žiemos laikas: Australia/Brisbane
+Honkongo žiemos laikas: Hongkong
+Šiaurės Amerikos kalnų žiemos laikas: America/Phoenix
+Grinvičo laikas: Africa/Bamako
+Taipėjaus žiemos laikas: ROC
+Šiaurės Amerikos centro žiemos laikas: America/Costa_Rica
+Tadžikistano laikas: Asia/Dushanbe
+Havajų–Aleutų vasaros laikas: America/Adak
+Niujė laikas: Pacific/Niue
+GMT+03:00: Europe/Istanbul
+Kinijos žiemos laikas: Asia/Macau
+Brazilijos žiemos laikas: America/Belem
+Šiaurės Amerikos centro vasaros laikas: America/North_Dakota/New_Salem
+Šiaurės Amerikos centro žiemos laikas: America/Monterrey
+Atlanto žiemos laikas: America/Montserrat
+Japonijos žiemos laikas: Japan
+Rytų Europos žiemos laikas: Europe/Kaliningrad
+Argentinos žiemos laikas: America/Argentina/Rio_Gallegos
+Šiaurės Amerikos centro žiemos laikas: America/Regina
+Grinvičo laikas: Africa/Freetown
+Armėnijos žiemos laikas: Asia/Yerevan
+Britanijos vasaros laikas: Europe/Belfast
+Rytų Europos žiemos laikas: Africa/Tripoli
+Ulan Batoro žiemos laikas: Asia/Ulan_Bator
+Siovos laikas: Antarctica/Syowa
+Argentinos žiemos laikas: America/Catamarca
+Rytų Australijos žiemos laikas: Australia/Lindeman
+Šiaurės Amerikos centro vasaros laikas: US/Central
+Argentinos žiemos laikas: America/Argentina/San_Juan
+Jukono laikas: America/Whitehorse
+Grinvičo laikas: Africa/Banjul
+GMT+01:00: Africa/El_Aaiun
+Šiaurės Amerikos kalnų vasaros laikas: America/Cambridge_Bay
+Atlanto žiemos laikas: America/Antigua
+Laino Salų laikas: Pacific/Kiritimati
+Arabijos žiemos laikas: Asia/Aden
+Šiaurės Amerikos rytų vasaros laikas: America/Louisville
+Aliaskos vasaros laikas: America/Sitka
+Rytų Europos vasaros laikas: Europe/Uzhgorod
+Naujosios Kaledonijos žiemos laikas: Pacific/Noumea
+Rytų Europos vasaros laikas: Europe/Kiev
+Rytų Australijos žiemos laikas: Australia/NSW
+Šiaurės Amerikos centro vasaros laikas: America/Resolute
+Grinvičo laikas: GMT0
+Vakarų Australijos žiemos laikas: Australia/Perth
+Maskvos žiemos laikas: Europe/Simferopol
+Centrinės Australijos žiemos laikas: Australia/Broken_Hill
+Vanuatu žiemos laikas: Pacific/Efate
+Vakarų Europos vasaros laikas: Atlantic/Canary
+Tahičio laikas: Pacific/Tahiti
+Vidurio Europos vasaros laikas: Europe/Copenhagen
+Aliaskos vasaros laikas: America/Metlakatla
+Britanijos vasaros laikas: Europe/London
+GMT-12:00: Etc/GMT+12
+Centrinės Indonezijos laikas: Asia/Makassar
+Meksikos Ramiojo vandenyno žiemos laikas: America/Hermosillo
+Atlanto vasaros laikas: America/Moncton
+Indijos vandenyno laikas: Indian/Chagos
+Vakarų Europos vasaros laikas: Portugal
+Vidurio Europos vasaros laikas: Europe/Monaco
+Havajų–Aleutų žiemos laikas: Pacific/Honolulu
+GMT+02:00: Etc/GMT-2
+Indokinijos laikas: Asia/Ho_Chi_Minh
+Kuko Salų žiemos laikas: Pacific/Rarotonga
+Šiaurės Amerikos rytų vasaros laikas: America/Pangnirtung
+Ako standartinis laikas: America/Porto_Acre
+Grinvičo laikas: Africa/Monrovia
+Grinvičo laikas: Etc/Greenwich
+Norfolko Salų žiemos laikas: Pacific/Norfolk
+Čuko laikas: Pacific/Truk
+GMT-07:00: MST
+Šiaurės Amerikos centro vasaros laikas: America/Ojinaga
+Kinijos žiemos laikas: Asia/Chungking
+Vakarų Europos vasaros laikas: Europe/Lisbon
+Rytų Europos vasaros laikas: Europe/Vilnius
+Aliaskos vasaros laikas: America/Yakutat
+Šiaurės Amerikos Ramiojo vandenyno vasaros laikas: America/Ensenada
+Nauru laikas: Pacific/Nauru
+Rytų Europos vasaros laikas: Europe/Chisinau
+GMT+03:00: Europe/Kirov
+Vidurio Europos vasaros laikas: Europe/Oslo
+Brazilijos žiemos laikas: America/Bahia
+Indijos laikas: Asia/Kolkata
+GMT+04:00: Europe/Ulyanovsk
+Šiaurės Amerikos kalnų vasaros laikas: Canada/Mountain
+Vidurio Europos vasaros laikas: Europe/Luxembourg
+Grinvičo laikas: Africa/Conakry
+Argentinos žiemos laikas: America/Argentina/Tucuman
+Kirgistano laikas: Asia/Bishkek
+Anadyrės žiemos laikas: Asia/Anadyr
+Maskvos žiemos laikas: Europe/Minsk
+Grenlandijos rytų vasaros laikas: America/Scoresbysund
+Vidurio Europos vasaros laikas: Europe/Paris
+Šiaurės Amerikos centro žiemos laikas: America/Chihuahua
+Fidžio žiemos laikas: Pacific/Fiji
+Mianmaro laikas: Asia/Yangon
+Čilės žiemos laikas: America/Santiago
+Indokinijos laikas: Asia/Vientiane
+Atlanto žiemos laikas: America/Kralendijk
+Centrinės Afrikos laikas: Africa/Juba
+Tongos žiemos laikas: Pacific/Tongatapu
+Irkutsko žiemos laikas: Asia/Irkutsk
+GMT+06:00: Asia/Kashgar
+Čatamo žiemos laikas: NZ-CHAT
+Kinijos žiemos laikas: PRC
+Arabijos žiemos laikas: Asia/Kuwait
+Butano laikas: Asia/Thimbu
+Vidurio Europos vasaros laikas: Europe/Busingen
+Atlanto vasaros laikas: America/Glace_Bay
+Šiaurės Amerikos centro žiemos laikas: America/Belize
+Indijos laikas: Asia/Calcutta
+Singapūro laikas: Asia/Singapore
+Arabijos žiemos laikas: Asia/Baghdad
+Singapūro laikas: Singapore
+Rytų Europos vasaros laikas: Asia/Nicosia
+Grinvičo laikas: Atlantic/Reykjavik
+Argentinos žiemos laikas: America/Buenos_Aires
+Šiaurės Amerikos kalnų vasaros laikas: America/Boise
+Izraelio vasaros laikas: Asia/Jerusalem
+Grinvičo laikas: Africa/Ouagadougou
+Velykų salos žiemos laikas: Pacific/Easter
+Honkongo žiemos laikas: Asia/Hong_Kong
+GMT-03:00: Etc/GMT+3
+Urugvajaus žiemos laikas: America/Montevideo
+Veiko Salos laikas: Pacific/Wake
+Ekvadoro laikas: America/Guayaquil
+Šiaurės Amerikos centro vasaros laikas: America/Winnipeg
+Šiaurės Amerikos kalnų žiemos laikas: US/Arizona
+Atlanto žiemos laikas: America/Virgin
+Šiaurės Amerikos centro žiemos laikas: Canada/Saskatchewan
+GMT+04:00: Etc/GMT-4
+GMT+03:00: Turkey
+Atlanto žiemos laikas: America/Guadeloupe
+Centrinės Afrikos laikas: Africa/Windhoek
+Brazilijos žiemos laikas: Brazil/East
+Šiaurės Amerikos kalnų vasaros laikas: Navajo
+Indijos laikas: Asia/Colombo
+GMT-05:00: EST
+Šiaurės Amerikos centro vasaros laikas: America/North_Dakota/Beulah
+Tokelau laikas: Pacific/Fakaofo
+Mianmaro laikas: Asia/Rangoon
+Rytų Europos vasaros laikas: Europe/Mariehamn
+Atlanto žiemos laikas: America/Santo_Domingo
+Naujosios Zelandijos žiemos laikas: NZ
+Grinvičo laikas: Etc/GMT+0
+Brazilijos žiemos laikas: America/Araguaina
+Atlanto žiemos laikas: America/Aruba
+Rytų Europos vasaros laikas: Europe/Helsinki
+Tuvalu laikas: Pacific/Funafuti
+Šiaurės Amerikos rytų žiemos laikas: America/Jamaica
+Šiaurės Amerikos rytų vasaros laikas: America/Indiana/Vevay
+Šiaurės Amerikos centro žiemos laikas: America/Swift_Current
+Argentinos žiemos laikas: America/Argentina/Mendoza
+Indokinijos laikas: Asia/Saigon
+Aliaskos vasaros laikas: America/Nome
+Rytų Afrikos laikas: Africa/Dar_es_Salaam
+GMT+13:00: Etc/GMT-13
+Šiaurės Amerikos rytų vasaros laikas: America/Nipigon
+Šiaurės Amerikos kalnų vasaros laikas: America/Yellowknife
+Vakarų Afrikos žiemos laikas: Africa/Malabo
+Gilberto Salų laikas: Pacific/Tarawa
+Brazilijos žiemos laikas: America/Maceio
+pasaulio suderintasis laikas: Zulu
+Vakarų Kazachstano laikas: Asia/Oral
+Vidurio Europos vasaros laikas: Europe/Vatican
+Argentinos žiemos laikas: America/Mendoza
+Šiaurės Amerikos centro vasaros laikas: America/Rankin_Inlet
+Britanijos vasaros laikas: GB
+Vidurio Europos vasaros laikas: Poland
+Vidurio Europos vasaros laikas: Europe/Amsterdam
+Rytų Europos vasaros laikas: Asia/Gaza
+Butano laikas: Asia/Thimphu
+Šiaurės Amerikos Ramiojo vandenyno vasaros laikas: US/Pacific
+Vakarų Europos vasaros laikas: Atlantic/Faeroe
+Sen Pjero ir Mikelono vasaros laikas: America/Miquelon
+Centrinės Australijos žiemos laikas: Australia/Darwin
+Vladivostoko žiemos laikas: Asia/Ust-Nera
+Grenlandijos vakarų vasaros laikas: America/Godthab
+Arabijos žiemos laikas: Asia/Riyadh
+Amazonės žiemos laikas: America/Boa_Vista
+Kubos vasaros laikas: Cuba
+Grinvičo laikas: GMT-0
+Šiaurės Amerikos kalnų žiemos laikas: America/Fort_Nelson
+Filipinų žiemos laikas: Asia/Manila
+Ako standartinis laikas: America/Rio_Branco
+Šiaurės Amerikos centro vasaros laikas: America/Indiana/Tell_City
+Vakarų Kazachstano laikas: Asia/Qyzylorda
+Vidurio Europos vasaros laikas: Europe/Sarajevo
+GMT+03:00: EET
+Maskvos žiemos laikas: W-SU
+Rytų Kazachstano laikas: Asia/Almaty
+Rytų Afrikos laikas: Indian/Comoro
+Rytų Indonezijos laikas: Asia/Jayapura
+Šiaurės Amerikos rytų vasaros laikas: America/Grand_Turk
+Apijos žiemos laikas: Pacific/Apia
+Gajanos laikas: America/Guyana
+GMT+01:00: Etc/GMT-1
+Seišelių laikas: Indian/Mahe
+Prancūzijos Gvianos laikas: America/Cayenne
+GMT+14:00: Etc/GMT-14
+Magadano žiemos laikas: Asia/Magadan
+Rytų Australijos žiemos laikas: Australia/Queensland
+Šiaurės Amerikos Ramiojo vandenyno vasaros laikas: America/Los_Angeles
+Irano žiemos laikas: Iran
+GMT+09:00: Etc/GMT-9
+GMT+01:00: WET
+Vidurio Europos vasaros laikas: Atlantic/Jan_Mayen
+Vakarų Kazachstano laikas: Asia/Aqtau
+Šiaurės Amerikos centro vasaros laikas: Canada/Central
+Kokosų Salų laikas: Indian/Cocos
+Šiaurės Amerikos kalnų vasaros laikas: America/Shiprock
+Vidurio Europos vasaros laikas: Africa/Ceuta
+Rytų Kazachstano laikas: Asia/Qostanay
+Arabijos žiemos laikas: Asia/Bahrain
+Vakarų Afrikos žiemos laikas: Africa/Niamey
+GMT-03:00: America/Punta_Arenas
+Arabijos žiemos laikas: Asia/Qatar
+Naujosios Zelandijos žiemos laikas: Pacific/Auckland
+Velykų salos žiemos laikas: Chile/EasterIsland
+Pakistano žiemos laikas: Asia/Karachi
+Izraelio vasaros laikas: Asia/Tel_Aviv
+Kosrajė laikas: Pacific/Kosrae
+Grinvičo laikas: Africa/Accra
+Kinijos žiemos laikas: Asia/Chongqing
+Centrinės Australijos žiemos laikas: Australia/Adelaide
+Šiaurės Amerikos rytų vasaros laikas: America/Detroit
+Rytų Europos vasaros laikas: Europe/Sofia
+Vakarų Indonezijos laikas: Asia/Jakarta
+Atlanto žiemos laikas: America/Tortola
+Šiaurės Amerikos centro žiemos laikas: America/Merida
+Centrinės Afrikos laikas: Africa/Lubumbashi
+Fenikso Salų laikas: Pacific/Enderbury
+Šiaurės Amerikos centro žiemos laikas: Mexico/General
+Brunėjaus Darusalamo laikas: Asia/Brunei
+Šiaurės Amerikos centro vasaros laikas: America/Matamoros
+Jukono laikas: America/Dawson
+Samoa žiemos laikas: Pacific/Samoa
+Kubos vasaros laikas: America/Havana
+Mosono laikas: Antarctica/Mawson
+Šiaurės Amerikos centro vasaros laikas: America/Chicago
+Kinijos žiemos laikas: Asia/Macao
+Šiaurės Amerikos Ramiojo vandenyno vasaros laikas: America/Santa_Isabel
+Aliaskos vasaros laikas: America/Anchorage
+Rytų Australijos žiemos laikas: Australia/Canberra
+Grinvičo laikas: Africa/Sao_Tome
+Azorų Salų vasaros laikas: Atlantic/Azores
+GMT-08:00: Etc/GMT+8
+Kolumbijos žiemos laikas: America/Bogota
+Grinvičo laikas: Etc/GMT0
+Rytų Europos vasaros laikas: Europe/Bucharest
+Argentinos žiemos laikas: America/Rosario
+Centrinės Australijos žiemos laikas: Australia/South
+Rytų Afrikos laikas: Africa/Djibouti
+Irano žiemos laikas: Asia/Tehran
+Rytų Afrikos laikas: Africa/Asmera
+Rytų Afrikos laikas: Africa/Mogadishu
+Amazonės žiemos laikas: America/Porto_Velho
+Šiaurės Amerikos kalnų vasaros laikas: America/Inuvik
+Jukono laikas: Canada/Yukon
+Vidurio Europos vasaros laikas: Europe/Madrid
+GMT+03:00: Asia/Amman
+Čilės žiemos laikas: Chile/Continental
+Šiaurės Amerikos rytų vasaros laikas: America/Fort_Wayne
+Palau laikas: Pacific/Palau
+Grinvičo laikas: Africa/Lome
+Novosibirsko žiemos laikas: Asia/Novosibirsk
+Centrinės Afrikos laikas: Africa/Gaborone
+Vakarų Afrikos žiemos laikas: Africa/Bangui
+pasaulio suderintasis laikas: Etc/Universal
+Vakarų Australijos žiemos laikas: Australia/West
+Centrinės Afrikos laikas: Africa/Maputo
+Šiaurės Amerikos centro vasaros laikas: America/Rainy_River
+Uzbekistano žiemos laikas: Asia/Tashkent
+Šiaurės Amerikos rytų vasaros laikas: Canada/Eastern
+pasaulio suderintasis laikas: Universal
+GMT+00:00: Factory
+Rytų Afrikos laikas: Africa/Nairobi
+Samoa žiemos laikas: US/Samoa
+Argentinos žiemos laikas: America/Argentina/Ushuaia
+Niufaundlendo vasaros laikas: Canada/Newfoundland
+Grinvičo laikas: Iceland
+Diumono d’Urvilio laikas: Antarctica/DumontDUrville
+Vidurio Europos vasaros laikas: Europe/Vienna
+Šiaurės Amerikos kalnų vasaros laikas: America/Edmonton
+Šiaurės Amerikos rytų vasaros laikas: America/Iqaluit
+Malaizijos laikas: Asia/Kuching
+Grinvičo laikas: America/Danmarkshavn
+Naujosios Zelandijos žiemos laikas: Antarctica/South_Pole
+Pitkerno laikas: Pacific/Pitcairn
+Vakarų Afrikos žiemos laikas: Africa/Kinshasa
+Ulan Batoro žiemos laikas: Asia/Choibalsan
+Fernando de Noronjos žiemos laikas: America/Noronha
+Vidurio Europos vasaros laikas: Europe/Andorra
+Ako standartinis laikas: Brazil/Acre
+GMT+02:00: MET
+Šiaurės Amerikos rytų žiemos laikas: America/Cancun
+Sachalino žiemos laikas: Asia/Sakhalin
+Šiaurės Amerikos centro žiemos laikas: America/Guatemala
+Kinijos žiemos laikas: Asia/Harbin
+Argentinos žiemos laikas: America/Argentina/Cordoba
+Grinvičo laikas: Greenwich
+pasaulio suderintasis laikas: UCT
+Gambyro laikas: Pacific/Gambier
+Šiaurės Amerikos kalnų žiemos laikas: America/Dawson_Creek
+Šiaurės Amerikos rytų vasaros laikas: America/Indiana/Marengo
+Rytų Australijos žiemos laikas: Australia/Sydney
+GMT+10:00: Etc/GMT-10
+Vakarų Afrikos žiemos laikas: Africa/Libreville
+Jekaterinburgo žiemos laikas: Asia/Yekaterinburg
+GMT+03:00: Asia/Damascus
+Rytų Australijos žiemos laikas: Australia/ACT
+Šiaurės Amerikos centro žiemos laikas: America/Managua
+Korėjos žiemos laikas: ROK
+Grinvičo laikas: Africa/Abidjan
+Grinvičo laikas: Africa/Nouakchott
+Rytų Timoro laikas: Asia/Dili
+Žaliojo Kyšulio žiemos laikas: Atlantic/Cape_Verde
+GMT+04:00: Europe/Saratov
+Čatamo žiemos laikas: Pacific/Chatham
+Atlanto vasaros laikas: America/Thule
+Centrinės Afrikos laikas: Africa/Kigali
+Šiaurės Amerikos rytų vasaros laikas: America/Indiana/Petersburg
+Šiaurės Amerikos rytų žiemos laikas: America/Atikokan
+Šiaurės Amerikos centro žiemos laikas: America/Tegucigalpa
+Grinvičo laikas: Eire
+Fenikso Salų laikas: Pacific/Kanton
+Atlanto vasaros laikas: America/Halifax
+Aliaskos vasaros laikas: US/Alaska
+Indokinijos laikas: Asia/Bangkok
+Rytų Afrikos laikas: Indian/Mayotte
+Šiaurės Amerikos rytų žiemos laikas: America/Cayman
+Atlanto žiemos laikas: America/Dominica
+Šiaurės Amerikos rytų vasaros laikas: America/Indiana/Indianapolis
+GMT+11:00: Etc/GMT-11
+Roteros laikas: Antarctica/Rothera
+Maldyvų laikas: Indian/Maldives
+Rytų Afrikos laikas: Africa/Asmara
+GMT+01:00: Africa/Casablanca
+Šiaurės Amerikos rytų vasaros laikas: America/New_York
+Šiaurės Amerikos rytų vasaros laikas: America/Toronto
+Rytų Europos vasaros laikas: Europe/Tiraspol
+GMT+11:00: Pacific/Bougainville
+Šiaurės Amerikos rytų vasaros laikas: America/Kentucky/Monticello
+GMT-02:00: Etc/GMT+2
+Lordo Hau žiemos laikas: Australia/Lord_Howe
+Rytų Europos vasaros laikas: Europe/Athens
+Centrinės Australijos žiemos laikas: Australia/Yancowinna
+Folklandų Salų žiemos laikas: Atlantic/Stanley
+Šiaurės Amerikos Ramiojo vandenyno vasaros laikas: America/Tijuana
+Jakutsko žiemos laikas: Asia/Khandyga
+Brazilijos žiemos laikas: America/Santarem
+Čuko laikas: Pacific/Chuuk
+Indokinijos laikas: Asia/Phnom_Penh
+GMT+01:00: Europe/Isle_of_Man
+Vidurio Europos vasaros laikas: Europe/Skopje
+Amazonės žiemos laikas: America/Manaus
+Šiaurės Amerikos kalnų vasaros laikas: MST7MDT
+Saliamono Salų laikas: Pacific/Guadalcanal
+Malaizijos laikas: Asia/Kuala_Lumpur
+Centrinės Afrikos laikas: Africa/Harare
+Šiaurės Amerikos Ramiojo vandenyno vasaros laikas: Mexico/BajaNorte
+GMT-04:00: Etc/GMT+4
+Deiviso laikas: Antarctica/Davis
+Rytų Europos vasaros laikas: Egypt
+Venesuelos laikas: America/Caracas
+Brazilijos žiemos laikas: America/Sao_Paulo
+Brazilijos žiemos laikas: America/Recife
+Vidurio Europos vasaros laikas: Europe/Berlin
+Kamčiatkos Petropavlovsko žiemos laikas: Asia/Kamchatka
+Havajų–Aleutų vasaros laikas: US/Aleutian
+Grinvičo laikas: Africa/Dakar
+Jakutsko žiemos laikas: Asia/Yakutsk
+Centrinės Afrikos laikas: Africa/Lusaka
+Grinvičo laikas: Europe/Dublin
+Vidurio Europos vasaros laikas: Europe/Vaduz
+Hovdo žiemos laikas: Asia/Hovd
+Vidurio Europos vasaros laikas: Europe/Ljubljana
+Vidurio Europos vasaros laikas: Europe/San_Marino
+Šiaurės Amerikos rytų vasaros laikas: America/Kentucky/Louisville
+Kinijos žiemos laikas: Asia/Shanghai
+Šiaurės Amerikos rytų vasaros laikas: America/Montreal
+GMT+07:00: Asia/Barnaul
+Čamoro laikas: Pacific/Guam
+Šiaurės Amerikos Ramiojo vandenyno vasaros laikas: PST8PDT
+Papua Naujosios Gvinėjos laikas: Pacific/Port_Moresby
+Rytų Afrikos laikas: Africa/Kampala
+Rytų Europos vasaros laikas: Europe/Nicosia
+Šiaurės Amerikos Ramiojo vandenyno vasaros laikas: America/Vancouver
+Vidurio Europos vasaros laikas: Europe/Malta
+Atlanto žiemos laikas: America/Puerto_Rico
+Atlanto vasaros laikas: Canada/Atlantic
+GMT-06:00: Etc/GMT+6
+Šiaurės Amerikos rytų vasaros laikas: EST5EDT
+Atlanto žiemos laikas: America/Curacao
+GMT+03:00: Asia/Istanbul
+Centrinės Indonezijos laikas: Asia/Ujung_Pandang
+Šiaurės Amerikos rytų vasaros laikas: America/Indiana/Winamac
+Omsko žiemos laikas: Asia/Omsk
+Rytų Europos vasaros laikas: Europe/Tallinn
+Argentinos žiemos laikas: America/Cordoba
+GMT-11:00: Etc/GMT+11

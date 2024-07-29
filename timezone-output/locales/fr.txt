@@ -1,0 +1,597 @@
+heure d’été d’Hawaï - Aléoutiennes: America/Atka
+heure du Suriname: America/Paramaribo
+heure normale du Turkménistan: Asia/Ashkhabad
+heure du Népal: Asia/Katmandu
+UTC+12:00: Etc/GMT-12
+heure normale de l’Atlantique: America/St_Barthelemy
+heure normale de Krasnoïarsk: Asia/Krasnoyarsk
+heure d’été d’Europe centrale: Europe/Brussels
+heure normale de Volgograd: Europe/Volgograd
+heure d’été des Rocheuses: America/Denver
+heure normale de Brasilia: America/Fortaleza
+heure d’été d’Europe centrale: Europe/Podgorica
+heure de Géorgie du Sud: Atlantic/South_Georgia
+heure normale d’Afrique de l’Ouest: Africa/Ndjamena
+heure d’été de l’Est nord-américain: America/Nassau
+heure normale du Bangladesh: Asia/Dhaka
+heure normale du Paraguay: America/Asuncion
+heure normale de l’Atlantique: America/Blanc-Sablon
+heure d’été du centre nord-américain: America/Indiana/Knox
+heure normale du Bangladesh: Asia/Dacca
+heure normale de l’Est de l’Australie: Antarctica/Macquarie
+heure normale de Moscou: Europe/Moscow
+temps universel coordonné: UTC
+heure normale de la Corée: Asia/Seoul
+heure d’été d’Europe de l’Est: Europe/Riga
+heure normale d’Afrique centrale: Africa/Blantyre
+heure normale d’Argentine: America/Argentina/Salta
+heure normale d’Argentine: America/Argentina/Buenos_Aires
+heure normale d’Europe centrale: Africa/Algiers
+heure normale de l’Est de l’Australie: Australia/Tasmania
+heure d’été du centre nord-américain: US/Indiana-Starke
+heure normale des Samoa: Pacific/Midway
+heure d’été des Rocheuses: America/Ciudad_Juarez
+UTC-10:00: HST
+UTC+11:00: Asia/Srednekolymsk
+heure normale de l’Est de l’Australie: Australia/Hobart
+heure d’été de l’Atlantique: Atlantic/Bermuda
+temps universel coordonné: Etc/UCT
+heure des Terres australes et antarctiques françaises: Indian/Kerguelen
+heure d’été d’Europe de l’Ouest: Atlantic/Faroe
+heure normale de l’Amazonie: America/Campo_Grande
+heure normale de Lord Howe: Australia/LHI
+heure normale de Maurice: Indian/Mauritius
+UTC+02:00: CET
+heure normale d’Europe de l’Est: Libya
+UTC-07:00: Etc/GMT+7
+UTC+08:00: Etc/GMT-8
+heure moyenne de Greenwich: Atlantic/St_Helena
+heure de l’île de Pohnpei: Pacific/Pohnpei
+UTC-01:00: Etc/GMT+1
+heure d’été d’Europe de l’Est: Europe/Kyiv
+UTC+05:00: Etc/GMT-5
+heure de La Réunion: Indian/Reunion
+UTC-03:00: Antarctica/Palmer
+heure normale du centre nord-américain: America/Bahia_Banderas
+heure normale d’Argentine: America/Jujuy
+heure normale de Iakoutsk: Asia/Chita
+heure d’été des Rocheuses: US/Mountain
+heure normale de Krasnoïarsk: Asia/Novokuznetsk
+UTC+06:00: Etc/GMT-6
+heure normale de l’Est de l’Australie: Australia/Currie
+heure du Népal: Asia/Kathmandu
+heure d’été de Terre-Neuve: America/St_Johns
+heure de l’Ouest du Kazakhstan: Asia/Aqtobe
+heure moyenne de Greenwich: GMT+0
+UTC+04:00: Europe/Astrakhan
+UTC+01:00: Europe/Guernsey
+heure normale de l’Atlantique: America/Martinique
+heure d’été de l’Est nord-américain: US/East-Indiana
+heure d’été d’Europe centrale: Arctic/Longyearbyen
+heure normale du centre nord-américain: America/Mexico_City
+heure normale d’Argentine: America/Argentina/ComodRivadavia
+heure d’été du Pacifique nord-américain: Canada/Pacific
+heure de Casey: Antarctica/Casey
+heure normale d’Afrique centrale: Africa/Bujumbura
+heure normale de l’Acre: America/Eirunepe
+heure normale du Japon: Asia/Tokyo
+heure d’été d’Europe centrale: Europe/Bratislava
+heure normale de l’Est de l’Australie: Australia/Melbourne
+heure normale de l’Est nord-américain: America/Panama
+heure d’été d’Europe de l’Est: Asia/Beirut
+heure normale d’Afrique de l’Est: Indian/Antananarivo
+heure normale de l’Ouzbékistan: Asia/Samarkand
+heure normale du Pérou: America/Lima
+heure normale de l’Atlantique: America/St_Thomas
+heure de l’Ouest indonésien: Asia/Pontianak
+heure normale du Pacifique mexicain: Mexico/BajaSur
+heure moyenne de Greenwich: Etc/GMT
+heure normale d’Afrique de l’Ouest: Africa/Luanda
+heure normale de l’Atlantique: America/St_Lucia
+heure normale de l’Atlantique: America/Barbados
+heure normale d’Afrique méridionale: Africa/Maseru
+heure normale du Pacifique mexicain: America/Mazatlan
+heure des îles Marquises: Pacific/Marquesas
+heure d’été de l’Est nord-américain: America/Thunder_Bay
+heure normale de l’Amazonie: America/Cuiaba
+heure des îles Marshall: Pacific/Majuro
+heure normale d’Afrique de l’Est: Africa/Addis_Ababa
+heure normale de la Nouvelle-Zélande: Antarctica/McMurdo
+heure d’été d’Europe centrale: Europe/Warsaw
+heure d’été du centre nord-américain: America/Knox_IN
+heure des îles Marshall: Pacific/Kwajalein
+heure normale de l’Amazonie: Brazil/West
+UTC+03:00: Etc/GMT-3
+heure normale de l’Atlantique: America/St_Vincent
+heure normale de l’Atlantique: America/Marigot
+heure normale de Taipei: Asia/Taipei
+heure d’été de l’Est nord-américain: US/Eastern
+heure des îles Marshall: Kwajalein
+heure normale d’Argentine: America/Argentina/Jujuy
+UTC-05:00: Etc/GMT+5
+heure d’été d’Europe centrale: Europe/Zagreb
+heure d’été de l’Est nord-américain: America/Port-au-Prince
+heure normale du centre de l’Australie: Australia/North
+heure moyenne de Greenwich: GMT
+heure normale d’Europe centrale: Africa/Tunis
+heure de l’Afghanistan: Asia/Kabul
+heure d’été de l’Alaska: America/Juneau
+UTC+07:00: Asia/Tomsk
+heure normale d’Afrique méridionale: Africa/Mbabane
+heure normale d’Afrique de l’Ouest: Africa/Porto-Novo
+heure du Golfe: Asia/Muscat
+heure normale d’Argentine: America/Argentina/San_Luis
+heure normale du centre-ouest de l’Australie: Australia/Eucla
+heure normale de l’Atlantique: America/Anguilla
+heure d’été d’Europe centrale: Europe/Gibraltar
+heure d’été d’Europe centrale: Europe/Prague
+heure d’été d’Europe de l’Est: Europe/Zaporozhye
+heure normale de la Corée: Asia/Pyongyang
+heure d’été d’Europe centrale: Europe/Zurich
+heure de l’Ouest du Kazakhstan: Asia/Atyrau
+heure d’été de l’Est nord-américain: America/Indiana/Vincennes
+heure normale d’Argentine: America/Argentina/Catamarca
+heure d’été d’Europe centrale: Europe/Stockholm
+temps universel coordonné: Etc/UTC
+heure normale d’Afrique de l’Ouest: Africa/Lagos
+heure normale d’Argentine: America/Argentina/La_Rioja
+heure du Golfe: Asia/Dubai
+heure normale d’Oulan-Bator: Asia/Ulaanbaatar
+heure normale de Fernando de Noronha: Brazil/DeNoronha
+heure moyenne de Greenwich: Africa/Bissau
+heure normale de la Géorgie: Asia/Tbilisi
+heure normale de l’Atlantique: America/St_Kitts
+heure normale d’Afrique de l’Ouest: Africa/Douala
+heure d’été de l’Atlantique: America/Goose_Bay
+heure d’été de l’Est nord-américain: America/Indianapolis
+heure d’été d’Europe centrale: Europe/Rome
+heure normale d’Hawaï - Aléoutiennes: Pacific/Johnston
+heure d’été d’Europe de l’Est: Asia/Hebron
+heure normale de l’Est de l’Australie: Australia/Victoria
+heure d’été du centre nord-américain: CST6CDT
+heure d’été de l’Est nord-américain: US/Michigan
+heure normale de Vladivostok: Asia/Vladivostok
+heure normale d’Afrique méridionale: Africa/Johannesburg
+UTC+03:00: Asia/Famagusta
+heure d’été d’Israël: Israel
+heure de Chuuk: Pacific/Yap
+UTC-09:00: Etc/GMT+9
+heure normale d’Afrique centrale: Africa/Khartoum
+heure normale de Samara: Europe/Samara
+heure de Wallis-et-Futuna: Pacific/Wallis
+heure de Vostok: Antarctica/Vostok
+heure des îles Galápagos: Pacific/Galapagos
+heure de Bolivie: America/La_Paz
+heure normale de l’Atlantique: America/Port_of_Spain
+heure normale de l’Est nord-américain: America/Coral_Harbour
+heure d’été du centre nord-américain: America/North_Dakota/Center
+heure normale des Rocheuses: America/Creston
+heure normale de l’Atlantique: America/Grenada
+UTC+01:00: Europe/Jersey
+heure des Chamorro: Pacific/Saipan
+heure normale de l’Est nord-américain: Jamaica
+heure normale de l’Atlantique: America/Lower_Princes
+temps universel coordonné: Etc/Zulu
+heure de l’île de Pohnpei: Pacific/Ponape
+heure normale des Samoa: Pacific/Pago_Pago
+heure d’été d’Europe de l’Est: Africa/Cairo
+heure d’été d’Europe centrale: Europe/Budapest
+UTC-10:00: Etc/GMT+10
+heure d’été d’Europe centrale: Europe/Tirane
+heure d’été d’Europe centrale: Europe/Belgrade
+heure normale du centre nord-américain: America/El_Salvador
+heure d’été du centre nord-américain: America/Menominee
+heure d’été britannique: GB-Eire
+heure normale d’Hawaï - Aléoutiennes: US/Hawaii
+heure normale de l’Azerbaïdjan: Asia/Baku
+heure normale d’Afrique de l’Ouest: Africa/Brazzaville
+heure de l’île Christmas: Indian/Christmas
+UTC+02:00: Antarctica/Troll
+heure d’été de l’Ouest du Groenland: America/Nuuk
+heure d’été d’Europe de l’Ouest: Atlantic/Madeira
+heure normale du Turkménistan: Asia/Ashgabat
+heure moyenne de Greenwich: Etc/GMT-0
+heure moyenne de Greenwich: Africa/Timbuktu
+UTC+07:00: Etc/GMT-7
+UTC+06:00: Asia/Urumqi
+heure normale de l’Est de l’Australie: Australia/Brisbane
+heure normale de Hong Kong: Hongkong
+heure normale des Rocheuses: America/Phoenix
+heure moyenne de Greenwich: Africa/Bamako
+heure normale de Taipei: ROC
+heure normale du centre nord-américain: America/Costa_Rica
+heure du Tadjikistan: Asia/Dushanbe
+heure d’été d’Hawaï - Aléoutiennes: America/Adak
+heure de Niue: Pacific/Niue
+UTC+03:00: Europe/Istanbul
+heure normale de la Chine: Asia/Macau
+heure normale de Brasilia: America/Belem
+heure d’été du centre nord-américain: America/North_Dakota/New_Salem
+heure normale du centre nord-américain: America/Monterrey
+heure normale de l’Atlantique: America/Montserrat
+heure normale du Japon: Japan
+heure normale d’Europe de l’Est: Europe/Kaliningrad
+heure normale d’Argentine: America/Argentina/Rio_Gallegos
+heure normale du centre nord-américain: America/Regina
+heure moyenne de Greenwich: Africa/Freetown
+heure normale de l’Arménie: Asia/Yerevan
+heure d’été britannique: Europe/Belfast
+heure normale d’Europe de l’Est: Africa/Tripoli
+heure normale d’Oulan-Bator: Asia/Ulan_Bator
+heure de Syowa: Antarctica/Syowa
+heure normale d’Argentine: America/Catamarca
+heure normale de l’Est de l’Australie: Australia/Lindeman
+heure d’été du centre nord-américain: US/Central
+heure normale d’Argentine: America/Argentina/San_Juan
+heure normale du Yukon: America/Whitehorse
+heure moyenne de Greenwich: Africa/Banjul
+UTC+01:00: Africa/El_Aaiun
+heure d’été des Rocheuses: America/Cambridge_Bay
+heure normale de l’Atlantique: America/Antigua
+heure des îles de la Ligne: Pacific/Kiritimati
+heure normale de l’Arabie: Asia/Aden
+heure d’été de l’Est nord-américain: America/Louisville
+heure d’été de l’Alaska: America/Sitka
+heure d’été d’Europe de l’Est: Europe/Uzhgorod
+heure normale de la Nouvelle-Calédonie: Pacific/Noumea
+heure d’été d’Europe de l’Est: Europe/Kiev
+heure normale de l’Est de l’Australie: Australia/NSW
+heure d’été du centre nord-américain: America/Resolute
+heure moyenne de Greenwich: GMT0
+heure normale de l’Ouest de l’Australie: Australia/Perth
+heure normale de Moscou: Europe/Simferopol
+heure normale du centre de l’Australie: Australia/Broken_Hill
+heure normale du Vanuatu: Pacific/Efate
+heure d’été d’Europe de l’Ouest: Atlantic/Canary
+heure de Tahiti: Pacific/Tahiti
+heure d’été d’Europe centrale: Europe/Copenhagen
+heure d’été de l’Alaska: America/Metlakatla
+heure d’été britannique: Europe/London
+UTC-12:00: Etc/GMT+12
+heure du Centre indonésien: Asia/Makassar
+heure normale du Pacifique mexicain: America/Hermosillo
+heure d’été de l’Atlantique: America/Moncton
+heure de l’Océan Indien: Indian/Chagos
+heure d’été d’Europe de l’Ouest: Portugal
+heure d’été d’Europe centrale: Europe/Monaco
+heure normale d’Hawaï - Aléoutiennes: Pacific/Honolulu
+UTC+02:00: Etc/GMT-2
+heure d’Indochine: Asia/Ho_Chi_Minh
+heure normale des îles Cook: Pacific/Rarotonga
+heure d’été de l’Est nord-américain: America/Pangnirtung
+heure normale de l’Acre: America/Porto_Acre
+heure moyenne de Greenwich: Africa/Monrovia
+heure moyenne de Greenwich: Etc/Greenwich
+heure normale de l’île Norfolk: Pacific/Norfolk
+heure de Chuuk: Pacific/Truk
+UTC-07:00: MST
+heure d’été du centre nord-américain: America/Ojinaga
+heure normale de la Chine: Asia/Chungking
+heure d’été d’Europe de l’Ouest: Europe/Lisbon
+heure d’été d’Europe de l’Est: Europe/Vilnius
+heure d’été de l’Alaska: America/Yakutat
+heure d’été du Pacifique nord-américain: America/Ensenada
+heure de Nauru: Pacific/Nauru
+heure d’été d’Europe de l’Est: Europe/Chisinau
+UTC+03:00: Europe/Kirov
+heure d’été d’Europe centrale: Europe/Oslo
+heure normale de Brasilia: America/Bahia
+heure de l’Inde: Asia/Kolkata
+UTC+04:00: Europe/Ulyanovsk
+heure d’été des Rocheuses: Canada/Mountain
+heure d’été d’Europe centrale: Europe/Luxembourg
+heure moyenne de Greenwich: Africa/Conakry
+heure normale d’Argentine: America/Argentina/Tucuman
+heure du Kirghizistan: Asia/Bishkek
+heure normale d’Anadyr: Asia/Anadyr
+heure normale de Moscou: Europe/Minsk
+heure d’été de l’Est du Groenland: America/Scoresbysund
+heure d’été d’Europe centrale: Europe/Paris
+heure normale du centre nord-américain: America/Chihuahua
+heure normale des îles Fidji: Pacific/Fiji
+heure du Myanmar: Asia/Yangon
+heure normale du Chili: America/Santiago
+heure d’Indochine: Asia/Vientiane
+heure normale de l’Atlantique: America/Kralendijk
+heure normale d’Afrique centrale: Africa/Juba
+heure normale des Tonga: Pacific/Tongatapu
+heure normale d’Irkoutsk: Asia/Irkutsk
+UTC+06:00: Asia/Kashgar
+heure normale des îles Chatham: NZ-CHAT
+heure normale de la Chine: PRC
+heure normale de l’Arabie: Asia/Kuwait
+heure du Bhoutan: Asia/Thimbu
+heure d’été d’Europe centrale: Europe/Busingen
+heure d’été de l’Atlantique: America/Glace_Bay
+heure normale du centre nord-américain: America/Belize
+heure de l’Inde: Asia/Calcutta
+heure de Singapour: Asia/Singapore
+heure normale de l’Arabie: Asia/Baghdad
+heure de Singapour: Singapore
+heure d’été d’Europe de l’Est: Asia/Nicosia
+heure moyenne de Greenwich: Atlantic/Reykjavik
+heure normale d’Argentine: America/Buenos_Aires
+heure d’été des Rocheuses: America/Boise
+heure d’été d’Israël: Asia/Jerusalem
+heure moyenne de Greenwich: Africa/Ouagadougou
+heure normale de l’île de Pâques: Pacific/Easter
+heure normale de Hong Kong: Asia/Hong_Kong
+UTC-03:00: Etc/GMT+3
+heure normale de l’Uruguay: America/Montevideo
+heure de l’île Wake: Pacific/Wake
+heure de l’Équateur: America/Guayaquil
+heure d’été du centre nord-américain: America/Winnipeg
+heure normale des Rocheuses: US/Arizona
+heure normale de l’Atlantique: America/Virgin
+heure normale du centre nord-américain: Canada/Saskatchewan
+UTC+04:00: Etc/GMT-4
+UTC+03:00: Turkey
+heure normale de l’Atlantique: America/Guadeloupe
+heure normale d’Afrique centrale: Africa/Windhoek
+heure normale de Brasilia: Brazil/East
+heure d’été des Rocheuses: Navajo
+heure de l’Inde: Asia/Colombo
+UTC-05:00: EST
+heure d’été du centre nord-américain: America/North_Dakota/Beulah
+heure de Tokelau: Pacific/Fakaofo
+heure du Myanmar: Asia/Rangoon
+heure d’été d’Europe de l’Est: Europe/Mariehamn
+heure normale de l’Atlantique: America/Santo_Domingo
+heure normale de la Nouvelle-Zélande: NZ
+heure moyenne de Greenwich: Etc/GMT+0
+heure normale de Brasilia: America/Araguaina
+heure normale de l’Atlantique: America/Aruba
+heure d’été d’Europe de l’Est: Europe/Helsinki
+heure des Tuvalu: Pacific/Funafuti
+heure normale de l’Est nord-américain: America/Jamaica
+heure d’été de l’Est nord-américain: America/Indiana/Vevay
+heure normale du centre nord-américain: America/Swift_Current
+heure normale d’Argentine: America/Argentina/Mendoza
+heure d’Indochine: Asia/Saigon
+heure d’été de l’Alaska: America/Nome
+heure normale d’Afrique de l’Est: Africa/Dar_es_Salaam
+UTC+13:00: Etc/GMT-13
+heure d’été de l’Est nord-américain: America/Nipigon
+heure d’été des Rocheuses: America/Yellowknife
+heure normale d’Afrique de l’Ouest: Africa/Malabo
+heure des îles Gilbert: Pacific/Tarawa
+heure normale de Brasilia: America/Maceio
+temps universel coordonné: Zulu
+heure de l’Ouest du Kazakhstan: Asia/Oral
+heure d’été d’Europe centrale: Europe/Vatican
+heure normale d’Argentine: America/Mendoza
+heure d’été du centre nord-américain: America/Rankin_Inlet
+heure d’été britannique: GB
+heure d’été d’Europe centrale: Poland
+heure d’été d’Europe centrale: Europe/Amsterdam
+heure d’été d’Europe de l’Est: Asia/Gaza
+heure du Bhoutan: Asia/Thimphu
+heure d’été du Pacifique nord-américain: US/Pacific
+heure d’été d’Europe de l’Ouest: Atlantic/Faeroe
+heure d’été de Saint-Pierre-et-Miquelon: America/Miquelon
+heure normale du centre de l’Australie: Australia/Darwin
+heure normale de Vladivostok: Asia/Ust-Nera
+heure d’été de l’Ouest du Groenland: America/Godthab
+heure normale de l’Arabie: Asia/Riyadh
+heure normale de l’Amazonie: America/Boa_Vista
+heure d’été de Cuba: Cuba
+heure moyenne de Greenwich: GMT-0
+heure normale des Rocheuses: America/Fort_Nelson
+heure normale des Philippines: Asia/Manila
+heure normale de l’Acre: America/Rio_Branco
+heure d’été du centre nord-américain: America/Indiana/Tell_City
+heure de l’Ouest du Kazakhstan: Asia/Qyzylorda
+heure d’été d’Europe centrale: Europe/Sarajevo
+UTC+03:00: EET
+heure normale de Moscou: W-SU
+heure de l’Est du Kazakhstan: Asia/Almaty
+heure normale d’Afrique de l’Est: Indian/Comoro
+heure de l’Est indonésien: Asia/Jayapura
+heure d’été de l’Est nord-américain: America/Grand_Turk
+heure normale d’Apia: Pacific/Apia
+heure du Guyana: America/Guyana
+UTC+01:00: Etc/GMT-1
+heure des Seychelles: Indian/Mahe
+heure de la Guyane française: America/Cayenne
+UTC+14:00: Etc/GMT-14
+heure normale de Magadan: Asia/Magadan
+heure normale de l’Est de l’Australie: Australia/Queensland
+heure d’été du Pacifique nord-américain: America/Los_Angeles
+heure normale d’Iran: Iran
+UTC+09:00: Etc/GMT-9
+UTC+01:00: WET
+heure d’été d’Europe centrale: Atlantic/Jan_Mayen
+heure de l’Ouest du Kazakhstan: Asia/Aqtau
+heure d’été du centre nord-américain: Canada/Central
+heure des îles Cocos: Indian/Cocos
+heure d’été des Rocheuses: America/Shiprock
+heure d’été d’Europe centrale: Africa/Ceuta
+heure de l’Est du Kazakhstan: Asia/Qostanay
+heure normale de l’Arabie: Asia/Bahrain
+heure normale d’Afrique de l’Ouest: Africa/Niamey
+UTC-03:00: America/Punta_Arenas
+heure normale de l’Arabie: Asia/Qatar
+heure normale de la Nouvelle-Zélande: Pacific/Auckland
+heure normale de l’île de Pâques: Chile/EasterIsland
+heure normale du Pakistan: Asia/Karachi
+heure d’été d’Israël: Asia/Tel_Aviv
+heure de Kosrae: Pacific/Kosrae
+heure moyenne de Greenwich: Africa/Accra
+heure normale de la Chine: Asia/Chongqing
+heure normale du centre de l’Australie: Australia/Adelaide
+heure d’été de l’Est nord-américain: America/Detroit
+heure d’été d’Europe de l’Est: Europe/Sofia
+heure de l’Ouest indonésien: Asia/Jakarta
+heure normale de l’Atlantique: America/Tortola
+heure normale du centre nord-américain: America/Merida
+heure normale d’Afrique centrale: Africa/Lubumbashi
+heure des îles Phoenix: Pacific/Enderbury
+heure normale du centre nord-américain: Mexico/General
+heure du Brunei: Asia/Brunei
+heure d’été du centre nord-américain: America/Matamoros
+heure normale du Yukon: America/Dawson
+heure normale des Samoa: Pacific/Samoa
+heure d’été de Cuba: America/Havana
+heure de Mawson: Antarctica/Mawson
+heure d’été du centre nord-américain: America/Chicago
+heure normale de la Chine: Asia/Macao
+heure d’été du Pacifique nord-américain: America/Santa_Isabel
+heure d’été de l’Alaska: America/Anchorage
+heure normale de l’Est de l’Australie: Australia/Canberra
+heure moyenne de Greenwich: Africa/Sao_Tome
+heure d’été des Açores: Atlantic/Azores
+UTC-08:00: Etc/GMT+8
+heure normale de Colombie: America/Bogota
+heure moyenne de Greenwich: Etc/GMT0
+heure d’été d’Europe de l’Est: Europe/Bucharest
+heure normale d’Argentine: America/Rosario
+heure normale du centre de l’Australie: Australia/South
+heure normale d’Afrique de l’Est: Africa/Djibouti
+heure normale d’Iran: Asia/Tehran
+heure normale d’Afrique de l’Est: Africa/Asmera
+heure normale d’Afrique de l’Est: Africa/Mogadishu
+heure normale de l’Amazonie: America/Porto_Velho
+heure d’été des Rocheuses: America/Inuvik
+heure normale du Yukon: Canada/Yukon
+heure d’été d’Europe centrale: Europe/Madrid
+UTC+03:00: Asia/Amman
+heure normale du Chili: Chile/Continental
+heure d’été de l’Est nord-américain: America/Fort_Wayne
+heure des Palaos: Pacific/Palau
+heure moyenne de Greenwich: Africa/Lome
+heure normale de Novossibirsk: Asia/Novosibirsk
+heure normale d’Afrique centrale: Africa/Gaborone
+heure normale d’Afrique de l’Ouest: Africa/Bangui
+temps universel coordonné: Etc/Universal
+heure normale de l’Ouest de l’Australie: Australia/West
+heure normale d’Afrique centrale: Africa/Maputo
+heure d’été du centre nord-américain: America/Rainy_River
+heure normale de l’Ouzbékistan: Asia/Tashkent
+heure d’été de l’Est nord-américain: Canada/Eastern
+temps universel coordonné: Universal
+UTC+00:00: Factory
+heure normale d’Afrique de l’Est: Africa/Nairobi
+heure normale des Samoa: US/Samoa
+heure normale d’Argentine: America/Argentina/Ushuaia
+heure d’été de Terre-Neuve: Canada/Newfoundland
+heure moyenne de Greenwich: Iceland
+heure de Dumont-d’Urville: Antarctica/DumontDUrville
+heure d’été d’Europe centrale: Europe/Vienna
+heure d’été des Rocheuses: America/Edmonton
+heure d’été de l’Est nord-américain: America/Iqaluit
+heure de la Malaisie: Asia/Kuching
+heure moyenne de Greenwich: America/Danmarkshavn
+heure normale de la Nouvelle-Zélande: Antarctica/South_Pole
+heure des îles Pitcairn: Pacific/Pitcairn
+heure normale d’Afrique de l’Ouest: Africa/Kinshasa
+heure normale d’Oulan-Bator: Asia/Choibalsan
+heure normale de Fernando de Noronha: America/Noronha
+heure d’été d’Europe centrale: Europe/Andorra
+heure normale de l’Acre: Brazil/Acre
+UTC+02:00: MET
+heure normale de l’Est nord-américain: America/Cancun
+heure normale de Sakhaline: Asia/Sakhalin
+heure normale du centre nord-américain: America/Guatemala
+heure normale de la Chine: Asia/Harbin
+heure normale d’Argentine: America/Argentina/Cordoba
+heure moyenne de Greenwich: Greenwich
+temps universel coordonné: UCT
+heure des îles Gambier: Pacific/Gambier
+heure normale des Rocheuses: America/Dawson_Creek
+heure d’été de l’Est nord-américain: America/Indiana/Marengo
+heure normale de l’Est de l’Australie: Australia/Sydney
+UTC+10:00: Etc/GMT-10
+heure normale d’Afrique de l’Ouest: Africa/Libreville
+heure normale d’Ekaterinbourg: Asia/Yekaterinburg
+UTC+03:00: Asia/Damascus
+heure normale de l’Est de l’Australie: Australia/ACT
+heure normale du centre nord-américain: America/Managua
+heure normale de la Corée: ROK
+heure moyenne de Greenwich: Africa/Abidjan
+heure moyenne de Greenwich: Africa/Nouakchott
+heure du Timor oriental: Asia/Dili
+heure normale du Cap-Vert: Atlantic/Cape_Verde
+UTC+04:00: Europe/Saratov
+heure normale des îles Chatham: Pacific/Chatham
+heure d’été de l’Atlantique: America/Thule
+heure normale d’Afrique centrale: Africa/Kigali
+heure d’été de l’Est nord-américain: America/Indiana/Petersburg
+heure normale de l’Est nord-américain: America/Atikokan
+heure normale du centre nord-américain: America/Tegucigalpa
+heure moyenne de Greenwich: Eire
+heure des îles Phoenix: Pacific/Kanton
+heure d’été de l’Atlantique: America/Halifax
+heure d’été de l’Alaska: US/Alaska
+heure d’Indochine: Asia/Bangkok
+heure normale d’Afrique de l’Est: Indian/Mayotte
+heure normale de l’Est nord-américain: America/Cayman
+heure normale de l’Atlantique: America/Dominica
+heure d’été de l’Est nord-américain: America/Indiana/Indianapolis
+UTC+11:00: Etc/GMT-11
+heure de Rothera: Antarctica/Rothera
+heure des Maldives: Indian/Maldives
+heure normale d’Afrique de l’Est: Africa/Asmara
+UTC+01:00: Africa/Casablanca
+heure d’été de l’Est nord-américain: America/New_York
+heure d’été de l’Est nord-américain: America/Toronto
+heure d’été d’Europe de l’Est: Europe/Tiraspol
+UTC+11:00: Pacific/Bougainville
+heure d’été de l’Est nord-américain: America/Kentucky/Monticello
+UTC-02:00: Etc/GMT+2
+heure normale de Lord Howe: Australia/Lord_Howe
+heure d’été d’Europe de l’Est: Europe/Athens
+heure normale du centre de l’Australie: Australia/Yancowinna
+heure normale des îles Malouines: Atlantic/Stanley
+heure d’été du Pacifique nord-américain: America/Tijuana
+heure normale de Iakoutsk: Asia/Khandyga
+heure normale de Brasilia: America/Santarem
+heure de Chuuk: Pacific/Chuuk
+heure d’Indochine: Asia/Phnom_Penh
+UTC+01:00: Europe/Isle_of_Man
+heure d’été d’Europe centrale: Europe/Skopje
+heure normale de l’Amazonie: America/Manaus
+heure d’été des Rocheuses: MST7MDT
+heure des îles Salomon: Pacific/Guadalcanal
+heure de la Malaisie: Asia/Kuala_Lumpur
+heure normale d’Afrique centrale: Africa/Harare
+heure d’été du Pacifique nord-américain: Mexico/BajaNorte
+UTC-04:00: Etc/GMT+4
+heure de Davis: Antarctica/Davis
+heure d’été d’Europe de l’Est: Egypt
+heure du Venezuela: America/Caracas
+heure normale de Brasilia: America/Sao_Paulo
+heure normale de Brasilia: America/Recife
+heure d’été d’Europe centrale: Europe/Berlin
+heure normale de Petropavlovsk-Kamchatski: Asia/Kamchatka
+heure d’été d’Hawaï - Aléoutiennes: US/Aleutian
+heure moyenne de Greenwich: Africa/Dakar
+heure normale de Iakoutsk: Asia/Yakutsk
+heure normale d’Afrique centrale: Africa/Lusaka
+heure moyenne de Greenwich: Europe/Dublin
+heure d’été d’Europe centrale: Europe/Vaduz
+heure normale de Hovd: Asia/Hovd
+heure d’été d’Europe centrale: Europe/Ljubljana
+heure d’été d’Europe centrale: Europe/San_Marino
+heure d’été de l’Est nord-américain: America/Kentucky/Louisville
+heure normale de la Chine: Asia/Shanghai
+heure d’été de l’Est nord-américain: America/Montreal
+UTC+07:00: Asia/Barnaul
+heure des Chamorro: Pacific/Guam
+heure d’été du Pacifique nord-américain: PST8PDT
+heure de la Papouasie-Nouvelle-Guinée: Pacific/Port_Moresby
+heure normale d’Afrique de l’Est: Africa/Kampala
+heure d’été d’Europe de l’Est: Europe/Nicosia
+heure d’été du Pacifique nord-américain: America/Vancouver
+heure d’été d’Europe centrale: Europe/Malta
+heure normale de l’Atlantique: America/Puerto_Rico
+heure d’été de l’Atlantique: Canada/Atlantic
+UTC-06:00: Etc/GMT+6
+heure d’été de l’Est nord-américain: EST5EDT
+heure normale de l’Atlantique: America/Curacao
+UTC+03:00: Asia/Istanbul
+heure du Centre indonésien: Asia/Ujung_Pandang
+heure d’été de l’Est nord-américain: America/Indiana/Winamac
+heure normale de Omsk: Asia/Omsk
+heure d’été d’Europe de l’Est: Europe/Tallinn
+heure normale d’Argentine: America/Cordoba
+UTC-11:00: Etc/GMT+11

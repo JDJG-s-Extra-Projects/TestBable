@@ -1,0 +1,597 @@
+Giờ Mùa Hè Hawaii-Aleut: America/Atka
+Giờ Suriname: America/Paramaribo
+Giờ Chuẩn Turkmenistan: Asia/Ashkhabad
+Giờ Nepal: Asia/Katmandu
+GMT+12:00: Etc/GMT-12
+Giờ Chuẩn Đại Tây Dương: America/St_Barthelemy
+Giờ Chuẩn Krasnoyarsk: Asia/Krasnoyarsk
+Giờ mùa hè Trung Âu: Europe/Brussels
+Giờ Chuẩn Volgograd: Europe/Volgograd
+Giờ mùa hè miền núi: America/Denver
+Giờ Chuẩn Brasilia: America/Fortaleza
+Giờ mùa hè Trung Âu: Europe/Podgorica
+Giờ Nam Georgia: Atlantic/South_Georgia
+Giờ Chuẩn Tây Phi: Africa/Ndjamena
+Giờ mùa hè miền Đông: America/Nassau
+Giờ Chuẩn Bangladesh: Asia/Dhaka
+Giờ Chuẩn Paraguay: America/Asuncion
+Giờ Chuẩn Đại Tây Dương: America/Blanc-Sablon
+Giờ mùa hè miền Trung: America/Indiana/Knox
+Giờ Chuẩn Bangladesh: Asia/Dacca
+Giờ Chuẩn Miền Đông Australia: Antarctica/Macquarie
+Giờ Chuẩn Matxcơva: Europe/Moscow
+Giờ Phối hợp Quốc tế: UTC
+Giờ Chuẩn Hàn Quốc: Asia/Seoul
+Giờ mùa hè Đông Âu: Europe/Riga
+Giờ Trung Phi: Africa/Blantyre
+Giờ Chuẩn Argentina: America/Argentina/Salta
+Giờ Chuẩn Argentina: America/Argentina/Buenos_Aires
+Giờ chuẩn Trung Âu: Africa/Algiers
+Giờ Chuẩn Miền Đông Australia: Australia/Tasmania
+Giờ mùa hè miền Trung: US/Indiana-Starke
+Giờ Chuẩn Samoa: Pacific/Midway
+Giờ mùa hè miền núi: America/Ciudad_Juarez
+GMT-10:00: HST
+GMT+11:00: Asia/Srednekolymsk
+Giờ Chuẩn Miền Đông Australia: Australia/Hobart
+Giờ mùa hè Đại Tây Dương: Atlantic/Bermuda
+Giờ Phối hợp Quốc tế: Etc/UCT
+Giờ Nam Cực và Nam Nước Pháp: Indian/Kerguelen
+Giờ mùa hè Tây Âu: Atlantic/Faroe
+Giờ Chuẩn Amazon: America/Campo_Grande
+Giờ Chuẩn Lord Howe: Australia/LHI
+Giờ Chuẩn Mauritius: Indian/Mauritius
+GMT+02:00: CET
+Giờ chuẩn Đông Âu: Libya
+GMT-07:00: Etc/GMT+7
+GMT+08:00: Etc/GMT-8
+Giờ Trung bình Greenwich: Atlantic/St_Helena
+Giờ Ponape: Pacific/Pohnpei
+GMT-01:00: Etc/GMT+1
+Giờ mùa hè Đông Âu: Europe/Kyiv
+GMT+05:00: Etc/GMT-5
+Giờ Reunion: Indian/Reunion
+GMT-03:00: Antarctica/Palmer
+Giờ chuẩn miền Trung: America/Bahia_Banderas
+Giờ Chuẩn Argentina: America/Jujuy
+Giờ Chuẩn Yakutsk: Asia/Chita
+Giờ mùa hè miền núi: US/Mountain
+Giờ Chuẩn Krasnoyarsk: Asia/Novokuznetsk
+GMT+06:00: Etc/GMT-6
+Giờ Chuẩn Miền Đông Australia: Australia/Currie
+Giờ Nepal: Asia/Kathmandu
+Giờ Mùa Hè Newfoundland: America/St_Johns
+Giờ Miền Tây Kazakhstan: Asia/Aqtobe
+Giờ Trung bình Greenwich: GMT+0
+GMT+04:00: Europe/Astrakhan
+GMT+01:00: Europe/Guernsey
+Giờ Chuẩn Đại Tây Dương: America/Martinique
+Giờ mùa hè miền Đông: US/East-Indiana
+Giờ mùa hè Trung Âu: Arctic/Longyearbyen
+Giờ chuẩn miền Trung: America/Mexico_City
+Giờ Chuẩn Argentina: America/Argentina/ComodRivadavia
+Giờ mùa hè Thái Bình Dương: Canada/Pacific
+Giờ Casey: Antarctica/Casey
+Giờ Trung Phi: Africa/Bujumbura
+Giờ Chuẩn Acre: America/Eirunepe
+Giờ Chuẩn Nhật Bản: Asia/Tokyo
+Giờ mùa hè Trung Âu: Europe/Bratislava
+Giờ Chuẩn Miền Đông Australia: Australia/Melbourne
+Giờ chuẩn miền Đông: America/Panama
+Giờ mùa hè Đông Âu: Asia/Beirut
+Giờ Đông Phi: Indian/Antananarivo
+Giờ Chuẩn Uzbekistan: Asia/Samarkand
+Giờ Chuẩn Peru: America/Lima
+Giờ Chuẩn Đại Tây Dương: America/St_Thomas
+Giờ Miền Tây Indonesia: Asia/Pontianak
+Giờ Chuẩn Thái Bình Dương Mexico: Mexico/BajaSur
+Giờ Trung bình Greenwich: Etc/GMT
+Giờ Chuẩn Tây Phi: Africa/Luanda
+Giờ Chuẩn Đại Tây Dương: America/St_Lucia
+Giờ Chuẩn Đại Tây Dương: America/Barbados
+Giờ Chuẩn Nam Phi: Africa/Maseru
+Giờ Chuẩn Thái Bình Dương Mexico: America/Mazatlan
+Giờ Marquesas: Pacific/Marquesas
+Giờ mùa hè miền Đông: America/Thunder_Bay
+Giờ Chuẩn Amazon: America/Cuiaba
+Giờ Quần Đảo Marshall: Pacific/Majuro
+Giờ Đông Phi: Africa/Addis_Ababa
+Giờ Chuẩn New Zealand: Antarctica/McMurdo
+Giờ mùa hè Trung Âu: Europe/Warsaw
+Giờ mùa hè miền Trung: America/Knox_IN
+Giờ Quần Đảo Marshall: Pacific/Kwajalein
+Giờ Chuẩn Amazon: Brazil/West
+GMT+03:00: Etc/GMT-3
+Giờ Chuẩn Đại Tây Dương: America/St_Vincent
+Giờ Chuẩn Đại Tây Dương: America/Marigot
+Giờ Chuẩn Đài Bắc: Asia/Taipei
+Giờ mùa hè miền Đông: US/Eastern
+Giờ Quần Đảo Marshall: Kwajalein
+Giờ Chuẩn Argentina: America/Argentina/Jujuy
+GMT-05:00: Etc/GMT+5
+Giờ mùa hè Trung Âu: Europe/Zagreb
+Giờ mùa hè miền Đông: America/Port-au-Prince
+Giờ Chuẩn Miền Trung Australia: Australia/North
+Giờ Trung bình Greenwich: GMT
+Giờ chuẩn Trung Âu: Africa/Tunis
+Giờ Afghanistan: Asia/Kabul
+Giờ Mùa Hè Alaska: America/Juneau
+GMT+07:00: Asia/Tomsk
+Giờ Chuẩn Nam Phi: Africa/Mbabane
+Giờ Chuẩn Tây Phi: Africa/Porto-Novo
+Giờ Chuẩn Vùng Vịnh: Asia/Muscat
+Giờ Chuẩn Argentina: America/Argentina/San_Luis
+Giờ Chuẩn Miền Trung Tây Australia: Australia/Eucla
+Giờ Chuẩn Đại Tây Dương: America/Anguilla
+Giờ mùa hè Trung Âu: Europe/Gibraltar
+Giờ mùa hè Trung Âu: Europe/Prague
+Giờ mùa hè Đông Âu: Europe/Zaporozhye
+Giờ Chuẩn Hàn Quốc: Asia/Pyongyang
+Giờ mùa hè Trung Âu: Europe/Zurich
+Giờ Miền Tây Kazakhstan: Asia/Atyrau
+Giờ mùa hè miền Đông: America/Indiana/Vincennes
+Giờ Chuẩn Argentina: America/Argentina/Catamarca
+Giờ mùa hè Trung Âu: Europe/Stockholm
+Giờ Phối hợp Quốc tế: Etc/UTC
+Giờ Chuẩn Tây Phi: Africa/Lagos
+Giờ Chuẩn Argentina: America/Argentina/La_Rioja
+Giờ Chuẩn Vùng Vịnh: Asia/Dubai
+Giờ chuẩn Ulan Bator: Asia/Ulaanbaatar
+Giờ Chuẩn Fernando de Noronha: Brazil/DeNoronha
+Giờ Trung bình Greenwich: Africa/Bissau
+Giờ Chuẩn Georgia: Asia/Tbilisi
+Giờ Chuẩn Đại Tây Dương: America/St_Kitts
+Giờ Chuẩn Tây Phi: Africa/Douala
+Giờ mùa hè Đại Tây Dương: America/Goose_Bay
+Giờ mùa hè miền Đông: America/Indianapolis
+Giờ mùa hè Trung Âu: Europe/Rome
+Giờ Chuẩn Hawaii-Aleut: Pacific/Johnston
+Giờ mùa hè Đông Âu: Asia/Hebron
+Giờ Chuẩn Miền Đông Australia: Australia/Victoria
+Giờ mùa hè miền Trung: CST6CDT
+Giờ mùa hè miền Đông: US/Michigan
+Giờ Chuẩn Vladivostok: Asia/Vladivostok
+Giờ Chuẩn Nam Phi: Africa/Johannesburg
+GMT+03:00: Asia/Famagusta
+Giờ Mùa Hè Israel: Israel
+Giờ Chuuk: Pacific/Yap
+GMT-09:00: Etc/GMT+9
+Giờ Trung Phi: Africa/Khartoum
+Giờ Chuẩn Samara: Europe/Samara
+Giờ Wallis và Futuna: Pacific/Wallis
+Giờ Vostok: Antarctica/Vostok
+Giờ Galapagos: Pacific/Galapagos
+Giờ Bolivia: America/La_Paz
+Giờ Chuẩn Đại Tây Dương: America/Port_of_Spain
+Giờ chuẩn miền Đông: America/Coral_Harbour
+Giờ mùa hè miền Trung: America/North_Dakota/Center
+Giờ chuẩn miền núi: America/Creston
+Giờ Chuẩn Đại Tây Dương: America/Grenada
+GMT+01:00: Europe/Jersey
+Giờ Chamorro: Pacific/Saipan
+Giờ chuẩn miền Đông: Jamaica
+Giờ Chuẩn Đại Tây Dương: America/Lower_Princes
+Giờ Phối hợp Quốc tế: Etc/Zulu
+Giờ Ponape: Pacific/Ponape
+Giờ Chuẩn Samoa: Pacific/Pago_Pago
+Giờ mùa hè Đông Âu: Africa/Cairo
+Giờ mùa hè Trung Âu: Europe/Budapest
+GMT-10:00: Etc/GMT+10
+Giờ mùa hè Trung Âu: Europe/Tirane
+Giờ mùa hè Trung Âu: Europe/Belgrade
+Giờ chuẩn miền Trung: America/El_Salvador
+Giờ mùa hè miền Trung: America/Menominee
+Giờ Mùa Hè Anh: GB-Eire
+Giờ Chuẩn Hawaii-Aleut: US/Hawaii
+Giờ Chuẩn Azerbaijan: Asia/Baku
+Giờ Chuẩn Tây Phi: Africa/Brazzaville
+Giờ Đảo Christmas: Indian/Christmas
+GMT+02:00: Antarctica/Troll
+Giờ Mùa Hè Miền Tây Greenland: America/Nuuk
+Giờ mùa hè Tây Âu: Atlantic/Madeira
+Giờ Chuẩn Turkmenistan: Asia/Ashgabat
+Giờ Trung bình Greenwich: Etc/GMT-0
+Giờ Trung bình Greenwich: Africa/Timbuktu
+GMT+07:00: Etc/GMT-7
+GMT+06:00: Asia/Urumqi
+Giờ Chuẩn Miền Đông Australia: Australia/Brisbane
+Giờ Chuẩn Hồng Kông: Hongkong
+Giờ chuẩn miền núi: America/Phoenix
+Giờ Trung bình Greenwich: Africa/Bamako
+Giờ Chuẩn Đài Bắc: ROC
+Giờ chuẩn miền Trung: America/Costa_Rica
+Giờ Tajikistan: Asia/Dushanbe
+Giờ Mùa Hè Hawaii-Aleut: America/Adak
+Giờ Niue: Pacific/Niue
+GMT+03:00: Europe/Istanbul
+Giờ Chuẩn Trung Quốc: Asia/Macau
+Giờ Chuẩn Brasilia: America/Belem
+Giờ mùa hè miền Trung: America/North_Dakota/New_Salem
+Giờ chuẩn miền Trung: America/Monterrey
+Giờ Chuẩn Đại Tây Dương: America/Montserrat
+Giờ Chuẩn Nhật Bản: Japan
+Giờ chuẩn Đông Âu: Europe/Kaliningrad
+Giờ Chuẩn Argentina: America/Argentina/Rio_Gallegos
+Giờ chuẩn miền Trung: America/Regina
+Giờ Trung bình Greenwich: Africa/Freetown
+Giờ Chuẩn Armenia: Asia/Yerevan
+Giờ Mùa Hè Anh: Europe/Belfast
+Giờ chuẩn Đông Âu: Africa/Tripoli
+Giờ chuẩn Ulan Bator: Asia/Ulan_Bator
+Giờ Syowa: Antarctica/Syowa
+Giờ Chuẩn Argentina: America/Catamarca
+Giờ Chuẩn Miền Đông Australia: Australia/Lindeman
+Giờ mùa hè miền Trung: US/Central
+Giờ Chuẩn Argentina: America/Argentina/San_Juan
+Giờ Yukon: America/Whitehorse
+Giờ Trung bình Greenwich: Africa/Banjul
+GMT+01:00: Africa/El_Aaiun
+Giờ mùa hè miền núi: America/Cambridge_Bay
+Giờ Chuẩn Đại Tây Dương: America/Antigua
+Giờ Quần Đảo Line: Pacific/Kiritimati
+Giờ chuẩn Ả Rập: Asia/Aden
+Giờ mùa hè miền Đông: America/Louisville
+Giờ Mùa Hè Alaska: America/Sitka
+Giờ mùa hè Đông Âu: Europe/Uzhgorod
+Giờ Chuẩn New Caledonia: Pacific/Noumea
+Giờ mùa hè Đông Âu: Europe/Kiev
+Giờ Chuẩn Miền Đông Australia: Australia/NSW
+Giờ mùa hè miền Trung: America/Resolute
+Giờ Trung bình Greenwich: GMT0
+Giờ Chuẩn Miền Tây Australia: Australia/Perth
+Giờ Chuẩn Matxcơva: Europe/Simferopol
+Giờ Chuẩn Miền Trung Australia: Australia/Broken_Hill
+Giờ Chuẩn Vanuatu: Pacific/Efate
+Giờ mùa hè Tây Âu: Atlantic/Canary
+Giờ Tahiti: Pacific/Tahiti
+Giờ mùa hè Trung Âu: Europe/Copenhagen
+Giờ Mùa Hè Alaska: America/Metlakatla
+Giờ Mùa Hè Anh: Europe/London
+GMT-12:00: Etc/GMT+12
+Giờ Miền Trung Indonesia: Asia/Makassar
+Giờ Chuẩn Thái Bình Dương Mexico: America/Hermosillo
+Giờ mùa hè Đại Tây Dương: America/Moncton
+Giờ Ấn Độ Dương: Indian/Chagos
+Giờ mùa hè Tây Âu: Portugal
+Giờ mùa hè Trung Âu: Europe/Monaco
+Giờ Chuẩn Hawaii-Aleut: Pacific/Honolulu
+GMT+02:00: Etc/GMT-2
+Giờ Đông Dương: Asia/Ho_Chi_Minh
+Giờ Chuẩn Quần Đảo Cook: Pacific/Rarotonga
+Giờ mùa hè miền Đông: America/Pangnirtung
+Giờ Chuẩn Acre: America/Porto_Acre
+Giờ Trung bình Greenwich: Africa/Monrovia
+Giờ Trung bình Greenwich: Etc/Greenwich
+Giờ Chuẩn Đảo Norfolk: Pacific/Norfolk
+Giờ Chuuk: Pacific/Truk
+GMT-07:00: MST
+Giờ mùa hè miền Trung: America/Ojinaga
+Giờ Chuẩn Trung Quốc: Asia/Chungking
+Giờ mùa hè Tây Âu: Europe/Lisbon
+Giờ mùa hè Đông Âu: Europe/Vilnius
+Giờ Mùa Hè Alaska: America/Yakutat
+Giờ mùa hè Thái Bình Dương: America/Ensenada
+Giờ Nauru: Pacific/Nauru
+Giờ mùa hè Đông Âu: Europe/Chisinau
+GMT+03:00: Europe/Kirov
+Giờ mùa hè Trung Âu: Europe/Oslo
+Giờ Chuẩn Brasilia: America/Bahia
+Giờ Chuẩn Ấn Độ: Asia/Kolkata
+GMT+04:00: Europe/Ulyanovsk
+Giờ mùa hè miền núi: Canada/Mountain
+Giờ mùa hè Trung Âu: Europe/Luxembourg
+Giờ Trung bình Greenwich: Africa/Conakry
+Giờ Chuẩn Argentina: America/Argentina/Tucuman
+Giờ Kyrgystan: Asia/Bishkek
+Giờ Chuẩn Anadyr: Asia/Anadyr
+Giờ Chuẩn Matxcơva: Europe/Minsk
+Giờ Mùa Hè Miền Đông Greenland: America/Scoresbysund
+Giờ mùa hè Trung Âu: Europe/Paris
+Giờ chuẩn miền Trung: America/Chihuahua
+Giờ Chuẩn Fiji: Pacific/Fiji
+Giờ Myanmar: Asia/Yangon
+Giờ Chuẩn Chile: America/Santiago
+Giờ Đông Dương: Asia/Vientiane
+Giờ Chuẩn Đại Tây Dương: America/Kralendijk
+Giờ Trung Phi: Africa/Juba
+Giờ Chuẩn Tonga: Pacific/Tongatapu
+Giờ Chuẩn Irkutsk: Asia/Irkutsk
+GMT+06:00: Asia/Kashgar
+Giờ Chuẩn Chatham: NZ-CHAT
+Giờ Chuẩn Trung Quốc: PRC
+Giờ chuẩn Ả Rập: Asia/Kuwait
+Giờ Bhutan: Asia/Thimbu
+Giờ mùa hè Trung Âu: Europe/Busingen
+Giờ mùa hè Đại Tây Dương: America/Glace_Bay
+Giờ chuẩn miền Trung: America/Belize
+Giờ Chuẩn Ấn Độ: Asia/Calcutta
+Giờ Singapore: Asia/Singapore
+Giờ chuẩn Ả Rập: Asia/Baghdad
+Giờ Singapore: Singapore
+Giờ mùa hè Đông Âu: Asia/Nicosia
+Giờ Trung bình Greenwich: Atlantic/Reykjavik
+Giờ Chuẩn Argentina: America/Buenos_Aires
+Giờ mùa hè miền núi: America/Boise
+Giờ Mùa Hè Israel: Asia/Jerusalem
+Giờ Trung bình Greenwich: Africa/Ouagadougou
+Giờ Chuẩn Đảo Phục Sinh: Pacific/Easter
+Giờ Chuẩn Hồng Kông: Asia/Hong_Kong
+GMT-03:00: Etc/GMT+3
+Giờ Chuẩn Uruguay: America/Montevideo
+Giờ Đảo Wake: Pacific/Wake
+Giờ Ecuador: America/Guayaquil
+Giờ mùa hè miền Trung: America/Winnipeg
+Giờ chuẩn miền núi: US/Arizona
+Giờ Chuẩn Đại Tây Dương: America/Virgin
+Giờ chuẩn miền Trung: Canada/Saskatchewan
+GMT+04:00: Etc/GMT-4
+GMT+03:00: Turkey
+Giờ Chuẩn Đại Tây Dương: America/Guadeloupe
+Giờ Trung Phi: Africa/Windhoek
+Giờ Chuẩn Brasilia: Brazil/East
+Giờ mùa hè miền núi: Navajo
+Giờ Chuẩn Ấn Độ: Asia/Colombo
+GMT-05:00: EST
+Giờ mùa hè miền Trung: America/North_Dakota/Beulah
+Giờ Tokelau: Pacific/Fakaofo
+Giờ Myanmar: Asia/Rangoon
+Giờ mùa hè Đông Âu: Europe/Mariehamn
+Giờ Chuẩn Đại Tây Dương: America/Santo_Domingo
+Giờ Chuẩn New Zealand: NZ
+Giờ Trung bình Greenwich: Etc/GMT+0
+Giờ Chuẩn Brasilia: America/Araguaina
+Giờ Chuẩn Đại Tây Dương: America/Aruba
+Giờ mùa hè Đông Âu: Europe/Helsinki
+Giờ Tuvalu: Pacific/Funafuti
+Giờ chuẩn miền Đông: America/Jamaica
+Giờ mùa hè miền Đông: America/Indiana/Vevay
+Giờ chuẩn miền Trung: America/Swift_Current
+Giờ Chuẩn Argentina: America/Argentina/Mendoza
+Giờ Đông Dương: Asia/Saigon
+Giờ Mùa Hè Alaska: America/Nome
+Giờ Đông Phi: Africa/Dar_es_Salaam
+GMT+13:00: Etc/GMT-13
+Giờ mùa hè miền Đông: America/Nipigon
+Giờ mùa hè miền núi: America/Yellowknife
+Giờ Chuẩn Tây Phi: Africa/Malabo
+Giờ Quần Đảo Gilbert: Pacific/Tarawa
+Giờ Chuẩn Brasilia: America/Maceio
+Giờ Phối hợp Quốc tế: Zulu
+Giờ Miền Tây Kazakhstan: Asia/Oral
+Giờ mùa hè Trung Âu: Europe/Vatican
+Giờ Chuẩn Argentina: America/Mendoza
+Giờ mùa hè miền Trung: America/Rankin_Inlet
+Giờ Mùa Hè Anh: GB
+Giờ mùa hè Trung Âu: Poland
+Giờ mùa hè Trung Âu: Europe/Amsterdam
+Giờ mùa hè Đông Âu: Asia/Gaza
+Giờ Bhutan: Asia/Thimphu
+Giờ mùa hè Thái Bình Dương: US/Pacific
+Giờ mùa hè Tây Âu: Atlantic/Faeroe
+Giờ Mùa Hè Saint Pierre và Miquelon: America/Miquelon
+Giờ Chuẩn Miền Trung Australia: Australia/Darwin
+Giờ Chuẩn Vladivostok: Asia/Ust-Nera
+Giờ Mùa Hè Miền Tây Greenland: America/Godthab
+Giờ chuẩn Ả Rập: Asia/Riyadh
+Giờ Chuẩn Amazon: America/Boa_Vista
+Giờ Mùa Hè Cuba: Cuba
+Giờ Trung bình Greenwich: GMT-0
+Giờ chuẩn miền núi: America/Fort_Nelson
+Giờ Chuẩn Philippin: Asia/Manila
+Giờ Chuẩn Acre: America/Rio_Branco
+Giờ mùa hè miền Trung: America/Indiana/Tell_City
+Giờ Miền Tây Kazakhstan: Asia/Qyzylorda
+Giờ mùa hè Trung Âu: Europe/Sarajevo
+GMT+03:00: EET
+Giờ Chuẩn Matxcơva: W-SU
+Giờ Miền Đông Kazakhstan: Asia/Almaty
+Giờ Đông Phi: Indian/Comoro
+Giờ Miền Đông Indonesia: Asia/Jayapura
+Giờ mùa hè miền Đông: America/Grand_Turk
+Giờ Chuẩn Apia: Pacific/Apia
+Giờ Guyana: America/Guyana
+GMT+01:00: Etc/GMT-1
+Giờ Seychelles: Indian/Mahe
+Giờ Guiana thuộc Pháp: America/Cayenne
+GMT+14:00: Etc/GMT-14
+Giờ Chuẩn Magadan: Asia/Magadan
+Giờ Chuẩn Miền Đông Australia: Australia/Queensland
+Giờ mùa hè Thái Bình Dương: America/Los_Angeles
+Giờ Chuẩn Iran: Iran
+GMT+09:00: Etc/GMT-9
+GMT+01:00: WET
+Giờ mùa hè Trung Âu: Atlantic/Jan_Mayen
+Giờ Miền Tây Kazakhstan: Asia/Aqtau
+Giờ mùa hè miền Trung: Canada/Central
+Giờ Quần Đảo Cocos: Indian/Cocos
+Giờ mùa hè miền núi: America/Shiprock
+Giờ mùa hè Trung Âu: Africa/Ceuta
+Giờ Miền Đông Kazakhstan: Asia/Qostanay
+Giờ chuẩn Ả Rập: Asia/Bahrain
+Giờ Chuẩn Tây Phi: Africa/Niamey
+GMT-03:00: America/Punta_Arenas
+Giờ chuẩn Ả Rập: Asia/Qatar
+Giờ Chuẩn New Zealand: Pacific/Auckland
+Giờ Chuẩn Đảo Phục Sinh: Chile/EasterIsland
+Giờ Chuẩn Pakistan: Asia/Karachi
+Giờ Mùa Hè Israel: Asia/Tel_Aviv
+Giờ Kosrae: Pacific/Kosrae
+Giờ Trung bình Greenwich: Africa/Accra
+Giờ Chuẩn Trung Quốc: Asia/Chongqing
+Giờ Chuẩn Miền Trung Australia: Australia/Adelaide
+Giờ mùa hè miền Đông: America/Detroit
+Giờ mùa hè Đông Âu: Europe/Sofia
+Giờ Miền Tây Indonesia: Asia/Jakarta
+Giờ Chuẩn Đại Tây Dương: America/Tortola
+Giờ chuẩn miền Trung: America/Merida
+Giờ Trung Phi: Africa/Lubumbashi
+Giờ Quần Đảo Phoenix: Pacific/Enderbury
+Giờ chuẩn miền Trung: Mexico/General
+Giờ Brunei Darussalam: Asia/Brunei
+Giờ mùa hè miền Trung: America/Matamoros
+Giờ Yukon: America/Dawson
+Giờ Chuẩn Samoa: Pacific/Samoa
+Giờ Mùa Hè Cuba: America/Havana
+Giờ Mawson: Antarctica/Mawson
+Giờ mùa hè miền Trung: America/Chicago
+Giờ Chuẩn Trung Quốc: Asia/Macao
+Giờ mùa hè Thái Bình Dương: America/Santa_Isabel
+Giờ Mùa Hè Alaska: America/Anchorage
+Giờ Chuẩn Miền Đông Australia: Australia/Canberra
+Giờ Trung bình Greenwich: Africa/Sao_Tome
+Giờ mùa hè Azores: Atlantic/Azores
+GMT-08:00: Etc/GMT+8
+Giờ Chuẩn Colombia: America/Bogota
+Giờ Trung bình Greenwich: Etc/GMT0
+Giờ mùa hè Đông Âu: Europe/Bucharest
+Giờ Chuẩn Argentina: America/Rosario
+Giờ Chuẩn Miền Trung Australia: Australia/South
+Giờ Đông Phi: Africa/Djibouti
+Giờ Chuẩn Iran: Asia/Tehran
+Giờ Đông Phi: Africa/Asmera
+Giờ Đông Phi: Africa/Mogadishu
+Giờ Chuẩn Amazon: America/Porto_Velho
+Giờ mùa hè miền núi: America/Inuvik
+Giờ Yukon: Canada/Yukon
+Giờ mùa hè Trung Âu: Europe/Madrid
+GMT+03:00: Asia/Amman
+Giờ Chuẩn Chile: Chile/Continental
+Giờ mùa hè miền Đông: America/Fort_Wayne
+Giờ Palau: Pacific/Palau
+Giờ Trung bình Greenwich: Africa/Lome
+Giờ chuẩn Novosibirsk: Asia/Novosibirsk
+Giờ Trung Phi: Africa/Gaborone
+Giờ Chuẩn Tây Phi: Africa/Bangui
+Giờ Phối hợp Quốc tế: Etc/Universal
+Giờ Chuẩn Miền Tây Australia: Australia/West
+Giờ Trung Phi: Africa/Maputo
+Giờ mùa hè miền Trung: America/Rainy_River
+Giờ Chuẩn Uzbekistan: Asia/Tashkent
+Giờ mùa hè miền Đông: Canada/Eastern
+Giờ Phối hợp Quốc tế: Universal
+GMT+00:00: Factory
+Giờ Đông Phi: Africa/Nairobi
+Giờ Chuẩn Samoa: US/Samoa
+Giờ Chuẩn Argentina: America/Argentina/Ushuaia
+Giờ Mùa Hè Newfoundland: Canada/Newfoundland
+Giờ Trung bình Greenwich: Iceland
+Giờ Dumont-d’Urville: Antarctica/DumontDUrville
+Giờ mùa hè Trung Âu: Europe/Vienna
+Giờ mùa hè miền núi: America/Edmonton
+Giờ mùa hè miền Đông: America/Iqaluit
+Giờ Malaysia: Asia/Kuching
+Giờ Trung bình Greenwich: America/Danmarkshavn
+Giờ Chuẩn New Zealand: Antarctica/South_Pole
+Giờ Pitcairn: Pacific/Pitcairn
+Giờ Chuẩn Tây Phi: Africa/Kinshasa
+Giờ chuẩn Ulan Bator: Asia/Choibalsan
+Giờ Chuẩn Fernando de Noronha: America/Noronha
+Giờ mùa hè Trung Âu: Europe/Andorra
+Giờ Chuẩn Acre: Brazil/Acre
+GMT+02:00: MET
+Giờ chuẩn miền Đông: America/Cancun
+Giờ Chuẩn Sakhalin: Asia/Sakhalin
+Giờ chuẩn miền Trung: America/Guatemala
+Giờ Chuẩn Trung Quốc: Asia/Harbin
+Giờ Chuẩn Argentina: America/Argentina/Cordoba
+Giờ Trung bình Greenwich: Greenwich
+Giờ Phối hợp Quốc tế: UCT
+Giờ Gambier: Pacific/Gambier
+Giờ chuẩn miền núi: America/Dawson_Creek
+Giờ mùa hè miền Đông: America/Indiana/Marengo
+Giờ Chuẩn Miền Đông Australia: Australia/Sydney
+GMT+10:00: Etc/GMT-10
+Giờ Chuẩn Tây Phi: Africa/Libreville
+Giờ Chuẩn Yekaterinburg: Asia/Yekaterinburg
+GMT+03:00: Asia/Damascus
+Giờ Chuẩn Miền Đông Australia: Australia/ACT
+Giờ chuẩn miền Trung: America/Managua
+Giờ Chuẩn Hàn Quốc: ROK
+Giờ Trung bình Greenwich: Africa/Abidjan
+Giờ Trung bình Greenwich: Africa/Nouakchott
+Giờ Đông Timor: Asia/Dili
+Giờ Chuẩn Cape Verde: Atlantic/Cape_Verde
+GMT+04:00: Europe/Saratov
+Giờ Chuẩn Chatham: Pacific/Chatham
+Giờ mùa hè Đại Tây Dương: America/Thule
+Giờ Trung Phi: Africa/Kigali
+Giờ mùa hè miền Đông: America/Indiana/Petersburg
+Giờ chuẩn miền Đông: America/Atikokan
+Giờ chuẩn miền Trung: America/Tegucigalpa
+Giờ Trung bình Greenwich: Eire
+Giờ Quần Đảo Phoenix: Pacific/Kanton
+Giờ mùa hè Đại Tây Dương: America/Halifax
+Giờ Mùa Hè Alaska: US/Alaska
+Giờ Đông Dương: Asia/Bangkok
+Giờ Đông Phi: Indian/Mayotte
+Giờ chuẩn miền Đông: America/Cayman
+Giờ Chuẩn Đại Tây Dương: America/Dominica
+Giờ mùa hè miền Đông: America/Indiana/Indianapolis
+GMT+11:00: Etc/GMT-11
+Giờ Rothera: Antarctica/Rothera
+Giờ Maldives: Indian/Maldives
+Giờ Đông Phi: Africa/Asmara
+GMT+01:00: Africa/Casablanca
+Giờ mùa hè miền Đông: America/New_York
+Giờ mùa hè miền Đông: America/Toronto
+Giờ mùa hè Đông Âu: Europe/Tiraspol
+GMT+11:00: Pacific/Bougainville
+Giờ mùa hè miền Đông: America/Kentucky/Monticello
+GMT-02:00: Etc/GMT+2
+Giờ Chuẩn Lord Howe: Australia/Lord_Howe
+Giờ mùa hè Đông Âu: Europe/Athens
+Giờ Chuẩn Miền Trung Australia: Australia/Yancowinna
+Giờ Chuẩn Quần Đảo Falkland: Atlantic/Stanley
+Giờ mùa hè Thái Bình Dương: America/Tijuana
+Giờ Chuẩn Yakutsk: Asia/Khandyga
+Giờ Chuẩn Brasilia: America/Santarem
+Giờ Chuuk: Pacific/Chuuk
+Giờ Đông Dương: Asia/Phnom_Penh
+GMT+01:00: Europe/Isle_of_Man
+Giờ mùa hè Trung Âu: Europe/Skopje
+Giờ Chuẩn Amazon: America/Manaus
+Giờ mùa hè miền núi: MST7MDT
+Giờ Quần Đảo Solomon: Pacific/Guadalcanal
+Giờ Malaysia: Asia/Kuala_Lumpur
+Giờ Trung Phi: Africa/Harare
+Giờ mùa hè Thái Bình Dương: Mexico/BajaNorte
+GMT-04:00: Etc/GMT+4
+Giờ Davis: Antarctica/Davis
+Giờ mùa hè Đông Âu: Egypt
+Giờ Venezuela: America/Caracas
+Giờ Chuẩn Brasilia: America/Sao_Paulo
+Giờ Chuẩn Brasilia: America/Recife
+Giờ mùa hè Trung Âu: Europe/Berlin
+Giờ chuẩn Petropavlovsk-Kamchatski: Asia/Kamchatka
+Giờ Mùa Hè Hawaii-Aleut: US/Aleutian
+Giờ Trung bình Greenwich: Africa/Dakar
+Giờ Chuẩn Yakutsk: Asia/Yakutsk
+Giờ Trung Phi: Africa/Lusaka
+Giờ Trung bình Greenwich: Europe/Dublin
+Giờ mùa hè Trung Âu: Europe/Vaduz
+Giờ Chuẩn Hovd: Asia/Hovd
+Giờ mùa hè Trung Âu: Europe/Ljubljana
+Giờ mùa hè Trung Âu: Europe/San_Marino
+Giờ mùa hè miền Đông: America/Kentucky/Louisville
+Giờ Chuẩn Trung Quốc: Asia/Shanghai
+Giờ mùa hè miền Đông: America/Montreal
+GMT+07:00: Asia/Barnaul
+Giờ Chamorro: Pacific/Guam
+Giờ mùa hè Thái Bình Dương: PST8PDT
+Giờ Papua New Guinea: Pacific/Port_Moresby
+Giờ Đông Phi: Africa/Kampala
+Giờ mùa hè Đông Âu: Europe/Nicosia
+Giờ mùa hè Thái Bình Dương: America/Vancouver
+Giờ mùa hè Trung Âu: Europe/Malta
+Giờ Chuẩn Đại Tây Dương: America/Puerto_Rico
+Giờ mùa hè Đại Tây Dương: Canada/Atlantic
+GMT-06:00: Etc/GMT+6
+Giờ mùa hè miền Đông: EST5EDT
+Giờ Chuẩn Đại Tây Dương: America/Curacao
+GMT+03:00: Asia/Istanbul
+Giờ Miền Trung Indonesia: Asia/Ujung_Pandang
+Giờ mùa hè miền Đông: America/Indiana/Winamac
+Giờ chuẩn Omsk: Asia/Omsk
+Giờ mùa hè Đông Âu: Europe/Tallinn
+Giờ Chuẩn Argentina: America/Cordoba
+GMT-11:00: Etc/GMT+11

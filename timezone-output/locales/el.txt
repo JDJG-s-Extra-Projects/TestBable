@@ -1,0 +1,597 @@
+Θερινή ώρα Χαβάης-Αλεούτιων Νήσων: America/Atka
+Ώρα Σουρινάμ: America/Paramaribo
+Χειμερινή ώρα Τουρκμενιστάν: Asia/Ashkhabad
+Ώρα Νεπάλ: Asia/Katmandu
+GMT+12:00: Etc/GMT-12
+Χειμερινή ώρα Ατλαντικού: America/St_Barthelemy
+Χειμερινή ώρα Κρασνογιάρσκ: Asia/Krasnoyarsk
+Θερινή ώρα Κεντρικής Ευρώπης: Europe/Brussels
+Χειμερινή ώρα Βόλγκογκραντ: Europe/Volgograd
+Ορεινή θερινή ώρα Βόρειας Αμερικής: America/Denver
+Χειμερινή ώρα Μπραζίλιας: America/Fortaleza
+Θερινή ώρα Κεντρικής Ευρώπης: Europe/Podgorica
+Ώρα Νότιας Γεωργίας: Atlantic/South_Georgia
+Χειμερινή ώρα Δυτικής Αφρικής: Africa/Ndjamena
+Ανατολική θερινή ώρα Βόρειας Αμερικής: America/Nassau
+Χειμερινή ώρα Μπανγκλαντές: Asia/Dhaka
+Χειμερινή ώρα Παραγουάης: America/Asuncion
+Χειμερινή ώρα Ατλαντικού: America/Blanc-Sablon
+Κεντρική θερινή ώρα Βόρειας Αμερικής: America/Indiana/Knox
+Χειμερινή ώρα Μπανγκλαντές: Asia/Dacca
+Χειμερινή ώρα Ανατολικής Αυστραλίας: Antarctica/Macquarie
+Χειμερινή ώρα Μόσχας: Europe/Moscow
+Συντονισμένη Παγκόσμια Ώρα: UTC
+Χειμερινή ώρα Κορέας: Asia/Seoul
+Θερινή ώρα Ανατολικής Ευρώπης: Europe/Riga
+Ώρα Κεντρικής Αφρικής: Africa/Blantyre
+Χειμερινή ώρα Αργεντινής: America/Argentina/Salta
+Χειμερινή ώρα Αργεντινής: America/Argentina/Buenos_Aires
+Χειμερινή ώρα Κεντρικής Ευρώπης: Africa/Algiers
+Χειμερινή ώρα Ανατολικής Αυστραλίας: Australia/Tasmania
+Κεντρική θερινή ώρα Βόρειας Αμερικής: US/Indiana-Starke
+Χειμερινή ώρα Σαμόα: Pacific/Midway
+Ορεινή θερινή ώρα Βόρειας Αμερικής: America/Ciudad_Juarez
+GMT-10:00: HST
+GMT+11:00: Asia/Srednekolymsk
+Χειμερινή ώρα Ανατολικής Αυστραλίας: Australia/Hobart
+Θερινή ώρα Ατλαντικού: Atlantic/Bermuda
+Συντονισμένη Παγκόσμια Ώρα: Etc/UCT
+Ώρα Γαλλικού Νότου και Ανταρκτικής: Indian/Kerguelen
+Θερινή ώρα Δυτικής Ευρώπης: Atlantic/Faroe
+Χειμερινή ώρα Αμαζονίου: America/Campo_Grande
+Χειμερινή ώρα Λορντ Χάου: Australia/LHI
+Χειμερινή ώρα Μαυρίκιου: Indian/Mauritius
+GMT+02:00: CET
+Χειμερινή ώρα Ανατολικής Ευρώπης: Libya
+GMT-07:00: Etc/GMT+7
+GMT+08:00: Etc/GMT-8
+Μέση ώρα Γκρίνουιτς: Atlantic/St_Helena
+Ώρα Πονάπε: Pacific/Pohnpei
+GMT-01:00: Etc/GMT+1
+Θερινή ώρα Ανατολικής Ευρώπης: Europe/Kyiv
+GMT+05:00: Etc/GMT-5
+Ώρα Ρεϊνιόν: Indian/Reunion
+GMT-03:00: Antarctica/Palmer
+Κεντρική χειμερινή ώρα Βόρειας Αμερικής: America/Bahia_Banderas
+Χειμερινή ώρα Αργεντινής: America/Jujuy
+Χειμερινή ώρα Γιακούτσκ: Asia/Chita
+Ορεινή θερινή ώρα Βόρειας Αμερικής: US/Mountain
+Χειμερινή ώρα Κρασνογιάρσκ: Asia/Novokuznetsk
+GMT+06:00: Etc/GMT-6
+Χειμερινή ώρα Ανατολικής Αυστραλίας: Australia/Currie
+Ώρα Νεπάλ: Asia/Kathmandu
+Θερινή ώρα Νέας Γης: America/St_Johns
+Ώρα Δυτικού Καζακστάν: Asia/Aqtobe
+Μέση ώρα Γκρίνουιτς: GMT+0
+GMT+04:00: Europe/Astrakhan
+GMT+01:00: Europe/Guernsey
+Χειμερινή ώρα Ατλαντικού: America/Martinique
+Ανατολική θερινή ώρα Βόρειας Αμερικής: US/East-Indiana
+Θερινή ώρα Κεντρικής Ευρώπης: Arctic/Longyearbyen
+Κεντρική χειμερινή ώρα Βόρειας Αμερικής: America/Mexico_City
+Χειμερινή ώρα Αργεντινής: America/Argentina/ComodRivadavia
+Θερινή ώρα Ειρηνικού: Canada/Pacific
+GMT+08:00: Antarctica/Casey
+Ώρα Κεντρικής Αφρικής: Africa/Bujumbura
+GMT-05:00: America/Eirunepe
+Χειμερινή ώρα Ιαπωνίας: Asia/Tokyo
+Θερινή ώρα Κεντρικής Ευρώπης: Europe/Bratislava
+Χειμερινή ώρα Ανατολικής Αυστραλίας: Australia/Melbourne
+Ανατολική χειμερινή ώρα Βόρειας Αμερικής: America/Panama
+Θερινή ώρα Ανατολικής Ευρώπης: Asia/Beirut
+Ώρα Ανατολικής Αφρικής: Indian/Antananarivo
+Χειμερινή ώρα Ουζμπεκιστάν: Asia/Samarkand
+Χειμερινή ώρα Περού: America/Lima
+Χειμερινή ώρα Ατλαντικού: America/St_Thomas
+Ώρα Δυτικής Ινδονησίας: Asia/Pontianak
+Χειμερινή ώρα Ειρηνικού Μεξικού: Mexico/BajaSur
+Μέση ώρα Γκρίνουιτς: Etc/GMT
+Χειμερινή ώρα Δυτικής Αφρικής: Africa/Luanda
+Χειμερινή ώρα Ατλαντικού: America/St_Lucia
+Χειμερινή ώρα Ατλαντικού: America/Barbados
+Χειμερινή ώρα Νότιας Αφρικής: Africa/Maseru
+Χειμερινή ώρα Ειρηνικού Μεξικού: America/Mazatlan
+Ώρα Μαρκέζας: Pacific/Marquesas
+Ανατολική θερινή ώρα Βόρειας Αμερικής: America/Thunder_Bay
+Χειμερινή ώρα Αμαζονίου: America/Cuiaba
+Ώρα Νήσων Μάρσαλ: Pacific/Majuro
+Ώρα Ανατολικής Αφρικής: Africa/Addis_Ababa
+Χειμερινή ώρα Νέας Ζηλανδίας: Antarctica/McMurdo
+Θερινή ώρα Κεντρικής Ευρώπης: Europe/Warsaw
+Κεντρική θερινή ώρα Βόρειας Αμερικής: America/Knox_IN
+Ώρα Νήσων Μάρσαλ: Pacific/Kwajalein
+Χειμερινή ώρα Αμαζονίου: Brazil/West
+GMT+03:00: Etc/GMT-3
+Χειμερινή ώρα Ατλαντικού: America/St_Vincent
+Χειμερινή ώρα Ατλαντικού: America/Marigot
+Χειμερινή ώρα Ταϊπέι: Asia/Taipei
+Ανατολική θερινή ώρα Βόρειας Αμερικής: US/Eastern
+Ώρα Νήσων Μάρσαλ: Kwajalein
+Χειμερινή ώρα Αργεντινής: America/Argentina/Jujuy
+GMT-05:00: Etc/GMT+5
+Θερινή ώρα Κεντρικής Ευρώπης: Europe/Zagreb
+Ανατολική θερινή ώρα Βόρειας Αμερικής: America/Port-au-Prince
+Χειμερινή ώρα Κεντρικής Αυστραλίας: Australia/North
+Μέση ώρα Γκρίνουιτς: GMT
+Χειμερινή ώρα Κεντρικής Ευρώπης: Africa/Tunis
+Ώρα Αφγανιστάν: Asia/Kabul
+Θερινή ώρα Αλάσκας: America/Juneau
+GMT+07:00: Asia/Tomsk
+Χειμερινή ώρα Νότιας Αφρικής: Africa/Mbabane
+Χειμερινή ώρα Δυτικής Αφρικής: Africa/Porto-Novo
+Ώρα Κόλπου: Asia/Muscat
+Χειμερινή ώρα Αργεντινής: America/Argentina/San_Luis
+Χειμερινή ώρα Κεντροδυτικής Αυστραλίας: Australia/Eucla
+Χειμερινή ώρα Ατλαντικού: America/Anguilla
+Θερινή ώρα Κεντρικής Ευρώπης: Europe/Gibraltar
+Θερινή ώρα Κεντρικής Ευρώπης: Europe/Prague
+Θερινή ώρα Ανατολικής Ευρώπης: Europe/Zaporozhye
+Χειμερινή ώρα Κορέας: Asia/Pyongyang
+Θερινή ώρα Κεντρικής Ευρώπης: Europe/Zurich
+Ώρα Δυτικού Καζακστάν: Asia/Atyrau
+Ανατολική θερινή ώρα Βόρειας Αμερικής: America/Indiana/Vincennes
+Χειμερινή ώρα Αργεντινής: America/Argentina/Catamarca
+Θερινή ώρα Κεντρικής Ευρώπης: Europe/Stockholm
+Συντονισμένη Παγκόσμια Ώρα: Etc/UTC
+Χειμερινή ώρα Δυτικής Αφρικής: Africa/Lagos
+Χειμερινή ώρα Αργεντινής: America/Argentina/La_Rioja
+Ώρα Κόλπου: Asia/Dubai
+Χειμερινή ώρα Ουλάν Μπατόρ: Asia/Ulaanbaatar
+Χειμερινή ώρα Φερνάρντο ντε Νορόνια: Brazil/DeNoronha
+Μέση ώρα Γκρίνουιτς: Africa/Bissau
+Χειμερινή ώρα Γεωργίας: Asia/Tbilisi
+Χειμερινή ώρα Ατλαντικού: America/St_Kitts
+Χειμερινή ώρα Δυτικής Αφρικής: Africa/Douala
+Θερινή ώρα Ατλαντικού: America/Goose_Bay
+Ανατολική θερινή ώρα Βόρειας Αμερικής: America/Indianapolis
+Θερινή ώρα Κεντρικής Ευρώπης: Europe/Rome
+Χειμερινή ώρα Χαβάης-Αλεούτιων Νήσων: Pacific/Johnston
+Θερινή ώρα Ανατολικής Ευρώπης: Asia/Hebron
+Χειμερινή ώρα Ανατολικής Αυστραλίας: Australia/Victoria
+Κεντρική θερινή ώρα Βόρειας Αμερικής: CST6CDT
+Ανατολική θερινή ώρα Βόρειας Αμερικής: US/Michigan
+Χειμερινή ώρα Βλαδιβοστόκ: Asia/Vladivostok
+Χειμερινή ώρα Νότιας Αφρικής: Africa/Johannesburg
+GMT+03:00: Asia/Famagusta
+Θερινή ώρα Ισραήλ: Israel
+Ώρα Τσουκ: Pacific/Yap
+GMT-09:00: Etc/GMT+9
+Ώρα Κεντρικής Αφρικής: Africa/Khartoum
+Χειμερινή ώρα Σάμαρας: Europe/Samara
+Ώρα Ουάλις και Φουτούνα: Pacific/Wallis
+Ώρα Βόστοκ: Antarctica/Vostok
+Ώρα Γκαλάπαγκος: Pacific/Galapagos
+Ώρα Βολιβίας: America/La_Paz
+Χειμερινή ώρα Ατλαντικού: America/Port_of_Spain
+Ανατολική χειμερινή ώρα Βόρειας Αμερικής: America/Coral_Harbour
+Κεντρική θερινή ώρα Βόρειας Αμερικής: America/North_Dakota/Center
+Ορεινή χειμερινή ώρα Βόρειας Αμερικής: America/Creston
+Χειμερινή ώρα Ατλαντικού: America/Grenada
+GMT+01:00: Europe/Jersey
+Ώρα Τσαμόρο: Pacific/Saipan
+Ανατολική χειμερινή ώρα Βόρειας Αμερικής: Jamaica
+Χειμερινή ώρα Ατλαντικού: America/Lower_Princes
+Συντονισμένη Παγκόσμια Ώρα: Etc/Zulu
+Ώρα Πονάπε: Pacific/Ponape
+Χειμερινή ώρα Σαμόα: Pacific/Pago_Pago
+Θερινή ώρα Ανατολικής Ευρώπης: Africa/Cairo
+Θερινή ώρα Κεντρικής Ευρώπης: Europe/Budapest
+GMT-10:00: Etc/GMT+10
+Θερινή ώρα Κεντρικής Ευρώπης: Europe/Tirane
+Θερινή ώρα Κεντρικής Ευρώπης: Europe/Belgrade
+Κεντρική χειμερινή ώρα Βόρειας Αμερικής: America/El_Salvador
+Κεντρική θερινή ώρα Βόρειας Αμερικής: America/Menominee
+Θερινή ώρα Βρετανίας: GB-Eire
+Χειμερινή ώρα Χαβάης-Αλεούτιων Νήσων: US/Hawaii
+Χειμερινή ώρα Αζερμπαϊτζάν: Asia/Baku
+Χειμερινή ώρα Δυτικής Αφρικής: Africa/Brazzaville
+Ώρα Νήσου Χριστουγέννων: Indian/Christmas
+GMT+02:00: Antarctica/Troll
+Θερινή ώρα Δυτικής Γροιλανδίας: America/Nuuk
+Θερινή ώρα Δυτικής Ευρώπης: Atlantic/Madeira
+Χειμερινή ώρα Τουρκμενιστάν: Asia/Ashgabat
+Μέση ώρα Γκρίνουιτς: Etc/GMT-0
+Μέση ώρα Γκρίνουιτς: Africa/Timbuktu
+GMT+07:00: Etc/GMT-7
+GMT+06:00: Asia/Urumqi
+Χειμερινή ώρα Ανατολικής Αυστραλίας: Australia/Brisbane
+Χειμερινή ώρα Χονγκ Κονγκ: Hongkong
+Ορεινή χειμερινή ώρα Βόρειας Αμερικής: America/Phoenix
+Μέση ώρα Γκρίνουιτς: Africa/Bamako
+Χειμερινή ώρα Ταϊπέι: ROC
+Κεντρική χειμερινή ώρα Βόρειας Αμερικής: America/Costa_Rica
+Ώρα Τατζικιστάν: Asia/Dushanbe
+Θερινή ώρα Χαβάης-Αλεούτιων Νήσων: America/Adak
+Ώρα Νιούε: Pacific/Niue
+GMT+03:00: Europe/Istanbul
+Χειμερινή ώρα Κίνας: Asia/Macau
+Χειμερινή ώρα Μπραζίλιας: America/Belem
+Κεντρική θερινή ώρα Βόρειας Αμερικής: America/North_Dakota/New_Salem
+Κεντρική χειμερινή ώρα Βόρειας Αμερικής: America/Monterrey
+Χειμερινή ώρα Ατλαντικού: America/Montserrat
+Χειμερινή ώρα Ιαπωνίας: Japan
+Χειμερινή ώρα Ανατολικής Ευρώπης: Europe/Kaliningrad
+Χειμερινή ώρα Αργεντινής: America/Argentina/Rio_Gallegos
+Κεντρική χειμερινή ώρα Βόρειας Αμερικής: America/Regina
+Μέση ώρα Γκρίνουιτς: Africa/Freetown
+Χειμερινή ώρα Αρμενίας: Asia/Yerevan
+Θερινή ώρα Βρετανίας: Europe/Belfast
+Χειμερινή ώρα Ανατολικής Ευρώπης: Africa/Tripoli
+Χειμερινή ώρα Ουλάν Μπατόρ: Asia/Ulan_Bator
+Ώρα Σίοβα: Antarctica/Syowa
+Χειμερινή ώρα Αργεντινής: America/Catamarca
+Χειμερινή ώρα Ανατολικής Αυστραλίας: Australia/Lindeman
+Κεντρική θερινή ώρα Βόρειας Αμερικής: US/Central
+Χειμερινή ώρα Αργεντινής: America/Argentina/San_Juan
+Ώρα Γιούκον: America/Whitehorse
+Μέση ώρα Γκρίνουιτς: Africa/Banjul
+GMT+01:00: Africa/El_Aaiun
+Ορεινή θερινή ώρα Βόρειας Αμερικής: America/Cambridge_Bay
+Χειμερινή ώρα Ατλαντικού: America/Antigua
+Ώρα Νήσων Λάιν: Pacific/Kiritimati
+Αραβική χειμερινή ώρα: Asia/Aden
+Ανατολική θερινή ώρα Βόρειας Αμερικής: America/Louisville
+Θερινή ώρα Αλάσκας: America/Sitka
+Θερινή ώρα Ανατολικής Ευρώπης: Europe/Uzhgorod
+Χειμερινή ώρα Νέας Καληδονίας: Pacific/Noumea
+Θερινή ώρα Ανατολικής Ευρώπης: Europe/Kiev
+Χειμερινή ώρα Ανατολικής Αυστραλίας: Australia/NSW
+Κεντρική θερινή ώρα Βόρειας Αμερικής: America/Resolute
+Μέση ώρα Γκρίνουιτς: GMT0
+Χειμερινή ώρα Δυτικής Αυστραλίας: Australia/Perth
+Χειμερινή ώρα Μόσχας: Europe/Simferopol
+Χειμερινή ώρα Κεντρικής Αυστραλίας: Australia/Broken_Hill
+Χειμερινή ώρα Βανουάτου: Pacific/Efate
+Θερινή ώρα Δυτικής Ευρώπης: Atlantic/Canary
+Ώρα Ταϊτής: Pacific/Tahiti
+Θερινή ώρα Κεντρικής Ευρώπης: Europe/Copenhagen
+Θερινή ώρα Αλάσκας: America/Metlakatla
+Θερινή ώρα Βρετανίας: Europe/London
+GMT-12:00: Etc/GMT+12
+Ώρα Κεντρικής Ινδονησίας: Asia/Makassar
+Χειμερινή ώρα Ειρηνικού Μεξικού: America/Hermosillo
+Θερινή ώρα Ατλαντικού: America/Moncton
+Ώρα Ινδικού Ωκεανού: Indian/Chagos
+Θερινή ώρα Δυτικής Ευρώπης: Portugal
+Θερινή ώρα Κεντρικής Ευρώπης: Europe/Monaco
+Χειμερινή ώρα Χαβάης-Αλεούτιων Νήσων: Pacific/Honolulu
+GMT+02:00: Etc/GMT-2
+Ώρα Ινδοκίνας: Asia/Ho_Chi_Minh
+Χειμερινή ώρα Νήσων Κουκ: Pacific/Rarotonga
+Ανατολική θερινή ώρα Βόρειας Αμερικής: America/Pangnirtung
+GMT-05:00: America/Porto_Acre
+Μέση ώρα Γκρίνουιτς: Africa/Monrovia
+Μέση ώρα Γκρίνουιτς: Etc/Greenwich
+Χειμερινή ώρα Νήσου Νόρφολκ: Pacific/Norfolk
+Ώρα Τσουκ: Pacific/Truk
+GMT-07:00: MST
+Κεντρική θερινή ώρα Βόρειας Αμερικής: America/Ojinaga
+Χειμερινή ώρα Κίνας: Asia/Chungking
+Θερινή ώρα Δυτικής Ευρώπης: Europe/Lisbon
+Θερινή ώρα Ανατολικής Ευρώπης: Europe/Vilnius
+Θερινή ώρα Αλάσκας: America/Yakutat
+Θερινή ώρα Ειρηνικού: America/Ensenada
+Ώρα Ναούρου: Pacific/Nauru
+Θερινή ώρα Ανατολικής Ευρώπης: Europe/Chisinau
+GMT+03:00: Europe/Kirov
+Θερινή ώρα Κεντρικής Ευρώπης: Europe/Oslo
+Χειμερινή ώρα Μπραζίλιας: America/Bahia
+Ώρα Ινδίας: Asia/Kolkata
+GMT+04:00: Europe/Ulyanovsk
+Ορεινή θερινή ώρα Βόρειας Αμερικής: Canada/Mountain
+Θερινή ώρα Κεντρικής Ευρώπης: Europe/Luxembourg
+Μέση ώρα Γκρίνουιτς: Africa/Conakry
+Χειμερινή ώρα Αργεντινής: America/Argentina/Tucuman
+Ώρα Κιργιστάν: Asia/Bishkek
+Χειμερινή ώρα Αναντίρ: Asia/Anadyr
+Χειμερινή ώρα Μόσχας: Europe/Minsk
+Θερινή ώρα Ανατολικής Γροιλανδίας: America/Scoresbysund
+Θερινή ώρα Κεντρικής Ευρώπης: Europe/Paris
+Κεντρική χειμερινή ώρα Βόρειας Αμερικής: America/Chihuahua
+Χειμερινή ώρα Φίτζι: Pacific/Fiji
+Ώρα Μιανμάρ: Asia/Yangon
+Χειμερινή ώρα Χιλής: America/Santiago
+Ώρα Ινδοκίνας: Asia/Vientiane
+Χειμερινή ώρα Ατλαντικού: America/Kralendijk
+Ώρα Κεντρικής Αφρικής: Africa/Juba
+Χειμερινή ώρα Τόνγκα: Pacific/Tongatapu
+Χειμερινή ώρα Ιρκούτσκ: Asia/Irkutsk
+GMT+06:00: Asia/Kashgar
+Χειμερινή ώρα Τσάταμ: NZ-CHAT
+Χειμερινή ώρα Κίνας: PRC
+Αραβική χειμερινή ώρα: Asia/Kuwait
+Ώρα Μπουτάν: Asia/Thimbu
+Θερινή ώρα Κεντρικής Ευρώπης: Europe/Busingen
+Θερινή ώρα Ατλαντικού: America/Glace_Bay
+Κεντρική χειμερινή ώρα Βόρειας Αμερικής: America/Belize
+Ώρα Ινδίας: Asia/Calcutta
+Ώρα Σιγκαπούρης: Asia/Singapore
+Αραβική χειμερινή ώρα: Asia/Baghdad
+Ώρα Σιγκαπούρης: Singapore
+Θερινή ώρα Ανατολικής Ευρώπης: Asia/Nicosia
+Μέση ώρα Γκρίνουιτς: Atlantic/Reykjavik
+Χειμερινή ώρα Αργεντινής: America/Buenos_Aires
+Ορεινή θερινή ώρα Βόρειας Αμερικής: America/Boise
+Θερινή ώρα Ισραήλ: Asia/Jerusalem
+Μέση ώρα Γκρίνουιτς: Africa/Ouagadougou
+Χειμερινή ώρα Νήσου Πάσχα: Pacific/Easter
+Χειμερινή ώρα Χονγκ Κονγκ: Asia/Hong_Kong
+GMT-03:00: Etc/GMT+3
+Χειμερινή ώρα Ουρουγουάης: America/Montevideo
+Ώρα Νήσου Γουέικ: Pacific/Wake
+Ώρα Ισημερινού: America/Guayaquil
+Κεντρική θερινή ώρα Βόρειας Αμερικής: America/Winnipeg
+Ορεινή χειμερινή ώρα Βόρειας Αμερικής: US/Arizona
+Χειμερινή ώρα Ατλαντικού: America/Virgin
+Κεντρική χειμερινή ώρα Βόρειας Αμερικής: Canada/Saskatchewan
+GMT+04:00: Etc/GMT-4
+GMT+03:00: Turkey
+Χειμερινή ώρα Ατλαντικού: America/Guadeloupe
+Ώρα Κεντρικής Αφρικής: Africa/Windhoek
+Χειμερινή ώρα Μπραζίλιας: Brazil/East
+Ορεινή θερινή ώρα Βόρειας Αμερικής: Navajo
+Ώρα Ινδίας: Asia/Colombo
+GMT-05:00: EST
+Κεντρική θερινή ώρα Βόρειας Αμερικής: America/North_Dakota/Beulah
+Ώρα Τοκελάου: Pacific/Fakaofo
+Ώρα Μιανμάρ: Asia/Rangoon
+Θερινή ώρα Ανατολικής Ευρώπης: Europe/Mariehamn
+Χειμερινή ώρα Ατλαντικού: America/Santo_Domingo
+Χειμερινή ώρα Νέας Ζηλανδίας: NZ
+Μέση ώρα Γκρίνουιτς: Etc/GMT+0
+Χειμερινή ώρα Μπραζίλιας: America/Araguaina
+Χειμερινή ώρα Ατλαντικού: America/Aruba
+Θερινή ώρα Ανατολικής Ευρώπης: Europe/Helsinki
+Ώρα Τουβαλού: Pacific/Funafuti
+Ανατολική χειμερινή ώρα Βόρειας Αμερικής: America/Jamaica
+Ανατολική θερινή ώρα Βόρειας Αμερικής: America/Indiana/Vevay
+Κεντρική χειμερινή ώρα Βόρειας Αμερικής: America/Swift_Current
+Χειμερινή ώρα Αργεντινής: America/Argentina/Mendoza
+Ώρα Ινδοκίνας: Asia/Saigon
+Θερινή ώρα Αλάσκας: America/Nome
+Ώρα Ανατολικής Αφρικής: Africa/Dar_es_Salaam
+GMT+13:00: Etc/GMT-13
+Ανατολική θερινή ώρα Βόρειας Αμερικής: America/Nipigon
+Ορεινή θερινή ώρα Βόρειας Αμερικής: America/Yellowknife
+Χειμερινή ώρα Δυτικής Αφρικής: Africa/Malabo
+Ώρα Νήσων Γκίλμπερτ: Pacific/Tarawa
+Χειμερινή ώρα Μπραζίλιας: America/Maceio
+Συντονισμένη Παγκόσμια Ώρα: Zulu
+Ώρα Δυτικού Καζακστάν: Asia/Oral
+Θερινή ώρα Κεντρικής Ευρώπης: Europe/Vatican
+Χειμερινή ώρα Αργεντινής: America/Mendoza
+Κεντρική θερινή ώρα Βόρειας Αμερικής: America/Rankin_Inlet
+Θερινή ώρα Βρετανίας: GB
+Θερινή ώρα Κεντρικής Ευρώπης: Poland
+Θερινή ώρα Κεντρικής Ευρώπης: Europe/Amsterdam
+Θερινή ώρα Ανατολικής Ευρώπης: Asia/Gaza
+Ώρα Μπουτάν: Asia/Thimphu
+Θερινή ώρα Ειρηνικού: US/Pacific
+Θερινή ώρα Δυτικής Ευρώπης: Atlantic/Faeroe
+Θερινή ώρα Σεν Πιερ και Μικελόν: America/Miquelon
+Χειμερινή ώρα Κεντρικής Αυστραλίας: Australia/Darwin
+Χειμερινή ώρα Βλαδιβοστόκ: Asia/Ust-Nera
+Θερινή ώρα Δυτικής Γροιλανδίας: America/Godthab
+Αραβική χειμερινή ώρα: Asia/Riyadh
+Χειμερινή ώρα Αμαζονίου: America/Boa_Vista
+Θερινή ώρα Κούβας: Cuba
+Μέση ώρα Γκρίνουιτς: GMT-0
+Ορεινή χειμερινή ώρα Βόρειας Αμερικής: America/Fort_Nelson
+Χειμερινή ώρα Φιλιππινών: Asia/Manila
+GMT-05:00: America/Rio_Branco
+Κεντρική θερινή ώρα Βόρειας Αμερικής: America/Indiana/Tell_City
+Ώρα Δυτικού Καζακστάν: Asia/Qyzylorda
+Θερινή ώρα Κεντρικής Ευρώπης: Europe/Sarajevo
+GMT+03:00: EET
+Χειμερινή ώρα Μόσχας: W-SU
+Ώρα Ανατολικού Καζακστάν: Asia/Almaty
+Ώρα Ανατολικής Αφρικής: Indian/Comoro
+Ώρα Ανατολικής Ινδονησίας: Asia/Jayapura
+Ανατολική θερινή ώρα Βόρειας Αμερικής: America/Grand_Turk
+Χειμερινή ώρα Απία: Pacific/Apia
+Ώρα Γουιάνας: America/Guyana
+GMT+01:00: Etc/GMT-1
+Ώρα Σεϋχελλών: Indian/Mahe
+Ώρα Γαλλικής Γουιάνας: America/Cayenne
+GMT+14:00: Etc/GMT-14
+Χειμερινή ώρα Μαγκαντάν: Asia/Magadan
+Χειμερινή ώρα Ανατολικής Αυστραλίας: Australia/Queensland
+Θερινή ώρα Ειρηνικού: America/Los_Angeles
+Χειμερινή ώρα Ιράν: Iran
+GMT+09:00: Etc/GMT-9
+GMT+01:00: WET
+Θερινή ώρα Κεντρικής Ευρώπης: Atlantic/Jan_Mayen
+Ώρα Δυτικού Καζακστάν: Asia/Aqtau
+Κεντρική θερινή ώρα Βόρειας Αμερικής: Canada/Central
+Ώρα Νήσων Κόκος: Indian/Cocos
+Ορεινή θερινή ώρα Βόρειας Αμερικής: America/Shiprock
+Θερινή ώρα Κεντρικής Ευρώπης: Africa/Ceuta
+Ώρα Ανατολικού Καζακστάν: Asia/Qostanay
+Αραβική χειμερινή ώρα: Asia/Bahrain
+Χειμερινή ώρα Δυτικής Αφρικής: Africa/Niamey
+GMT-03:00: America/Punta_Arenas
+Αραβική χειμερινή ώρα: Asia/Qatar
+Χειμερινή ώρα Νέας Ζηλανδίας: Pacific/Auckland
+Χειμερινή ώρα Νήσου Πάσχα: Chile/EasterIsland
+Χειμερινή ώρα Πακιστάν: Asia/Karachi
+Θερινή ώρα Ισραήλ: Asia/Tel_Aviv
+Ώρα Κόσραϊ: Pacific/Kosrae
+Μέση ώρα Γκρίνουιτς: Africa/Accra
+Χειμερινή ώρα Κίνας: Asia/Chongqing
+Χειμερινή ώρα Κεντρικής Αυστραλίας: Australia/Adelaide
+Ανατολική θερινή ώρα Βόρειας Αμερικής: America/Detroit
+Θερινή ώρα Ανατολικής Ευρώπης: Europe/Sofia
+Ώρα Δυτικής Ινδονησίας: Asia/Jakarta
+Χειμερινή ώρα Ατλαντικού: America/Tortola
+Κεντρική χειμερινή ώρα Βόρειας Αμερικής: America/Merida
+Ώρα Κεντρικής Αφρικής: Africa/Lubumbashi
+Ώρα Νήσων Φοίνιξ: Pacific/Enderbury
+Κεντρική χειμερινή ώρα Βόρειας Αμερικής: Mexico/General
+Ώρα Μπρουνέι Νταρουσαλάμ: Asia/Brunei
+Κεντρική θερινή ώρα Βόρειας Αμερικής: America/Matamoros
+Ώρα Γιούκον: America/Dawson
+Χειμερινή ώρα Σαμόα: Pacific/Samoa
+Θερινή ώρα Κούβας: America/Havana
+Ώρα Μόσον: Antarctica/Mawson
+Κεντρική θερινή ώρα Βόρειας Αμερικής: America/Chicago
+Χειμερινή ώρα Κίνας: Asia/Macao
+Θερινή ώρα Ειρηνικού: America/Santa_Isabel
+Θερινή ώρα Αλάσκας: America/Anchorage
+Χειμερινή ώρα Ανατολικής Αυστραλίας: Australia/Canberra
+Μέση ώρα Γκρίνουιτς: Africa/Sao_Tome
+Θερινή ώρα Αζορών: Atlantic/Azores
+GMT-08:00: Etc/GMT+8
+Χειμερινή ώρα Κολομβίας: America/Bogota
+Μέση ώρα Γκρίνουιτς: Etc/GMT0
+Θερινή ώρα Ανατολικής Ευρώπης: Europe/Bucharest
+Χειμερινή ώρα Αργεντινής: America/Rosario
+Χειμερινή ώρα Κεντρικής Αυστραλίας: Australia/South
+Ώρα Ανατολικής Αφρικής: Africa/Djibouti
+Χειμερινή ώρα Ιράν: Asia/Tehran
+Ώρα Ανατολικής Αφρικής: Africa/Asmera
+Ώρα Ανατολικής Αφρικής: Africa/Mogadishu
+Χειμερινή ώρα Αμαζονίου: America/Porto_Velho
+Ορεινή θερινή ώρα Βόρειας Αμερικής: America/Inuvik
+Ώρα Γιούκον: Canada/Yukon
+Θερινή ώρα Κεντρικής Ευρώπης: Europe/Madrid
+GMT+03:00: Asia/Amman
+Χειμερινή ώρα Χιλής: Chile/Continental
+Ανατολική θερινή ώρα Βόρειας Αμερικής: America/Fort_Wayne
+Ώρα Παλάου: Pacific/Palau
+Μέση ώρα Γκρίνουιτς: Africa/Lome
+Χειμερινή ώρα Νοβοσιμπίρσκ: Asia/Novosibirsk
+Ώρα Κεντρικής Αφρικής: Africa/Gaborone
+Χειμερινή ώρα Δυτικής Αφρικής: Africa/Bangui
+Συντονισμένη Παγκόσμια Ώρα: Etc/Universal
+Χειμερινή ώρα Δυτικής Αυστραλίας: Australia/West
+Ώρα Κεντρικής Αφρικής: Africa/Maputo
+Κεντρική θερινή ώρα Βόρειας Αμερικής: America/Rainy_River
+Χειμερινή ώρα Ουζμπεκιστάν: Asia/Tashkent
+Ανατολική θερινή ώρα Βόρειας Αμερικής: Canada/Eastern
+Συντονισμένη Παγκόσμια Ώρα: Universal
+GMT+00:00: Factory
+Ώρα Ανατολικής Αφρικής: Africa/Nairobi
+Χειμερινή ώρα Σαμόα: US/Samoa
+Χειμερινή ώρα Αργεντινής: America/Argentina/Ushuaia
+Θερινή ώρα Νέας Γης: Canada/Newfoundland
+Μέση ώρα Γκρίνουιτς: Iceland
+Ώρα Ντιμόν ντ’ Ουρβίλ: Antarctica/DumontDUrville
+Θερινή ώρα Κεντρικής Ευρώπης: Europe/Vienna
+Ορεινή θερινή ώρα Βόρειας Αμερικής: America/Edmonton
+Ανατολική θερινή ώρα Βόρειας Αμερικής: America/Iqaluit
+Ώρα Μαλαισίας: Asia/Kuching
+Μέση ώρα Γκρίνουιτς: America/Danmarkshavn
+Χειμερινή ώρα Νέας Ζηλανδίας: Antarctica/South_Pole
+Ώρα Πίτκερν: Pacific/Pitcairn
+Χειμερινή ώρα Δυτικής Αφρικής: Africa/Kinshasa
+Χειμερινή ώρα Ουλάν Μπατόρ: Asia/Choibalsan
+Χειμερινή ώρα Φερνάρντο ντε Νορόνια: America/Noronha
+Θερινή ώρα Κεντρικής Ευρώπης: Europe/Andorra
+GMT-05:00: Brazil/Acre
+GMT+02:00: MET
+Ανατολική χειμερινή ώρα Βόρειας Αμερικής: America/Cancun
+Χειμερινή ώρα Σαχαλίνης: Asia/Sakhalin
+Κεντρική χειμερινή ώρα Βόρειας Αμερικής: America/Guatemala
+Χειμερινή ώρα Κίνας: Asia/Harbin
+Χειμερινή ώρα Αργεντινής: America/Argentina/Cordoba
+Μέση ώρα Γκρίνουιτς: Greenwich
+Συντονισμένη Παγκόσμια Ώρα: UCT
+Ώρα Γκάμπιερ: Pacific/Gambier
+Ορεινή χειμερινή ώρα Βόρειας Αμερικής: America/Dawson_Creek
+Ανατολική θερινή ώρα Βόρειας Αμερικής: America/Indiana/Marengo
+Χειμερινή ώρα Ανατολικής Αυστραλίας: Australia/Sydney
+GMT+10:00: Etc/GMT-10
+Χειμερινή ώρα Δυτικής Αφρικής: Africa/Libreville
+Χειμερινή ώρα Αικατερίνμπουργκ: Asia/Yekaterinburg
+GMT+03:00: Asia/Damascus
+Χειμερινή ώρα Ανατολικής Αυστραλίας: Australia/ACT
+Κεντρική χειμερινή ώρα Βόρειας Αμερικής: America/Managua
+Χειμερινή ώρα Κορέας: ROK
+Μέση ώρα Γκρίνουιτς: Africa/Abidjan
+Μέση ώρα Γκρίνουιτς: Africa/Nouakchott
+Ώρα Ανατολικού Τιμόρ: Asia/Dili
+Χειμερινή ώρα Πράσινου Ακρωτηρίου: Atlantic/Cape_Verde
+GMT+04:00: Europe/Saratov
+Χειμερινή ώρα Τσάταμ: Pacific/Chatham
+Θερινή ώρα Ατλαντικού: America/Thule
+Ώρα Κεντρικής Αφρικής: Africa/Kigali
+Ανατολική θερινή ώρα Βόρειας Αμερικής: America/Indiana/Petersburg
+Ανατολική χειμερινή ώρα Βόρειας Αμερικής: America/Atikokan
+Κεντρική χειμερινή ώρα Βόρειας Αμερικής: America/Tegucigalpa
+Μέση ώρα Γκρίνουιτς: Eire
+Ώρα Νήσων Φοίνιξ: Pacific/Kanton
+Θερινή ώρα Ατλαντικού: America/Halifax
+Θερινή ώρα Αλάσκας: US/Alaska
+Ώρα Ινδοκίνας: Asia/Bangkok
+Ώρα Ανατολικής Αφρικής: Indian/Mayotte
+Ανατολική χειμερινή ώρα Βόρειας Αμερικής: America/Cayman
+Χειμερινή ώρα Ατλαντικού: America/Dominica
+Ανατολική θερινή ώρα Βόρειας Αμερικής: America/Indiana/Indianapolis
+GMT+11:00: Etc/GMT-11
+Ώρα Ρόθερα: Antarctica/Rothera
+Ώρα Μαλδίβων: Indian/Maldives
+Ώρα Ανατολικής Αφρικής: Africa/Asmara
+GMT+01:00: Africa/Casablanca
+Ανατολική θερινή ώρα Βόρειας Αμερικής: America/New_York
+Ανατολική θερινή ώρα Βόρειας Αμερικής: America/Toronto
+Θερινή ώρα Ανατολικής Ευρώπης: Europe/Tiraspol
+GMT+11:00: Pacific/Bougainville
+Ανατολική θερινή ώρα Βόρειας Αμερικής: America/Kentucky/Monticello
+GMT-02:00: Etc/GMT+2
+Χειμερινή ώρα Λορντ Χάου: Australia/Lord_Howe
+Θερινή ώρα Ανατολικής Ευρώπης: Europe/Athens
+Χειμερινή ώρα Κεντρικής Αυστραλίας: Australia/Yancowinna
+Χειμερινή ώρα Νήσων Φόκλαντ: Atlantic/Stanley
+Θερινή ώρα Ειρηνικού: America/Tijuana
+Χειμερινή ώρα Γιακούτσκ: Asia/Khandyga
+Χειμερινή ώρα Μπραζίλιας: America/Santarem
+Ώρα Τσουκ: Pacific/Chuuk
+Ώρα Ινδοκίνας: Asia/Phnom_Penh
+GMT+01:00: Europe/Isle_of_Man
+Θερινή ώρα Κεντρικής Ευρώπης: Europe/Skopje
+Χειμερινή ώρα Αμαζονίου: America/Manaus
+Ορεινή θερινή ώρα Βόρειας Αμερικής: MST7MDT
+Ώρα Νήσων Σολομώντος: Pacific/Guadalcanal
+Ώρα Μαλαισίας: Asia/Kuala_Lumpur
+Ώρα Κεντρικής Αφρικής: Africa/Harare
+Θερινή ώρα Ειρηνικού: Mexico/BajaNorte
+GMT-04:00: Etc/GMT+4
+Ώρα Ντέιβις: Antarctica/Davis
+Θερινή ώρα Ανατολικής Ευρώπης: Egypt
+Ώρα Βενεζουέλας: America/Caracas
+Χειμερινή ώρα Μπραζίλιας: America/Sao_Paulo
+Χειμερινή ώρα Μπραζίλιας: America/Recife
+Θερινή ώρα Κεντρικής Ευρώπης: Europe/Berlin
+Χειμερινή ώρα Πετροπαβλόβσκ-Καμτσάτσκι: Asia/Kamchatka
+Θερινή ώρα Χαβάης-Αλεούτιων Νήσων: US/Aleutian
+Μέση ώρα Γκρίνουιτς: Africa/Dakar
+Χειμερινή ώρα Γιακούτσκ: Asia/Yakutsk
+Ώρα Κεντρικής Αφρικής: Africa/Lusaka
+Μέση ώρα Γκρίνουιτς: Europe/Dublin
+Θερινή ώρα Κεντρικής Ευρώπης: Europe/Vaduz
+Χειμερινή ώρα Χοβντ: Asia/Hovd
+Θερινή ώρα Κεντρικής Ευρώπης: Europe/Ljubljana
+Θερινή ώρα Κεντρικής Ευρώπης: Europe/San_Marino
+Ανατολική θερινή ώρα Βόρειας Αμερικής: America/Kentucky/Louisville
+Χειμερινή ώρα Κίνας: Asia/Shanghai
+Ανατολική θερινή ώρα Βόρειας Αμερικής: America/Montreal
+GMT+07:00: Asia/Barnaul
+Ώρα Τσαμόρο: Pacific/Guam
+Θερινή ώρα Ειρηνικού: PST8PDT
+Ώρα Παπούας Νέας Γουινέας: Pacific/Port_Moresby
+Ώρα Ανατολικής Αφρικής: Africa/Kampala
+Θερινή ώρα Ανατολικής Ευρώπης: Europe/Nicosia
+Θερινή ώρα Ειρηνικού: America/Vancouver
+Θερινή ώρα Κεντρικής Ευρώπης: Europe/Malta
+Χειμερινή ώρα Ατλαντικού: America/Puerto_Rico
+Θερινή ώρα Ατλαντικού: Canada/Atlantic
+GMT-06:00: Etc/GMT+6
+Ανατολική θερινή ώρα Βόρειας Αμερικής: EST5EDT
+Χειμερινή ώρα Ατλαντικού: America/Curacao
+GMT+03:00: Asia/Istanbul
+Ώρα Κεντρικής Ινδονησίας: Asia/Ujung_Pandang
+Ανατολική θερινή ώρα Βόρειας Αμερικής: America/Indiana/Winamac
+Χειμερινή ώρα Ομσκ: Asia/Omsk
+Θερινή ώρα Ανατολικής Ευρώπης: Europe/Tallinn
+Χειμερινή ώρα Αργεντινής: America/Cordoba
+GMT-11:00: Etc/GMT+11

@@ -1,0 +1,597 @@
+Ora de vară din Hawaii-Aleutine: America/Atka
+Ora Surinamului: America/Paramaribo
+Ora standard din Turkmenistan: Asia/Ashkhabad
+Ora Nepalului: Asia/Katmandu
+GMT+12:00: Etc/GMT-12
+Ora standard în zona Atlantic nord-americană: America/St_Barthelemy
+Ora standard din Krasnoiarsk: Asia/Krasnoyarsk
+Ora de vară a Europei Centrale: Europe/Brussels
+Ora standard din Volgograd: Europe/Volgograd
+Ora de vară în zona montană nord-americană: America/Denver
+Ora standard a Brasiliei: America/Fortaleza
+Ora de vară a Europei Centrale: Europe/Podgorica
+Ora Georgiei de Sud: Atlantic/South_Georgia
+Ora standard a Africii Occidentale: Africa/Ndjamena
+Ora de vară orientală nord-americană: America/Nassau
+Ora standard din Bangladesh: Asia/Dhaka
+Ora standard din Paraguay: America/Asuncion
+Ora standard în zona Atlantic nord-americană: America/Blanc-Sablon
+Ora de vară centrală nord-americană: America/Indiana/Knox
+Ora standard din Bangladesh: Asia/Dacca
+Ora standard a Australiei Orientale: Antarctica/Macquarie
+Ora standard a Moscovei: Europe/Moscow
+Timpul universal coordonat: UTC
+Ora standard a Coreei: Asia/Seoul
+Ora de vară a Europei de Est: Europe/Riga
+Ora Africii Centrale: Africa/Blantyre
+Ora standard a Argentinei: America/Argentina/Salta
+Ora standard a Argentinei: America/Argentina/Buenos_Aires
+Ora standard a Europei Centrale: Africa/Algiers
+Ora standard a Australiei Orientale: Australia/Tasmania
+Ora de vară centrală nord-americană: US/Indiana-Starke
+Ora standard din Samoa: Pacific/Midway
+Ora de vară în zona montană nord-americană: America/Ciudad_Juarez
+GMT-10:00: HST
+GMT+11:00: Asia/Srednekolymsk
+Ora standard a Australiei Orientale: Australia/Hobart
+Ora de vară în zona Atlantic nord-americană: Atlantic/Bermuda
+Timpul universal coordonat: Etc/UCT
+Ora din Teritoriile Australe și Antarctice Franceze: Indian/Kerguelen
+Ora de vară a Europei de Vest: Atlantic/Faroe
+Ora standard a Amazonului: America/Campo_Grande
+Ora standard din Lord Howe: Australia/LHI
+Ora standard din Mauritius: Indian/Mauritius
+GMT+02:00: CET
+Ora standard a Europei de Est: Libya
+GMT-07:00: Etc/GMT+7
+GMT+08:00: Etc/GMT-8
+Ora de Greenwhich: Atlantic/St_Helena
+Ora din Ponape: Pacific/Pohnpei
+GMT-01:00: Etc/GMT+1
+Ora de vară a Europei de Est: Europe/Kyiv
+GMT+05:00: Etc/GMT-5
+Ora din Reunion: Indian/Reunion
+GMT-03:00: Antarctica/Palmer
+Ora standard centrală nord-americană: America/Bahia_Banderas
+Ora standard a Argentinei: America/Jujuy
+Ora standard din Iakuțk: Asia/Chita
+Ora de vară în zona montană nord-americană: US/Mountain
+Ora standard din Krasnoiarsk: Asia/Novokuznetsk
+GMT+06:00: Etc/GMT-6
+Ora standard a Australiei Orientale: Australia/Currie
+Ora Nepalului: Asia/Kathmandu
+Ora de vară din Newfoundland: America/St_Johns
+Ora din Kazahstanul de Vest: Asia/Aqtobe
+Ora de Greenwhich: GMT+0
+GMT+04:00: Europe/Astrakhan
+GMT+01:00: Europe/Guernsey
+Ora standard în zona Atlantic nord-americană: America/Martinique
+Ora de vară orientală nord-americană: US/East-Indiana
+Ora de vară a Europei Centrale: Arctic/Longyearbyen
+Ora standard centrală nord-americană: America/Mexico_City
+Ora standard a Argentinei: America/Argentina/ComodRivadavia
+Ora de vară în zona Pacific nord-americană: Canada/Pacific
+GMT+08:00: Antarctica/Casey
+Ora Africii Centrale: Africa/Bujumbura
+Ora standard Acre: America/Eirunepe
+Ora standard a Japoniei: Asia/Tokyo
+Ora de vară a Europei Centrale: Europe/Bratislava
+Ora standard a Australiei Orientale: Australia/Melbourne
+Ora standard orientală nord-americană: America/Panama
+Ora de vară a Europei de Est: Asia/Beirut
+Ora Africii Orientale: Indian/Antananarivo
+Ora standard din Uzbekistan: Asia/Samarkand
+Ora standard din Peru: America/Lima
+Ora standard în zona Atlantic nord-americană: America/St_Thomas
+Ora Indoneziei de Vest: Asia/Pontianak
+Ora standard a zonei Pacific mexicane: Mexico/BajaSur
+Ora de Greenwhich: Etc/GMT
+Ora standard a Africii Occidentale: Africa/Luanda
+Ora standard în zona Atlantic nord-americană: America/St_Lucia
+Ora standard în zona Atlantic nord-americană: America/Barbados
+Ora Africii Meridionale: Africa/Maseru
+Ora standard a zonei Pacific mexicane: America/Mazatlan
+Ora Insulelor Marchize: Pacific/Marquesas
+Ora de vară orientală nord-americană: America/Thunder_Bay
+Ora standard a Amazonului: America/Cuiaba
+Ora Insulelor Marshall: Pacific/Majuro
+Ora Africii Orientale: Africa/Addis_Ababa
+Ora standard a Noii Zeelande: Antarctica/McMurdo
+Ora de vară a Europei Centrale: Europe/Warsaw
+Ora de vară centrală nord-americană: America/Knox_IN
+Ora Insulelor Marshall: Pacific/Kwajalein
+Ora standard a Amazonului: Brazil/West
+GMT+03:00: Etc/GMT-3
+Ora standard în zona Atlantic nord-americană: America/St_Vincent
+Ora standard în zona Atlantic nord-americană: America/Marigot
+Ora standard din Taipei: Asia/Taipei
+Ora de vară orientală nord-americană: US/Eastern
+Ora Insulelor Marshall: Kwajalein
+Ora standard a Argentinei: America/Argentina/Jujuy
+GMT-05:00: Etc/GMT+5
+Ora de vară a Europei Centrale: Europe/Zagreb
+Ora de vară orientală nord-americană: America/Port-au-Prince
+Ora standard a Australiei Centrale: Australia/North
+Ora de Greenwhich: GMT
+Ora standard a Europei Centrale: Africa/Tunis
+Ora Afganistanului: Asia/Kabul
+Ora de vară din Alaska: America/Juneau
+GMT+07:00: Asia/Tomsk
+Ora Africii Meridionale: Africa/Mbabane
+Ora standard a Africii Occidentale: Africa/Porto-Novo
+Ora standard a Golfului: Asia/Muscat
+Ora standard a Argentinei: America/Argentina/San_Luis
+Ora standard a Australiei Central Occidentale: Australia/Eucla
+Ora standard în zona Atlantic nord-americană: America/Anguilla
+Ora de vară a Europei Centrale: Europe/Gibraltar
+Ora de vară a Europei Centrale: Europe/Prague
+Ora de vară a Europei de Est: Europe/Zaporozhye
+Ora standard a Coreei: Asia/Pyongyang
+Ora de vară a Europei Centrale: Europe/Zurich
+Ora din Kazahstanul de Vest: Asia/Atyrau
+Ora de vară orientală nord-americană: America/Indiana/Vincennes
+Ora standard a Argentinei: America/Argentina/Catamarca
+Ora de vară a Europei Centrale: Europe/Stockholm
+Timpul universal coordonat: Etc/UTC
+Ora standard a Africii Occidentale: Africa/Lagos
+Ora standard a Argentinei: America/Argentina/La_Rioja
+Ora standard a Golfului: Asia/Dubai
+Ora standard din Ulan Bator: Asia/Ulaanbaatar
+Ora standard din Fernando de Noronha: Brazil/DeNoronha
+Ora de Greenwhich: Africa/Bissau
+Ora standard a Georgiei: Asia/Tbilisi
+Ora standard în zona Atlantic nord-americană: America/St_Kitts
+Ora standard a Africii Occidentale: Africa/Douala
+Ora de vară în zona Atlantic nord-americană: America/Goose_Bay
+Ora de vară orientală nord-americană: America/Indianapolis
+Ora de vară a Europei Centrale: Europe/Rome
+Ora standard din Hawaii-Aleutine: Pacific/Johnston
+Ora de vară a Europei de Est: Asia/Hebron
+Ora standard a Australiei Orientale: Australia/Victoria
+Ora de vară centrală nord-americană: CST6CDT
+Ora de vară orientală nord-americană: US/Michigan
+Ora standard din Vladivostok: Asia/Vladivostok
+Ora Africii Meridionale: Africa/Johannesburg
+GMT+03:00: Asia/Famagusta
+Ora de vară a Israelului: Israel
+Ora din Chuuk: Pacific/Yap
+GMT-09:00: Etc/GMT+9
+Ora Africii Centrale: Africa/Khartoum
+Ora standard din Samara: Europe/Samara
+Ora din Wallis și Futuna: Pacific/Wallis
+Ora din Vostok: Antarctica/Vostok
+Ora din Galapagos: Pacific/Galapagos
+Ora Boliviei: America/La_Paz
+Ora standard în zona Atlantic nord-americană: America/Port_of_Spain
+Ora standard orientală nord-americană: America/Coral_Harbour
+Ora de vară centrală nord-americană: America/North_Dakota/Center
+Ora standard în zona montană nord-americană: America/Creston
+Ora standard în zona Atlantic nord-americană: America/Grenada
+GMT+01:00: Europe/Jersey
+Ora din Chamorro: Pacific/Saipan
+Ora standard orientală nord-americană: Jamaica
+Ora standard în zona Atlantic nord-americană: America/Lower_Princes
+Timpul universal coordonat: Etc/Zulu
+Ora din Ponape: Pacific/Ponape
+Ora standard din Samoa: Pacific/Pago_Pago
+Ora de vară a Europei de Est: Africa/Cairo
+Ora de vară a Europei Centrale: Europe/Budapest
+GMT-10:00: Etc/GMT+10
+Ora de vară a Europei Centrale: Europe/Tirane
+Ora de vară a Europei Centrale: Europe/Belgrade
+Ora standard centrală nord-americană: America/El_Salvador
+Ora de vară centrală nord-americană: America/Menominee
+Ora de vară britanică: GB-Eire
+Ora standard din Hawaii-Aleutine: US/Hawaii
+Ora standard a Azerbaidjanului: Asia/Baku
+Ora standard a Africii Occidentale: Africa/Brazzaville
+Ora din Insula Christmas: Indian/Christmas
+GMT+02:00: Antarctica/Troll
+Ora de vară a Groenlandei occidentale: America/Nuuk
+Ora de vară a Europei de Vest: Atlantic/Madeira
+Ora standard din Turkmenistan: Asia/Ashgabat
+Ora de Greenwhich: Etc/GMT-0
+Ora de Greenwhich: Africa/Timbuktu
+GMT+07:00: Etc/GMT-7
+GMT+06:00: Asia/Urumqi
+Ora standard a Australiei Orientale: Australia/Brisbane
+Ora standard din Hong Kong: Hongkong
+Ora standard în zona montană nord-americană: America/Phoenix
+Ora de Greenwhich: Africa/Bamako
+Ora standard din Taipei: ROC
+Ora standard centrală nord-americană: America/Costa_Rica
+Ora din Tadjikistan: Asia/Dushanbe
+Ora de vară din Hawaii-Aleutine: America/Adak
+Ora din Niue: Pacific/Niue
+GMT+03:00: Europe/Istanbul
+Ora standard a Chinei: Asia/Macau
+Ora standard a Brasiliei: America/Belem
+Ora de vară centrală nord-americană: America/North_Dakota/New_Salem
+Ora standard centrală nord-americană: America/Monterrey
+Ora standard în zona Atlantic nord-americană: America/Montserrat
+Ora standard a Japoniei: Japan
+Ora standard a Europei de Est: Europe/Kaliningrad
+Ora standard a Argentinei: America/Argentina/Rio_Gallegos
+Ora standard centrală nord-americană: America/Regina
+Ora de Greenwhich: Africa/Freetown
+Ora standard a Armeniei: Asia/Yerevan
+Ora de vară britanică: Europe/Belfast
+Ora standard a Europei de Est: Africa/Tripoli
+Ora standard din Ulan Bator: Asia/Ulan_Bator
+Ora din Syowa: Antarctica/Syowa
+Ora standard a Argentinei: America/Catamarca
+Ora standard a Australiei Orientale: Australia/Lindeman
+Ora de vară centrală nord-americană: US/Central
+Ora standard a Argentinei: America/Argentina/San_Juan
+Ora din Yukon: America/Whitehorse
+Ora de Greenwhich: Africa/Banjul
+GMT+01:00: Africa/El_Aaiun
+Ora de vară în zona montană nord-americană: America/Cambridge_Bay
+Ora standard în zona Atlantic nord-americană: America/Antigua
+Ora din Insulele Line: Pacific/Kiritimati
+Ora standard arabă: Asia/Aden
+Ora de vară orientală nord-americană: America/Louisville
+Ora de vară din Alaska: America/Sitka
+Ora de vară a Europei de Est: Europe/Uzhgorod
+Ora standard a Noii Caledonii: Pacific/Noumea
+Ora de vară a Europei de Est: Europe/Kiev
+Ora standard a Australiei Orientale: Australia/NSW
+Ora de vară centrală nord-americană: America/Resolute
+Ora de Greenwhich: GMT0
+Ora standard a Australiei Occidentale: Australia/Perth
+Ora standard a Moscovei: Europe/Simferopol
+Ora standard a Australiei Centrale: Australia/Broken_Hill
+Ora standard din Vanuatu: Pacific/Efate
+Ora de vară a Europei de Vest: Atlantic/Canary
+Ora din Tahiti: Pacific/Tahiti
+Ora de vară a Europei Centrale: Europe/Copenhagen
+Ora de vară din Alaska: America/Metlakatla
+Ora de vară britanică: Europe/London
+GMT-12:00: Etc/GMT+12
+Ora Indoneziei Centrale: Asia/Makassar
+Ora standard a zonei Pacific mexicane: America/Hermosillo
+Ora de vară în zona Atlantic nord-americană: America/Moncton
+Ora Oceanului Indian: Indian/Chagos
+Ora de vară a Europei de Vest: Portugal
+Ora de vară a Europei Centrale: Europe/Monaco
+Ora standard din Hawaii-Aleutine: Pacific/Honolulu
+GMT+02:00: Etc/GMT-2
+Ora Indochinei: Asia/Ho_Chi_Minh
+Ora standard a Insulelor Cook: Pacific/Rarotonga
+Ora de vară orientală nord-americană: America/Pangnirtung
+Ora standard Acre: America/Porto_Acre
+Ora de Greenwhich: Africa/Monrovia
+Ora de Greenwhich: Etc/Greenwich
+Ora standard a Insulei Norfolk: Pacific/Norfolk
+Ora din Chuuk: Pacific/Truk
+GMT-07:00: MST
+Ora de vară centrală nord-americană: America/Ojinaga
+Ora standard a Chinei: Asia/Chungking
+Ora de vară a Europei de Vest: Europe/Lisbon
+Ora de vară a Europei de Est: Europe/Vilnius
+Ora de vară din Alaska: America/Yakutat
+Ora de vară în zona Pacific nord-americană: America/Ensenada
+Ora din Nauru: Pacific/Nauru
+Ora de vară a Europei de Est: Europe/Chisinau
+GMT+03:00: Europe/Kirov
+Ora de vară a Europei Centrale: Europe/Oslo
+Ora standard a Brasiliei: America/Bahia
+Ora Indiei: Asia/Kolkata
+GMT+04:00: Europe/Ulyanovsk
+Ora de vară în zona montană nord-americană: Canada/Mountain
+Ora de vară a Europei Centrale: Europe/Luxembourg
+Ora de Greenwhich: Africa/Conakry
+Ora standard a Argentinei: America/Argentina/Tucuman
+Ora din Kârgâzstan: Asia/Bishkek
+Ora standard din Anadyr: Asia/Anadyr
+Ora standard a Moscovei: Europe/Minsk
+Ora de vară a Groenlandei orientale: America/Scoresbysund
+Ora de vară a Europei Centrale: Europe/Paris
+Ora standard centrală nord-americană: America/Chihuahua
+Ora standard din Fiji: Pacific/Fiji
+Ora Myanmarului: Asia/Yangon
+Ora standard din Chile: America/Santiago
+Ora Indochinei: Asia/Vientiane
+Ora standard în zona Atlantic nord-americană: America/Kralendijk
+Ora Africii Centrale: Africa/Juba
+Ora standard din Tonga: Pacific/Tongatapu
+Ora standard din Irkuțk: Asia/Irkutsk
+GMT+06:00: Asia/Kashgar
+Ora standard din Chatham: NZ-CHAT
+Ora standard a Chinei: PRC
+Ora standard arabă: Asia/Kuwait
+Ora Bhutanului: Asia/Thimbu
+Ora de vară a Europei Centrale: Europe/Busingen
+Ora de vară în zona Atlantic nord-americană: America/Glace_Bay
+Ora standard centrală nord-americană: America/Belize
+Ora Indiei: Asia/Calcutta
+Ora din Singapore: Asia/Singapore
+Ora standard arabă: Asia/Baghdad
+Ora din Singapore: Singapore
+Ora de vară a Europei de Est: Asia/Nicosia
+Ora de Greenwhich: Atlantic/Reykjavik
+Ora standard a Argentinei: America/Buenos_Aires
+Ora de vară în zona montană nord-americană: America/Boise
+Ora de vară a Israelului: Asia/Jerusalem
+Ora de Greenwhich: Africa/Ouagadougou
+Ora standard din Insula Paștelui: Pacific/Easter
+Ora standard din Hong Kong: Asia/Hong_Kong
+GMT-03:00: Etc/GMT+3
+Ora standard a Uruguayului: America/Montevideo
+Ora Insulei Wake: Pacific/Wake
+Ora Ecuadorului: America/Guayaquil
+Ora de vară centrală nord-americană: America/Winnipeg
+Ora standard în zona montană nord-americană: US/Arizona
+Ora standard în zona Atlantic nord-americană: America/Virgin
+Ora standard centrală nord-americană: Canada/Saskatchewan
+GMT+04:00: Etc/GMT-4
+GMT+03:00: Turkey
+Ora standard în zona Atlantic nord-americană: America/Guadeloupe
+Ora Africii Centrale: Africa/Windhoek
+Ora standard a Brasiliei: Brazil/East
+Ora de vară în zona montană nord-americană: Navajo
+Ora Indiei: Asia/Colombo
+GMT-05:00: EST
+Ora de vară centrală nord-americană: America/North_Dakota/Beulah
+Ora din Tokelau: Pacific/Fakaofo
+Ora Myanmarului: Asia/Rangoon
+Ora de vară a Europei de Est: Europe/Mariehamn
+Ora standard în zona Atlantic nord-americană: America/Santo_Domingo
+Ora standard a Noii Zeelande: NZ
+Ora de Greenwhich: Etc/GMT+0
+Ora standard a Brasiliei: America/Araguaina
+Ora standard în zona Atlantic nord-americană: America/Aruba
+Ora de vară a Europei de Est: Europe/Helsinki
+Ora din Tuvalu: Pacific/Funafuti
+Ora standard orientală nord-americană: America/Jamaica
+Ora de vară orientală nord-americană: America/Indiana/Vevay
+Ora standard centrală nord-americană: America/Swift_Current
+Ora standard a Argentinei: America/Argentina/Mendoza
+Ora Indochinei: Asia/Saigon
+Ora de vară din Alaska: America/Nome
+Ora Africii Orientale: Africa/Dar_es_Salaam
+GMT+13:00: Etc/GMT-13
+Ora de vară orientală nord-americană: America/Nipigon
+Ora de vară în zona montană nord-americană: America/Yellowknife
+Ora standard a Africii Occidentale: Africa/Malabo
+Ora Insulelor Gilbert: Pacific/Tarawa
+Ora standard a Brasiliei: America/Maceio
+Timpul universal coordonat: Zulu
+Ora din Kazahstanul de Vest: Asia/Oral
+Ora de vară a Europei Centrale: Europe/Vatican
+Ora standard a Argentinei: America/Mendoza
+Ora de vară centrală nord-americană: America/Rankin_Inlet
+Ora de vară britanică: GB
+Ora de vară a Europei Centrale: Poland
+Ora de vară a Europei Centrale: Europe/Amsterdam
+Ora de vară a Europei de Est: Asia/Gaza
+Ora Bhutanului: Asia/Thimphu
+Ora de vară în zona Pacific nord-americană: US/Pacific
+Ora de vară a Europei de Vest: Atlantic/Faeroe
+Ora de vară din Saint-Pierre și Miquelon: America/Miquelon
+Ora standard a Australiei Centrale: Australia/Darwin
+Ora standard din Vladivostok: Asia/Ust-Nera
+Ora de vară a Groenlandei occidentale: America/Godthab
+Ora standard arabă: Asia/Riyadh
+Ora standard a Amazonului: America/Boa_Vista
+Ora de vară a Cubei: Cuba
+Ora de Greenwhich: GMT-0
+Ora standard în zona montană nord-americană: America/Fort_Nelson
+Ora standard din Filipine: Asia/Manila
+Ora standard Acre: America/Rio_Branco
+Ora de vară centrală nord-americană: America/Indiana/Tell_City
+Ora din Kazahstanul de Vest: Asia/Qyzylorda
+Ora de vară a Europei Centrale: Europe/Sarajevo
+GMT+03:00: EET
+Ora standard a Moscovei: W-SU
+Ora din Kazahstanul de Est: Asia/Almaty
+Ora Africii Orientale: Indian/Comoro
+Ora Indoneziei de Est: Asia/Jayapura
+Ora de vară orientală nord-americană: America/Grand_Turk
+Ora standard din Apia: Pacific/Apia
+Ora din Guyana: America/Guyana
+GMT+01:00: Etc/GMT-1
+Ora din Seychelles: Indian/Mahe
+Ora din Guyana Franceză: America/Cayenne
+GMT+14:00: Etc/GMT-14
+Ora standard din Magadan: Asia/Magadan
+Ora standard a Australiei Orientale: Australia/Queensland
+Ora de vară în zona Pacific nord-americană: America/Los_Angeles
+Ora standard a Iranului: Iran
+GMT+09:00: Etc/GMT-9
+GMT+01:00: WET
+Ora de vară a Europei Centrale: Atlantic/Jan_Mayen
+Ora din Kazahstanul de Vest: Asia/Aqtau
+Ora de vară centrală nord-americană: Canada/Central
+Ora Insulelor Cocos: Indian/Cocos
+Ora de vară în zona montană nord-americană: America/Shiprock
+Ora de vară a Europei Centrale: Africa/Ceuta
+Ora din Kazahstanul de Est: Asia/Qostanay
+Ora standard arabă: Asia/Bahrain
+Ora standard a Africii Occidentale: Africa/Niamey
+GMT-03:00: America/Punta_Arenas
+Ora standard arabă: Asia/Qatar
+Ora standard a Noii Zeelande: Pacific/Auckland
+Ora standard din Insula Paștelui: Chile/EasterIsland
+Ora standard a Pakistanului: Asia/Karachi
+Ora de vară a Israelului: Asia/Tel_Aviv
+Ora din Kosrae: Pacific/Kosrae
+Ora de Greenwhich: Africa/Accra
+Ora standard a Chinei: Asia/Chongqing
+Ora standard a Australiei Centrale: Australia/Adelaide
+Ora de vară orientală nord-americană: America/Detroit
+Ora de vară a Europei de Est: Europe/Sofia
+Ora Indoneziei de Vest: Asia/Jakarta
+Ora standard în zona Atlantic nord-americană: America/Tortola
+Ora standard centrală nord-americană: America/Merida
+Ora Africii Centrale: Africa/Lubumbashi
+Ora Insulelor Phoenix: Pacific/Enderbury
+Ora standard centrală nord-americană: Mexico/General
+Ora din Brunei Darussalam: Asia/Brunei
+Ora de vară centrală nord-americană: America/Matamoros
+Ora din Yukon: America/Dawson
+Ora standard din Samoa: Pacific/Samoa
+Ora de vară a Cubei: America/Havana
+Ora din Mawson: Antarctica/Mawson
+Ora de vară centrală nord-americană: America/Chicago
+Ora standard a Chinei: Asia/Macao
+Ora de vară în zona Pacific nord-americană: America/Santa_Isabel
+Ora de vară din Alaska: America/Anchorage
+Ora standard a Australiei Orientale: Australia/Canberra
+Ora de Greenwhich: Africa/Sao_Tome
+Ora de vară din Azore: Atlantic/Azores
+GMT-08:00: Etc/GMT+8
+Ora standard a Columbiei: America/Bogota
+Ora de Greenwhich: Etc/GMT0
+Ora de vară a Europei de Est: Europe/Bucharest
+Ora standard a Argentinei: America/Rosario
+Ora standard a Australiei Centrale: Australia/South
+Ora Africii Orientale: Africa/Djibouti
+Ora standard a Iranului: Asia/Tehran
+Ora Africii Orientale: Africa/Asmera
+Ora Africii Orientale: Africa/Mogadishu
+Ora standard a Amazonului: America/Porto_Velho
+Ora de vară în zona montană nord-americană: America/Inuvik
+Ora din Yukon: Canada/Yukon
+Ora de vară a Europei Centrale: Europe/Madrid
+GMT+03:00: Asia/Amman
+Ora standard din Chile: Chile/Continental
+Ora de vară orientală nord-americană: America/Fort_Wayne
+Ora din Palau: Pacific/Palau
+Ora de Greenwhich: Africa/Lome
+Ora standard din Novosibirsk: Asia/Novosibirsk
+Ora Africii Centrale: Africa/Gaborone
+Ora standard a Africii Occidentale: Africa/Bangui
+Timpul universal coordonat: Etc/Universal
+Ora standard a Australiei Occidentale: Australia/West
+Ora Africii Centrale: Africa/Maputo
+Ora de vară centrală nord-americană: America/Rainy_River
+Ora standard din Uzbekistan: Asia/Tashkent
+Ora de vară orientală nord-americană: Canada/Eastern
+Timpul universal coordonat: Universal
+GMT+00:00: Factory
+Ora Africii Orientale: Africa/Nairobi
+Ora standard din Samoa: US/Samoa
+Ora standard a Argentinei: America/Argentina/Ushuaia
+Ora de vară din Newfoundland: Canada/Newfoundland
+Ora de Greenwhich: Iceland
+Ora din Dumont-d’Urville: Antarctica/DumontDUrville
+Ora de vară a Europei Centrale: Europe/Vienna
+Ora de vară în zona montană nord-americană: America/Edmonton
+Ora de vară orientală nord-americană: America/Iqaluit
+Ora din Malaysia: Asia/Kuching
+Ora de Greenwhich: America/Danmarkshavn
+Ora standard a Noii Zeelande: Antarctica/South_Pole
+Ora din Pitcairn: Pacific/Pitcairn
+Ora standard a Africii Occidentale: Africa/Kinshasa
+Ora standard din Ulan Bator: Asia/Choibalsan
+Ora standard din Fernando de Noronha: America/Noronha
+Ora de vară a Europei Centrale: Europe/Andorra
+Ora standard Acre: Brazil/Acre
+GMT+02:00: MET
+Ora standard orientală nord-americană: America/Cancun
+Ora standard din Sahalin: Asia/Sakhalin
+Ora standard centrală nord-americană: America/Guatemala
+Ora standard a Chinei: Asia/Harbin
+Ora standard a Argentinei: America/Argentina/Cordoba
+Ora de Greenwhich: Greenwich
+Timpul universal coordonat: UCT
+Ora din Gambier: Pacific/Gambier
+Ora standard în zona montană nord-americană: America/Dawson_Creek
+Ora de vară orientală nord-americană: America/Indiana/Marengo
+Ora standard a Australiei Orientale: Australia/Sydney
+GMT+10:00: Etc/GMT-10
+Ora standard a Africii Occidentale: Africa/Libreville
+Ora standard din Ekaterinburg: Asia/Yekaterinburg
+GMT+03:00: Asia/Damascus
+Ora standard a Australiei Orientale: Australia/ACT
+Ora standard centrală nord-americană: America/Managua
+Ora standard a Coreei: ROK
+Ora de Greenwhich: Africa/Abidjan
+Ora de Greenwhich: Africa/Nouakchott
+Ora Timorului de Est: Asia/Dili
+Ora standard din Capul Verde: Atlantic/Cape_Verde
+GMT+04:00: Europe/Saratov
+Ora standard din Chatham: Pacific/Chatham
+Ora de vară în zona Atlantic nord-americană: America/Thule
+Ora Africii Centrale: Africa/Kigali
+Ora de vară orientală nord-americană: America/Indiana/Petersburg
+Ora standard orientală nord-americană: America/Atikokan
+Ora standard centrală nord-americană: America/Tegucigalpa
+Ora de Greenwhich: Eire
+Ora Insulelor Phoenix: Pacific/Kanton
+Ora de vară în zona Atlantic nord-americană: America/Halifax
+Ora de vară din Alaska: US/Alaska
+Ora Indochinei: Asia/Bangkok
+Ora Africii Orientale: Indian/Mayotte
+Ora standard orientală nord-americană: America/Cayman
+Ora standard în zona Atlantic nord-americană: America/Dominica
+Ora de vară orientală nord-americană: America/Indiana/Indianapolis
+GMT+11:00: Etc/GMT-11
+Ora din Rothera: Antarctica/Rothera
+Ora din Maldive: Indian/Maldives
+Ora Africii Orientale: Africa/Asmara
+GMT+01:00: Africa/Casablanca
+Ora de vară orientală nord-americană: America/New_York
+Ora de vară orientală nord-americană: America/Toronto
+Ora de vară a Europei de Est: Europe/Tiraspol
+GMT+11:00: Pacific/Bougainville
+Ora de vară orientală nord-americană: America/Kentucky/Monticello
+GMT-02:00: Etc/GMT+2
+Ora standard din Lord Howe: Australia/Lord_Howe
+Ora de vară a Europei de Est: Europe/Athens
+Ora standard a Australiei Centrale: Australia/Yancowinna
+Ora standard din Insulele Falkland: Atlantic/Stanley
+Ora de vară în zona Pacific nord-americană: America/Tijuana
+Ora standard din Iakuțk: Asia/Khandyga
+Ora standard a Brasiliei: America/Santarem
+Ora din Chuuk: Pacific/Chuuk
+Ora Indochinei: Asia/Phnom_Penh
+GMT+01:00: Europe/Isle_of_Man
+Ora de vară a Europei Centrale: Europe/Skopje
+Ora standard a Amazonului: America/Manaus
+Ora de vară în zona montană nord-americană: MST7MDT
+Ora Insulelor Solomon: Pacific/Guadalcanal
+Ora din Malaysia: Asia/Kuala_Lumpur
+Ora Africii Centrale: Africa/Harare
+Ora de vară în zona Pacific nord-americană: Mexico/BajaNorte
+GMT-04:00: Etc/GMT+4
+Ora din Davis: Antarctica/Davis
+Ora de vară a Europei de Est: Egypt
+Ora Venezuelei: America/Caracas
+Ora standard a Brasiliei: America/Sao_Paulo
+Ora standard a Brasiliei: America/Recife
+Ora de vară a Europei Centrale: Europe/Berlin
+Ora standard din Petropavlovsk-Kamciațki: Asia/Kamchatka
+Ora de vară din Hawaii-Aleutine: US/Aleutian
+Ora de Greenwhich: Africa/Dakar
+Ora standard din Iakuțk: Asia/Yakutsk
+Ora Africii Centrale: Africa/Lusaka
+Ora de Greenwhich: Europe/Dublin
+Ora de vară a Europei Centrale: Europe/Vaduz
+Ora standard din Hovd: Asia/Hovd
+Ora de vară a Europei Centrale: Europe/Ljubljana
+Ora de vară a Europei Centrale: Europe/San_Marino
+Ora de vară orientală nord-americană: America/Kentucky/Louisville
+Ora standard a Chinei: Asia/Shanghai
+Ora de vară orientală nord-americană: America/Montreal
+GMT+07:00: Asia/Barnaul
+Ora din Chamorro: Pacific/Guam
+Ora de vară în zona Pacific nord-americană: PST8PDT
+Ora din Papua Noua Guinee: Pacific/Port_Moresby
+Ora Africii Orientale: Africa/Kampala
+Ora de vară a Europei de Est: Europe/Nicosia
+Ora de vară în zona Pacific nord-americană: America/Vancouver
+Ora de vară a Europei Centrale: Europe/Malta
+Ora standard în zona Atlantic nord-americană: America/Puerto_Rico
+Ora de vară în zona Atlantic nord-americană: Canada/Atlantic
+GMT-06:00: Etc/GMT+6
+Ora de vară orientală nord-americană: EST5EDT
+Ora standard în zona Atlantic nord-americană: America/Curacao
+GMT+03:00: Asia/Istanbul
+Ora Indoneziei Centrale: Asia/Ujung_Pandang
+Ora de vară orientală nord-americană: America/Indiana/Winamac
+Ora standard din Omsk: Asia/Omsk
+Ora de vară a Europei de Est: Europe/Tallinn
+Ora standard a Argentinei: America/Cordoba
+GMT-11:00: Etc/GMT+11
